@@ -1,0 +1,182 @@
+\chapter{The Storage Layer}
+\label{cha:storagelayer}
+
+\section{Overview}
+
+This chapter describes the Storage layer and its classes in detail. It explores the Storage Layer classes implementation in deep, providing to developers all the information required to develop new media support and to integrate this library to existing DBMSs.
+
+%==============================================================================
+\section{Functionality Description}
+\label{sec:storagelayer.funcdesc}
+
+The Storage Layer, as its name suggests, must provide the storage services to the Structure Layer. Since the Structure only needs ``pages''\footnote{This document will use ``pages'' to refer to an array of bytes with fixed or variable length that can stored in a given media, usually disks but not restricted to.} which can be identified by a given ID, it is almost possible to think of Storage Layer as a simple page repository.
+
+The services provided by this layer are:
+\begin{enumerate}
+	\item Allocation o new pages;
+	\item Reading and writing of pages;
+	\item Recycling of unused pages.
+\end{enumerate}
+
+The Structure Layer uses the classes of this layer through the stPage and stPageManager interfaces. The first abstracts a single page while the later abstracts the storage services (a page repository). The details about these classes and interfaces are described in details in the next sections.
+
+%==============================================================================
+\section{Layer abstraction roles}
+
+This layer defines four abstractions roles. Two of then are related to the interface with the Structure Layer (Page and Page Managers) while the other two are concerned to the integration with existing DBMSs (Page Servers and Page Clients). They are described in the following sections.
+
+%------------------------------------------------------------------------------
+\subsection{The Page}
+\label{sec:storagelayer.page}
+
+A page is a raw array of bytes with a given size which is stored somewhere and can be identified by an ID which is an integer number greater than zero (zero is used to indicate an invalid ID).
+
+When stored, a page may contain a header but this information is never visible to the Structure Layer which can only sees the page's usable space. In the same way, the contents of a page is unknow to it, so, page managers can not make any assumptions about the page contents.
+
+The basic interface of the Page Managers are defined by the class stPageManager which is described in details in the Section \label{sec:storagelayer.stPageManager} and by the on-line reference guide \cite{onlineman}.
+
+%------------------------------------------------------------------------------
+\subsection{The Page Manager}
+\label{sec:storagelayer.pageman}
+
+The most important idea behind the Page Manager abstraction is the idea of a file of pages. In other words, a repository of pages with a given size. The Structure Layer classes are not concerned about how the page managers work provided that they are able to perform the services described in Section \ref{sec:storagelayer.funcdesc}. This allows the Page Managers to store their pages in any kind of storage media without affect the implementation of the other layers.
+
+Most MAMs are designed to use only fixed size pages but is is not granted by the storage layer that all pages of a Page Manager will have the same amount of useful space. So, it is possible to create a Page Manager that holds variable size pages but this practice is not recommended due to efficiency issues. To the Structure Layer classes, each Page Manager appears to be a private single file that can not be used by more than one instance at once.
+
+The basic interface of the Page Managers are defined by the class stPageManager which is described in details in the Section \label{sec:storagelayer.stPageManager} and by the on-line reference guide \cite{onlineman}.
+
+%------------------------------------------------------------------------------
+\subsection{The Page Server and the Page Client}
+\label{sec:storagelayer.clientserver}
+
+As told in Section \ref{sec:storagelayer.pageman}, the Structure Layer see each Page Manager as a single file that can be used by only one structure at once. In fact, the interface of Page Managers is not designed to allow multiple instances of MAMs to share a single instance of a Page Manager. Since each Manager is associated to a single ``page file'', it is a quite difficult to implement Page Managers that share the same physical repository.
+
+To allow avoid this ``limitation'' of Page Managers, the Storage Layer has the concept of Page Servers and Page Clients. The Page Client is a standard Page Manager implementation that is not associated to a physical repository but to a Page Server.
+
+The Page Server is a special page repository that can accept ``connections'' from various Page Clients. These Page Clients forward the services requested by the Structure Layer classes to their Page Servers and format the server response to the format expected by the Structure Layer. Each client must be associated to a single segment in the server (a logical ``file'') which is identified by a positive integer number.
+
+This approach allows the implementation of Page Servers that can be built on top of a DBMS storage module and provide all services required to the Storage Layer to work with the minimum efforts possible. There is no need to modify the implementation of other classes of the library.
+
+The implementation of this abstraction is very effective to keep the simplicity of the Storage Layer and to add the minimum overhead (the implementation of the Page Client is almost weightless).
+
+%==============================================================================
+\section{Storage Layer Classes}
+
+%------------------------------------------------------------------------------
+\subsection{The stPage class}
+
+This class is the basic implementation of the Page concept. All Page implementations must implement all methods defined by this class.
+
+It works as a small file that the structure can use to read and write information. It also allows the Structure Layer to format the contents of this pages as a memory segment by using a cast to a data structure. All page managers uses this class or one of its specializations to communicate with the Structure Layer.
+
+\subsubsection{void Clear()}
+This method sets all useful bytes of the page to zero. It is mainly used for debug purposes.
+
+\subsubsection{void Copy(stPage * page)}
+This method copies the contents of a page to another. The page ID is not copied because each stPage instance is associated with an specific physical page. Both source and destination pages must have the same size.
+
+\subsubsection{stSize GetPageSize()}
+This method returns the size of the page in bytes.
+
+\subsubsection{stByte * GetData()}
+This method provides access to the page usable data. This method must be used with special care to avoid buffer overflows.
+
+\subsubsection{stPageID GetPageID()}
+This method returns the page ID. It may return zero if this instance is not associated to any valid physical page.
+
+\subsubsection{void SetPageID(stpageID pageID)}
+This method sets the page ID of this instance. It is used by Page Managers only.
+
+\subsubsection{void Write(stByte * buff, stSize size, stSize offset)}
+This method writes the content of a buffer with given size.
+
+%------------------------------------------------------------------------------
+\subsection{The stLockablePage class}
+
+This class is a specialization of stPage that allows the Page Managers to lock portions of the page data to the Structure Layer. This class makes possible to add a small header to the stored page. Since it adds only a few methods which are not required by the Structure Layer, this class will not be detailed in this documentation. See the on-line reference guide \cite{onlineman} for more details about the implementation.
+
+%------------------------------------------------------------------------------
+\subsection{The stPageManager class}
+
+%------------------------------------------------------------------------------
+\subsection{The stDiskPageManager class}
+
+It is an specialization of the stPageManager that stores its data in a single file on the file system. See the on-line reference guide \cite{onlineman} for more details about the implementation.
+
+%------------------------------------------------------------------------------
+\subsection{The stMemoryPageManager class}
+
+It is an specialization of the stPageManager that stores its data in private page repository in memory. See the on-line reference guide \cite{onlineman} for more details about the implementation.
+
+%------------------------------------------------------------------------------
+\subsection{The stClientPageManager}
+
+This class is an specialization of the stPageManager that can connect to a Page Server end request its services. Its interface is almost the same of the stPageManager except by the methods Connect() and Disconnect(). The first is used to connect to a Page Server and other to disconnect from it.
+
+This class is not fully implemented by \libname{ }yet.
+
+\subsubsection{int Connect(stPageServer * server, int segmentID)}
+This method creates a connection between this Page Client and a Page Server. The parameter connectionID identifies the segment to be used by this client. If this parameter is negative, a new segment will be created.
+
+Only one page client can be associated to a segment in Page Sever at same time. The segment access control is done by the Page Server.
+
+This method returns the segment ID or a negative value for fail.
+
+\subsubsection{void Disconnect()}
+
+This method disconnects this Page Client from the Page Server. All associated resources will be released.
+
+%------------------------------------------------------------------------------
+\subsection{The stPageServer class}
+
+The class stPageserver is a pure abstract class that is the base for all Page Servers implementations. Its interface provides all services that a Page Client may need to perform its job. The implementation of Page Servers must be thread-safe.
+
+The interface of this class is not fully specified and may change in future versions of \libname, so it is not fully implemented by \libname{ }yet.
+
+\subsubsection{int CreateNewSegment()}
+This method creates a new segment with only one page, the header page. It returns the ID of the segment or a negative value for failure.
+
+\subsubsection{bool DisposeSegment(int segmentID)}
+This method disposes a given segment. All associated pages are disposed too.
+
+\subsubsection{bool DisposePage (int segmentID, stPage *page)}
+This method marks a page as available for reuse. It may fail the given page is not associated to the given segmentID.
+
+It returns true for success or false otherwise.
+
+\subsubsection{stPageID GetHeaderPageID (int segmentID)}
+Returns the page ID of the header page associated with a given segment. This method is used by the Page Clients to determine the header page ID of its segment.
+
+\subsubsection{stPage * GetNewPage (int segmentID)}
+This method allocates a new page and associate it with the given segment ID. It may returns NULL if the page can not be created or the segment does not exist.
+
+\subsubsection{stPage * GetPage (int segmentID, stPageID pageid)}
+This method reads a page from the Server. The read page must be protected for writing and reading. It may return NULL if the segmentID or the pageID is invalid.
+
+\subsubsection{stSize GetPageCount (int segmentID)}
+This method returns the number of pages associated with a given segment.
+
+\subsubsection{void ReleasePage (int segmentID, stPage *page)}
+This method reports to the Server that the given page will not be used for reading and writing. All existing locks that protect the page may be released and the instance of stPage can be disposed or recycled.
+
+\subsubsection{void WritePage (int segmentID, stPage *page)}
+This method updates the page content in the Server. It does not release the page, so the method ReleasePage() must be called to release all locks added to the page.
+
+%------------------------------------------------------------------------------
+\subsection{The extensions of stPageServer class}
+
+Since all implementations Page Servers must be thread-safe, this library does not provide functional implementations of them (except for file support for some systems).
+
+The Page Servers were designed to be used as a integration class to existing DBMSs, so their implementations must be provided by users.
+
+%==============================================================================
+\section{Integrating the Storage Layer to existing DBMSs}
+
+There is two ways to integrate the Storage Layer to an existing DBMS. The first one is to create a Page Manager that can interact with the DBMS' storage module and the other is to create a Page Server that also interacts with the DBMS' storage module.
+
+Unfortunately it's impossible to suggest the best approach for each DBMS. The choice of the best approach to be taken depends on the DBMS' storage module. In general, the first approach is easier to implement but may add some undesirable complexity to the manipulation of multiple instances of age Managers. The second approach is a bit more complex but can take full advantage of the DBMS' storage module in a more appropriated fashion. 
+
+The integration of of this library to a existing DBMS depends on the implementation of an appropriated user layer too. See Section \ref{} for further details.
+
+%==============================================================================
+\section{Conclusion}

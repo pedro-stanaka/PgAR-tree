@@ -1,0 +1,534 @@
+% Author: Fabio
+\chapter{Writing \libname{ }source code}
+\label{cha:coding}
+
+%==============================================================================
+\section{Overview}
+\label{sec:coding.overview}
+
+The \libname{ }is developed by many different persons with distinct coding styles, so it is necessary to follow a standard to write its code in order to keep it as uniform as possible. These standard rules are intend to add a ``personality'' to the library implementation regardless of the author of each piece of code, making it easier to read and more predictable for both developers and users, specially the beginners. This chapter describes all standard rules that must be applied to the source code of the \libname.
+
+This chapter also contains rules to write a portable code, instructions about the use of Doxygen, a semi-automated documentation tool used in this project and some generic implementation hints and tips.
+
+%==============================================================================
+\section{Naming convention}
+\label{sec:coding.names}
+
+%------------------------------------------------------------------------------
+\subsection{File names}
+\label{sec:coding.fnames}
+
+All files in this library must start with ``st'' followed by a significant name\footnote{The starting ``st'' of all file names has no special mean in current version of \libname{ }but was kept due to historical reasons. In the very beginning of this project, it was intented to hold only the Slim-Tree implementation and from that comes the ``st''.}. The significant name must reflect what is implemented/declared inside. They may be composed by one or more English words, all starting with the first letter capitalized. Take the file ``stBasicObjects.h'' as an example. It contains the declarations of all basic objects that are implemented by \libname.
+
+Another important part of the file names is their extensions. In \libname, there are only 3 possible file extensions that may be used in the implementation. They describe the file content type, so they must be chosen properly.
+
+The extension ``.h'' is reserved for headers only. As headers, these files can contain only data types, structures, macros and class declarations. Function implementations are not allowed inside them except to in-line methods and template function implementations.
+
+Each header file that contains templates may be associated to a ``.cc'' file with the same name. These ``.cc'' files can contain template implementations only. Finally, the ``.cpp'' files, which are also associated with a header file with the same name, contain the implementation of functions and methods.
+
+A complete example of this convention may be found in the file ``stUtil.h'' and its companions, ``stUtil.cc'' and ``stUtil.cpp''. The ``Util'' word comes from what is inside, in this case utility classes,  functions and macros. Since it contains templates, it is associated with a ``.cc'' file that contains the implementations of these templates. It is also associated with a ``.cpp'' file because it contains non-template classes and functions declarations.
+
+The only exceptions to these rules are the files ``CNSCache.h'', ``CStorage.h'' and ``CStorage.cpp'' which were implemented prior to the beginning of this project. These files are not a formal part of the library and may be removed in future versions.
+
+%------------------------------------------------------------------------------
+\subsection{Class and data type names}
+\label{sec:coding.classnames}
+
+Class and data type names follow the same rules applied to file names. They must start with ``st'' followed by as significant name which may be composed by one or more English words, all starting with the first letter capitalized (e.g.:'``stMyLittleClass''). The same rule must be applied to global structure and data type names and those which are public or protected members of classes. There is no rules defined for private data type and structure names because they are not accessible outside its class.
+
+The only exceptions to these rules are the classes defined in the files ``CNSCache.h'', ``CStorage.h'' and ``CStorage.cpp'' which are not a formal part of the library and may be removed in future versions.
+
+%------------------------------------------------------------------------------
+\subsection{Method, function and parameter names}
+\label{sec:coding.methodnames}
+
+All method names must be composed by one or more English words, all starting with the first letter capitalized (e.g.: ``MyLittleFunction(...)''). This name must reflect the functionality of the method and may be overloaded only, and only if the overloaded methods perform the same function with little variations.
+
+Method parameter names have no formal rule but it's recommended to create them by using one or more English words concatenated. The first word starts with the first character in lower case while others begin with the first character capitalized (e.g.: ``myLittleParam'') as Java method and variable name convention. This recommendation may become a rule in future revisions of this library.
+
+Global functions must begin with ``st'' followed by a name that follows the same rules applied to method names, in other words, ``st'' followed by one or more English words with the first letter capitalized.
+
+%------------------------------------------------------------------------------
+\subsection{Variable, fields and constant names}
+\label{sec:coding.varnames}
+
+The only restriction applied to internal variable names is that they must be compose by English words. Each developer may define them as his/her wish. Class and structure field names follow the same rules applied to class method names regardless of their scopes (see Section \ref{sec:coding.methodnames}).
+
+A local constant name has all of its words capitalized and may contain ``\_'' character. The global constant names have the same formation rule except that they must always begin with ``st''. There is no rule to govern global variable names because they are not allowed in this project.
+
+The macro names follow the same rules applied to other names depending of its nature. Macro functions names follow the same name rules applied to global function names while constant macro names follow the same rules applied to constant names and so on.
+
+Header protection macros must begin with ``\_\_'' (two underscores) followed by the header name with all letters capitalized and the dots replaced by a ``\_'' (e.g.: ``\_\_STUTIL\_H'').
+
+There are a few exceptions to macro naming which are the conditional compilation macros. They start with ``\_\_st'' (two underscores followed by ``st'') followed by capitalized English words and ends with ``\_\_'' (two underscores). See Section \ref{sec:coding.options} for further details about the conditional compiling.
+
+%------------------------------------------------------------------------------
+\subsection{Template names}
+\label{sec:coding.templatenames}
+
+Template names follow the same rules of class and global function depending on its nature. The template parameters have the same naming rules of field names (see Section \ref{sec:coding.varnames}). 
+
+There are two special template parameter names that must always remain the same regardless of the class used. They are {\bf ObjectType} and {\bf EvaluatorType} which are used for the object type and the metric evaluator type respectively. More fixed template names may be added in future versions of this document.
+
+%------------------------------------------------------------------------------
+\subsection{General recommendations}
+\label{sec:coding.namingrc}
+
+This section contains additional recommendations that may be applied to naming conventions. They are not formal rules but their use are encouraged by the authors of the present document because they can make the code much easier to read and understand.
+
+\begin{itemize}
+	\item avoid ambiguous abbreviations;
+	\item use more than one word to describe the name if possible (do not be afraid of long names);
+	\item do not exaggerate with name lengths, something as ``ThisMethodSortsTheEntriesUsingQuickSort()'' is beyond the common sense;
+	\item use the same initial word or words to name related classes and types.
+\end{itemize}
+
+%==============================================================================
+\section{Coding style}
+\label{sec:coding.style}
+
+\subsection{Indentation}
+\label{sec:coding.indent}
+
+The indentation is the most simple but powerful mean to get code readability of a source code. \libname{ } uses three blank spaces to indent each block level. Tab characters are not allowed and must be replaced by three spaces when found. For example:
+
+\begin{code}
+\begin{verbatim}
+level 1
+level 1
+   level 2
+   level 2
+      level 3
+level 1
+\end{verbatim}
+\end{code}
+
+%------------------------------------------------------------------------------
+\subsection{Blocks}
+\label{sec:coding.blocks}
+
+The beginning of each block (``\{'') must be placed at the end of the same line of the statement that requires its use. Additionally, after the end of each block (``\}''), a brief comment about what it ends is required except when it is followed by the {\bf else} keyword. For example:
+
+\begin{code}
+\begin{verbatim}
+void MyFunc(...){
+   while (...){
+      if (...){
+         switch (...){
+            case 0:
+               ...;
+               break;
+            case 1:
+               ...;
+               break;
+            default:
+               ...;
+         }//end switch      
+      }else{
+         ...      
+      }//end if
+   }//end while
+} //end MyFunc
+\end{verbatim}
+\end{code}
+
+%------------------------------------------------------------------------------
+\subsection{Comments}
+\label{sec:coding.comments}
+
+\subsubsection{Internal comments}
+There is no restrictions to the internal function/method comments except that they must be written in English. Developers are encouraged to put as many comments as possible.
+
+\subsubsection{Class, data type, methods and function descriptions}
+The \libname{ }uses a semi-automated documentation tool, called {\bf Doxygen}, to generates its reference guide. Because of that, these comment blocks are formated according the specification of this tool. See Section \ref{sec:coding.doxygen} for further details.
+
+\subsubsection{Copyright and licence notices}
+
+Each file must contain the following comment near the beginning of the file.
+
+\begin{code}
+\begin{verbatim}
+// Copyright (c) 2002-2003 GBDI-ICMC-USP
+\end{verbatim}
+\end{code}
+
+\subsubsection{End block comment}
+
+At the end of each block, a comment about what the ``\}'' ends must be added. See Section \ref{sec:coding.styleblcks} for more details.
+
+\subsubsection{Method and function implementation separators}
+
+To make the code easier to read, each function or method must be separated by a comment line composed by a
+single line comment (``//'') followed by at least seventy ``-'' characters. This separator is also used to mark the beginning of the implementation of each class methods.
+
+In the later case, the separator must be followed by a single line comment with the name of the class followed by a another separator. This class implementation delimiter is used to mark the beginning of a class declaration too. For example:
+
+\begin{code}
+\begin{verbatim}
+//-------------------------------------------------------------------
+// Class ClassName
+//-------------------------------------------------------------------
+
+void ClassName::Func(){
+   ...
+}//end ClassName::Func
+//-------------------------------------------------------------------
+
+void ClassName::Func2(){
+   ...
+}//end ClassName::Func2
+\end{verbatim}
+\end{code}
+
+%==============================================================================
+\section{C/C++ Libraries and Portability Issues}
+\label{sec:coding.portable}
+
+The code of \libname{ } must be portable among various compilers and system. So, it is necessary to take additional attention to a set of small but important details while writing. The most important one is the set of libraries and functions that may be used in the implementation.
+
+\libname{ } is supposed to be compiled in any ANSI C++ compiler. Because of that, the only libraries allowed are the standard ANSI C library and the standard ANSI C++ library. It's important to remind that some popular functions are not defined by ANSI (various of them are POSIX functions). So, if you are not sure about a functions or class, check its documentation.
+
+Another issue related to ANSI standards is the use of some non-standard keywords and data types (compiler extensions) such as Borland C++ {\bf \_\_property}, GNU GCC {\bf \_\_attribute()\_\_} and others. Almost all compilers provide such kind of extension. They all must be avoided at any costs regardless of the ``comfort'' they provide unless their use are protected by a compiler specific macro. See Section \ref{sec:coding.system} for further details.
+
+\subsection{Headers}
+\label{sec:coding.headers}
+
+Some standard C library headers may contain different sets of functions. This make a simple operation, like include a standard header, a source of problems for some compilers. To minimize that, there is a file called ``stCommon.h'', which ``mitigates'' this problem by use a set of compiler specific headers to include the definitions of the most used functions and types (memory management (memcpy(), memset() and others), basic math functions and system functions). It is more complete version of the ``stdlib.h'' header.
+
+\subsection{Data types}
+\label{sec:coding.dataencoding}
+
+The data types also require a little attention. Do not rely on your knowledge about data type sizes because they may vary from system to system and even from compiler to compiler ({\bf int} type is a good example, it may vary fom 16 to 64 bits). Always use the {\bf sizeof} operator. Any assumptions about numeric formats must not be considered too since the the target system may store than in an unknown way (remember the little endian\footnote{Little endian is a integer enconding schema where the less significant byte is stored first. Intel processors use this format.} and big endian case\footnote{Big endian is a integer enconding schema where the most significant byte is stored first. Motorola processors use this format.}).
+
+\subsection{System specific implementations}
+\label{sec:coding.system}
+
+The use of system specific functions must be avoided and restrict to the minimum. When they are used, they must be protected by a system specific macro and a default standard implementation must be provided too. The same rule must be applied to assembly code\footnote{The modern compilers are able to create very optimized assembly codes, as good as any assembly programmer can make. The only exceptions to this are related to some processor's SIMD extensions that are not properly used by the compilers}. For example:
+
+\begin{code}
+\begin{verbatim}
+#ifdef __WIN32__
+   // Windows specific code
+   ...
+#ifdef __GNUC
+   // GCC specific code
+   ...
+#else
+   // Generic code
+   ...
+#endif //__GNUC
+#else
+   // Generic code
+   ...
+#endif //__WIN32__
+\end{verbatim}
+\end{code}
+
+These macros are compiler specific but their use are harmless regardless of the compiler C/C++ compiler (they are predefined or not defined) and may be freely used.
+
+%==============================================================================
+\section{Optional features and Conditional Compiling}
+\label{sec:coding.options}
+
+Some features of \libname{ }may degrade the performance of the implemented MAMs (such as visualization and statistics support) or may lead to undesirable behavior in user applications (extra debug features). Because of these ``side effects'', they must be implemented as optional features that are activated or deactivated during the compilation time.
+
+In the current version, there are only 3 features which are considered optional. The pieces of code responsible for each of these features are protected by these macros:
+
+\begin{itemize}
+	\item {\bf \_\_stDEBUG\_\_}: Extra Debug information. This feature enables the debug features hidden inside the code. They may provide extra checking and some console verbose messages. They add a little performance degradation but they may mess console application interfaces with undesirable messages.
+	\item {\bf \_\_stSTATISTICS\_\_}: Performance statistics. This feature enables the support for statistics. Some of them are always available because they are very cheap while other will not be compiled when this feature is not enabled.
+	\item {\bf \_\_stVIEW\_\_}: Visualization Module. This macro enables the support to {\bf MAMView} visualization  tool. This feature is very expensive and should not be enabled when it is not required. This module is under development and may be used by MAM developers to track down the behavior of the structure.
+\end{itemize}
+
+The following example shows how these macros must be used:
+
+\begin{code}
+\begin{verbatim}
+class stSample{
+...
+   #ifdef __stDEBUG__
+   void PrintMyFields();
+   #endif //__stDEBUG__
+...
+};//end stSample
+...
+#ifdef __stDEBUG__
+void stSample::PrintMyFields(){
+   ...
+}//end stSample::PrintMyFields
+#endif //__stDEBUG__
+...
+\end{verbatim}
+\end{code}
+
+%==============================================================================
+\section{Source Directory Tree}
+\label{sec:coding.dirtree}
+
+The \libname{ } source code is divided in six main directories that may contain subdirectories. Each main directory contain a vital part of the source which groups files by their roles.
+
+\subsubsection{docs}
+The documentation directory. All related documentation is stored in this directory, including the source of this document and the configuration file required to generate the semi-automated documentation (see section \ref{sec:coding.doxygen} for more details).
+
+\subsubsection{include}
+The header directory. It contains the sub-directory ``\libtitle'' which contains all headers and template implementations. It may be added to the compiler include search path to compile the library and programs which use it.
+
+\subsubsection{lib}
+The library binary and project directory. It contain the library binaries and the projects to compile them.
+
+\subsubsection{sample}
+The sample program directory. It contain source code to sample programs written to exemplify the use of the library. Each program is stored in a single subdirectory. Some of them may be system specific.
+
+\subsubsection{src}
+The source code directory. It contains the implementations of the non-template classes and functions of the library.
+
+\subsubsection{test}
+The test program directory. It contains the source codes of test programs and special developer tools. This is the most volatile directory in the library and may change at the will of developers. Each program is kept on its own subdirectory.
+
+%==============================================================================
+\section{Development support tools}
+\label{sec:coding.tools}
+
+%------------------------------------------------------------------------------
+\subsection{Compilers}
+\label{sec:coding.compilers}
+
+The developer of this library is free to choose his/her preferred compiler provided that it is an ANSI C/C++ compliant compiler. Developers are encouraged to use a wide variety of compilers and help to assure the portability of \libname{ } by detecting and fixing eventual portability flaws. 
+
+Current supported compilers are Borland C++ Compiler, GNU GCC and Microsoft Visual C++ Compiler but the support to other compilers are welcome.
+
+%------------------------------------------------------------------------------
+\subsection{Concurrent Versions System - CVS}
+\label{sec:coding.cvs}
+
+The source code and the documentation of \libname{ }are controlled by {\bf CVS}, a simple but powerful open source distributed version system. See the {\bf CVS} Internet site (http://www.cvshome.org) for more information about CVS.
+
+The only restriction about the use of CVS remains about the commentary of each modification. They must be posted in English and must reflect the difference between versions as much as possible. The use of CVS is mandatory to all developers.
+
+%------------------------------------------------------------------------------
+\subsection{Automated Documentation}
+\label{sec:coding.doxygen}
+
+This library uses an open source semi-automated documentation tool called {\bf Doxygen} to generate its reference guide. It very is similar to Sun's {\bf Javadoc} tool but capable to perform the same task for C/C++ projects. It generates the reference guide by extracting special C/C++ commentary blocks which are used as regular internal documentation too.
+
+The format of this documentation blocks and usage instructions of this tool may be found at Doxygen manual, found in its Internet site (http://www.doxygen.org). The use of this tool is mandatory to all \libname{ } components and files.
+
+The configuration files to generate the reference guide using Doxygen can be found in the directory ``doc''.
+
+\subsubsection{Doxygen comment block}
+
+Doxygen defines two forms of comment blocks, one which starts wiht ``/*!'' and other which starts with ``/**''. In this library, the later format is preferred. Because of this choice, all Doxygen commands starts with ``@''.
+
+All classes, structures, functions and data types must have a Doxygen documentation block (always in English) which must appear once in the whole source code, preferred in the header files. All files must have a Doxygen comment block to describe their contents.
+
+\subsubsection{Mandatory Doxygen tags}
+
+Doxygen does not define any mandatory tag but in this project certain tags are always required for certain blocks. The class, macro and global function documentation blocks  must contain the tags ``@author'' and ``@version''. All global function, macro and method documentation block must have all parameters and returning values documented (tags ``@param'', ``@return'' and ``@retval''). All others are optional and may be used without restrictions.
+
+A special attention must be given to the tag ``@author''. It must contain the name of the author followed by its e-mail. For each block which this tag is required, an ``@author'' tag is required for each developer who has worked in this component no matter how small his/her contribution was. The order of the authors must respect their importance. This must be done to keep the track of the authors to be blamed for their fails (just kidding!).
+
+\subsubsection{Organizing the documentation in modules}
+
+To keep the automated documentation well organized, all classes, structures, functions and data types must be assigned to a module defined by the tag ``@defgroup <group id> <description>''. A member is added to a group by adding a tag ``@ingroup <group id>'' to its comment block. The division of the file members in groups is described by table \ref{tab:coding.doxygen.modules}.
+
+\begin{table}[htb]
+	\centering
+	\begin{tabular}[t]{|c|l|l|}
+		% Table titles
+		\hline
+		\multicolumn{1}{|c|}{\bf Group name} &
+		\multicolumn{1}{|c|}{\bf Group identifier} &
+		\multicolumn{1}{|c|}{\bf Group contents} \\
+		
+		\hline
+		Exceptions &
+		exceptions &
+		All exception classes.\\
+		
+		\hline
+		FastMap Implementation &
+		fastmap &
+		Internal FastMap \cite{} implementation components.\\
+		
+		\hline
+		MAMViewer Extractor &
+		mamview &
+		MAMView Extrator module implementation components except for the FastMap implementation (which is part of MAMView Extractor).\\
+
+		\hline
+		Standard Types &
+		types &
+		Standard types definitions. \\		
+		
+		\hline
+		Storage Layer &
+		storage &
+		Storage Layer components.\\
+		
+		\hline
+		Structure Layer &
+		struct &
+		Common Structure Layer components. Each MAM has its own module. \\		
+		
+		\hline
+		Structure Layer - DBM-Tree &
+		dbmtree &
+		DBM-Tree components.\\		
+		
+		\hline
+		Structure Layer - Dummy-Tree &
+		dummy &
+		Dummy-Tree components.\\		
+		
+		\hline
+		Structure Layer - Partition-Tree &
+		partition &
+		Partition-Tree components.\\		
+		
+		\hline
+		Structure Layer - Slim-Tree &
+		slim &
+		Slim-Tree \cite{} components. \\
+		
+		\hline
+		User Layer &
+		user &
+		User Layer default implementation classes and interface declarations. \\ 
+		
+		\hline
+		User Layer - Utilities &
+		userlayerutil &
+		User Layer utility components. These components are used to help users to implement their own User Layer components. \\
+		
+		\hline
+		Utilities &
+		util &
+		Utility components. See Appendix \ref{cha:utilities} for further information. \\
+		
+		\hline
+	\end{tabular}
+  \caption{List of Doxygen modules and their contents.}
+	\label{tab:coding.doxygen.modules}
+\end{table}
+
+All group definitions are placed in the file ``doxygen.dxg''. See section \ref{sec:coding.doxygen.doxygen.dxg} for more details about this file.
+
+\subsubsection{The doxygen.dxg file}
+\label{sec:coding.doxygen.doxygen.dxg}
+
+Some global doxygen delcarations such group definitions and the main page must be kept together to make this management easier. These definitions are placed in a file called ``doxygen.dxg'' which is a regular text file that contains regular C/C++ comments and Doxygen formated blocks.
+
+It is located in the same directory of the headers file but is not included by any source file. In the final library distribution, this file may be removed in order to save a few bytes in the file system.
+
+%==============================================================================
+\section{File and class member scopes}
+\label{sec:coding.c++}
+
+\subsection{Global functions}
+
+Global functions must be defined only if they are not specific to a given MAM and may be useful in other parts of the code such as math functions.
+
+\subsection{Global Constants}
+
+Global constants must be avoided. It is better to keep them local to classes unless they are really global to all library members which are rare situations.
+
+\subsection{Global data types}
+
+Global data types and structures may be defined only if they are global to all library members otherwise they must be defined local to classes.
+
+\subsubsection{Class member visibility}
+
+All methods, data types and constants that are part of the external class interface must put in the public section. The use of public fields are not allowed. The private and protected sections may contain any kind of members.
+
+It's a bit difficult to decide whenever a member must put on the private or protected scope. The general recommendation to that is, when unsure, put it in the protected scope because they will affect the subclasses only.
+
+The use of the {\bf friend} classes and functions must be avoided at any costs but their use is not prohibited.
+
+\subsection{Class creation recommendations}
+
+The following recommendations must be followed to keep the integrity of the class hierarchy and the object oriented concepts.
+
+\begin{itemize}
+	\item do not let the class interface expose the class internal working;
+	\item do not extend a class only because it has similar functions. The inheritance must be placed only if the proper abstraction is met;
+	\item do not create methods that grants direct access to a class field unless it is really necessary or the field is too simple to be malicious explored to change the normal class behavior. In most cases, these situations are generated by a bad design;
+	\item class local constants are created by declaring local enumerations. The same is valid to structures;
+	\item internal data types and constants must be in the protected or private scope.
+\end{itemize}
+
+\subsubsection{Interfaces}
+
+To make the Reference Guide easier to use, some interfaces, such as stObject and stMetricEvaluator, are materialized as abstract classes because C++ does not have the concept of interfaces\footnote{Some languages, such Java, have special structures to define interfaces.}.
+
+These abstract classes have the same name as their interface name but are not supposed to be used by users and MAM developers except when their documentation states otherwise. This is not the best approach but it is very simple and was adopted due to the inexistence of better solutions.
+
+%==============================================================================
+\section{Templates}
+\label{sec:coding.templates}
+
+Some classes and functions of \libname{ } must be implemented as class templates because they manipulate User Layer classes (see Chapter \ref{cha:userlayer} for further details) or they are planned to be applied to various data types (like stGenericMatrix). All other functions and classes can not be implemented as templates.
+
+The template declarations must always be in header files while their implementation must be inside a ``.cc'' file except for in line templates. The tipical template header file seen as follow:
+
+\begin{code}
+\begin{verbatim}
+
+#ifndef __STTEMPLATE_H
+#define __STTEMPLATE_H
+...
+// Template declarations
+template <class...
+...
+// Include template implementation
+#include <slimtree/stTemplate.cc>
+#endif //__STTEMPLATE_H
+\end{verbatim}
+\end{code}
+
+
+There is two template parameter names that must reamain the same no matter what class they are. These parameters are ``ObjectType'', for user objects, and ``EvaluatorType'', for user metric evaluators. See Section \ref{sec:coding.templatenames} for more details.
+
+%==============================================================================
+\section{Frequently Asked Questions}
+\label{sec:coding.faq}
+
+This section contains a set of common implementation doubts and their .
+
+\subsubsection{Q1: How do I change the memory alignment of a structure without change it for the rest of the code ?}
+Use the ``\#pragma pack(n)'' before the structure declaration and ``\#pragma pack()'' after the declaration to restore it the default. See Q2 for more details about memory alignment.
+
+\subsubsection{Q2: What is the memory alignment and why it is good to set it to 1 in some parts of the code ?}
+To accelerate the memory access, the compilers aligns structure fields to the size of the processor word or  the memory bus size. In other words, a structure composed by 2 chars, which is supposed to have 2 bytes, may be allocated to 2 processor words, one for each field. It generates unused bytes among fields which are undesired in a disk node structure for example. So it's good to set the alignment to 1 when defining a structure taht will be written to disk. See Q1 for more details.
+
+\subsubsection{Q3: stDistance is a double. Why I should not use double instead of stDistance ?}
+This types were defined to allow users to change these data types by modifying its definitions int the file ``stTypes.h''. So it is not granted that stDistance and other types will always be the their defaults types.
+
+\subsubsection{Q4: Why almost all \libname names begin with ``st'' ?}
+This was done to minimize the possibility of naming conflicts among other libraries without the need of namespaces. The ``st'' was chosen in earlier stages of the project. See Section \ref{sec:coding.names} for further details.
+
+\subsubsection{Q5: stObject and stMetricEvaluator are supposed to be interfaces. Why there are classes with that name ? Should users use them ?}
+It is true. They are interfaces. These classes exists as empty examples of these interfaces and to keep the documentation of the interface in the reference guide. They are not supposed to be used.
+
+\subsubsection{Q6: Who implements the user layer at all ?}
+The user layer is supposed to be provided by users. They may add almost all sort of objects and implementations as they wish without changes the MAM implementation provided these classes comply with the user layer interface. 
+
+\subsubsection{Q7: What should a developer expect from the unknown user layer classes ?}
+The only thing a MAM developer should expect from the user layer is that it is performing what the specification tells. The correct behavior of the user layer is a user responsibility.
+
+\subsubsection{Q8: Why some parts of the library are implemented as templates while others are not ?}
+Classes which have no relationship with the user layer are not templates. The classes that are manipulates user objects must be templates provided the user classes are unknown to MAM developers. It makes possible for users to incorporate this library to their existing projects without substantial changes to project's class hierarchy.
+
+\subsubsection{Q9: I found a function called random() which exists only in Windows compilers. Why is it allowed ?}
+This is a very useful function which can return random numbers between 0 and a given value. Sice it's easy to implement using macros, this function is provided by the header ``stCommon.h'' for all compilers and systems.
+
+%==============================================================================
+\section{Conclusion}
+\label{sec:coding.conclusion}
+
+This chapter describes the rules which must be used to define the create new software components to \libname. The use of these coding rules is essential to keep the source code uniform, making it easy to read regardless of the authors of each part of the code.
+
+It also contains instructions required to write the optional features which must be enabled or disable during the compilation time, instructions about writing portable code in C/C++ and hints about miscellaneous programming issues.
+
+This chapter does not intent to provide a full software engineering process but set of tools which will help multiple developers to work together.
+
+

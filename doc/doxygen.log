@@ -1,0 +1,1020 @@
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:78: group DBMTree: ignoring title "Structure Layer - DBMTree" that does not match old title "Structure Layer - DBM-Tree"
+
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:127: Warning: documentation for unknown define __stSubtreeInfo found.
+
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/doxygen.dxg:144: Warning: Unsupported xml/html tag <address> found
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/doxygen.dxg:144: Warning: Unsupported xml/html tag </address> found
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMultiObject.h:216: Warning: argument 'oid' of command @param is not found in the argument list of ClassArrayObject< DataType, OIDType >::SetClass(int cl)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMultiObject.h:216: Warning: The following parameters of ClassArrayObject::SetClass(int cl) are not documented:
+  parameter 'cl'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMultiObject.h:254: Warning: argument 'datasize' of command @param is not found in the argument list of ClassArrayObject< DataType, OIDType >::Unserialize(const stByte *data, stSize dataSize)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMultiObject.h:254: Warning: The following parameters of ClassArrayObject::Unserialize(const stByte *data, stSize dataSize) are not documented:
+  parameter 'dataSize'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricHistogram.h:538: Warning: argument 'col' of command @param is not found in the argument list of dlGenericMatrix< Type >::dlGenericMatrix(int cols, int rows)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricHistogram.h:538: Warning: argument 'row' of command @param is not found in the argument list of dlGenericMatrix< Type >::dlGenericMatrix(int cols, int rows)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricHistogram.h:538: Warning: The following parameters of dlGenericMatrix::dlGenericMatrix(int cols, int rows) are not documented:
+  parameter 'cols'
+  parameter 'rows'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricHistogram.h:560: Warning: argument 'col' of command @param is not found in the argument list of dlGenericMatrix< Type >::SetSize(int cols, int rows)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricHistogram.h:560: Warning: argument 'row' of command @param is not found in the argument list of dlGenericMatrix< Type >::SetSize(int cols, int rows)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricHistogram.h:560: Warning: The following parameters of dlGenericMatrix::SetSize(int cols, int rows) are not documented:
+  parameter 'cols'
+  parameter 'rows'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricHistogram.h:656: Warning: argument 'col' of command @param is not found in the argument list of dlHugeGenericMatrix< Type >::dlHugeGenericMatrix(int cols, int rows)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricHistogram.h:656: Warning: argument 'row' of command @param is not found in the argument list of dlHugeGenericMatrix< Type >::dlHugeGenericMatrix(int cols, int rows)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricHistogram.h:656: Warning: The following parameters of dlHugeGenericMatrix::dlHugeGenericMatrix(int cols, int rows) are not documented:
+  parameter 'cols'
+  parameter 'rows'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricHistogram.h:672: Warning: argument 'col' of command @param is not found in the argument list of dlHugeGenericMatrix< Type >::SetSize(int cols, int rows)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricHistogram.h:672: Warning: argument 'row' of command @param is not found in the argument list of dlHugeGenericMatrix< Type >::SetSize(int cols, int rows)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricHistogram.h:672: Warning: The following parameters of dlHugeGenericMatrix::SetSize(int cols, int rows) are not documented:
+  parameter 'cols'
+  parameter 'rows'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMultiObject.h:516: Warning: argument 'oid' of command @param is not found in the argument list of MultipleObject::SetClass(int cl)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMultiObject.h:516: Warning: The following parameters of MultipleObject::SetClass(int cl) are not documented:
+  parameter 'cl'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicObjects.h:264: Warning: argument 'datasize' of command @param is not found in the argument list of stBasicArrayObject< DataType, OIDType >::Unserialize(const stByte *data, stSize dataSize)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicObjects.h:264: Warning: The following parameters of stBasicArrayObject::Unserialize(const stByte *data, stSize dataSize) are not documented:
+  parameter 'dataSize'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:474: Warning: argument 'obj1' of command @param is not found in the argument list of stBasicBasicSquareChiSquaredMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:474: Warning: argument 'obj2' of command @param is not found in the argument list of stBasicBasicSquareChiSquaredMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:474: Warning: The following parameters of stBasicBasicSquareChiSquaredMetricEvaluator::GetDistance(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:479: Warning: argument 'obj1' of command @param is not found in the argument list of stBasicBasicSquareChiSquaredMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:479: Warning: argument 'obj2' of command @param is not found in the argument list of stBasicBasicSquareChiSquaredMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:479: Warning: The following parameters of stBasicBasicSquareChiSquaredMetricEvaluator::GetDistance2(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:370: Warning: argument 'obj1' of command @param is not found in the argument list of stBasicBrayCurtisMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:370: Warning: argument 'obj2' of command @param is not found in the argument list of stBasicBrayCurtisMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:370: Warning: The following parameters of stBasicBrayCurtisMetricEvaluator::GetDistance(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:375: Warning: argument 'obj1' of command @param is not found in the argument list of stBasicBrayCurtisMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:375: Warning: argument 'obj2' of command @param is not found in the argument list of stBasicBrayCurtisMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:375: Warning: The following parameters of stBasicBrayCurtisMetricEvaluator::GetDistance2(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:318: Warning: argument 'obj1' of command @param is not found in the argument list of stBasicCanberraMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:318: Warning: argument 'obj2' of command @param is not found in the argument list of stBasicCanberraMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:318: Warning: The following parameters of stBasicCanberraMetricEvaluator::GetDistance(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:323: Warning: argument 'obj1' of command @param is not found in the argument list of stBasicCanberraMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:323: Warning: argument 'obj2' of command @param is not found in the argument list of stBasicCanberraMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:323: Warning: The following parameters of stBasicCanberraMetricEvaluator::GetDistance2(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:210: Warning: argument 'obj1' of command @param is not found in the argument list of stBasicEuclideanMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:210: Warning: argument 'obj2' of command @param is not found in the argument list of stBasicEuclideanMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:210: Warning: The following parameters of stBasicEuclideanMetricEvaluator::GetDistance(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:218: Warning: argument 'obj1' of command @param is not found in the argument list of stBasicEuclideanMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:218: Warning: argument 'obj2' of command @param is not found in the argument list of stBasicEuclideanMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:218: Warning: The following parameters of stBasicEuclideanMetricEvaluator::GetDistance2(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:733: Warning: Unsupported xml/html tag <class> found
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:669: Warning: argument 'obj1' of command @param is not found in the argument list of stBasicLEditMetricEvaluator< ObjectType, DataType >::GetDistance(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:669: Warning: argument 'obj2' of command @param is not found in the argument list of stBasicLEditMetricEvaluator< ObjectType, DataType >::GetDistance(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:669: Warning: The following parameters of stBasicLEditMetricEvaluator::GetDistance(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:679: Warning: argument 'obj1' of command @param is not found in the argument list of stBasicLEditMetricEvaluator< ObjectType, DataType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:679: Warning: argument 'obj2' of command @param is not found in the argument list of stBasicLEditMetricEvaluator< ObjectType, DataType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:679: Warning: The following parameters of stBasicLEditMetricEvaluator::GetDistance2(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:155: Warning: argument 'obj1' of command @param is not found in the argument list of stBasicLInfinityMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:155: Warning: argument 'obj2' of command @param is not found in the argument list of stBasicLInfinityMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:155: Warning: The following parameters of stBasicLInfinityMetricEvaluator::GetDistance(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:160: Warning: argument 'obj1' of command @param is not found in the argument list of stBasicLInfinityMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:160: Warning: argument 'obj2' of command @param is not found in the argument list of stBasicLInfinityMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:160: Warning: The following parameters of stBasicLInfinityMetricEvaluator::GetDistance2(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:263: Warning: argument 'obj1' of command @param is not found in the argument list of stBasicManhatanMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:263: Warning: argument 'obj2' of command @param is not found in the argument list of stBasicManhatanMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:263: Warning: The following parameters of stBasicManhatanMetricEvaluator::GetDistance(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:268: Warning: argument 'obj1' of command @param is not found in the argument list of stBasicManhatanMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:268: Warning: argument 'obj2' of command @param is not found in the argument list of stBasicManhatanMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:268: Warning: The following parameters of stBasicManhatanMetricEvaluator::GetDistance2(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:106: Warning: argument 'obj1' of command @param is not found in the argument list of stBasicMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:106: Warning: argument 'obj2' of command @param is not found in the argument list of stBasicMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:106: Warning: The following parameters of stBasicMetricEvaluator::GetDistance(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:111: Warning: argument 'obj1' of command @param is not found in the argument list of stBasicMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:111: Warning: argument 'obj2' of command @param is not found in the argument list of stBasicMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:111: Warning: The following parameters of stBasicMetricEvaluator::GetDistance2(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicObjects.h:344: Warning: argument 'data' of command @param is not found in the argument list of stBasicPairArrayObject< DataTypeOne, DataTypeTwo, OIDType >::stBasicPairArrayObject(stSize n)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicObjects.h:393: Warning: The following parameters of stBasicPairArrayObject::SetDataOne(stCount idx, DataTypeOne val) are not documented:
+  parameter 'val'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicObjects.h:422: Warning: The following parameters of stBasicPairArrayObject::SetDataTwo(stCount idx, DataTypeTwo val) are not documented:
+  parameter 'val'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicObjects.h:498: Warning: argument 'datasize' of command @param is not found in the argument list of stBasicPairArrayObject< DataTypeOne, DataTypeTwo, OIDType >::Unserialize(const stByte *data, stSize dataSize)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicObjects.h:498: Warning: The following parameters of stBasicPairArrayObject::Unserialize(const stByte *data, stSize dataSize) are not documented:
+  parameter 'dataSize'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:422: Warning: argument 'obj1' of command @param is not found in the argument list of stBasicSquaredChordMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:422: Warning: argument 'obj2' of command @param is not found in the argument list of stBasicSquaredChordMetricEvaluator< ObjectType >::GetDistance(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:422: Warning: The following parameters of stBasicSquaredChordMetricEvaluator::GetDistance(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:427: Warning: argument 'obj1' of command @param is not found in the argument list of stBasicSquaredChordMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:427: Warning: argument 'obj2' of command @param is not found in the argument list of stBasicSquaredChordMetricEvaluator< ObjectType >::GetDistance2(ObjectType *o1, ObjectType *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicMetricEvaluators.h:427: Warning: The following parameters of stBasicSquaredChordMetricEvaluator::GetDistance2(ObjectType *o1, ObjectType *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicObjects.h:632: Warning: The following parameters of stBasicStringObject::stBasicStringObject(const char *str, const OIDType id) are not documented:
+  parameter 'id'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicObjects.h:724: Warning: argument 'OID' of command @param is not found in the argument list of stBasicStringObject< OIDType >::SetOID(OIDType oid)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicObjects.h:724: Warning: The following parameters of stBasicStringObject::SetOID(OIDType oid) are not documented:
+  parameter 'oid'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicObjects.h:805: Warning: argument 'datasize' of command @param is not found in the argument list of stBasicStringObject< OIDType >::Unserialize(const stByte *data, unsigned size)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stBasicObjects.h:805: Warning: The following parameters of stBasicStringObject::Unserialize(const stByte *data, unsigned size) are not documented:
+  parameter 'size'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:367: Warning: argument 'obj1' of command @param is not found in the argument list of stBrayCurtisMetricEvaluator< DType >::GetDistance(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:367: Warning: argument 'obj2' of command @param is not found in the argument list of stBrayCurtisMetricEvaluator< DType >::GetDistance(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:367: Warning: The following parameters of stBrayCurtisMetricEvaluator::GetDistance(stObject *o1, stObject *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:372: Warning: argument 'obj1' of command @param is not found in the argument list of stBrayCurtisMetricEvaluator< DType >::GetDistance2(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:372: Warning: argument 'obj2' of command @param is not found in the argument list of stBrayCurtisMetricEvaluator< DType >::GetDistance2(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:372: Warning: The following parameters of stBrayCurtisMetricEvaluator::GetDistance2(stObject *o1, stObject *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:315: Warning: argument 'obj1' of command @param is not found in the argument list of stCanberraMetricEvaluator< DType >::GetDistance(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:315: Warning: argument 'obj2' of command @param is not found in the argument list of stCanberraMetricEvaluator< DType >::GetDistance(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:315: Warning: The following parameters of stCanberraMetricEvaluator::GetDistance(stObject *o1, stObject *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:320: Warning: argument 'obj1' of command @param is not found in the argument list of stCanberraMetricEvaluator< DType >::GetDistance2(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:320: Warning: argument 'obj2' of command @param is not found in the argument list of stCanberraMetricEvaluator< DType >::GetDistance2(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:320: Warning: The following parameters of stCanberraMetricEvaluator::GetDistance2(stObject *o1, stObject *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:156: Warning: argument 'VariableCompare' of command @param is not found in the argument list of stCellId::operator&(int variableCompare)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:156: Warning: The following parameters of stCellId::operator&(int variableCompare) are not documented:
+  parameter 'variableCompare'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:115: Warning: argument 'ValueAdd' of command @param is not found in the argument list of stCellId::operator+=(int valueAdd)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:115: Warning: The following parameters of stCellId::operator+=(int valueAdd) are not documented:
+  parameter 'valueAdd'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:122: Warning: argument 'stCellId' of command @param is not found in the argument list of stCellId::operator=(stCellId &)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:129: Warning: argument 'stCellId' of command @param is not found in the argument list of stCellId::operator==(stCellId &)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:293: Warning: Found unknown command `\icmc'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:294: Warning: Found unknown command `\icmc'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:295: Warning: Found unknown command `\cs'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:296: Warning: Found unknown command `\icmc'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:297: Warning: Found unknown command `\grad'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:374: Warning: argument 'VariableCompare' of command @param is not found in the argument list of stCellIdHighDimensional::operator&(int variableCompare)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:374: Warning: The following parameters of stCellIdHighDimensional::operator&(int variableCompare) are not documented:
+  parameter 'variableCompare'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:341: Warning: argument 'stCellId' of command @param is not found in the argument list of stCellIdHighDimensional::operator=(stCellId &cell)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:341: Warning: The following parameters of stCellIdHighDimensional::operator=(stCellId &cell) are not documented:
+  parameter 'cell'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:350: Warning: argument 'stCellId' of command @param is not found in the argument list of stCellIdHighDimensional::operator==(stCellId &cell)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:350: Warning: The following parameters of stCellIdHighDimensional::operator==(stCellId &cell) are not documented:
+  parameter 'cell'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:176: Warning: Found unknown command `\icmc'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:177: Warning: Found unknown command `\icmc'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:178: Warning: Found unknown command `\cs'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:179: Warning: Found unknown command `\icmc'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:180: Warning: Found unknown command `\grad'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:268: Warning: argument 'VariableCompare' of command @param is not found in the argument list of stCellIdLowDimensional::operator&(int variableCompare)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:268: Warning: The following parameters of stCellIdLowDimensional::operator&(int variableCompare) are not documented:
+  parameter 'variableCompare'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:217: Warning: argument 'stCellId' of command @param is not found in the argument list of stCellIdLowDimensional::operator=(stCellId &cell)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:217: Warning: The following parameters of stCellIdLowDimensional::operator=(stCellId &cell) are not documented:
+  parameter 'cell'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:226: Warning: argument 'stCellId' of command @param is not found in the argument list of stCellIdLowDimensional::operator==(stCellId &cell)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCellId.h:226: Warning: The following parameters of stCellIdLowDimensional::operator==(stCellId &cell) are not documented:
+  parameter 'cell'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:1109: Warning: The following parameters of stClOmni::stClOmni(stPageManager *pageman, stCount nCluster, stCount nFocus, EvaluatorType *metricEvaluator) are not documented:
+  parameter 'pageman'
+  parameter 'nCluster'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:1123: Warning: argument 'idx' of command @param is not found in the argument list of stClOmni< ObjectType, EvaluatorType >::GetDistance(stCount index)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:1123: Warning: The following parameters of stClOmni::GetDistance(stCount index) are not documented:
+  parameter 'index'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:1116: Warning: argument 'idx' of command @param is not found in the argument list of stClOmni< ObjectType, EvaluatorType >::GetObject(stCount index)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:1116: Warning: The following parameters of stClOmni::GetObject(stCount index) are not documented:
+  parameter 'index'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:205: Warning: argument 'NumberOfDimensions' of command @param is not found in the argument list of stCountingTree::stCountingTree(int dimensions=2, int gridLevels=10)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:205: Warning: argument 'NumberOfGridLevels' of command @param is not found in the argument list of stCountingTree::stCountingTree(int dimensions=2, int gridLevels=10)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:205: Warning: The following parameters of stCountingTree::stCountingTree(int dimensions=2, int gridLevels=10) are not documented:
+  parameter 'dimensions'
+  parameter 'gridLevels'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:283: Warning: argument 'GridLevel' of command @param is not found in the argument list of stCountingTree::CellPrint(int gridLevel, stPairCellLowDimensional *pairCell)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:283: Warning: argument 'PairCell' of command @param is not found in the argument list of stCountingTree::CellPrint(int gridLevel, stPairCellLowDimensional *pairCell)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:283: Warning: The following parameters of stCountingTree::CellPrint(int gridLevel, stPairCellLowDimensional *pairCell) are not documented:
+  parameter 'gridLevel'
+  parameter 'pairCell'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:291: Warning: argument 'GridLevel' of command @param is not found in the argument list of stCountingTree::CellPrintHighDimensional(int gridLevel, stPairCellHighDimensional *pairCell)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:291: Warning: argument 'PairCell' of command @param is not found in the argument list of stCountingTree::CellPrintHighDimensional(int gridLevel, stPairCellHighDimensional *pairCell)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:291: Warning: The following parameters of stCountingTree::CellPrintHighDimensional(int gridLevel, stPairCellHighDimensional *pairCell) are not documented:
+  parameter 'gridLevel'
+  parameter 'pairCell'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:218: Warning: argument 'VectorNumberOfPoints' of command @param is not found in the argument list of stCountingTree::Count(int *vectorNumberOfPoints, double *vectorSq, int selfCount)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:218: Warning: argument 'VectorSq' of command @param is not found in the argument list of stCountingTree::Count(int *vectorNumberOfPoints, double *vectorSq, int selfCount)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:218: Warning: argument 'SelfCount' of command @param is not found in the argument list of stCountingTree::Count(int *vectorNumberOfPoints, double *vectorSq, int selfCount)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:218: Warning: The following parameters of stCountingTree::Count(int *vectorNumberOfPoints, double *vectorSq, int selfCount) are not documented:
+  parameter 'vectorNumberOfPoints'
+  parameter 'vectorSq'
+  parameter 'selfCount'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:228: Warning: argument 'VectorNumberOfPoints' of command @param is not found in the argument list of stCountingTree::GenericCount(int *vetorNumberOfPoints, double *vetorSq, int selfCount, double q, double &top)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:228: Warning: argument 'VectorSq' of command @param is not found in the argument list of stCountingTree::GenericCount(int *vetorNumberOfPoints, double *vetorSq, int selfCount, double q, double &top)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:228: Warning: argument 'SelfCount' of command @param is not found in the argument list of stCountingTree::GenericCount(int *vetorNumberOfPoints, double *vetorSq, int selfCount, double q, double &top)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:228: Warning: The following parameters of stCountingTree::GenericCount(int *vetorNumberOfPoints, double *vetorSq, int selfCount, double q, double &top) are not documented:
+  parameter 'vetorNumberOfPoints'
+  parameter 'vetorSq'
+  parameter 'selfCount'
+  parameter 'q'
+  parameter 'top'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:268: Warning: argument 'NumberOfPointsInGrid' of command @param is not found in the argument list of stCountingTree::Histogram(double biggest, int numberOfPointsInGrid, char *hgFile)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:268: Warning: argument 'HgFile' of command @param is not found in the argument list of stCountingTree::Histogram(double biggest, int numberOfPointsInGrid, char *hgFile)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:268: Warning: The following parameters of stCountingTree::Histogram(double biggest, int numberOfPointsInGrid, char *hgFile) are not documented:
+  parameter 'numberOfPointsInGrid'
+  parameter 'hgFile'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:241: Warning: argument 'Slope' of command @param is not found in the argument list of stCountingTree::Normalize(double *slope, double *yInc)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:241: Warning: argument 'YInc' of command @param is not found in the argument list of stCountingTree::Normalize(double *slope, double *yInc)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:241: Warning: The following parameters of stCountingTree::Normalize(double *slope, double *yInc) are not documented:
+  parameter 'slope'
+  parameter 'yInc'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:250: Warning: argument 'Ponto' of command @param is not found in the argument list of stCountingTree::Point(double *ponto, double *normPoint)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:250: Warning: argument 'NormPoint' of command @param is not found in the argument list of stCountingTree::Point(double *ponto, double *normPoint)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:250: Warning: The following parameters of stCountingTree::Point(double *ponto, double *normPoint) are not documented:
+  parameter 'ponto'
+  parameter 'normPoint'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:299: Warning: argument 'GridLevel' of command @param is not found in the argument list of stCountingTree::PrintOneCellHighDimensional(int gridLevel, stPairCellHighDimensional *pairCell)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:299: Warning: argument 'PairCell' of command @param is not found in the argument list of stCountingTree::PrintOneCellHighDimensional(int gridLevel, stPairCellHighDimensional *pairCell)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:299: Warning: The following parameters of stCountingTree::PrintOneCellHighDimensional(int gridLevel, stPairCellHighDimensional *pairCell) are not documented:
+  parameter 'gridLevel'
+  parameter 'pairCell'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:307: Warning: argument 'Point' of command @param is not found in the argument list of stCountingTree::ProcessPoint(double *point)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:307: Warning: The following parameters of stCountingTree::ProcessPoint(double *point) are not documented:
+  parameter 'point'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:259: Warning: argument 'Total' of command @param is not found in the argument list of stCountingTree::Uses(int *total, int *block)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:259: Warning: argument 'Block' of command @param is not found in the argument list of stCountingTree::Uses(int *total, int *block)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:259: Warning: The following parameters of stCountingTree::Uses(int *total, int *block) are not documented:
+  parameter 'total'
+  parameter 'block'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMCollection.h:462: Warning: argument 'hint' of command @param is not found in the argument list of stDBMCollection< ObjectType >::stDBMCollection(stCount initialSize=32, stCount increment=32)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMCollection.h:462: Warning: The following parameters of stDBMCollection::stDBMCollection(stCount initialSize=32, stCount increment=32) are not documented:
+  parameter 'initialSize'
+  parameter 'increment'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMCollection.h:546: Warning: The following parameters of stDBMCollection::AddEntry(tObject *object,#ifdef __stDBMHEIGHT__ stByte height,#endifstPageID pageID,#ifdef __stDBMNENTRIES__ stCount nEntries,#endifstDistance radius, bool mine=true) are not documented:
+  parameter 'mine'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMCollection.h:101: Warning: argument 'object' of command @param is not found in the argument list of stDBMEntryCollection< ObjectType >::stDBMEntryCollection()
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMCollection.h:101: Warning: argument 'height' of command @param is not found in the argument list of stDBMEntryCollection< ObjectType >::stDBMEntryCollection()
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMCollection.h:101: Warning: argument 'pageID' of command @param is not found in the argument list of stDBMEntryCollection< ObjectType >::stDBMEntryCollection()
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMCollection.h:101: Warning: argument 'nEntries' of command @param is not found in the argument list of stDBMEntryCollection< ObjectType >::stDBMEntryCollection()
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMCollection.h:101: Warning: argument 'radius' of command @param is not found in the argument list of stDBMEntryCollection< ObjectType >::stDBMEntryCollection()
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMCollection.h:126: Warning: The following parameters of stDBMEntryCollection::stDBMEntryCollection(tObject *object,#ifdef __stDBMHEIGHT__ stByte height,#endif stPageID pageID,#ifdef __stDBMNENTRIES__ stCount nEntries,#endif stDistance radius, bool mine=true) are not documented:
+  parameter 'mine'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:339: Warning: argument 'node' of command @param is not found in the argument list of stDBMLogicNode< ObjectType, EvaluatorType >::AddCollection(tDBMCollection *returnCollection)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:339: Warning: The following parameters of stDBMLogicNode::AddCollection(tDBMCollection *returnCollection) are not documented:
+  parameter 'returnCollection'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:355: Warning: argument 'id' of command @param is not found in the argument list of stDBMLogicNode< ObjectType, EvaluatorType >::GetRepresentative(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:355: Warning: The following parameters of stDBMLogicNode::GetRepresentative(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:346: Warning: argument 'id' of command @param is not found in the argument list of stDBMLogicNode< ObjectType, EvaluatorType >::GetRepresentativeIndex(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:346: Warning: The following parameters of stDBMLogicNode::GetRepresentativeIndex(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:305: Warning: argument 'pageID' of command @param is not found in the argument list of stDBMLogicNode< ObjectType, EvaluatorType >::SetEntry(stCount idx, stPageID pageID#ifdef __stDBMNENTRIES__, stCount nEntries#endif, stDistance radius#ifdef __stDBMHEIGHT__, stByte height#endif)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:305: Warning: argument 'nEntries' of command @param is not found in the argument list of stDBMLogicNode< ObjectType, EvaluatorType >::SetEntry(stCount idx, stPageID pageID#ifdef __stDBMNENTRIES__, stCount nEntries#endif, stDistance radius#ifdef __stDBMHEIGHT__, stByte height#endif)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:305: Warning: argument 'radius' of command @param is not found in the argument list of stDBMLogicNode< ObjectType, EvaluatorType >::SetEntry(stCount idx, stPageID pageID#ifdef __stDBMNENTRIES__, stCount nEntries#endif, stDistance radius#ifdef __stDBMHEIGHT__, stByte height#endif)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:305: Warning: The following parameters of stDBMLogicNode::SetEntry(stCount idx, stPageID pageID#ifdef __stDBMNENTRIES__, stCount nEntries#endif, stDistance radius#ifdef __stDBMHEIGHT__, stByte height#endif) are not documented:
+  parameter '__stDBMNENTRIES__'
+  parameter 'endif'
+  parameter '__stDBMHEIGHT__'
+  parameter 'endif'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMNode.h:500: Warning: argument 'page' of command @param is not found in the argument list of stDBMMemNode< ObjectType >::stDBMMemNode(stSize pageSize, stCount numberOfEntries=32)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMNode.h:500: Warning: argument 'create' of command @param is not found in the argument list of stDBMMemNode< ObjectType >::stDBMMemNode(stSize pageSize, stCount numberOfEntries=32)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMNode.h:500: Warning: The following parameters of stDBMMemNode::stDBMMemNode(stSize pageSize, stCount numberOfEntries=32) are not documented:
+  parameter 'pageSize'
+  parameter 'numberOfEntries'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMNode.h:624: Warning: The following parameters of stDBMMemNode::AddEntry(stSize size, ObjectType *object, stPageID subTree) are not documented:
+  parameter 'subTree'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMNode.h:570: Warning: argument 'stCount' of command @param is not found in the argument list of stDBMMemNode< ObjectType >::SetNEntries(stCount idx, stCount NEntries)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMNode.h:570: Warning: The following parameters of stDBMMemNode::SetNEntries(stCount idx, stCount NEntries) are not documented:
+  parameter 'NEntries'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMNode.h:606: Warning: argument 'stDistance' of command @param is not found in the argument list of stDBMMemNode< ObjectType >::SetRadius(stCount idx, stDistance radius)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMNode.h:606: Warning: The following parameters of stDBMMemNode::SetRadius(stCount idx, stDistance radius) are not documented:
+  parameter 'radius'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMNode.h:95: Warning: image file dbnode.png is not found in IMAGE_PATH: assuming external image.
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMNode.h:292: Warning: The following parameters of stDBMNode::AddEntry(stSize size, const stByte *object, stPageID subTree) are not documented:
+  parameter 'subTree'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMNode.h:262: Warning: argument 'stCount' of command @param is not found in the argument list of stDBMNode::SetNEntries(stCount idx, stCount NEntries)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMNode.h:262: Warning: The following parameters of stDBMNode::SetNEntries(stCount idx, stCount NEntries) are not documented:
+  parameter 'NEntries'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMNode.h:282: Warning: argument 'stDistance' of command @param is not found in the argument list of stDBMNode::SetRadius(stCount idx, stDistance radius)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMNode.h:282: Warning: The following parameters of stDBMNode::SetRadius(stCount idx, stDistance radius) are not documented:
+  parameter 'radius'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:960: Warning: The following parameters of stDBMNSplitter::FindCenter(int clus, stDistance &minRadius) are not documented:
+  parameter 'minRadius'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMNode.h:794: Warning: The following parameters of stDBMShrinkNode::Add(ObjectType *obj, stDistance distance, stPageID pageID, stDistance radius#ifdef __stDBMNENTRIES__, stCount nEntries#endif#ifdef __stDBMHEIGHT__, stByte height#endif) are not documented:
+  parameter 'pageID'
+  parameter '__stDBMNENTRIES__'
+  parameter '__stDBMHEIGHT__'
+  parameter 'endif'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:1247: Warning: argument 'obj' of command @param is not found in the argument list of stDBMTree< ObjectType, EvaluatorType >::Add(ObjectType *newObj)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:1247: Warning: The following parameters of stDBMTree::Add(ObjectType *newObj) are not documented:
+  parameter 'newObj'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:2237: Warning: The following parameters of stDBMTree::Consistency(stPageID pageID, ObjectType *repObj, stDistance &distance) are not documented:
+  parameter 'repObj'
+  parameter 'distance'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:2137: Warning: The following parameters of stDBMTree::DeleteQuery(stPageID pageID, ObjectType *delObj, stDistance distanceRepres, int *path) are not documented:
+  parameter 'pageID'
+  parameter 'distanceRepres'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:2010: Warning: The following parameters of stDBMTree::DeleteRecursive(ObjectType *delObj, stPageID currNodeID, ObjectType *repObj, tSubtreeInfo *promo, int *path) are not documented:
+  parameter 'currNodeID'
+  parameter 'repObj'
+  parameter 'promo'
+  parameter 'path'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:2163: Warning: argument 'Size' of command @param is not found in the argument list of stDBMTree< ObjectType, EvaluatorType >::GetSample(int sampleSize)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:2163: Warning: The following parameters of stDBMTree::GetSample(int sampleSize) are not documented:
+  parameter 'sampleSize'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:1967: Warning: argument 'newObj' of command @param is not found in the argument list of stDBMTree< ObjectType, EvaluatorType >::InsertRecursive(stPageID currNodeID, tSubtreeInfo newSubTree, ObjectType *repObj, tSubtreeInfo &farthest, tSubtreeInfo *promo)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:1967: Warning: The following parameters of stDBMTree::InsertRecursive(stPageID currNodeID, tSubtreeInfo newSubTree, ObjectType *repObj, tSubtreeInfo &farthest, tSubtreeInfo *promo) are not documented:
+  parameter 'newSubTree'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:2292: Warning: argument 'memLeafNodes' of command @param is not found in the argument list of stDBMTree< ObjectType, EvaluatorType >::LocalShrinkRing(tDBMShrinkNode *memNodeLevel1, tDBMShrinkNode *memNodeLevel2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:2292: Warning: argument 'nodeCount' of command @param is not found in the argument list of stDBMTree< ObjectType, EvaluatorType >::LocalShrinkRing(tDBMShrinkNode *memNodeLevel1, tDBMShrinkNode *memNodeLevel2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:2292: Warning: argument 'maxSwaps' of command @param is not found in the argument list of stDBMTree< ObjectType, EvaluatorType >::LocalShrinkRing(tDBMShrinkNode *memNodeLevel1, tDBMShrinkNode *memNodeLevel2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:2292: Warning: The following parameters of stDBMTree::LocalShrinkRing(tDBMShrinkNode *memNodeLevel1, tDBMShrinkNode *memNodeLevel2) are not documented:
+  parameter 'memNodeLevel1'
+  parameter 'memNodeLevel2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:2182: Warning: The following parameters of stDBMTree::MAMViewDumpTreeRecursive(stPageID pageID, ObjectType *rep, stDistance radius, stPageID parent) are not documented:
+  parameter 'rep'
+  parameter 'radius'
+  parameter 'parent'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:1640: Warning: argument 'dir' of command @param is not found in the argument list of stDBMTree< ObjectType, EvaluatorType >::MAMViewInit()
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:2086: Warning: The following parameters of stDBMTree::NearestQuery(tResult *result, ObjectType *sample, stDistance rangeK, stCount k, tDynamicPriorityQueue *queue) are not documented:
+  parameter 'queue'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:2107: Warning: The following parameters of stDBMTree::PointQuery(tResult *result, ObjectType *sample, tDynamicPriorityQueue *queue) are not documented:
+  parameter 'result'
+  parameter 'queue'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:1557: Warning: argument 'data' of command @param is not found in the argument list of stDBMTree< ObjectType, EvaluatorType >::RangeQuery(ObjectType *sample, stDistance range)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:1557: Warning: argument 'padFactor' of command @param is not found in the argument list of stDBMTree< ObjectType, EvaluatorType >::RangeQuery(ObjectType *sample, stDistance range)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:2030: Warning: The following parameters of stDBMTree::ReInsert(stDBMNode *node, stCount idxNewObj) are not documented:
+  parameter 'idxNewObj'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDBMTree.h:2253: Warning: argument 'level' of command @param is not found in the argument list of stDBMTree< ObjectType, EvaluatorType >::ShrinkRecursive(stPageID pageID)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1697: Warning: argument 'Object' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::BuildFieldDistance(ObjectType *object, stDistance *fieldDistance)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1697: Warning: argument 'FieldDistance' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::BuildFieldDistance(ObjectType *object, stDistance *fieldDistance)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1697: Warning: The following parameters of stDFGlobalRep::BuildFieldDistance(ObjectType *object, stDistance *fieldDistance) are not documented:
+  parameter 'object'
+  parameter 'fieldDistance'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1716: Warning: argument 'RootPageID' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::CheckUpdate(stPageManager *pageman, stPageID rootPageID, stDistance *fieldDistance)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1716: Warning: argument 'FieldDistance' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::CheckUpdate(stPageManager *pageman, stPageID rootPageID, stDistance *fieldDistance)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1716: Warning: The following parameters of stDFGlobalRep::CheckUpdate(stPageManager *pageman, stPageID rootPageID, stDistance *fieldDistance) are not documented:
+  parameter 'rootPageID'
+  parameter 'fieldDistance'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1639: Warning: argument 'node' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::FindGlobalRep(tLogicNode *logicNode, tMSTSplitter *MSTSplitter, stCount center1, stCount center2, stCount numObject)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1639: Warning: argument 'Center1' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::FindGlobalRep(tLogicNode *logicNode, tMSTSplitter *MSTSplitter, stCount center1, stCount center2, stCount numObject)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1639: Warning: argument 'Center2' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::FindGlobalRep(tLogicNode *logicNode, tMSTSplitter *MSTSplitter, stCount center1, stCount center2, stCount numObject)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1639: Warning: The following parameters of stDFGlobalRep::FindGlobalRep(tLogicNode *logicNode, tMSTSplitter *MSTSplitter, stCount center1, stCount center2, stCount numObject) are not documented:
+  parameter 'logicNode'
+  parameter 'center1'
+  parameter 'center2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1727: Warning: The following parameters of stDFGlobalRep::GetCandidates(stPageManager *pageman, stPageID pageID, vector< ObjectType * > &candidateSet) are not documented:
+  parameter 'candidateSet'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1705: Warning: argument 'ObjGRCoord' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::PruneByGlobalRep(stDistance *objGRCoord, stDistance radius, stDistance *distQueryFocus, stDistance queryRadius)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1705: Warning: argument 'Radius' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::PruneByGlobalRep(stDistance *objGRCoord, stDistance radius, stDistance *distQueryFocus, stDistance queryRadius)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1705: Warning: argument 'DistQueryFocus' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::PruneByGlobalRep(stDistance *objGRCoord, stDistance radius, stDistance *distQueryFocus, stDistance queryRadius)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1705: Warning: argument 'QueryRadius' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::PruneByGlobalRep(stDistance *objGRCoord, stDistance radius, stDistance *distQueryFocus, stDistance queryRadius)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1705: Warning: The following parameters of stDFGlobalRep::PruneByGlobalRep(stDistance *objGRCoord, stDistance radius, stDistance *distQueryFocus, stDistance queryRadius) are not documented:
+  parameter 'objGRCoord'
+  parameter 'radius'
+  parameter 'distQueryFocus'
+  parameter 'queryRadius'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1687: Warning: argument 'Object' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::SetFieldDistance(stDFIndexNode *node, stCount idx, ObjectType *object)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1687: Warning: The following parameters of stDFGlobalRep::SetFieldDistance(stDFIndexNode *node, stCount idx, ObjectType *object) are not documented:
+  parameter 'object'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1677: Warning: argument 'Object' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::SetFieldDistance(stDFLeafNode *node, stCount idx, ObjectType *object)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1677: Warning: The following parameters of stDFGlobalRep::SetFieldDistance(stDFLeafNode *node, stCount idx, ObjectType *object) are not documented:
+  parameter 'object'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1738: Warning: argument 'CandidateSet' of command @param is not found in the argument list of stDFGlobalRep< ObjectType, EvaluatorType >::UpdateGR(vector< ObjectType * > candidateSet)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1738: Warning: The following parameters of stDFGlobalRep::UpdateGR(vector< ObjectType * > candidateSet) are not documented:
+  parameter 'candidateSet'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:385: Warning: argument 'id' of command @param is not found in the argument list of stDFIndexNode::GetIndexEntry(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:385: Warning: The following parameters of stDFIndexNode::GetIndexEntry(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:433: Warning: argument 'id' of command @param is not found in the argument list of stDFIndexNode::GetObject(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:433: Warning: The following parameters of stDFIndexNode::GetObject(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:445: Warning: argument 'id' of command @param is not found in the argument list of stDFIndexNode::GetObjectSize(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:445: Warning: The following parameters of stDFIndexNode::GetObjectSize(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:456: Warning: argument 'id' of command @param is not found in the argument list of stDFIndexNode::RemoveEntry(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:456: Warning: The following parameters of stDFIndexNode::RemoveEntry(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:570: Warning: argument 'id' of command @param is not found in the argument list of stDFLeafNode::GetLeafEntry(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:570: Warning: The following parameters of stDFLeafNode::GetLeafEntry(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:618: Warning: argument 'id' of command @param is not found in the argument list of stDFLeafNode::GetObject(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:618: Warning: The following parameters of stDFLeafNode::GetObject(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:630: Warning: argument 'id' of command @param is not found in the argument list of stDFLeafNode::GetObjectSize(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:630: Warning: The following parameters of stDFLeafNode::GetObjectSize(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:641: Warning: argument 'id' of command @param is not found in the argument list of stDFLeafNode::RemoveEntry(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:641: Warning: The following parameters of stDFLeafNode::RemoveEntry(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:293: Warning: The following parameters of stDFLogicNode::Distribute(stDFIndexNode *node0, ObjectType *&rep0, stDFIndexNode *node1, ObjectType *&rep1, EvaluatorType *metricEvaluator, tGR *GR) are not documented:
+  parameter 'rep1'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:272: Warning: argument 'id' of command @param is not found in the argument list of stDFLogicNode< ObjectType, EvaluatorType >::GetRepresentative(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:272: Warning: The following parameters of stDFLogicNode::GetRepresentative(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:263: Warning: argument 'id' of command @param is not found in the argument list of stDFLogicNode< ObjectType, EvaluatorType >::GetRepresentativeIndex(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:263: Warning: The following parameters of stDFLogicNode::GetRepresentativeIndex(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:230: Warning: argument 'FieldDistance' of command @param is not found in the argument list of stDFLogicNode< ObjectType, EvaluatorType >::SetEntry(stCount idx, stPageID pageID, stSize nEntries, stDistance radius, stDistance *fieldDistance)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:230: Warning: The following parameters of stDFLogicNode::SetEntry(stCount idx, stPageID pageID, stSize nEntries, stDistance radius, stDistance *fieldDistance) are not documented:
+  parameter 'fieldDistance'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:451: Warning: argument 'FieldDistance' of command @param is not found in the argument list of stDFLogicNode< ObjectType, EvaluatorType >::SetFieldDistance(stCount idx, stDistance *fieldDistance)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:451: Warning: The following parameters of stDFLogicNode::SetFieldDistance(stCount idx, stDistance *fieldDistance) are not documented:
+  parameter 'fieldDistance'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:440: Warning: argument 'FieldDistance' of command @param is not found in the argument list of stDFLogicNode< ObjectType, EvaluatorType >::SetFocusDistance(stCount idx, stCount iGlobalRep, stDistance iFieldDistance)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:440: Warning: The following parameters of stDFLogicNode::SetFocusDistance(stCount idx, stCount iGlobalRep, stDistance iFieldDistance) are not documented:
+  parameter 'iFieldDistance'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:95: Warning: image file DFnode.png is not found in IMAGE_PATH: assuming external image.
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:198: Warning: argument 'id' of command @param is not found in the argument list of stDFNode::GetObject(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:198: Warning: The following parameters of stDFNode::GetObject(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:210: Warning: argument 'id' of command @param is not found in the argument list of stDFNode::GetObjectSize(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFNode.h:210: Warning: The following parameters of stDFNode::GetObjectSize(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:926: Warning: The following parameters of stDFTree::stDFTree(stPageManager *pageman, stCount nFocus, stDistance pThreshold) are not documented:
+  parameter 'nFocus'
+  parameter 'pThreshold'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:948: Warning: argument 'obj' of command @param is not found in the argument list of stDFTree< ObjectType, EvaluatorType >::Add(ObjectType *newObj)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:948: Warning: The following parameters of stDFTree::Add(ObjectType *newObj) are not documented:
+  parameter 'newObj'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1444: Warning: argument 'FieldDistance1' of command @param is not found in the argument list of stDFTree< ObjectType, EvaluatorType >::AddNewRoot(ObjectType *obj1, stDistance radius1, stPageID nodeID1, stCount nEntries1, stDistance *fieldDistance1, ObjectType *obj2, stDistance radius2, stPageID nodeID2, stCount nEntries2, stDistance *fieldDistance2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1444: Warning: argument 'FieldDistance2' of command @param is not found in the argument list of stDFTree< ObjectType, EvaluatorType >::AddNewRoot(ObjectType *obj1, stDistance radius1, stPageID nodeID1, stCount nEntries1, stDistance *fieldDistance1, ObjectType *obj2, stDistance radius2, stPageID nodeID2, stCount nEntries2, stDistance *fieldDistance2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1444: Warning: The following parameters of stDFTree::AddNewRoot(ObjectType *obj1, stDistance radius1, stPageID nodeID1, stCount nEntries1, stDistance *fieldDistance1, ObjectType *obj2, stDistance radius2, stPageID nodeID2, stCount nEntries2, stDistance *fieldDistance2) are not documented:
+  parameter 'fieldDistance1'
+  parameter 'fieldDistance2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1552: Warning: The following parameters of stDFTree::PointQuery(tResult *result, ObjectType *sample) are not documented:
+  parameter 'result'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1485: Warning: argument 'FieldDistance1' of command @param is not found in the argument list of stDFTree< ObjectType, EvaluatorType >::SplitIndex(stDFIndexNode *oldNode, stDFIndexNode *newNode, ObjectType *newObj1, stDistance newRadius1, stPageID newNodeID1, stCount newNEntries1, stDistance *fieldDistance1, ObjectType *newObj2, stDistance newRadius2, stPageID newNodeID2, stCount newNEntries2, stDistance *fieldDistance2, ObjectType *prevRep, stSubtreeInfo &promo1, stSubtreeInfo &promo2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1485: Warning: argument 'FieldDistance2' of command @param is not found in the argument list of stDFTree< ObjectType, EvaluatorType >::SplitIndex(stDFIndexNode *oldNode, stDFIndexNode *newNode, ObjectType *newObj1, stDistance newRadius1, stPageID newNodeID1, stCount newNEntries1, stDistance *fieldDistance1, ObjectType *newObj2, stDistance newRadius2, stPageID newNodeID2, stCount newNEntries2, stDistance *fieldDistance2, ObjectType *prevRep, stSubtreeInfo &promo1, stSubtreeInfo &promo2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1485: Warning: The following parameters of stDFTree::SplitIndex(stDFIndexNode *oldNode, stDFIndexNode *newNode, ObjectType *newObj1, stDistance newRadius1, stPageID newNodeID1, stCount newNEntries1, stDistance *fieldDistance1, ObjectType *newObj2, stDistance newRadius2, stPageID newNodeID2, stCount newNEntries2, stDistance *fieldDistance2, ObjectType *prevRep, stSubtreeInfo &promo1, stSubtreeInfo &promo2) are not documented:
+  parameter 'fieldDistance1'
+  parameter 'fieldDistance2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1463: Warning: argument 'FieldDistance' of command @param is not found in the argument list of stDFTree< ObjectType, EvaluatorType >::SplitLeaf(stDFLeafNode *oldNode, stDFLeafNode *newNode, ObjectType *newObj, stDistance *fieldDistance, ObjectType *prevRep, stSubtreeInfo &promo1, stSubtreeInfo &promo2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDFTree.h:1463: Warning: The following parameters of stDFTree::SplitLeaf(stDFLeafNode *oldNode, stDFLeafNode *newNode, ObjectType *newObj, stDistance *fieldDistance, ObjectType *prevRep, stSubtreeInfo &promo1, stSubtreeInfo &promo2) are not documented:
+  parameter 'fieldDistance'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDummyNode.h:148: Warning: argument 'id' of command @param is not found in the argument list of stDummyNode::GetObject(int idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDummyNode.h:148: Warning: The following parameters of stDummyNode::GetObject(int idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDummyNode.h:160: Warning: argument 'id' of command @param is not found in the argument list of stDummyNode::GetObjectSize(int idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDummyNode.h:160: Warning: The following parameters of stDummyNode::GetObjectSize(int idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDummyNode.h:172: Warning: argument 'id' of command @param is not found in the argument list of stDummyNode::RemoveEntry(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDummyNode.h:172: Warning: The following parameters of stDummyNode::RemoveEntry(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDummyNode.h:191: Warning: argument 'id' of command @param is not found in the argument list of stDummyNode::SetNextNode(stPageID idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDummyNode.h:191: Warning: The following parameters of stDummyNode::SetNextNode(stPageID idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDummyTree.h:344: Warning: Found unknown command `\autor'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDummyTree.h:394: Warning: Found unknown command `\autor'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDummyTree.h:317: Warning: Found unknown command `\autor'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDummyTree.h:370: Warning: Found unknown command `\autor'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDummyTree.h:382: Warning: Found unknown command `\autor'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stDummyTree.h:290: Warning: Found unknown command `\autor'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stUtil.h:597: Warning: Found unknown command `\waning'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stUtil.h:754: Warning: Found unknown command `\waning'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:207: Warning: argument 'obj1' of command @param is not found in the argument list of stEuclideanMetricEvaluator< DType >::GetDistance(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:207: Warning: argument 'obj2' of command @param is not found in the argument list of stEuclideanMetricEvaluator< DType >::GetDistance(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:207: Warning: The following parameters of stEuclideanMetricEvaluator::GetDistance(stObject *o1, stObject *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:215: Warning: argument 'obj1' of command @param is not found in the argument list of stEuclideanMetricEvaluator< DType >::GetDistance2(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:215: Warning: argument 'obj2' of command @param is not found in the argument list of stEuclideanMetricEvaluator< DType >::GetDistance2(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:215: Warning: The following parameters of stEuclideanMetricEvaluator::GetDistance2(stObject *o1, stObject *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stFastMapper.h:552: Warning: The following parameters of stFastMapper::GetImageMaps(stFastMapImage< ObjectType > **imgs, int n, double *maps) are not documented:
+  parameter 'maps'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stFastMapper.h:438: Warning: argument 'The' of command @param is not found in the argument list of stFastMapper< ObjectType, EvaluatorType >::SetPivot(int idx, const ObjectType *obj, const double *map)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stFastMapper.h:438: Warning: The following parameters of stFastMapper::SetPivot(int idx, const ObjectType *obj, const double *map) are not documented:
+  parameter 'obj'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stFractalDimension.h:287: Warning: The following parameters of stFractalDimension::MinMax(int numberOfObjects, ObjectType **objectsArray, DataType *min, DataType *max, int dimension, unsigned int *mask, int countAttributes, struct stObjects *attributes) are not documented:
+  parameter 'min'
+  parameter 'max'
+  parameter 'countAttributes'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stFractalDimension.h:273: Warning: The following parameters of stFractalDimension::ToLog(int numberOfObjects, double constant, double *destX, double *destY, double *origX, double *origY) are not documented:
+  parameter 'destX'
+  parameter 'destY'
+  parameter 'origY'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stGenericPriorityQueue.h:135: Warning: argument 'distance' of command @param is not found in the argument list of stGenericEntry< ObjectType >::SetDistanceQuery(stDistance distanceQuery)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stGenericPriorityQueue.h:135: Warning: The following parameters of stGenericEntry::SetDistanceQuery(stDistance distanceQuery) are not documented:
+  parameter 'distanceQuery'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stGenericPriorityQueue.h:151: Warning: argument 'distance' of command @param is not found in the argument list of stGenericEntry< ObjectType >::SetDistanceRep(stDistance distanceRep)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stGenericPriorityQueue.h:151: Warning: The following parameters of stGenericEntry::SetDistanceRep(stDistance distanceRep) are not documented:
+  parameter 'distanceRep'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stGenericPriorityQueue.h:169: Warning: argument 'distance' of command @param is not found in the argument list of stGenericEntry< ObjectType >::SetDistanceRepQuery(stDistance distanceRepQuery)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stGenericPriorityQueue.h:169: Warning: The following parameters of stGenericEntry::SetDistanceRepQuery(stDistance distanceRepQuery) are not documented:
+  parameter 'distanceRepQuery'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stUtil.h:119: Warning: argument 'col' of command @param is not found in the argument list of stGenericMatrix< Type >::stGenericMatrix(int cols, int rows)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stUtil.h:119: Warning: argument 'row' of command @param is not found in the argument list of stGenericMatrix< Type >::stGenericMatrix(int cols, int rows)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stUtil.h:119: Warning: The following parameters of stGenericMatrix::stGenericMatrix(int cols, int rows) are not documented:
+  parameter 'cols'
+  parameter 'rows'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stUtil.h:143: Warning: argument 'col' of command @param is not found in the argument list of stGenericMatrix< Type >::SetSize(int cols, int rows)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stUtil.h:143: Warning: argument 'row' of command @param is not found in the argument list of stGenericMatrix< Type >::SetSize(int cols, int rows)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stUtil.h:143: Warning: The following parameters of stGenericMatrix::SetSize(int cols, int rows) are not documented:
+  parameter 'cols'
+  parameter 'rows'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stGenericPriorityQueue.h:523: Warning: argument 'type' of command @param is not found in the argument list of stGenericPriorityHeap< ObjectType >::Add(tObject *object, stPageID pageID, stDistance distanceQuery, stDistance distanceRep, stDistance distanceRepQuery, stDistance radius, stCount height, tType Type)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stGenericPriorityQueue.h:523: Warning: The following parameters of stGenericPriorityHeap::Add(tObject *object, stPageID pageID, stDistance distanceQuery, stDistance distanceRep, stDistance distanceRepQuery, stDistance radius, stCount height, tType Type) are not documented:
+  parameter 'Type'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stGHNode.h:201: Warning: argument 'id' of command @param is not found in the argument list of stGHNode::GetObject(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stGHNode.h:201: Warning: The following parameters of stGHNode::GetObject(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stGHNode.h:213: Warning: argument 'id' of command @param is not found in the argument list of stGHNode::GetObjectSize(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stGHNode.h:213: Warning: The following parameters of stGHNode::GetObjectSize(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stGHNode.h:225: Warning: argument 'id' of command @param is not found in the argument list of stGHNode::RemoveEntry(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stGHNode.h:225: Warning: The following parameters of stGHNode::RemoveEntry(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stGHTree.h:332: Warning: argument 'range' of command @param is not found in the argument list of stGHTree< ObjectType, EvaluatorType >::NearestQuery(stPageID pageID, tResult *result, ObjectType *sample, stDistance &rangeK, stCount k)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stGHTree.h:332: Warning: The following parameters of stGHTree::NearestQuery(stPageID pageID, tResult *result, ObjectType *sample, stDistance &rangeK, stCount k) are not documented:
+  parameter 'rangeK'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stUtil.h:242: Warning: argument 'col' of command @param is not found in the argument list of stHugeGenericMatrix< Type >::stHugeGenericMatrix(int cols, int rows)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stUtil.h:242: Warning: argument 'row' of command @param is not found in the argument list of stHugeGenericMatrix< Type >::stHugeGenericMatrix(int cols, int rows)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stUtil.h:242: Warning: The following parameters of stHugeGenericMatrix::stHugeGenericMatrix(int cols, int rows) are not documented:
+  parameter 'cols'
+  parameter 'rows'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stUtil.h:258: Warning: argument 'col' of command @param is not found in the argument list of stHugeGenericMatrix< Type >::SetSize(int cols, int rows)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stUtil.h:258: Warning: argument 'row' of command @param is not found in the argument list of stHugeGenericMatrix< Type >::SetSize(int cols, int rows)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stUtil.h:258: Warning: The following parameters of stHugeGenericMatrix::SetSize(int cols, int rows) are not documented:
+  parameter 'cols'
+  parameter 'rows'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stInputQuery.h:267: Warning: argument 'distance' of command @param is not found in the argument list of stInputQuery< ObjectType, EvaluatorType >::AddPair(tObject *object, stDistance radius)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stInputQuery.h:267: Warning: The following parameters of stInputQuery::AddPair(tObject *object, stDistance radius) are not documented:
+  parameter 'radius'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stTreeResult.h:791: Warning: argument 'hint' of command @param is not found in the argument list of stJoinedResult< ObjectType >::stJoinedResult()
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:728: Warning: The following parameters of stJoinedResult::AddJoinedTriple(tObject *obj, tObject *joinedObj, stDistance distance) are not documented:
+  parameter 'joinedObj'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:795: Warning: argument 'p' of command @param is not found in the argument list of stJoinedResult< ObjectType >::AddLocalResult(stResult< ObjectType > *local)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:795: Warning: The following parameters of stJoinedResult::AddLocalResult(stResult< ObjectType > *local) are not documented:
+  parameter 'local'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:802: Warning: argument 'obj' of command @param is not found in the argument list of stJoinedResult< ObjectType >::AddLocalResultMaxDist(stResult< ObjectType > *local)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:802: Warning: argument 'p' of command @param is not found in the argument list of stJoinedResult< ObjectType >::AddLocalResultMaxDist(stResult< ObjectType > *local)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:802: Warning: The following parameters of stJoinedResult::AddLocalResultMaxDist(stResult< ObjectType > *local) are not documented:
+  parameter 'local'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:958: Warning: argument 'r1' of command @param is not found in the argument list of stJoinedResult< ObjectType >::Intersection(stJoinedResult *result1, stJoinedResult *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:958: Warning: argument 'r2' of command @param is not found in the argument list of stJoinedResult< ObjectType >::Intersection(stJoinedResult *result1, stJoinedResult *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:958: Warning: The following parameters of stJoinedResult::Intersection(stJoinedResult *result1, stJoinedResult *result2) are not documented:
+  parameter 'result1'
+  parameter 'result2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:973: Warning: argument 'r1' of command @param is not found in the argument list of stJoinedResult< ObjectType >::Intersection(stJoinedResult *result1, stJoinedResult *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:973: Warning: argument 'r2' of command @param is not found in the argument list of stJoinedResult< ObjectType >::Intersection(stJoinedResult *result1, stJoinedResult *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:973: Warning: The following parameters of stJoinedResult::Intersection(stJoinedResult *result1, stJoinedResult *result2) are not documented:
+  parameter 'result1'
+  parameter 'result2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stTreeResult.h:866: Warning: argument 'p' of command @param is not found in the argument list of stJoinedResult< ObjectType >::RemoveLast()
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:917: Warning: argument 'sample' of command @param is not found in the argument list of stJoinedResult< ObjectType >::SetQueryInfo(int querytype, stCount k, stDistance radius, bool tie)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:886: Warning: argument 'sample' of command @param is not found in the argument list of stJoinedResult< ObjectType >::SetQueryInfo(int querytype=UNKNOWN, stCount k=0, stDistance radius=0.0, stDistance innerRadius=0.0, bool tie=false)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stTreeResult.h:941: Warning: argument 'sample' of command @param is not found in the argument list of stJoinedResult< ObjectType >::SetQueryInfo(int querytype, stCount k, stDistance radius, bool tie)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stTreeResult.h:910: Warning: argument 'sample' of command @param is not found in the argument list of stJoinedResult< ObjectType >::SetQueryInfo(int querytype=UNKNOWN, stCount k=0, stDistance radius=0.0, stDistance innerRadius=0.0, bool tie=false)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:891: Warning: argument 'sample' of command @param is not found in the argument list of stJoinedResult< ObjectType >::SetQueryInfo(int querytype, stCount k, stDistance radius, bool tie)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:860: Warning: argument 'sample' of command @param is not found in the argument list of stJoinedResult< ObjectType >::SetQueryInfo(int querytype=UNKNOWN, stCount k=0, stDistance radius=0.0, stDistance innerRadius=0.0, bool tie=false)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:965: Warning: argument 'r1' of command @param is not found in the argument list of stJoinedResult< ObjectType >::Union(stJoinedResult *result1, stJoinedResult *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:965: Warning: argument 'r2' of command @param is not found in the argument list of stJoinedResult< ObjectType >::Union(stJoinedResult *result1, stJoinedResult *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:965: Warning: The following parameters of stJoinedResult::Union(stJoinedResult *result1, stJoinedResult *result2) are not documented:
+  parameter 'result1'
+  parameter 'result2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:980: Warning: argument 'r1' of command @param is not found in the argument list of stJoinedResult< ObjectType >::Union(stJoinedResult *result1, stJoinedResult *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:980: Warning: argument 'r2' of command @param is not found in the argument list of stJoinedResult< ObjectType >::Union(stJoinedResult *result1, stJoinedResult *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:980: Warning: The following parameters of stJoinedResult::Union(stJoinedResult *result1, stJoinedResult *result2) are not documented:
+  parameter 'result1'
+  parameter 'result2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stTreeResult.h:1051: Warning: argument 'hint' of command @param is not found in the argument list of stJoinedResultPaged< ObjectType >::stJoinedResultPaged()
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stTreeResult.h:1206: Warning: argument 'sample' of command @param is not found in the argument list of stJoinedResultPaged< ObjectType >::SetQueryInfo(int querytype, stCount k, stDistance radius, bool tie)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stTreeResult.h:1175: Warning: argument 'sample' of command @param is not found in the argument list of stJoinedResultPaged< ObjectType >::SetQueryInfo(int querytype=UNKNOWN, stCount k=0, stDistance radius=0.0, stDistance innerRadius=0.0, bool tie=false)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:752: Warning: Unsupported xml/html tag <class> found
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:666: Warning: argument 'obj1' of command @param is not found in the argument list of stLEditMetricEvaluator< DType >::GetDistance(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:666: Warning: argument 'obj2' of command @param is not found in the argument list of stLEditMetricEvaluator< DType >::GetDistance(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:666: Warning: The following parameters of stLEditMetricEvaluator::GetDistance(stObject *o1, stObject *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:676: Warning: argument 'obj1' of command @param is not found in the argument list of stLEditMetricEvaluator< DType >::GetDistance2(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:676: Warning: argument 'obj2' of command @param is not found in the argument list of stLEditMetricEvaluator< DType >::GetDistance2(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:676: Warning: The following parameters of stLEditMetricEvaluator::GetDistance2(stObject *o1, stObject *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stLineFitting.h:213: Warning: argument 'X' of command @param is not found in the argument list of stLineFitting< DataType >::linerror(DataType *x, DataType *y, int numberOfPoints, DataType &slope, DataType &yIncrement)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stLineFitting.h:213: Warning: argument 'Y' of command @param is not found in the argument list of stLineFitting< DataType >::linerror(DataType *x, DataType *y, int numberOfPoints, DataType &slope, DataType &yIncrement)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stLineFitting.h:213: Warning: The following parameters of stLineFitting::linerror(DataType *x, DataType *y, int numberOfPoints, DataType &slope, DataType &yIncrement) are not documented:
+  parameter 'x'
+  parameter 'y'
+  parameter 'slope'
+  parameter 'yIncrement'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stLineFitting.h:111: Warning: argument 'logSqr' of command @param is not found in the argument list of stLineFitting< DataType >::stLeastSquaredFitting(int numberOfPoints, DataType *logR, DataType *logSqR, DataType minimumLeastSquaredError, int minimumNumberOfPoints)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stLineFitting.h:111: Warning: The following parameters of stLineFitting::stLeastSquaredFitting(int numberOfPoints, DataType *logR, DataType *logSqR, DataType minimumLeastSquaredError, int minimumNumberOfPoints) are not documented:
+  parameter 'logSqR'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stLineFitting.h:127: Warning: argument 'logSqr' of command @param is not found in the argument list of stLineFitting< DataType >::stRegionBasedLineFitting(int numberOfPoints, DataType *logR, DataType *logSqR, DataType minimumLeastSquaredError)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stLineFitting.h:127: Warning: The following parameters of stLineFitting::stRegionBasedLineFitting(int numberOfPoints, DataType *logR, DataType *logSqR, DataType minimumLeastSquaredError) are not documented:
+  parameter 'logSqR'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:123: Warning: Found unknown command `\auth'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:152: Warning: argument 'obj1' of command @param is not found in the argument list of stLInfinityMetricEvaluator< DType >::GetDistance(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:152: Warning: argument 'obj2' of command @param is not found in the argument list of stLInfinityMetricEvaluator< DType >::GetDistance(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:152: Warning: The following parameters of stLInfinityMetricEvaluator::GetDistance(stObject *o1, stObject *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:157: Warning: argument 'obj1' of command @param is not found in the argument list of stLInfinityMetricEvaluator< DType >::GetDistance2(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:157: Warning: argument 'obj2' of command @param is not found in the argument list of stLInfinityMetricEvaluator< DType >::GetDistance2(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:157: Warning: The following parameters of stLInfinityMetricEvaluator::GetDistance2(stObject *o1, stObject *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListPriorityQueue.h:201: Warning: argument 'w' of command @param is not found in the argument list of stListPriorityQueue::Add(stPageID pageID, stDistance distance, stDistance radius)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListPriorityQueue.h:201: Warning: argument 'dist' of command @param is not found in the argument list of stListPriorityQueue::Add(stPageID pageID, stDistance distance, stDistance radius)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListPriorityQueue.h:201: Warning: The following parameters of stListPriorityQueue::Add(stPageID pageID, stDistance distance, stDistance radius) are not documented:
+  parameter 'distance'
+  parameter 'radius'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMAMView.h:484: Warning: argument 'serial' of command @param is not found in the argument list of stMAMViewExtractor< ObjectType, EvaluatorType >::GetSerial()
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:260: Warning: argument 'obj1' of command @param is not found in the argument list of stManhatanMetricEvaluator< DType >::GetDistance(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:260: Warning: argument 'obj2' of command @param is not found in the argument list of stManhatanMetricEvaluator< DType >::GetDistance(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:260: Warning: The following parameters of stManhatanMetricEvaluator::GetDistance(stObject *o1, stObject *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:265: Warning: argument 'obj1' of command @param is not found in the argument list of stManhatanMetricEvaluator< DType >::GetDistance2(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:265: Warning: argument 'obj2' of command @param is not found in the argument list of stManhatanMetricEvaluator< DType >::GetDistance2(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:265: Warning: The following parameters of stManhatanMetricEvaluator::GetDistance2(stObject *o1, stObject *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:795: Warning: The following parameters of stMGrid::stMGrid(stPageManager *pageman, stPageManager *pagemanD, stPageManager *pagemanO, stCount nFocus, stCount nRings, stCount nClusters, EvaluatorType *metricEvaluator) are not documented:
+  parameter 'pageman'
+  parameter 'pagemanD'
+  parameter 'pagemanO'
+  parameter 'nRings'
+  parameter 'nClusters'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:810: Warning: argument 'idx' of command @param is not found in the argument list of stMGrid< ObjectType, EvaluatorType >::GetDistance(stCount index)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:810: Warning: The following parameters of stMGrid::GetDistance(stCount index) are not documented:
+  parameter 'index'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:803: Warning: argument 'idx' of command @param is not found in the argument list of stMGrid< ObjectType, EvaluatorType >::GetObject(stCount index)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:803: Warning: The following parameters of stMGrid::GetObject(stCount index) are not documented:
+  parameter 'index'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:235: Warning: unexpected end of comment block while parsing the argument of command param
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:280: Warning: argument 'idx' of command @param is not found in the argument list of stMGridLogicNode< ObjectType, EvaluatorType >::GetObject(stCount index)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:280: Warning: The following parameters of stMGridLogicNode::GetObject(stCount index) are not documented:
+  parameter 'index'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:320: Warning: argument 'cluster' of command @param is not found in the argument list of stMGridLogicNode< ObjectType, EvaluatorType >::SetCell(stCount idx, stCount cell)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:320: Warning: The following parameters of stMGridLogicNode::SetCell(stCount idx, stCount cell) are not documented:
+  parameter 'cell'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:47: Warning: argument 'pageman' of command @param is not found in the argument list of stMGridOrigNode< ObjectType, EvaluatorType >::stMGridOrigNode(stPage *page, bool create=false)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:47: Warning: The following parameters of stMGridOrigNode::stMGridOrigNode(stPage *page, bool create=false) are not documented:
+  parameter 'page'
+  parameter 'create'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:101: Warning: argument 'id' of command @param is not found in the argument list of stMGridOrigNode< ObjectType, EvaluatorType >::GetObject(int idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:101: Warning: The following parameters of stMGridOrigNode::GetObject(int idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:113: Warning: argument 'id' of command @param is not found in the argument list of stMGridOrigNode< ObjectType, EvaluatorType >::GetObjectSize(int idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:113: Warning: The following parameters of stMGridOrigNode::GetObjectSize(int idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:125: Warning: argument 'id' of command @param is not found in the argument list of stMGridOrigNode< ObjectType, EvaluatorType >::RemoveEntry(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:125: Warning: The following parameters of stMGridOrigNode::RemoveEntry(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:144: Warning: argument 'id' of command @param is not found in the argument list of stMGridOrigNode< ObjectType, EvaluatorType >::SetNextNode(stPageID idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:144: Warning: The following parameters of stMGridOrigNode::SetNextNode(stPageID idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:593: Warning: The following parameters of stMGridPivot::stMGridPivot(stCount nFocus, stCount nRings, EvaluatorType *metricEvaluator) are not documented:
+  parameter 'nRings'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:600: Warning: argument 'Object' of command @param is not found in the argument list of stMGridPivot< ObjectType, EvaluatorType >::BuildFieldDistance(ObjectType *object, stDistance *fieldDistance)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:600: Warning: argument 'FieldDistance' of command @param is not found in the argument list of stMGridPivot< ObjectType, EvaluatorType >::BuildFieldDistance(ObjectType *object, stDistance *fieldDistance)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:600: Warning: The following parameters of stMGridPivot::BuildFieldDistance(ObjectType *object, stDistance *fieldDistance) are not documented:
+  parameter 'object'
+  parameter 'fieldDistance'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:636: Warning: argument 'logicnode' of command @param is not found in the argument list of stMGridPivot< ObjectType, EvaluatorType >::execHFFastMap(tLogicNode *logicNode, stCount numObject)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:636: Warning: The following parameters of stMGridPivot::execHFFastMap(tLogicNode *logicNode, stCount numObject) are not documented:
+  parameter 'logicNode'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:644: Warning: argument 'logicnode' of command @param is not found in the argument list of stMGridPivot< ObjectType, EvaluatorType >::execHFRemainingFastMap(tLogicNode *logicNode, stCount numObject, stDistance edge, int nFound)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:644: Warning: The following parameters of stMGridPivot::execHFRemainingFastMap(tLogicNode *logicNode, stCount numObject, stDistance edge, int nFound) are not documented:
+  parameter 'logicNode'
+  parameter 'edge'
+  parameter 'nFound'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:652: Warning: argument 'logicnode' of command @param is not found in the argument list of stMGridPivot< ObjectType, EvaluatorType >::execRandomPivots(tLogicNode *logicNode, stCount numObject)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:652: Warning: The following parameters of stMGridPivot::execRandomPivots(tLogicNode *logicNode, stCount numObject) are not documented:
+  parameter 'logicNode'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:584: Warning: argument 'node' of command @param is not found in the argument list of stMGridPivot< ObjectType, EvaluatorType >::FindPivot(tLogicNode *logicNode, stCount numObject, int type)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:584: Warning: The following parameters of stMGridPivot::FindPivot(tLogicNode *logicNode, stCount numObject, int type) are not documented:
+  parameter 'logicNode'
+  parameter 'type'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:608: Warning: argument 'node' of command @param is not found in the argument list of stMGridPivot< ObjectType, EvaluatorType >::FindRings(tLogicNode *logicNode, stCount numObject, int Type)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMGrid.h:608: Warning: The following parameters of stMGridPivot::FindRings(tLogicNode *logicNode, stCount numObject, int Type) are not documented:
+  parameter 'logicNode'
+  parameter 'Type'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMTree.h:319: Warning: The following parameters of stMLogicNode::Distribute(stMIndexNode *node0, ObjectType *&rep0, stMIndexNode *node1, ObjectType *&rep1, EvaluatorType *metricEvaluator) are not documented:
+  parameter 'rep1'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMTree.h:298: Warning: argument 'id' of command @param is not found in the argument list of stMLogicNode< ObjectType, EvaluatorType >::GetRepresentative(int idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMTree.h:298: Warning: The following parameters of stMLogicNode::GetRepresentative(int idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMTree.h:289: Warning: argument 'id' of command @param is not found in the argument list of stMLogicNode< ObjectType, EvaluatorType >::GetRepresentativeIndex(int idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMTree.h:289: Warning: The following parameters of stMLogicNode::GetRepresentativeIndex(int idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMMNode.h:107: Warning: image file mmnode.png is not found in IMAGE_PATH: assuming external image.
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMMNode.h:195: Warning: argument 'id' of command @param is not found in the argument list of stMMNode::GetObject(int idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMMNode.h:195: Warning: The following parameters of stMMNode::GetObject(int idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMMNode.h:207: Warning: argument 'id' of command @param is not found in the argument list of stMMNode::GetObjectSize(int idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMMNode.h:207: Warning: The following parameters of stMMNode::GetObjectSize(int idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMMTree.h:292: Warning: The following parameters of stMMTree::NearestQuery(tObject *sample, stCount k, tResult *result, stPageID page, bool tie) are not documented:
+  parameter 'tie'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:947: Warning: The following parameters of stMOmni::stMOmni(stPageManager *pageman, stCount nOmni, stCount nFocus, EvaluatorType *metricEvaluator) are not documented:
+  parameter 'pageman'
+  parameter 'nOmni'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:961: Warning: argument 'idx' of command @param is not found in the argument list of stMOmni< ObjectType, EvaluatorType >::GetDistance(stCount index)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:961: Warning: The following parameters of stMOmni::GetDistance(stCount index) are not documented:
+  parameter 'index'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:954: Warning: argument 'idx' of command @param is not found in the argument list of stMOmni< ObjectType, EvaluatorType >::GetObject(stCount index)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:954: Warning: The following parameters of stMOmni::GetObject(stCount index) are not documented:
+  parameter 'index'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMTree.h:783: Warning: argument 'obj' of command @param is not found in the argument list of stMTree< ObjectType, EvaluatorType >::Add(ObjectType *newObj)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMTree.h:783: Warning: The following parameters of stMTree::Add(ObjectType *newObj) are not documented:
+  parameter 'newObj'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMTree.h:1512: Warning: The following parameters of stMTree::PointQuery(tResult *result, ObjectType *sample) are not documented:
+  parameter 'result'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:777: Warning: The following parameters of stOmni::stOmni(stPageManager *pageman, stPageManager *pagemanD, stCount nFocus, EvaluatorType *metricEvaluator) are not documented:
+  parameter 'pageman'
+  parameter 'pagemanD'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:791: Warning: argument 'idx' of command @param is not found in the argument list of stOmni< ObjectType, EvaluatorType >::GetDistance(stCount index)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:791: Warning: The following parameters of stOmni::GetDistance(stCount index) are not documented:
+  parameter 'index'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:784: Warning: argument 'idx' of command @param is not found in the argument list of stOmni< ObjectType, EvaluatorType >::GetObject(stCount index)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:784: Warning: The following parameters of stOmni::GetObject(stCount index) are not documented:
+  parameter 'index'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:241: Warning: unexpected end of comment block while parsing the argument of command param
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:286: Warning: argument 'idx' of command @param is not found in the argument list of stOmniLogicNode< ObjectType, EvaluatorType >::GetObject(stCount index)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:286: Warning: The following parameters of stOmniLogicNode::GetObject(stCount index) are not documented:
+  parameter 'index'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:330: Warning: argument 'cluster' of command @param is not found in the argument list of stOmniLogicNode< ObjectType, EvaluatorType >::ResetCost(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:44: Warning: argument 'pageman' of command @param is not found in the argument list of stOmniOrigNode< ObjectType, EvaluatorType >::stOmniOrigNode(stPage *page, bool create=false)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:44: Warning: The following parameters of stOmniOrigNode::stOmniOrigNode(stPage *page, bool create=false) are not documented:
+  parameter 'page'
+  parameter 'create'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:89: Warning: The following parameters of stOmniOrigNode::AddEntry(stSize size, const stByte *object, stDistance maxD=0) are not documented:
+  parameter 'maxD'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:99: Warning: argument 'id' of command @param is not found in the argument list of stOmniOrigNode< ObjectType, EvaluatorType >::GetObject(int idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:99: Warning: The following parameters of stOmniOrigNode::GetObject(int idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:111: Warning: argument 'id' of command @param is not found in the argument list of stOmniOrigNode< ObjectType, EvaluatorType >::GetObjectSize(int idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:111: Warning: The following parameters of stOmniOrigNode::GetObjectSize(int idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:123: Warning: argument 'id' of command @param is not found in the argument list of stOmniOrigNode< ObjectType, EvaluatorType >::RemoveEntry(stCount idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:123: Warning: The following parameters of stOmniOrigNode::RemoveEntry(stCount idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:150: Warning: argument 'id' of command @param is not found in the argument list of stOmniOrigNode< ObjectType, EvaluatorType >::SetNextNode(stPageID idx)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:150: Warning: The following parameters of stOmniOrigNode::SetNextNode(stPageID idx) are not documented:
+  parameter 'idx'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:588: Warning: argument 'Object' of command @param is not found in the argument list of stOmniPivot< ObjectType, EvaluatorType >::BuildFieldDistance(ObjectType *object, stDistance *fieldDistance)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:588: Warning: argument 'FieldDistance' of command @param is not found in the argument list of stOmniPivot< ObjectType, EvaluatorType >::BuildFieldDistance(ObjectType *object, stDistance *fieldDistance)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:588: Warning: The following parameters of stOmniPivot::BuildFieldDistance(ObjectType *object, stDistance *fieldDistance) are not documented:
+  parameter 'object'
+  parameter 'fieldDistance'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:622: Warning: argument 'logicnode' of command @param is not found in the argument list of stOmniPivot< ObjectType, EvaluatorType >::execHFFastMap(tLogicNode *logicNode, stCount numObject)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:622: Warning: The following parameters of stOmniPivot::execHFFastMap(tLogicNode *logicNode, stCount numObject) are not documented:
+  parameter 'logicNode'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:631: Warning: argument 'logicnode' of command @param is not found in the argument list of stOmniPivot< ObjectType, EvaluatorType >::execHFRemainingFastMap(tLogicNode *logicNode, stCount numObject, stDistance edge, int nFound)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:631: Warning: The following parameters of stOmniPivot::execHFRemainingFastMap(tLogicNode *logicNode, stCount numObject, stDistance edge, int nFound) are not documented:
+  parameter 'logicNode'
+  parameter 'edge'
+  parameter 'nFound'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:640: Warning: argument 'logicnode' of command @param is not found in the argument list of stOmniPivot< ObjectType, EvaluatorType >::execRandomPivots(tLogicNode *logicNode, stCount numObject)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:640: Warning: The following parameters of stOmniPivot::execRandomPivots(tLogicNode *logicNode, stCount numObject) are not documented:
+  parameter 'logicNode'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:570: Warning: argument 'node' of command @param is not found in the argument list of stOmniPivot< ObjectType, EvaluatorType >::FindPivot(tLogicNode *logicNode, stCount numObject, int type=0, int part=0)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stOmni.h:570: Warning: The following parameters of stOmniPivot::FindPivot(tLogicNode *logicNode, stCount numObject, int type=0, int part=0) are not documented:
+  parameter 'logicNode'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPageServer.h:114: Warning: The following parameters of stPageServer::DisposePage(int clientID, stPage *page) are not documented:
+  parameter 'clientID'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPageServer.h:92: Warning: The following parameters of stPageServer::GetPage(int clientID, stPageID pageid) are not documented:
+  parameter 'clientID'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPageServer.h:121: Warning: The following parameters of stPageServer::ReleasePage(int clientID, stPage *page) are not documented:
+  parameter 'clientID'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPageServer.h:100: Warning: The following parameters of stPageServer::WritePage(int clientID, stPage *page) are not documented:
+  parameter 'clientID'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:135: Warning: argument 'stNumberOfDimensions' of command @param is not found in the argument list of stPairCellHighDimensional::stPairCellHighDimensional(int dimension)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:135: Warning: argument 'stNumberOfGridLevels' of command @param is not found in the argument list of stPairCellHighDimensional::stPairCellHighDimensional(int dimension)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stCountingTree.h:135: Warning: The following parameters of stPairCellHighDimensional::stPairCellHighDimensional(int dimension) are not documented:
+  parameter 'dimension'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPartitionHash.h:220: Warning: argument 'obj' of command @param is not found in the argument list of stPartitionHash< ObjectType, EvaluatorType >::Add(ObjectType *newObj)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPartitionHash.h:220: Warning: The following parameters of stPartitionHash::Add(ObjectType *newObj) are not documented:
+  parameter 'newObj'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPartitionHash.h:836: Warning: argument 'countAxis' of command @param is not found in the argument list of stPartitionHash< ObjectType, EvaluatorType >::GeneratorRegionDesc(stByte *countCoordAxis, stByte **CoordAxis, stPartitionListRegionDesc &list)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPartitionHash.h:836: Warning: The following parameters of stPartitionHash::GeneratorRegionDesc(stByte *countCoordAxis, stByte **CoordAxis, stPartitionListRegionDesc &list) are not documented:
+  parameter 'countCoordAxis'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPartitionHash.h:413: Warning: argument 'k' of command @param is not found in the argument list of stPartitionHash< ObjectType, EvaluatorType >::PointQuery(ObjectType *sample)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPartitionHash.h:413: Warning: argument 'tie' of command @param is not found in the argument list of stPartitionHash< ObjectType, EvaluatorType >::PointQuery(ObjectType *sample)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPartitionHash.h:774: Warning: argument 'beginRegion' of command @param is not found in the argument list of stPartitionHash< ObjectType, EvaluatorType >::SplitLeafChoiceOneRepByVariance(stPartitionLeafBucket *fullBucket, stPartitionLeafBucket *promoteBucket, stPartitionRegionDesc newReg, ObjectType *newObj, stPartitionSubtreeInfo &splited, stPartitionSubtreeInfo &promoted)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPartitionHash.h:774: Warning: The following parameters of stPartitionHash::SplitLeafChoiceOneRepByVariance(stPartitionLeafBucket *fullBucket, stPartitionLeafBucket *promoteBucket, stPartitionRegionDesc newReg, ObjectType *newObj, stPartitionSubtreeInfo &splited, stPartitionSubtreeInfo &promoted) are not documented:
+  parameter 'splited'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPartitionNode.h:948: Warning: argument 'num' of command @param is not found in the argument list of stPartitionIndexBucket::ChoiceSubBucket(tmpl_stPartitionGlobalRep *global, stPartitionRegionDesc findRegion, int &idx, stPartitionRegionDesc &begin, stPartitionRegionDesc &end)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPartitionNode.h:948: Warning: The following parameters of stPartitionIndexBucket::ChoiceSubBucket(tmpl_stPartitionGlobalRep *global, stPartitionRegionDesc findRegion, int &idx, stPartitionRegionDesc &begin, stPartitionRegionDesc &end) are not documented:
+  parameter 'idx'
+  parameter 'begin'
+  parameter 'end'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPartitionNode.h:734: Warning: argument 'The' of command @param is not found in the argument list of stPartitionNode::SetNextBucket(stPageID next)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPartitionNode.h:734: Warning: The following parameters of stPartitionNode::SetNextBucket(stPageID next) are not documented:
+  parameter 'next'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPointSet.h:99: Warning: argument 'stNumberOfPoints' of command @param is not found in the argument list of stPointSet::stPointSet(int NumberOfPointsP)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPointSet.h:99: Warning: The following parameters of stPointSet::stPointSet(int NumberOfPointsP) are not documented:
+  parameter 'NumberOfPointsP'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPointSet.h:116: Warning: argument 'stPointSet.' of command @param is not found in the argument list of stPointSet::operator+=(const stPointSet &)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPointSet.h:124: Warning: argument 'stPointSet.' of command @param is not found in the argument list of stPointSet::operator-=(const stPointSet &)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stPointSet.h:132: Warning: argument 'stPointSet.' of command @param is not found in the argument list of stPointSet::operator=(const stPointSet &)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:356: Warning: argument 'r1' of command @param is not found in the argument list of stResult< ObjectType >::Intersection(stResult *result1, stResult *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:356: Warning: argument 'r2' of command @param is not found in the argument list of stResult< ObjectType >::Intersection(stResult *result1, stResult *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:356: Warning: The following parameters of stResult::Intersection(stResult *result1, stResult *result2) are not documented:
+  parameter 'result1'
+  parameter 'result2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:315: Warning: argument 'r1' of command @param is not found in the argument list of stResult< ObjectType >::Intersection(stResult *result1, stResult *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:315: Warning: argument 'r2' of command @param is not found in the argument list of stResult< ObjectType >::Intersection(stResult *result1, stResult *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:315: Warning: The following parameters of stResult::Intersection(stResult *result1, stResult *result2) are not documented:
+  parameter 'result1'
+  parameter 'result2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:363: Warning: argument 'r1' of command @param is not found in the argument list of stResult< ObjectType >::Union(stResult *result1, stResult *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:363: Warning: argument 'r2' of command @param is not found in the argument list of stResult< ObjectType >::Union(stResult *result1, stResult *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:363: Warning: The following parameters of stResult::Union(stResult *result1, stResult *result2) are not documented:
+  parameter 'result1'
+  parameter 'result2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:322: Warning: argument 'r1' of command @param is not found in the argument list of stResult< ObjectType >::Union(stResult *result1, stResult *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:322: Warning: argument 'r2' of command @param is not found in the argument list of stResult< ObjectType >::Union(stResult *result1, stResult *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:322: Warning: The following parameters of stResult::Union(stResult *result1, stResult *result2) are not documented:
+  parameter 'result1'
+  parameter 'result2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stTreeResult.h:519: Warning: argument 'hint' of command @param is not found in the argument list of stResultPaged< ObjectType >::stResultPaged()
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:666: Warning: argument 'r1' of command @param is not found in the argument list of stResultPaged< ObjectType >::Intersection(stResultPaged *result1, stResultPaged *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:666: Warning: argument 'r2' of command @param is not found in the argument list of stResultPaged< ObjectType >::Intersection(stResultPaged *result1, stResultPaged *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:666: Warning: The following parameters of stResultPaged::Intersection(stResultPaged *result1, stResultPaged *result2) are not documented:
+  parameter 'result1'
+  parameter 'result2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:600: Warning: argument 'r1' of command @param is not found in the argument list of stResultPaged< ObjectType >::Intersection(stResultPaged *result1, stResultPaged *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:600: Warning: argument 'r2' of command @param is not found in the argument list of stResultPaged< ObjectType >::Intersection(stResultPaged *result1, stResultPaged *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:600: Warning: The following parameters of stResultPaged::Intersection(stResultPaged *result1, stResultPaged *result2) are not documented:
+  parameter 'result1'
+  parameter 'result2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:673: Warning: argument 'r1' of command @param is not found in the argument list of stResultPaged< ObjectType >::Union(stResultPaged *result1, stResultPaged *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:673: Warning: argument 'r2' of command @param is not found in the argument list of stResultPaged< ObjectType >::Union(stResultPaged *result1, stResultPaged *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVectorResult.h:673: Warning: The following parameters of stResultPaged::Union(stResultPaged *result1, stResultPaged *result2) are not documented:
+  parameter 'result1'
+  parameter 'result2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:607: Warning: argument 'r1' of command @param is not found in the argument list of stResultPaged< ObjectType >::Union(stResultPaged *result1, stResultPaged *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:607: Warning: argument 'r2' of command @param is not found in the argument list of stResultPaged< ObjectType >::Union(stResultPaged *result1, stResultPaged *result2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stListResult.h:607: Warning: The following parameters of stResultPaged::Union(stResultPaged *result1, stResultPaged *result2) are not documented:
+  parameter 'result1'
+  parameter 'result2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stResult.h:326: Warning: argument 'joined' of command @param is not found in the argument list of stResultTriple< ObjectType >::stResultTriple(tObject *obj, tObject *joinedobj, stDistance distance)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stResult.h:326: Warning: The following parameters of stResultTriple::stResultTriple(tObject *obj, tObject *joinedobj, stDistance distance) are not documented:
+  parameter 'joinedobj'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stRNode.h:27: Warning: image file Rnode.png is not found in IMAGE_PATH: assuming external image.
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stRTree.h:175: Warning: argument 'obj' of command @param is not found in the argument list of stRTree< DataType, OIDType >::Add(basicArrayObject *newObj)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stRTree.h:175: Warning: The following parameters of stRTree::Add(basicArrayObject *newObj) are not documented:
+  parameter 'newObj'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stRTree.h:730: Warning: argument 'mbrA1' of command @param is not found in the argument list of stRTree< DataType, OIDType >::AddNewRoot(basicArrayObject *mbrA, stPageID nodeID1, stCount nEntries1, bool sonIsLeaf1, basicArrayObject *mbrB, stPageID nodeID2, stCount nEntries2, bool sonIsLeaf2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stRTree.h:730: Warning: argument 'mbrA2' of command @param is not found in the argument list of stRTree< DataType, OIDType >::AddNewRoot(basicArrayObject *mbrA, stPageID nodeID1, stCount nEntries1, bool sonIsLeaf1, basicArrayObject *mbrB, stPageID nodeID2, stCount nEntries2, bool sonIsLeaf2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stRTree.h:730: Warning: argument 'mbrB1' of command @param is not found in the argument list of stRTree< DataType, OIDType >::AddNewRoot(basicArrayObject *mbrA, stPageID nodeID1, stCount nEntries1, bool sonIsLeaf1, basicArrayObject *mbrB, stPageID nodeID2, stCount nEntries2, bool sonIsLeaf2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stRTree.h:730: Warning: argument 'mbrB2' of command @param is not found in the argument list of stRTree< DataType, OIDType >::AddNewRoot(basicArrayObject *mbrA, stPageID nodeID1, stCount nEntries1, bool sonIsLeaf1, basicArrayObject *mbrB, stPageID nodeID2, stCount nEntries2, bool sonIsLeaf2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stRTree.h:730: Warning: The following parameters of stRTree::AddNewRoot(basicArrayObject *mbrA, stPageID nodeID1, stCount nEntries1, bool sonIsLeaf1, basicArrayObject *mbrB, stPageID nodeID2, stCount nEntries2, bool sonIsLeaf2) are not documented:
+  parameter 'mbrA'
+  parameter 'sonIsLeaf1'
+  parameter 'mbrB'
+  parameter 'sonIsLeaf2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stRTree.h:517: Warning: argument 'rIndexNode' of command @param is not found in the argument list of stRTree< DataType, OIDType >::ChooseSubTree(stPage *currPage, basicArrayObject *obj)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stRTree.h:517: Warning: The following parameters of stRTree::ChooseSubTree(stPage *currPage, basicArrayObject *obj) are not documented:
+  parameter 'currPage'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stRTree.h:470: Warning: argument 'repMBR' of command @param is not found in the argument list of stRTree< DataType, OIDType >::InsertRecursive(stPageID currNodeID, basicArrayObject *newObj, basicArrayObject *mbrObj, stSubtreeInfo &promo1, stSubtreeInfo &promo2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stRTree.h:470: Warning: The following parameters of stRTree::InsertRecursive(stPageID currNodeID, basicArrayObject *newObj, basicArrayObject *mbrObj, stSubtreeInfo &promo1, stSubtreeInfo &promo2) are not documented:
+  parameter 'mbrObj'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stRTree.h:221: Warning: argument 'method' of command @param is not found in the argument list of stRTree< DataType, OIDType >::SetQueryMetricEvaluator(rBasicMetricEvaluator *metricevaluator)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stRTree.h:221: Warning: The following parameters of stRTree::SetQueryMetricEvaluator(rBasicMetricEvaluator *metricevaluator) are not documented:
+  parameter 'metricevaluator'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSeqTree.h:260: Warning: The following parameters of stSeqLogicNode::Distribute(stSeqIndexNode *node0, ObjectType *&rep0, stSeqIndexNode *node1, ObjectType *&rep1, EvaluatorType *metricEvaluator) are not documented:
+  parameter 'rep1'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSeqNode.h:92: Warning: image file seqnode.png is not found in IMAGE_PATH: assuming external image.
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSeqTree.h:851: Warning: argument 'obj' of command @param is not found in the argument list of stSeqTree< ObjectType, EvaluatorType >::Add(ObjectType *newObj)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSeqTree.h:851: Warning: The following parameters of stSeqTree::Add(ObjectType *newObj) are not documented:
+  parameter 'newObj'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSeqTree.h:1400: Warning: The following parameters of stSeqTree::Consistency(stPageID pageID, ObjectType *repObj, stDistance &distance) are not documented:
+  parameter 'repObj'
+  parameter 'distance'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSeqTree.h:1559: Warning: argument 'currNodeIndex' of command @param is not found in the argument list of stSeqTree< ObjectType, EvaluatorType >::JoinedTreeRangeJoinRecursive(ObjectType *objIndex, stDistance radiusObjIndex, stSeqNode *currNodeJoin, stDistance radiusObjJoin, stPageManager *PageManagerJoin, stDistance distRepres, const stDistance range, stSeqLeafNode *leafNodeIndex, tJoinedResult *globalResult)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSeqTree.h:1559: Warning: argument 'heightIndex' of command @param is not found in the argument list of stSeqTree< ObjectType, EvaluatorType >::JoinedTreeRangeJoinRecursive(ObjectType *objIndex, stDistance radiusObjIndex, stSeqNode *currNodeJoin, stDistance radiusObjJoin, stPageManager *PageManagerJoin, stDistance distRepres, const stDistance range, stSeqLeafNode *leafNodeIndex, tJoinedResult *globalResult)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSeqTree.h:1559: Warning: argument 'objJoin' of command @param is not found in the argument list of stSeqTree< ObjectType, EvaluatorType >::JoinedTreeRangeJoinRecursive(ObjectType *objIndex, stDistance radiusObjIndex, stSeqNode *currNodeJoin, stDistance radiusObjJoin, stPageManager *PageManagerJoin, stDistance distRepres, const stDistance range, stSeqLeafNode *leafNodeIndex, tJoinedResult *globalResult)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSeqTree.h:1559: Warning: argument 'heightJoin' of command @param is not found in the argument list of stSeqTree< ObjectType, EvaluatorType >::JoinedTreeRangeJoinRecursive(ObjectType *objIndex, stDistance radiusObjIndex, stSeqNode *currNodeJoin, stDistance radiusObjJoin, stPageManager *PageManagerJoin, stDistance distRepres, const stDistance range, stSeqLeafNode *leafNodeIndex, tJoinedResult *globalResult)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSeqTree.h:1559: Warning: argument 'activeBuffer' of command @param is not found in the argument list of stSeqTree< ObjectType, EvaluatorType >::JoinedTreeRangeJoinRecursive(ObjectType *objIndex, stDistance radiusObjIndex, stSeqNode *currNodeJoin, stDistance radiusObjJoin, stPageManager *PageManagerJoin, stDistance distRepres, const stDistance range, stSeqLeafNode *leafNodeIndex, tJoinedResult *globalResult)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSeqTree.h:1576: Warning: Found unknown command `\autor'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSeqTree.h:1559: Warning: The following parameters of stSeqTree::JoinedTreeRangeJoinRecursive(ObjectType *objIndex, stDistance radiusObjIndex, stSeqNode *currNodeJoin, stDistance radiusObjJoin, stPageManager *PageManagerJoin, stDistance distRepres, const stDistance range, stSeqLeafNode *leafNodeIndex, tJoinedResult *globalResult) are not documented:
+  parameter 'leafNodeIndex'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSeqTree.h:1541: Warning: The following parameters of stSeqTree::PointQuery(tResult *result, ObjectType *sample) are not documented:
+  parameter 'result'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSeqTree.h:1108: Warning: argument 'activeBuffer' of command @param is not found in the argument list of stSeqTree< ObjectType, EvaluatorType >::RangeJoinQuery(stSeqTree *seqTree, stDistance range)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:363: Warning: The following parameters of stSlimLogicNode::Distribute(stSlimIndexNode *node0, ObjectType *&rep0, stSlimIndexNode *node1, ObjectType *&rep1, EvaluatorType *metricEvaluator) are not documented:
+  parameter 'rep1'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:979: Warning: argument 'obj' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::Add(ObjectType *newObj)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:979: Warning: The following parameters of stSlimTree::Add(ObjectType *newObj) are not documented:
+  parameter 'newObj'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2545: Warning: argument 'range' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::AproximateNearestQuery(stPageID pageID, tResult *result, ObjectType *sample, stDistance &rangeK, stCount k)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2545: Warning: The following parameters of stSlimTree::AproximateNearestQuery(stPageID pageID, tResult *result, ObjectType *sample, stDistance &rangeK, stCount k) are not documented:
+  parameter 'rangeK'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2605: Warning: argument 'result' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::DummyRangeJoinQueryRecursive(tJoinedResult *globalResult, stMetricTree< ObjectType, EvaluatorType > *joinedTree, stPageID pageID, stDistance range)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2605: Warning: The following parameters of stSlimTree::DummyRangeJoinQueryRecursive(tJoinedResult *globalResult, stMetricTree< ObjectType, EvaluatorType > *joinedTree, stPageID pageID, stDistance range) are not documented:
+  parameter 'globalResult'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:1548: Warning: The following parameters of stSlimTree::EstimateNearestQuery(ObjectType *sample, double fractalDimension, long totalNroObjects, stDistance maxDistance, stCount k, bool tie=false) are not documented:
+  parameter 'totalNroObjects'
+  parameter 'maxDistance'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2627: Warning: argument 'Size' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::GetSample(int sampleSize)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2627: Warning: The following parameters of stSlimTree::GetSample(int sampleSize) are not documented:
+  parameter 'sampleSize'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:1525: Warning: argument 'The' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::IncrementalNearestQuery(ObjectType *sample, stCount k, tResult *result, tGenericPriorityQueue *globalQueue)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:1525: Warning: The following parameters of stSlimTree::IncrementalNearestQuery(ObjectType *sample, stCount k, tResult *result, tGenericPriorityQueue *globalQueue) are not documented:
+  parameter 'result'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:1502: Warning: argument 'The' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::IncrementalNearestQuery(ObjectType *sample, stCount k, tResult *result, tPGenericHeap *globalQueue)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:1502: Warning: The following parameters of stSlimTree::IncrementalNearestQuery(ObjectType *sample, stCount k, tResult *result, tPGenericHeap *globalQueue) are not documented:
+  parameter 'result'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:1479: Warning: argument 'The' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::InitializeIncrementalNearestQuery(ObjectType *sample, stCount k, tResult *result, tGenericPriorityQueue *globalQueue)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:1479: Warning: The following parameters of stSlimTree::InitializeIncrementalNearestQuery(ObjectType *sample, stCount k, tResult *result, tGenericPriorityQueue *globalQueue) are not documented:
+  parameter 'result'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:1456: Warning: argument 'The' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::InitializeIncrementalNearestQuery(ObjectType *sample, stCount k, tResult *result, tPGenericHeap *globalQueue)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:1456: Warning: The following parameters of stSlimTree::InitializeIncrementalNearestQuery(ObjectType *sample, stCount k, tResult *result, tPGenericHeap *globalQueue) are not documented:
+  parameter 'result'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2435: Warning: argument 'pageID' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::KAndRangeQuery(tResult *result, ObjectType *sample, stDistance range, stCount k)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2454: Warning: argument 'pageID' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::KOrRangeQuery(tResult *result, ObjectType *sample, stDistance range, stCount k)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2454: Warning: argument 'dk' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::KOrRangeQuery(tResult *result, ObjectType *sample, stDistance range, stCount k)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2529: Warning: The following parameters of stSlimTree::LazyRangeQuery(stPageID pageID, tResult *result, ObjectType *sample, stDistance &range, stCount k, stDistance distanceRepres, bool &stop) are not documented:
+  parameter 'distanceRepres'
+  parameter 'stop'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2376: Warning: argument 'pageID' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::ListNearestQuery(tResult *result, ObjectType *sample, stDistance rangeK, stCount k)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2376: Warning: argument 'range' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::ListNearestQuery(tResult *result, ObjectType *sample, stDistance rangeK, stCount k)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2376: Warning: argument 'globalQueue' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::ListNearestQuery(tResult *result, ObjectType *sample, stDistance rangeK, stCount k)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2376: Warning: The following parameters of stSlimTree::ListNearestQuery(tResult *result, ObjectType *sample, stDistance rangeK, stCount k) are not documented:
+  parameter 'rangeK'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:1564: Warning: The following parameters of stSlimTree::LocalEstimateNearestQuery(ObjectType *sample, double fractalDimension, long nroObjects, stDistance radiusTree, stCount k, bool tie=false) are not documented:
+  parameter 'nroObjects'
+  parameter 'radiusTree'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2508: Warning: argument 'globalQueue' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::LocalKRingQuery(stPageID pageID, tResult *result, ObjectType *sample, stDistance inRange, stDistance &outRange, stCount k, stDistance distanceRepres)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2360: Warning: argument 'range' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::LocalNearestQuery(stPageID pageID, tResult *result, ObjectType *sample, stDistance &rangeK, stCount k, stDistance distanceRepres)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2360: Warning: argument 'globalQueue' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::LocalNearestQuery(stPageID pageID, tResult *result, ObjectType *sample, stDistance &rangeK, stCount k, stDistance distanceRepres)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2360: Warning: The following parameters of stSlimTree::LocalNearestQuery(stPageID pageID, tResult *result, ObjectType *sample, stDistance &rangeK, stCount k, stDistance distanceRepres) are not documented:
+  parameter 'rangeK'
+  parameter 'distanceRepres'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2646: Warning: The following parameters of stSlimTree::MAMViewDumpTreeRecursive(stPageID pageID, ObjectType *rep, stDistance radius, stPageID parent) are not documented:
+  parameter 'rep'
+  parameter 'radius'
+  parameter 'parent'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:1851: Warning: argument 'dir' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::MAMViewInit()
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:1733: Warning: Found unknown command `\autor'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2417: Warning: The following parameters of stSlimTree::PointQuery(tResult *result, ObjectType *sample) are not documented:
+  parameter 'result'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:1739: Warning: argument 'activeBuffer' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::RangeJoinQuery(stSlimTree *slimTree, stDistance range, bool buffer=true)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:1739: Warning: The following parameters of stSlimTree::RangeJoinQuery(stSlimTree *slimTree, stDistance range, bool buffer=true) are not documented:
+  parameter 'buffer'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2559: Warning: argument 'objIndex' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::RangeJoinQueryRecursive(stSlimNode *currIndexNode, stDistance radiusObjIndex, stSlimNode *currNodeJoin, stDistance radiusObjJoin, stPageManager *PageManagerJoin, stDistance distRepres, const stDistance range, tJoinedResult *result, bool buffer)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2559: Warning: argument 'heightIndex' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::RangeJoinQueryRecursive(stSlimNode *currIndexNode, stDistance radiusObjIndex, stSlimNode *currNodeJoin, stDistance radiusObjJoin, stPageManager *PageManagerJoin, stDistance distRepres, const stDistance range, tJoinedResult *result, bool buffer)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2559: Warning: argument 'objJoin' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::RangeJoinQueryRecursive(stSlimNode *currIndexNode, stDistance radiusObjIndex, stSlimNode *currNodeJoin, stDistance radiusObjJoin, stPageManager *PageManagerJoin, stDistance distRepres, const stDistance range, tJoinedResult *result, bool buffer)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2559: Warning: argument 'heightJoin' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::RangeJoinQueryRecursive(stSlimNode *currIndexNode, stDistance radiusObjIndex, stSlimNode *currNodeJoin, stDistance radiusObjJoin, stPageManager *PageManagerJoin, stDistance distRepres, const stDistance range, tJoinedResult *result, bool buffer)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2559: Warning: argument 'activeBuffer' of command @param is not found in the argument list of stSlimTree< ObjectType, EvaluatorType >::RangeJoinQueryRecursive(stSlimNode *currIndexNode, stDistance radiusObjIndex, stSlimNode *currNodeJoin, stDistance radiusObjJoin, stPageManager *PageManagerJoin, stDistance distRepres, const stDistance range, tJoinedResult *result, bool buffer)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2576: Warning: Found unknown command `\autor'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stSlimTree.h:2559: Warning: The following parameters of stSlimTree::RangeJoinQueryRecursive(stSlimNode *currIndexNode, stDistance radiusObjIndex, stSlimNode *currNodeJoin, stDistance radiusObjJoin, stPageManager *PageManagerJoin, stDistance distRepres, const stDistance range, tJoinedResult *result, bool buffer) are not documented:
+  parameter 'buffer'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:419: Warning: argument 'obj1' of command @param is not found in the argument list of stSquaredChordMetricEvaluator< DType >::GetDistance(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:419: Warning: argument 'obj2' of command @param is not found in the argument list of stSquaredChordMetricEvaluator< DType >::GetDistance(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:419: Warning: The following parameters of stSquaredChordMetricEvaluator::GetDistance(stObject *o1, stObject *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:424: Warning: argument 'obj1' of command @param is not found in the argument list of stSquaredChordMetricEvaluator< DType >::GetDistance2(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:424: Warning: argument 'obj2' of command @param is not found in the argument list of stSquaredChordMetricEvaluator< DType >::GetDistance2(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:424: Warning: The following parameters of stSquaredChordMetricEvaluator::GetDistance2(stObject *o1, stObject *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stTreeInformation.h:174: Warning: The following parameters of stTreeInformation::stTreeInformation(int height, int objectCount) are not documented:
+  parameter 'objectCount'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVPNode.h:199: Warning: argument 'id' of command @param is not found in the argument list of stVPNode::GetObject()
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVPNode.h:211: Warning: argument 'id' of command @param is not found in the argument list of stVPNode::GetObjectSize()
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVPTree.h:166: Warning: argument 'obj' of command @param is not found in the argument list of stVPTree< ObjectType, EvaluatorType >::Add(tObject **objects, long listSize)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stVPTree.h:166: Warning: The following parameters of stVPTree::Add(tObject **objects, long listSize) are not documented:
+  parameter 'objects'
+  parameter 'listSize'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:782: Warning: argument 'obj1' of command @param is not found in the argument list of SumProductMetric::GetDistance(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:782: Warning: argument 'obj2' of command @param is not found in the argument list of SumProductMetric::GetDistance(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:782: Warning: The following parameters of SumProductMetric::GetDistance(stObject *o1, stObject *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:805: Warning: argument 'obj1' of command @param is not found in the argument list of SumProductMetric::GetDistance2(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:805: Warning: argument 'obj2' of command @param is not found in the argument list of SumProductMetric::GetDistance2(stObject *o1, stObject *o2)
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricEvaluators.h:805: Warning: The following parameters of SumProductMetric::GetDistance2(stObject *o1, stObject *o2) are not documented:
+  parameter 'o1'
+  parameter 'o2'
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricHistogram.h:284: Warning: argument 'out' of command @param is not found in the argument list of tMetricHistogram::Serialize()
+/dskaster/home-usp/tese/codigos/arboretum/trunk/include/arboretum/stMetricHistogram.h:310: Warning: argument 'SData' of command @param is not found in the argument list of tMetricHistogram::Unserialize(const stByte *data, stSize datasize)

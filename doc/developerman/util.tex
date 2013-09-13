@@ -1,0 +1,18 @@
+\chapter{Utilities}
+\label{cha:utilities}
+
+The \libname{ }implementation has a set of utility classes that may be used in the implementation of the library and/or applications which uses this library. This appendix brings a brief descriptions of these classes, functions and macros. For further details see the their complete documentation in the \libname{ } Reference Guide.
+
+\section{Classes}
+
+\subsection{stGenericMatrix class template}
+
+This class template implements a generic dynamic n by m matrix which may be defined for any basic C++ data type. 
+
+\subsection{stRPriorityQueue class template}
+
+This class template implements reversed priority queue with a fixed maximum number of entries. In other words, the smallest key value has the greater priority. Since it is implemented as a heap, it takes only $O(\log n)$ comparisons to get the minimum value of the queue. This class template is used as local priority queue by the implementation of queries.
+
+\section{Functions and Macros}
+
+

@@ -1,0 +1,67 @@
+\chapter{Codification}
+
+\section{Portability}
+
+The code of this library is supposed to be portable for a large variety of C++ compilers and
+machines. All all developers to keep it in mind during their work.
+
+The following rules must always be followed:
+
+\begin{itemize}
+	\item Do not rely on your knowledge about data type sizes because they may vary from
+		system to system and even from compiler to compiler ({\bf int} type is a
+		good example, it may vary fom 16 to 64 bits). Always use the {\bf sizeof} operator.
+	\item Do not make any assumptions about numeric formats. You never know how the target
+		system will store them in memory.
+	\item Avoid assembly blocks or better, do not use them. It will not be as worthy as it may
+		appear. The modern compilers can produce very optmized codes. If you do it, make sure
+		you will protect it with an ``\#ifdef'' macro and to create an equivalent C++ source
+		code for other platforms.
+	\item Avoid use of system specific functions. Use the standard C/C++ functions if available
+		(ANSI C/C++). Don't forget to protected the system specific code with an ``\#ifdef'' and
+		to write a portable version of the algorithm based on the standard functions.
+\end{itemize}
+
+Some standard C/C++ library headers may contain different sets of functions, because of that
+include blocks may be protected by a ``\#ifdef'' macro for each supported compiler.
+
+\section{Conditional Compilation}
+
+Some features of this library may degrade the performance of the implemented MAMs or may
+lead to undesirable behavior in user applications. Because of these, they must be
+implemented as optional features during the compilation time.
+
+In the current version, there are 3 features which must be considered optional:
+
+\begin{itemize}
+	\item Extra Debug information: This feature enables the debug features hidden inside the code.
+		They may provide extra checking and verbose messages. They compromise the performance of
+		the library. The code pieces releated with this feature are protected by the macro
+		{\bf \_\_stDEBUG\_\_}.
+	\item Performance statistics: This feature enables the support for statistics. Some of them
+		are always available because they are very cheap but other will not be compiled when this
+		feature is not enabled. The code pieces releated with this feature are protected by the
+		macro {\bf \_\_stSTATISTICS\_\_} (not implemented yet).
+	\item Visualization Module: The MAMView visualization support. This feature enables the
+		visualization support in some structures. This feature is very expensive and should not be
+		enabled when it is not required. The code pieces releated with this feature are protected
+		by the macro {\bf \_\_stVIEW\_\_} (under development).
+\end{itemize}
+
+The support for each feature is controlled by the definition of certain macros and their
+code must be protected by a block of ``\#ifdef'' preprocessor macros.
+
+\section{Code Style}
+
+The code is formatted using 3 spaces for each level of indentation. All closing brackets,
+except the one before an else, must have an ending block comment.
+
+\section{Module Separation}
+
+
+\section{Documentation}
+
+This library uses the Doxygen documentation tool. The comment blocks must be always in headers
+except for items
+
+

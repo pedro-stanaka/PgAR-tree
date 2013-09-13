@@ -1,0 +1,7 @@
+USEUNIT("mainTest.cpp");USELIB("..\..\lib\arboretum.lib");
+USEUNIT("myobject.cpp");
+USEUNIT("app.cpp");
+//---------------------------------------------------------------------------
+
+This file is used by the project manager only and should be treated like the project file
+main

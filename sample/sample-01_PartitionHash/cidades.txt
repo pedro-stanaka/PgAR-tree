@@ -1,0 +1,16521 @@
+Abadia de Goiás - GO
+-16.75
+-49.43
+Abadia dos Dourados - MG
+-18.48
+-47.40
+Abadiânia - GO
+-16.20
+-48.70
+Abaeté - MG
+-19.16
+-45.44
+Abaetetuba - PA
+-1.71
+-48.88
+Abaiara - CE
+-7.35
+-39.04
+Abaíra - BA
+-13.24
+-41.66
+Abaré - BA
+-8.72
+-39.11
+Abatiá - PR
+-23.30
+-50.31
+Abdon Batista - SC
+-27.61
+-51.02
+Abel Figueiredo - PA
+-4.95
+-48.39
+Abelardo Luz - SC
+-26.56
+-52.32
+Abre Campo - MG
+-20.30
+-42.47
+Abreu e Lima - PE
+-7.91
+-34.90
+Abreulândia - TO
+-9.62
+-49.15
+Acaiaca - MG
+-20.36
+-43.14
+Açailândia - MA
+-4.94
+-47.50
+Acajutiba - BA
+-11.66
+-38.01
+Acará - PA
+-1.96
+-48.19
+Acarape - CE
+-4.22
+-38.70
+Acaraú - CE
+-2.88
+-40.12
+Acari - RN
+-6.43
+-36.63
+Acauã - PI
+-8.21
+-41.08
+Acopiara - CE
+-6.09
+-39.45
+Acorizal - MT
+-15.20
+-56.36
+Acrelândia - AC
+-9.82
+-66.88
+Acreúna - GO
+-17.39
+-50.37
+Açu - RN
+-5.57
+-36.90
+Açucena - MG
+-19.07
+-42.54
+Adamantina - SP
+-21.68
+-51.07
+Adelândia - GO
+-16.41
+-50.16
+Adolfo - SP
+-21.23
+-49.64
+Adrianópolis - PR
+-24.65
+-48.99
+Adustina - BA
+-10.53
+-38.10
+Afogados da Ingazeira - PE
+-7.75
+-37.63
+Afonso Bezerra - RN
+-5.49
+-36.50
+Afonso Claúdio - ES
+-20.07
+-41.12
+Afonso Cunha - MA
+-4.13
+-43.32
+Afrânio - PE
+-8.51
+-41.00
+Afuá - PA
+0.15
+-50.38
+Agrestina - PE
+-8.45
+-35.94
+Agricolândia - PI
+-5.79
+-42.66
+Agrolândia - SC
+-27.41
+-49.82
+Agronômica - SC
+-27.26
+-49.71
+Água Azul do Norte - PA
+-6.79
+-50.46
+Água Boa - MG
+-17.99
+-42.38
+Água Boa - MT
+-14.05
+-52.15
+Água Branca - AL
+-9.26
+-37.93
+Água Branca - PB
+-7.51
+-37.64
+Água Branca - PI
+-5.89
+-42.63
+Água Clara - MS
+-20.44
+-52.87
+Água Comprida - MG
+-20.05
+-48.10
+Água Doce - SC
+-26.99
+-51.55
+Água Doce do Maranhão - MA
+-2.84
+-42.11
+Água Doce do Norte - ES
+-18.54
+-40.97
+Água Fria - BA
+-11.86
+-38.76
+Água Fria de Goiás - GO
+-14.98
+-47.78
+Água Limpa - GO
+-18.07
+-48.76
+Água Nova - RN
+-6.20
+-38.29
+Água Preta - PE
+-8.70
+-35.53
+Água Santa - RS
+-28.17
+-52.03
+Aguaí - SP
+-22.05
+-46.97
+Aguanil - MG
+-20.94
+-45.39
+Águas Belas - PE
+-9.11
+-37.12
+Águas da Prata - SP
+-21.93
+-46.71
+Águas de Chapecó - SC
+-27.07
+-52.98
+Águas de Lindóia - SP
+-22.47
+-46.63
+Águas de Santa Bárbara - SP
+-22.88
+-49.23
+Águas de São Pedro - SP
+-22.59
+-47.87
+Águas Formosas - MG
+-17.08
+-40.93
+Águas Frias - SC
+-26.88
+-52.85
+Águas Lindas de Goiás - GO
+-15.76
+-48.28
+Águas Mornas - SC
+-27.69
+-48.82
+Águas Vermelhas - MG
+-15.74
+-41.46
+Agudo - RS
+-29.64
+-53.24
+Agudos - SP
+-22.46
+-48.98
+Agudos do Sul - PR
+-25.99
+-49.33
+Águia Branca - ES
+-18.98
+-40.74
+Aguiar - PB
+-7.09
+-38.17
+Aguiarnópolis - TO
+-6.56
+-47.46
+Aimorés - MG
+-19.49
+-41.06
+Aiquara - BA
+-14.12
+-39.88
+Aiuaba - CE
+-6.57
+-40.12
+Aiuruoca - MG
+-21.97
+-44.60
+Ajuricaba - RS
+-28.23
+-53.77
+Alagoa - MG
+-22.17
+-44.64
+Alagoa Grande - PB
+-7.15
+-35.63
+Alagoa Nova - PB
+-7.07
+-35.75
+Alagoinha - PB
+-6.95
+-35.54
+Alagoinha - PE
+-8.46
+-36.77
+Alagoinha do Piauí - PI
+-7.00
+-40.93
+Alagoinhas - BA
+-12.13
+-38.41
+Alambari - SP
+-23.55
+-47.89
+Albertina - MG
+-22.20
+-46.61
+Alcântara - MA
+-2.40
+-44.41
+Alcântaras - CE
+-3.58
+-40.54
+Alcantil - PB
+-7.74
+-36.05
+Alcinópolis - MS
+-18.32
+-53.70
+Alcobaça - BA
+-17.51
+-39.19
+Aldeias Altas - MA
+-4.62
+-43.47
+Alecrim - RS
+-27.65
+-54.76
+Alegre - ES
+-20.76
+-41.53
+Alegrete - RS
+-29.78
+-55.79
+Alegrete do Piauí - PI
+-7.24
+-40.85
+Alegria - RS
+-27.83
+-54.06
+Além Paraíba - MG
+-21.88
+-42.70
+Alenquer - PA
+-1.94
+-54.73
+Alexandria - RN
+-6.41
+-38.01
+Alexânia - GO
+-16.08
+-48.50
+Alfenas - MG
+-21.42
+-45.94
+Alfredo Chaves - ES
+-20.63
+-40.74
+Alfredo Marcondes - SP
+-21.95
+-51.41
+Alfredo Vasconcelos - MG
+-21.14
+-43.77
+Alfredo Wagner - SC
+-27.70
+-49.33
+Algodão de Jandaíra - PB
+-6.90
+-36.00
+Alhandra - PB
+-7.43
+-34.91
+Aliança - PE
+-7.60
+-35.23
+Aliança do Tocantins - TO
+-11.30
+-48.93
+Almadina - BA
+-14.70
+-39.63
+Almas - TO
+-11.57
+-47.17
+Almeirim - PA
+-1.52
+-52.58
+Almenara - MG
+-16.18
+-40.69
+Almino Afonso - RN
+-6.15
+-37.76
+Almirante Tamandaré - PR
+-25.32
+-49.31
+Aloândia - GO
+-17.72
+-49.48
+Alpercata - MG
+-18.97
+-41.97
+Alpestre - RS
+-27.24
+-53.03
+Alpinópolis - MG
+-20.86
+-46.38
+Alta Floresta - MT
+-9.87
+-56.08
+Alta Floresta d'Oeste - RO
+-11.96
+-61.95
+Altair - SP
+-20.52
+-49.05
+Altamira - PA
+-3.20
+-52.20
+Altamira do Maranhão - MA
+-4.05
+-45.49
+Altamira do Paraná - PR
+-24.79
+-52.71
+Altaneira - CE
+-7.00
+-39.74
+Altãnia - PR
+-23.87
+-53.90
+Alterosa - MG
+-21.24
+-46.14
+Altinho - PE
+-8.48
+-36.05
+Altinópolis - SP
+-21.02
+-47.37
+Alto Alegre - RR
+25.56
+-61.49
+Alto Alegre - RS
+-28.77
+-52.99
+Alto Alegre - SP
+-21.58
+-50.16
+Alto Alegre do Maranhão - MA
+-4.21
+-44.44
+Alto Alegre do Parecis - RO
+-12.12
+-61.85
+Alto Alegre do Pindaré - MA
+-3.69
+-45.90
+Alto Araguaia - MT
+-17.31
+-53.21
+Alto Bela Vista - SC
+-27.45
+-51.87
+Alto Boa Vista - MT
+-11.67
+-51.38
+Alto Caparaó - MG
+-20.43
+-41.86
+Alto do Rodrigues - RN
+-5.28
+-36.76
+Alto Feliz - RS
+-29.39
+-51.31
+Alto Garças - MT
+-16.94
+-53.52
+Alto Horizonte - GO
+-14.19
+-49.33
+Alto Jequitibá - MG
+-20.42
+-41.96
+Alto Longá - PI
+-5.25
+-42.21
+Alto Paraguai - MT
+-14.51
+-56.48
+Alto Paraíso - RO
+-9.71
+-63.32
+Alto Paraíso de Goiás - GO
+-14.13
+-47.51
+Alto Paraná - PR
+-23.12
+-52.31
+Alto Parnaíba - MA
+-9.11
+-45.92
+Alto Piquiri - PR
+-24.02
+-53.44
+Alto Rio Doce - MG
+-21.02
+-43.41
+Alto Rio Novo - ES
+-19.05
+-41.01
+Alto Santo - CE
+-5.52
+-38.27
+Alto Taquari - MT
+-17.82
+-53.28
+Altos - PI
+-5.03
+-42.46
+Alumínio - SP
+-23.53
+-47.26
+Alvarães - AM
+-3.22
+-64.80
+Alvarenga - MG
+-19.41
+-41.72
+Álvares Florence - SP
+-20.32
+-49.91
+Álvares Machado - SP
+-22.07
+-51.47
+Álvaro de Carvalho - SP
+-22.08
+-49.71
+Alvinlândia - SP
+-22.44
+-49.76
+Alvinópolis - MG
+-20.10
+-43.04
+Alvorada - RS
+-29.99
+-51.08
+Alvorada - TO
+-12.48
+-49.12
+Alvorada de Minas - MG
+-18.73
+-43.36
+Alvorada do Gurguéia - PI
+-8.42
+-43.77
+Alvorada do Norte - GO
+-14.48
+-46.49
+Alvorada do Sul - PR
+-22.78
+-51.23
+Alvorada d'Oeste - RO
+-11.34
+-62.28
+Amajari - RR
+34.50
+-61.37
+Amambai - MS
+-23.10
+-55.22
+Amapá - AP
+20.51
+-50.79
+Amapá do Maranhão - MA
+-1.56
+-45.92
+Amaporã - PR
+-23.09
+-52.78
+Amaraji - PE
+-8.38
+-35.45
+Amaral Ferrador - RS
+-30.87
+-52.25
+Amaralina - GO
+-13.92
+-49.29
+Amarante - PI
+-6.24
+-42.85
+Amarante do Maranhão - MA
+-5.56
+-46.74
+Amargosa - BA
+-13.03
+-39.60
+Amaturá - AM
+-3.36
+-68.19
+Amélia Rodrigues - BA
+-12.39
+-38.75
+América Dourada - BA
+-11.45
+-41.43
+Americana - SP
+-22.73
+-47.33
+Americano do Brasil - GO
+-16.25
+-49.98
+Américo Brasiliense - SP
+-21.72
+-48.10
+Américo de Campos - SP
+-20.29
+-49.73
+Ametista do Sul - RS
+-27.36
+-53.18
+Amontada - CE
+-3.49
+-39.57
+Amorinópolis - GO
+-16.61
+-51.09
+Amparo - PB
+-7.56
+-37.06
+Amparo - SP
+-22.70
+-46.76
+Amparo de São Francisco - SE
+-10.13
+-36.92
+Amparo do Serra - MG
+-20.50
+-42.80
+Ampére - PR
+-25.91
+-53.47
+Anadia - AL
+-9.68
+-36.30
+Anagé - BA
+-14.61
+-41.13
+Anahy - PR
+-24.71
+-53.08
+Anajás - PA
+0.98
+-49.94
+Anajatuba - MA
+-3.26
+-44.61
+Analândia - SP
+-22.12
+-47.66
+Anamã - AM
+-3.57
+-61.40
+Ananás - TO
+-6.36
+-48.07
+Ananindeua - PA
+-1.36
+-48.37
+Anápolis - GO
+-16.32
+-48.95
+Anapu - PA
+-3.47
+-51.19
+Anapurus - MA
+-3.67
+-43.11
+Anastácio - MS
+-20.48
+-55.80
+Anaurilândia - MS
+-22.18
+-52.71
+Anchieta - ES
+-20.80
+-40.64
+Anchieta - SC
+-26.53
+-53.33
+Andaraí - BA
+-12.80
+-41.33
+Andirá - PR
+-23.05
+-50.22
+Andorinha - BA
+-10.34
+-39.83
+Andradas - MG
+-22.06
+-46.56
+Andradina - SP
+-20.89
+-51.37
+André da Rocha - RS
+-28.63
+-51.57
+Andrelândia - MG
+-21.73
+-44.30
+Angatuba - SP
+-23.48
+-48.41
+Angelândia - MG
+-17.60
+-42.16
+Angélica - MS
+-22.15
+-53.77
+Angelim - PE
+-8.89
+-36.28
+Angelina - SC
+-27.56
+-48.98
+Angical - BA
+-12.00
+-44.69
+Angical do Piauí - PI
+-6.08
+-42.73
+Angico - TO
+-6.38
+-47.86
+Angicos - RN
+-5.66
+-36.60
+Angra dos Reis - RJ
+-23.00
+-44.31
+Anguera - BA
+-12.15
+-39.24
+Ângulo - PR
+-23.19
+-51.91
+Anhanguera - GO
+-18.33
+-48.21
+Anhembi - SP
+-22.78
+-48.12
+Anhumas - SP
+-22.29
+-51.38
+Anicuns - GO
+-16.46
+-49.96
+Anísio de Abreu - PI
+-9.18
+-43.04
+Anita Garibaldi - SC
+-27.68
+-51.13
+Anitápolis - SC
+-27.90
+-49.12
+Anori - AM
+-3.77
+-61.64
+Anta Gorda - RS
+-28.97
+-52.00
+Antas - BA
+-10.40
+-38.33
+Antonina - PR
+-25.42
+-48.71
+Antonina do Norte - CE
+-6.77
+-39.98
+Antônio Almeida - PI
+-7.21
+-44.19
+Antônio Cardoso - BA
+-12.43
+-39.11
+Antônio Carlos - MG
+-21.31
+-43.74
+Antônio Carlos - SC
+-27.51
+-48.76
+Antônio Dias - MG
+-19.65
+-42.87
+Antônio Gonçalves - BA
+-10.57
+-40.27
+Antônio João - MS
+-22.19
+-55.94
+Antônio Martins - RN
+-6.21
+-37.90
+Antônio Olinto - PR
+-25.98
+-50.19
+Antônio Prado - RS
+-28.85
+-51.28
+Antônio Prado de Minas - MG
+-21.01
+-42.10
+Aparecida - PB
+-6.78
+-38.08
+Aparecida - SP
+-22.84
+-45.22
+Aparecida de Goiânia - GO
+-16.82
+-49.24
+Aparecida do Rio Doce - GO
+-18.29
+-51.14
+Aparecida do Rio Negro - TO
+-9.95
+-47.97
+Aparecida do Taboado - MS
+-20.08
+-51.09
+Aparecida d'Oeste - SP
+-20.44
+-50.87
+Aperibé - RJ
+-21.62
+-42.10
+Apiacá - ES
+-21.15
+-41.56
+Apiacás - MT
+-9.54
+-57.44
+Apiaí - SP
+-24.50
+-48.84
+Apicum-Açu - MA
+-1.46
+-45.10
+Apiúna - SC
+-27.03
+-49.38
+Apodi - RN
+-5.66
+-37.79
+Aporá - BA
+-11.66
+-38.08
+Aporé - GO
+-18.96
+-51.92
+Apuarema - BA
+-13.85
+-39.74
+Apucarana - PR
+-23.55
+-51.46
+Apuí - AM
+-7.19
+-59.89
+Apuiarés - CE
+-3.94
+-39.43
+Aquidabã - SE
+-10.28
+-37.01
+Aquidauana - MS
+-20.47
+-55.78
+Aquiraz - CE
+-3.90
+-38.39
+Arabutã - SC
+-27.16
+-52.14
+Araçagi - PB
+-6.85
+-35.38
+Araçaí - MG
+-19.19
+-44.24
+Aracaju - SE
+-10.91
+-37.07
+Araçariguama - SP
+-23.43
+-47.06
+Araçás - BA
+-12.21
+-38.20
+Aracati - CE
+-4.56
+-37.76
+Aracatu - BA
+-14.42
+-41.46
+Araçatuba - SP
+-21.20
+-50.43
+Araci - BA
+-11.33
+-38.96
+Aracitaba - MG
+-21.34
+-43.37
+Aracoiaba - CE
+-4.37
+-38.81
+Araçoiaba - PE
+-7.79
+-35.09
+Araçoiaba da Serra - SP
+-23.50
+-47.61
+Aracruz - ES
+-19.82
+-40.27
+Araçu - GO
+-16.35
+-49.68
+Araçuaí - MG
+-16.84
+-42.07
+Aragarças - GO
+-15.89
+-52.25
+Aragoiânia - GO
+-16.91
+-49.45
+Aragominas - TO
+-7.15
+-48.52
+Araguacema - TO
+-8.80
+-49.55
+Araguaçu - TO
+-12.93
+-49.82
+Araguaiana - MT
+-15.73
+-51.83
+Araguaína - TO
+-7.19
+-48.20
+Araguainha - MT
+-16.85
+-53.03
+Araguanã - MA
+-2.95
+-45.66
+Araguanã - TO
+-6.58
+-48.64
+Araguapaz - GO
+-15.09
+-50.63
+Araguari - MG
+-18.64
+-48.18
+Araguatins - TO
+-5.65
+-48.12
+Araioses - MA
+-2.89
+-41.90
+Aral Moreira - MS
+-22.93
+-55.63
+Aramari - BA
+-12.08
+-38.49
+Arambaré - RS
+-30.91
+-51.49
+Arame - MA
+-4.88
+-46.00
+Aramina - SP
+-20.09
+-47.78
+Arandu - SP
+-23.13
+-49.05
+Arantina - MG
+-21.91
+-44.25
+Arapeí - SP
+-22.67
+-44.44
+Arapiraca - AL
+-9.75
+-36.66
+Arapoema - TO
+-7.65
+-49.06
+Araponga - MG
+-20.66
+-42.52
+Arapongas - PR
+-23.41
+-51.42
+Araporã - MG
+-18.43
+-49.18
+Arapoti - PR
+-24.15
+-49.82
+Arapuá - MG
+-19.03
+-46.15
+Arapuã - PR
+-24.31
+-51.78
+Araputanga - MT
+-15.47
+-58.35
+Araquari - SC
+-26.37
+-48.72
+Arara - PB
+-6.82
+-35.75
+Araranguá - SC
+-28.93
+-49.48
+Araraquara - SP
+-21.79
+-48.17
+Araras - SP
+-22.35
+-47.38
+Ararendá - CE
+-4.75
+-40.83
+Arari - MA
+-3.45
+-44.78
+Araricá - RS
+-29.61
+-50.92
+Araripe - CE
+-7.21
+-40.04
+Araripina - PE
+-7.57
+-40.49
+Araruama - RJ
+-22.87
+-42.34
+Araruna - PB
+-6.55
+-35.74
+Araruna - PR
+-23.93
+-52.49
+Arataca - BA
+-15.26
+-39.41
+Aratiba - RS
+-27.39
+-52.30
+Aratuba - CE
+-4.41
+-39.04
+Aratuípe - BA
+-13.07
+-39.00
+Arauá - SE
+-11.26
+-37.61
+Araucária - PR
+-25.59
+-49.41
+Araújos - MG
+-19.94
+-45.16
+Araxá - MG
+-19.59
+-46.94
+Arceburgo - MG
+-21.36
+-46.94
+Arco-Íris - SP
+-21.77
+-50.46
+Arcos - MG
+-20.28
+-45.53
+Arcoverde - PE
+-8.41
+-37.05
+Areado - MG
+-21.35
+-46.14
+Areal - RJ
+-22.23
+-43.10
+Arealva - SP
+-22.02
+-48.91
+Areia - PB
+-6.96
+-35.69
+Areia Branca - RN
+-4.95
+-37.13
+Areia Branca - SE
+-10.75
+-37.31
+Areia de Baraúnas - PB
+-7.12
+-36.94
+Areial - PB
+-7.06
+-35.92
+Areias - SP
+-22.57
+-44.69
+Areiópolis - SP
+-22.66
+-48.66
+Arenápolis - MT
+-14.45
+-56.84
+Arenópolis - GO
+-16.38
+-51.56
+Arês - RN
+-6.19
+-35.16
+Argirita - MG
+-21.61
+-42.83
+Aricanduva - MG
+-17.86
+-42.55
+Arinos - MG
+-15.91
+-46.10
+Aripuanã - MT
+-10.16
+-59.45
+Ariquemes - RO
+-9.91
+-63.04
+Ariranha - SP
+-21.18
+-48.78
+Ariranha do Ivaí - PR
+-24.38
+-51.58
+Armação de Búzios - RJ
+-22.74
+-41.88
+Armazém - SC
+-28.26
+-49.01
+Arneiroz - CE
+-6.32
+-40.16
+Aroazes - PI
+-6.11
+-41.79
+Aroeiras - PB
+-7.54
+-35.70
+Arraial - PI
+-6.65
+-42.53
+Arraial do Cabo - RJ
+-22.96
+-42.02
+Arraias - TO
+-12.93
+-46.93
+Arroio do Meio - RS
+-29.40
+-51.94
+Arroio do Sal - RS
+-29.55
+-49.88
+Arroio do Tigre - RS
+-29.33
+-53.09
+Arroio dos Ratos - RS
+-30.07
+-51.72
+Arroio Grande - RS
+-32.23
+-53.08
+Arroio Trinta - SC
+-26.93
+-51.33
+Artur Nogueira - SP
+-22.57
+-47.17
+Aruanã - GO
+-14.92
+-51.08
+Arujá - SP
+-23.39
+-46.32
+Arvoredo - SC
+-27.07
+-52.45
+Arvorezinha - RS
+-28.87
+-52.17
+Ascurra - SC
+-26.95
+-49.37
+Aspásia - SP
+-20.15
+-50.72
+Assaí - PR
+-23.37
+-50.84
+Assaré - CE
+-6.87
+-39.87
+Assis - SP
+-22.66
+-50.41
+Assis Brasil - AC
+-10.94
+-69.56
+Assis Chateaubriand - PR
+-24.42
+-53.52
+Assunção - PB
+-7.07
+-36.73
+Assunção do Piauí - PI
+-5.86
+-41.03
+Astolfo Dutra - MG
+-21.31
+-42.86
+Astorga - PR
+-23.23
+-51.66
+Atalaia - AL
+-9.50
+-36.02
+Atalaia - PR
+-23.15
+-52.05
+Atalaia do Norte - AM
+-4.37
+-70.19
+Atalanta - SC
+-27.42
+-49.78
+Ataléia - MG
+-18.04
+-41.11
+Atibaia - SP
+-23.11
+-46.55
+Atilio Vivacqua - ES
+-20.91
+-41.19
+Augustinópolis - TO
+-5.46
+-47.88
+Augusto Corrêa - PA
+-1.02
+-46.63
+Augusto de Lima - MG
+-18.10
+-44.26
+Augusto Pestana - RS
+-28.51
+-53.99
+Augusto Severo - RN
+-5.86
+-37.31
+Áurea - RS
+-27.69
+-52.04
+Aurelino Leal - BA
+-14.31
+-39.32
+Auriflama - SP
+-20.68
+-50.55
+Aurilândia - GO
+-16.68
+-50.46
+Aurora - CE
+-6.94
+-38.96
+Aurora - SC
+-27.31
+-49.63
+Aurora do Pará - PA
+-2.13
+-47.55
+Aurora do Tocantins - TO
+-12.71
+-46.40
+Autazes - AM
+-3.57
+-59.13
+Avaí - SP
+-22.14
+-49.33
+Avanhandava - SP
+-21.46
+-49.94
+Avaré - SP
+-23.09
+-48.92
+Aveiro - PA
+-3.60
+-55.33
+Avelino Lopes - PI
+-10.13
+-43.94
+Avelinópolis - GO
+-16.46
+-49.75
+Axixá - MA
+-2.83
+-44.05
+Axixá do Tocantins - TO
+-5.61
+-47.78
+Babaçulândia - TO
+-7.20
+-47.75
+Bacabal - MA
+-4.29
+-44.79
+Bacabeira - MA
+-2.97
+-44.31
+Bacuri - MA
+-1.70
+-45.13
+Bacurituba - MA
+-2.70
+-44.73
+Bady Bassitt - SP
+-20.91
+-49.44
+Baependi - MG
+-21.95
+-44.89
+Bagé - RS
+-31.33
+-54.10
+Bagre - PA
+-1.89
+-50.16
+Baía da Traição - PB
+-6.68
+-34.93
+Baía Formosa - RN
+-6.36
+-35.00
+Baianópolis - BA
+-12.30
+-44.53
+Baião - PA
+-2.79
+-49.67
+Baixa Grande - BA
+-11.95
+-40.16
+Baixa Grande do Ribeiro - PI
+-7.85
+-45.21
+Baixio - CE
+-6.73
+-38.71
+Baixo Guandu - ES
+-19.51
+-41.01
+Balbinos - SP
+-21.89
+-49.35
+Baldim - MG
+-19.28
+-43.95
+Baliza - GO
+-16.19
+-52.54
+Balneário Arroio do Silva - SC
+-28.98
+-49.41
+Balneário Barra do Sul - SC
+-26.45
+-48.61
+Balneário Camboriú - SC
+-26.99
+-48.63
+Balneário Gaivota - SC
+-29.15
+-49.57
+Balneário Pinhal - RS
+-30.24
+-50.23
+Balsa Nova - PR
+-25.58
+-49.63
+Bálsamo - SP
+-20.73
+-49.58
+Balsas - MA
+-7.53
+-46.03
+Bambuí - MG
+-20.00
+-45.97
+Banabuiú - CE
+-5.30
+-38.92
+Bananal - SP
+-22.68
+-44.32
+Bananeiras - PB
+-6.75
+-35.63
+Bandeira - MG
+-15.88
+-40.55
+Bandeira do Sul - MG
+-21.72
+-46.38
+Bandeirante - SC
+-26.76
+-53.63
+Bandeirantes - MS
+-19.91
+-54.36
+Bandeirantes - PR
+-23.11
+-50.36
+Bandeirantes do Tocantins - TO
+-7.75
+-48.58
+Bannach - PA
+-7.34
+-50.39
+Banzaê - BA
+-10.57
+-38.61
+Barão - RS
+-29.37
+-51.49
+Barão de Antonina - SP
+-23.62
+-49.56
+Barão de Cocais - MG
+-19.94
+-43.48
+Barão de Cotegipe - RS
+-27.62
+-52.37
+Barão de Grajaú - MA
+-6.75
+-43.02
+Barão de Melgaço - MT
+-16.19
+-55.96
+Barão de Monte Alto - MG
+-21.24
+-42.23
+Barão do Triunfo - RS
+-30.38
+-51.73
+Baraúna - PB
+-6.64
+-36.25
+Baraúna - RN
+-5.08
+-37.61
+Barbacena - MG
+-21.22
+-43.77
+Barbalha - CE
+-7.31
+-39.30
+Barbosa - SP
+-21.26
+-49.94
+Barbosa Ferraz - PR
+-24.03
+-52.01
+Barcarena - PA
+-1.50
+-48.62
+Barcelona - RN
+-5.95
+-35.92
+Barcelos - AM
+0.97
+-62.92
+Bariri - SP
+-22.07
+-48.74
+Barra - BA
+-11.08
+-43.14
+Barra Bonita - SC
+-26.65
+-53.44
+Barra Bonita - SP
+-22.49
+-48.55
+Barra da Estiva - BA
+-13.62
+-41.32
+Barra d'Alcântara - PI
+-6.51
+-42.11
+Barra de Guabiraba - PE
+-8.42
+-35.65
+Barra de Santa Rosa - PB
+-6.71
+-36.06
+Barra de Santana - PB
+-7.52
+-35.99
+Barra de Santo Antônio - AL
+-9.40
+-35.50
+Barra de São Francisco - ES
+-18.75
+-40.89
+Barra de São Miguel - AL
+-9.84
+-35.90
+Barra de São Miguel - PB
+-7.75
+-36.31
+Barra do Bugres - MT
+-15.07
+-57.18
+Barra do Chapéu - SP
+-24.47
+-49.02
+Barra do Choça - BA
+-14.88
+-40.57
+Barra do Corda - MA
+-5.50
+-45.24
+Barra do Garças - MT
+-15.89
+-52.25
+Barra do Guarita - RS
+-27.19
+-53.71
+Barra do Jacaré - PR
+-23.11
+-50.18
+Barra do Mendes - BA
+-11.81
+-42.05
+Barra do Ouro - TO
+-7.68
+-47.68
+Barra do Piraí - RJ
+-22.47
+-43.82
+Barra do Quaraí - RS
+-30.20
+-57.55
+Barra do Ribeiro - RS
+-30.29
+-51.30
+Barra do Rio Azul - RS
+-27.40
+-52.40
+Barra do Rocha - BA
+-14.21
+-39.60
+Barra do Turvo - SP
+-24.75
+-48.50
+Barra dos Coqueiros - SE
+-10.90
+-37.03
+Barra Funda - RS
+-27.92
+-53.03
+Barra Longa - MG
+-20.28
+-43.04
+Barra Mansa - RJ
+-22.54
+-44.17
+Barra Velha - SC
+-26.63
+-48.68
+Barracão - PR
+-26.25
+-53.63
+Barracão - RS
+-27.67
+-51.46
+Barras - PI
+-4.24
+-42.29
+Barreira - CE
+-4.28
+-38.64
+Barreiras - BA
+-12.15
+-44.99
+Barreiras do Piauí - PI
+-9.92
+-45.47
+Barreirinha - AM
+-2.79
+-57.07
+Barreirinhas - MA
+-2.74
+-42.82
+Barreiros - PE
+-8.81
+-35.18
+Barretos - SP
+-20.55
+-48.56
+Barrinha - SP
+-21.19
+-48.16
+Barro - CE
+-7.17
+-38.78
+Barro Alto - BA
+-11.76
+-41.91
+Barro Alto - GO
+-14.97
+-48.91
+Barro Duro - PI
+-5.81
+-42.51
+Barro Preto - BA
+-14.80
+-39.47
+Barrolândia - TO
+-9.83
+-48.72
+Barroquinha - CE
+-3.01
+-41.13
+Barros Cassal - RS
+-29.09
+-52.58
+Barroso - MG
+-21.18
+-43.97
+Barueri - SP
+-23.51
+-46.87
+Bastos - SP
+-21.92
+-50.73
+Bataguassu - MS
+-21.71
+-52.42
+Bataiporã - MS
+-22.29
+-53.27
+Batalha - AL
+-9.67
+-37.12
+Batalha - PI
+-4.02
+-42.07
+Batatais - SP
+-20.89
+-47.58
+Baturité - CE
+-4.32
+-38.88
+Bauru - SP
+-22.31
+-49.06
+Bayeux - PB
+-7.12
+-34.93
+Bebedouro - SP
+-20.94
+-48.47
+Beberibe - CE
+-4.17
+-38.13
+Bela Cruz - CE
+-3.05
+-40.16
+Bela Vista - MS
+-22.10
+-56.52
+Bela Vista da Caroba - PR
+-25.88
+-53.66
+Bela Vista de Goiás - GO
+-16.97
+-48.95
+Bela Vista de Minas - MG
+-19.83
+-43.09
+Bela Vista do Maranhão - MA
+-3.73
+-45.31
+Bela Vista do Paraíso - PR
+-22.99
+-51.19
+Bela Vista do Piauí - PI
+-7.98
+-41.86
+Bela Vista do Toldo - SC
+-26.27
+-50.46
+Belágua - MA
+-3.15
+-43.51
+Belém - AL
+-9.57
+-36.49
+Belém - PA
+-1.45
+-48.50
+Belém - PB
+-6.69
+-35.53
+Belém de Maria - PE
+-8.62
+-35.83
+Belém de São Francisco - PE
+-8.75
+-38.96
+Belém do Brejo do Cruz - PB
+-6.18
+-37.53
+Belém do Piauí - PI
+-7.37
+-40.97
+Belford Roxo - RJ
+-22.76
+-43.39
+Belmiro Braga - MG
+-21.94
+-43.41
+Belmonte - BA
+-15.86
+-38.88
+Belmonte - SC
+-26.84
+-53.57
+Belo Campo - BA
+-15.03
+-41.25
+Belo Horizonte - MG
+-19.92
+-43.93
+Belo Jardim - PE
+-8.33
+-36.42
+Belo Monte - AL
+-9.82
+-37.28
+Belo Oriente - MG
+-19.22
+-42.48
+Belo Vale - MG
+-20.40
+-44.02
+Belterra - PA
+-2.63
+-54.93
+Beneditinos - PI
+-5.45
+-42.36
+Benedito Leite - MA
+-7.22
+-44.55
+Benedito Novo - SC
+-26.78
+-49.36
+Benevides - PA
+-1.36
+-48.24
+Benjamin Constant - AM
+-4.38
+-70.03
+Benjamin Constant do Sul - RS
+-27.51
+-52.59
+Bento de Abreu - SP
+-21.27
+-50.81
+Bento Fernandes - RN
+-5.69
+-35.81
+Bento Gonçalves - RS
+-29.17
+-51.51
+Bequimão - MA
+-2.44
+-44.78
+Berilo - MG
+-16.95
+-42.46
+Berizal - MG
+-15.61
+-41.74
+Bernardino Batista - PB
+-6.45
+-38.55
+Bernardino de Campos - SP
+-23.01
+-49.47
+Bernardo do Mearim - MA
+-4.58
+-44.76
+Bernardo Sayão - TO
+-7.87
+-48.88
+Bertioga - SP
+-23.85
+-46.13
+Bertolínia - PI
+-7.64
+-43.95
+Bertópolis - MG
+-17.06
+-40.57
+Beruri - AM
+-3.89
+-61.37
+Betânia - PE
+-8.27
+-38.03
+Betânia do Piauí - PI
+-8.14
+-40.79
+Betim - MG
+-19.96
+-44.19
+Bezerros - PE
+-8.23
+-35.79
+Bias Fortes - MG
+-21.60
+-43.75
+Bicas - MG
+-21.72
+-43.05
+Biguaçu - SC
+-27.49
+-48.65
+Bilac - SP
+-21.40
+-50.47
+Biquinhas - MG
+-18.78
+-45.50
+Birigui - SP
+-21.28
+-50.34
+Biritiba-Mirim - SP
+-23.57
+-46.03
+Biritinga - BA
+-11.61
+-38.80
+Bituruna - PR
+-26.16
+-51.55
+Blumenau - SC
+-26.91
+-49.06
+Boa Esperança - ES
+-18.54
+-40.29
+Boa Esperança - MG
+-21.09
+-45.56
+Boa Esperança - PR
+-24.24
+-52.78
+Boa Esperança do Iguaçu - PR
+-25.63
+-53.21
+Boa Esperança do Sul - SP
+-21.99
+-48.39
+Boa Hora - PI
+-4.41
+-42.08
+Boa Nova - BA
+-14.36
+-40.20
+Boa Ventura - PB
+-7.41
+-38.21
+Boa Ventura de São Roque - PR
+-24.86
+-51.62
+Boa Viagem - CE
+-5.12
+-39.73
+Boa Vista - PB
+-7.25
+-36.24
+Boa Vista - RR
+25.51
+-60.67
+Boa Vista da Aparecida - PR
+-25.43
+-53.40
+Boa Vista das Missões - RS
+-27.66
+-53.31
+Boa Vista do Buricá - RS
+-27.66
+-54.11
+Boa Vista do Gurupi - MA
+-1.78
+-46.30
+Boa Vista do Ramos - AM
+-2.96
+-57.59
+Boa Vista do Sul - RS
+-29.35
+-51.67
+Boa Vista do Tupim - BA
+-12.66
+-40.60
+Boca da Mata - AL
+-9.64
+-36.22
+Boca do Acre - AM
+-8.75
+-67.39
+Bocaina - PI
+-6.94
+-41.32
+Bocaina - SP
+-22.13
+-48.51
+Bocaina de Minas - MG
+-22.16
+-44.39
+Bocaina do Sul - SC
+-27.74
+-49.94
+Bocaiúva - MG
+-17.10
+-43.81
+Bocaiúva do Sul - PR
+-25.20
+-49.11
+Bodó - RN
+-5.98
+-36.41
+Bodocó - PE
+-7.77
+-39.94
+Bodoquena - MS
+-20.53
+-56.71
+Bofete - SP
+-23.10
+-48.25
+Boituva - SP
+-23.28
+-47.67
+Bom Conselho - PE
+-9.16
+-36.67
+Bom Despacho - MG
+-19.73
+-45.25
+Bom Jardim - MA
+-4.74
+-44.35
+Bom Jardim - PE
+-7.79
+-35.58
+Bom Jardim - RJ
+-22.15
+-42.41
+Bom Jardim da Serra - SC
+-28.33
+-49.62
+Bom Jardim de Goiás - GO
+-16.20
+-52.17
+Bom Jardim de Minas - MG
+-21.94
+-44.19
+Bom Jesus - PB
+-6.81
+-38.65
+Bom Jesus - PI
+-9.07
+-44.35
+Bom Jesus - RN
+-5.98
+-35.58
+Bom Jesus - RS
+-28.66
+-50.41
+Bom Jesus - SC
+-26.73
+-52.39
+Bom Jesus da Lapa - BA
+-13.25
+-43.41
+Bom Jesus da Penha - MG
+-21.01
+-46.52
+Bom Jesus da Serra - BA
+-14.37
+-40.50
+Bom Jesus das Selvas - MA
+-4.42
+-46.76
+Bom Jesus de Goiás - GO
+-18.21
+-49.74
+Bom Jesus do Amparo - MG
+-19.70
+-43.47
+Bom Jesus do Galho - MG
+-19.82
+-42.31
+Bom Jesus do Itabapoana - RJ
+-21.13
+-41.67
+Bom Jesus do Norte - ES
+-21.13
+-41.67
+Bom Jesus do Oeste - SC
+-26.68
+-53.09
+Bom Jesus do Sul - PR
+-26.19
+-53.59
+Bom Jesus do Tocantins - PA
+-5.05
+-48.60
+Bom Jesus do Tocantins - TO
+-8.96
+-48.16
+Bom Jesus dos Perdões - SP
+-23.13
+-46.46
+Bom Lugar - MA
+-4.21
+-45.03
+Bom Princípio - RS
+-29.48
+-51.35
+Bom Princípio do Piauí - PI
+-3.19
+-41.64
+Bom Progresso - RS
+-27.54
+-53.86
+Bom Repouso - MG
+-22.47
+-46.14
+Bom Retiro - SC
+-27.79
+-49.48
+Bom Retiro do Sul - RS
+-29.60
+-51.94
+Bom Sucesso - MG
+-21.03
+-44.75
+Bom Sucesso - PB
+-6.44
+-37.92
+Bom Sucesso - PR
+-23.70
+-51.76
+Bom Sucesso de Itararé - SP
+-24.31
+-49.14
+Bom Sucesso do Sul - PR
+-26.07
+-52.83
+Bombinhas - SC
+-27.13
+-48.52
+Bonfim - MG
+-20.32
+-44.23
+Bonfim - RR
+32.21
+-59.83
+Bonfim do Piauí - PI
+-9.16
+-42.87
+Bonfinópolis - GO
+-16.61
+-48.96
+Bonfinópolis de Minas - MG
+-16.56
+-45.99
+Boninal - BA
+-12.70
+-41.82
+Bonito - BA
+-11.96
+-41.26
+Bonito - MS
+-21.12
+-56.48
+Bonito - PA
+-1.36
+-47.30
+Bonito - PE
+-8.47
+-35.72
+Bonito de Minas - MG
+-15.32
+-44.75
+Bonito de Santa Fé - PB
+-7.31
+-38.51
+Bonópolis - GO
+-13.63
+-49.81
+Boqueirão - PB
+-7.48
+-36.13
+Boqueirão do Leão - RS
+-29.30
+-52.42
+Boqueirão do Piauí - PI
+-4.48
+-42.07
+Boquim - SE
+-11.14
+-37.62
+Boquira - BA
+-12.82
+-42.73
+Borá - SP
+-22.26
+-50.53
+Boracéia - SP
+-22.19
+-48.77
+Borba - AM
+-4.38
+-59.59
+Borborema - PB
+-6.80
+-35.58
+Borborema - SP
+-21.61
+-49.07
+Borda da Mata - MG
+-22.27
+-46.16
+Borebi - SP
+-22.56
+-48.97
+Borrazópolis - PR
+-23.94
+-51.58
+Bossoroca - RS
+-28.73
+-54.90
+Botelhos - MG
+-21.63
+-46.39
+Botucatu - SP
+-22.88
+-48.44
+Botumirim - MG
+-16.87
+-43.01
+Botuporã - BA
+-13.38
+-42.52
+Botuverá - SC
+-27.19
+-49.07
+Braço do Norte - SC
+-28.27
+-49.16
+Braço do Trombudo - SC
+-27.35
+-49.88
+Braga - RS
+-27.61
+-53.73
+Bragança - PA
+-1.05
+-46.76
+Bragança Paulista - SP
+-22.95
+-46.54
+Braganey - PR
+-24.81
+-53.12
+Branquinha - AL
+-9.24
+-36.01
+Brás Pires - MG
+-20.92
+-43.24
+Brasil Novo - PA
+-3.30
+-53.53
+Brasilândia - MS
+-21.25
+-52.03
+Brasilândia de Minas - MG
+-17.00
+-46.00
+Brasilândia do Sul - PR
+-24.19
+-53.52
+Brasilândia do Tocantins - TO
+-8.38
+-48.48
+Brasiléia - AC
+-11.01
+-68.74
+Brasileira - PI
+-4.13
+-41.78
+Brasília - DF
+-15.77
+-47.92
+Brasília de Minas - MG
+-16.20
+-44.43
+Brasnorte - MT
+-12.15
+-57.97
+Brasópolis - MG
+-22.47
+-45.60
+Braúna - SP
+-21.49
+-50.31
+Braúnas - MG
+-19.05
+-42.71
+Brazabrantes - GO
+-16.43
+-49.38
+Brejão - PE
+-9.03
+-36.56
+Brejetuba - ES
+-20.14
+-41.29
+Brejinho - PE
+-7.34
+-37.28
+Brejinho - RN
+-6.19
+-35.35
+Brejinho de Nazaré - TO
+-11.00
+-48.56
+Brejo - MA
+-3.68
+-42.75
+Brejo Alegre - SP
+-21.16
+-50.18
+Brejo da Madre de Deus - PE
+-8.14
+-36.37
+Brejo de Areia - MA
+-4.11
+-45.49
+Brejo do Cruz - PB
+-6.34
+-37.49
+Brejo do Piauí - PI
+-8.21
+-42.82
+Brejo dos Santos - PB
+-6.37
+-37.82
+Brejo Grande - SE
+-10.42
+-36.46
+Brejo Grande do Araguaia - PA
+-5.69
+-48.41
+Brejo Santo - CE
+-7.49
+-38.98
+Brejões - BA
+-13.10
+-39.79
+Brejolândia - BA
+-12.48
+-43.96
+Breu Branco - PA
+-4.06
+-49.63
+Breves - PA
+-1.68
+-50.48
+Britânia - GO
+-15.24
+-51.16
+Brochier - RS
+-29.54
+-51.58
+Brodósqui - SP
+-20.99
+-47.65
+Brotas - SP
+-22.28
+-48.12
+Brotas de Macaúbas - BA
+-11.99
+-42.62
+Brumadinho - MG
+-20.14
+-44.19
+Brumado - BA
+-14.20
+-41.66
+Brunópolis - SC
+-27.30
+-50.86
+Brusque - SC
+-27.09
+-48.91
+Bueno Brandão - MG
+-22.44
+-46.35
+Buenópolis - MG
+-17.87
+-44.18
+Buenos Aires - PE
+-7.72
+-35.32
+Buerarema - BA
+-14.95
+-39.29
+Bugre - MG
+-19.42
+-42.24
+Buíque - PE
+-8.62
+-37.15
+Bujari - AC
+-9.83
+-67.95
+Bujaru - PA
+-1.51
+-48.04
+Buri - SP
+-23.79
+-48.59
+Buritama - SP
+-21.06
+-50.14
+Buriti - MA
+-3.94
+-42.92
+Buriti Alegre - GO
+-18.14
+-49.04
+Buriti Bravo - MA
+-5.83
+-43.83
+Buriti de Goiás - GO
+-16.18
+-50.43
+Buriti do Tocantins - TO
+-5.31
+-48.22
+Buriti dos Lopes - PI
+-3.17
+-41.86
+Buriti dos Montes - PI
+-5.31
+-41.09
+Buriticupu - MA
+-4.34
+-46.40
+Buritinópolis - GO
+-14.45
+-46.43
+Buritirama - BA
+-10.70
+-43.63
+Buritirama - MA
+-5.59
+-47.01
+Buritis - MG
+-15.61
+-46.42
+Buritis - RO
+-10.21
+-63.82
+Buritizal - SP
+-20.19
+-47.70
+Buritizeiro - MG
+-17.35
+-44.96
+Butiá - RS
+-30.11
+-51.96
+Caapiranga - AM
+-3.32
+-61.20
+Caaporã - PB
+-7.51
+-34.90
+Caarapó - MS
+-22.63
+-54.82
+Caatiba - BA
+-14.97
+-40.40
+Cabaceiras - PB
+-7.48
+-36.28
+Cabaceiras do Paraguaçu - BA
+-12.53
+-39.19
+Cabeceira Grande - MG
+-16.02
+-47.09
+Cabeceiras - GO
+-15.80
+-46.92
+Cabeceiras do Piauí - PI
+-4.47
+-42.30
+Cabedelo - PB
+-6.98
+-34.83
+Cabixi - RO
+-13.49
+-60.55
+Cabo de Santo Agostinho - PE
+-8.28
+-35.03
+Cabo Frio - RJ
+-22.87
+-42.01
+Cabo Verde - MG
+-21.47
+-46.39
+Cabrália Paulista - SP
+-22.45
+-49.33
+Cabreúva - SP
+-23.30
+-47.13
+Cabrobó - PE
+-8.51
+-39.31
+Caçador - SC
+-26.77
+-51.01
+Caçapava - SP
+-23.10
+-45.70
+Caçapava do Sul - RS
+-30.51
+-53.49
+Cacaulândia - RO
+-10.33
+-62.89
+Cacequi - RS
+-29.88
+-54.82
+Cáceres - MT
+-16.07
+-57.67
+Cachoeira - BA
+-12.61
+-38.95
+Cachoeira Alta - GO
+-18.76
+-50.94
+Cachoeira da Prata - MG
+-19.52
+-44.45
+Cachoeira de Goiás - GO
+-16.66
+-50.64
+Cachoeira de Minas - MG
+-22.35
+-45.77
+Cachoeira de Pajeú - MG
+-15.96
+-41.49
+Cachoeira do Arari - PA
+-1.01
+-48.96
+Cachoeira do Piriá - PA
+-1.75
+-46.54
+Cachoeira do Sul - RS
+-30.03
+-52.89
+Cachoeira dos µndios - PB
+-6.92
+-38.67
+Cachoeira Dourada - GO
+-18.49
+-49.47
+Cachoeira Dourada - MG
+-18.51
+-49.50
+Cachoeira Grande - MA
+-2.92
+-44.05
+Cachoeira Paulista - SP
+-22.66
+-45.00
+Cachoeiras de Macacu - RJ
+-22.46
+-42.65
+Cachoeirinha - PE
+-8.48
+-36.23
+Cachoeirinha - RS
+-29.95
+-51.09
+Cachoeirinha - TO
+-6.12
+-47.92
+Cachoeiro de Itapemirim - ES
+-20.84
+-41.11
+Cacimba de Areia - PB
+-7.12
+-37.15
+Cacimba de Dentro - PB
+-6.64
+-35.79
+Cacimbas - PB
+-7.21
+-37.05
+Cacimbinhas - AL
+-9.40
+-36.99
+Cacique Doble - RS
+-27.77
+-51.66
+Cacoal - RO
+-11.43
+-61.44
+Caconde - SP
+-21.52
+-46.64
+Caçu - GO
+-18.55
+-51.13
+Caculé - BA
+-14.50
+-42.22
+Caém - BA
+-11.09
+-40.43
+Caetanópolis - MG
+-19.29
+-44.41
+Caetanos - BA
+-14.33
+-40.90
+Caeté - MG
+-19.88
+-43.66
+Caetés - PE
+-8.77
+-36.62
+Caetité - BA
+-14.06
+-42.47
+Cafarnaum - BA
+-11.69
+-41.46
+Cafeara - PR
+-22.79
+-51.71
+Cafelândia - PR
+-24.61
+-53.32
+Cafelândia - SP
+-21.80
+-49.61
+Cafezal do Sul - PR
+-23.90
+-53.51
+Caiabu - SP
+-22.01
+-51.23
+Caiana - MG
+-20.69
+-41.92
+Caiapônia - GO
+-16.95
+-51.81
+Caibaté - RS
+-28.28
+-54.63
+Caibi - SC
+-27.07
+-53.24
+Caiçara - PB
+-6.61
+-35.46
+Caiçara - RS
+-27.27
+-53.43
+Caiçara do Norte - RN
+-5.06
+-36.05
+Caiçara do Rio do Vento - RN
+-5.76
+-35.99
+Caicó - RN
+-6.45
+-37.09
+Caieiras - SP
+-23.36
+-46.74
+Cairu - BA
+-13.48
+-39.04
+Caiuá - SP
+-21.83
+-51.99
+Cajamar - SP
+-23.35
+-46.87
+Cajapió - MA
+-2.88
+-44.67
+Cajari - MA
+-3.32
+-45.01
+Cajati - SP
+-24.73
+-48.12
+Cajazeiras - PB
+-6.89
+-38.55
+Cajazeiras do Piauí - PI
+-6.76
+-42.39
+Cajazeirinhas - PB
+-6.96
+-37.80
+Cajobi - SP
+-20.87
+-48.80
+Cajueiro - AL
+-9.39
+-36.15
+Cajueiro da Praia - PI
+-2.92
+-41.33
+Cajuri - MG
+-20.79
+-42.79
+Cajuru - SP
+-21.27
+-47.30
+Calçado - PE
+-8.74
+-36.33
+Calçoene - AP
+23.58
+-50.94
+Caldas - MG
+-21.92
+-46.38
+Caldas Brandão - PB
+-7.10
+-35.32
+Caldas Novas - GO
+-17.74
+-48.62
+Caldazinha - GO
+-16.71
+-49.00
+Caldeirão Grande - BA
+-11.02
+-40.30
+Caldeirão Grande do Piauí - PI
+-7.33
+-40.63
+Califórnia - PR
+-23.65
+-51.35
+Calmon - SC
+-26.59
+-51.09
+Calumbi - PE
+-7.94
+-38.15
+Camacan - BA
+-15.41
+-39.49
+Camaçari - BA
+-12.69
+-38.32
+Camacho - MG
+-20.62
+-45.15
+Camalaú - PB
+-7.88
+-36.82
+Camamu - BA
+-13.94
+-39.10
+Camanducaia - MG
+-22.75
+-46.14
+Camapuã - MS
+-19.53
+-54.04
+Camaquã - RS
+-30.85
+-51.81
+Camaragibe - PE
+-8.02
+-34.98
+Camargo - RS
+-28.58
+-52.20
+Cambará - PR
+-23.04
+-50.07
+Cambará do Sul - RS
+-29.04
+-50.14
+Cambé - PR
+-23.27
+-51.27
+Cambira - PR
+-23.58
+-51.57
+Camboriú - SC
+-27.02
+-48.65
+Cambuci - RJ
+-21.57
+-41.91
+Cambuí - MG
+-22.61
+-46.05
+Cambuquira - MG
+-21.85
+-45.29
+Cametá - PA
+-2.24
+-49.49
+Camocim - CE
+-2.90
+-40.84
+Camocim de São Félix - PE
+-8.35
+-35.76
+Campanário - MG
+-18.23
+-41.74
+Campanha - MG
+-21.83
+-45.40
+Campestre - AL
+-8.84
+-35.56
+Campestre - MG
+-21.71
+-46.24
+Campestre da Serra - RS
+-28.79
+-51.09
+Campestre de Goiás - GO
+-16.76
+-49.69
+Campestre do Maranhão - MA
+-6.17
+-47.36
+Campina da Lagoa - PR
+-24.59
+-52.79
+Campina das Missões - RS
+-27.98
+-54.83
+Campina do Monte Alegre - SP
+-23.59
+-48.47
+Campina do Simão - PR
+-25.07
+-51.82
+Campina Grande - PB
+-7.23
+-35.88
+Campina Grande do Sul - PR
+-25.30
+-49.05
+Campina Verde - MG
+-19.53
+-49.48
+Campinaçu - GO
+-13.79
+-48.57
+Campinápolis - MT
+-14.51
+-52.89
+Campinas - SP
+-22.90
+-47.06
+Campinas do Piauí - PI
+-7.66
+-41.88
+Campinas do Sul - RS
+-27.71
+-52.62
+Campinorte - GO
+-14.31
+-49.15
+Campo Alegre - AL
+-9.78
+-36.35
+Campo Alegre - SC
+-26.19
+-49.26
+Campo Alegre de Goiás - GO
+-17.63
+-47.77
+Campo Alegre de Lourdes - BA
+-9.51
+-43.01
+Campo Alegre do Fidalgo - PI
+-8.37
+-41.83
+Campo Azul - MG
+-16.50
+-44.81
+Campo Belo - MG
+-20.89
+-45.27
+Campo Belo do Sul - SC
+-27.89
+-50.76
+Campo Bom - RS
+-29.67
+-51.05
+Campo Bonito - PR
+-25.03
+-52.99
+Campo do Brito - SE
+-10.73
+-37.49
+Campo do Meio - MG
+-21.10
+-45.83
+Campo do Tenente - PR
+-25.97
+-49.68
+Campo Erê - SC
+-26.39
+-53.07
+Campo Florido - MG
+-19.76
+-48.57
+Campo Formoso - BA
+-10.50
+-40.32
+Campo Grande - AL
+-9.95
+-36.79
+Campo Grande - MS
+-20.44
+-54.64
+Campo Grande do Piauí - PI
+-7.13
+-41.03
+Campo Largo - PR
+-25.45
+-49.52
+Campo Largo do Piauí - PI
+-3.81
+-42.62
+Campo Limpo Paulista - SP
+-23.20
+-46.78
+Campo Magro - PR
+-25.36
+-49.45
+Campo Maior - PI
+-4.82
+-42.16
+Campo Mourão - PR
+-24.04
+-52.38
+Campo Novo - RS
+-27.67
+-53.80
+Campo Novo de Rondônia - RO
+-10.59
+-63.61
+Campo Novo do Parecis - MT
+-13.67
+-57.89
+Campo Redondo - RN
+-6.24
+-36.18
+Campo Verde - MT
+-15.54
+-55.16
+Campos Altos - MG
+-19.69
+-46.17
+Campos Belos - GO
+-13.03
+-46.77
+Campos Borges - RS
+-28.88
+-52.99
+Campos de Júlio - MT
+-13.89
+-59.14
+Campos do Jordão - SP
+-22.73
+-45.59
+Campos dos Goytacazes - RJ
+-21.75
+-41.32
+Campos Gerais - MG
+-21.23
+-45.75
+Campos Lindos - TO
+-7.99
+-46.86
+Campos Novos - SC
+-27.40
+-51.22
+Campos Novos Paulista - SP
+-22.60
+-50.00
+Campos Sales - CE
+-7.07
+-40.37
+Campos Verdes - GO
+-14.25
+-49.65
+Camutanga - PE
+-7.40
+-35.27
+Cana Brava do Norte - MT
+-11.05
+-51.83
+Cana Verde - MG
+-21.02
+-45.18
+Canaã - MG
+-20.68
+-42.61
+Canaã dos Carajás - PA
+-6.49
+-49.87
+Cananéia - SP
+-25.01
+-47.92
+Canapi - AL
+-9.11
+-37.60
+Canápolis - BA
+-13.06
+-44.20
+Canápolis - MG
+-18.72
+-49.20
+Canarana - BA
+-11.68
+-41.76
+Canarana - MT
+-13.55
+-52.26
+Canas - SP
+-22.70
+-45.05
+Canavieira - PI
+-7.68
+-43.72
+Canavieiras - BA
+-15.67
+-38.94
+Candeal - BA
+-11.80
+-39.11
+Candeias - BA
+-12.66
+-38.55
+Candeias - MG
+-20.76
+-45.27
+Candeias do Jamari - RO
+-8.80
+-63.69
+Candelária - RS
+-29.66
+-52.78
+Candiba - BA
+-14.41
+-42.86
+Cândido de Abreu - PR
+-24.56
+-51.33
+Cândido Godói - RS
+-27.95
+-54.75
+Cândido Mendes - MA
+-1.44
+-45.71
+Cândido Mota - SP
+-22.74
+-50.38
+Cândido Rodrigues - SP
+-21.32
+-48.63
+Cândido Sales - BA
+-15.50
+-41.23
+Candiota - RS
+-31.55
+-53.67
+Candói - PR
+-25.57
+-52.05
+Canela - RS
+-29.36
+-50.81
+Canelinha - SC
+-27.26
+-48.76
+Canguaretama - RN
+-6.38
+-35.12
+Canguçu - RS
+-31.39
+-52.67
+Canhoba - SE
+-10.13
+-36.98
+Canhotinho - PE
+-8.88
+-36.19
+Canindé - CE
+-4.35
+-39.31
+Canindé de São Francisco - SE
+-9.66
+-37.78
+Canitar - SP
+-23.00
+-49.78
+Canoas - RS
+-29.91
+-51.18
+Canoinhas - SC
+-26.17
+-50.39
+Cansanção - BA
+-10.66
+-39.49
+Cantá - RR
+24.05
+-60.59
+Cantagalo - MG
+-18.52
+-42.62
+Cantagalo - PR
+-25.37
+-52.12
+Cantagalo - RJ
+-21.98
+-42.36
+Cantanhede - MA
+-3.63
+-44.37
+Canto do Buriti - PI
+-8.11
+-42.94
+Canudos - BA
+-9.89
+-39.02
+Canutama - AM
+-6.53
+-64.38
+Capanema - PA
+-1.19
+-47.18
+Capanema - PR
+-25.67
+-53.80
+Capão Alto - SC
+-27.93
+-50.51
+Capâo Bonito - SP
+-24.00
+-48.34
+Capão da Canoa - RS
+-29.74
+-50.00
+Capão do Leão - RS
+-31.76
+-52.48
+Caparaó - MG
+-20.52
+-41.90
+Capela - AL
+-9.40
+-36.07
+Capela - SE
+-10.50
+-37.05
+Capela de Santana - RS
+-29.70
+-51.32
+Capela do Alto - SP
+-23.47
+-47.73
+Capela do Alto Alegre - BA
+-11.66
+-39.83
+Capela Nova - MG
+-20.92
+-43.61
+Capelinha - MG
+-17.69
+-42.51
+Capetinga - MG
+-20.61
+-47.05
+Capim - PB
+-6.91
+-35.17
+Capim Branco - MG
+-19.54
+-44.11
+Capim Grosso - BA
+-11.38
+-40.01
+Capinópolis - MG
+-18.68
+-49.56
+Capinzal - SC
+-27.34
+-51.61
+Capinzal do Norte - MA
+-4.72
+-44.32
+Capistrano - CE
+-4.47
+-38.90
+Capitão - RS
+-29.26
+-51.98
+Capitão Andrade - MG
+-19.06
+-41.85
+Capitão de Campos - PI
+-4.45
+-41.94
+Capitão Enéas - MG
+-16.32
+-43.71
+Capitão Gervásio Oliveira - PI
+-8.49
+-41.81
+Capitão Leônidas Marques - PR
+-25.47
+-53.61
+Capitão Poço - PA
+-1.74
+-47.05
+Capitólio - MG
+-20.61
+-46.05
+Capivari - SP
+-22.99
+-47.50
+Capivari de Baixo - SC
+-28.44
+-48.95
+Capivari do Sul - RS
+-30.14
+-50.51
+Capixaba - AC
+-10.57
+-67.67
+Capoeiras - PE
+-8.73
+-36.62
+Caputira - MG
+-20.17
+-42.27
+Caraã - RS
+-29.79
+-50.43
+Caracaraí - RR
+15.41
+-61.12
+Caracol - MS
+-22.01
+-57.02
+Caracol - PI
+-9.27
+-43.33
+Caraguatatuba - SP
+-23.62
+-45.41
+Caraí - MG
+-17.18
+-41.69
+Caraíbas - BA
+-14.72
+-41.25
+Carambeí - PR
+-24.91
+-50.09
+Caranaíba - MG
+-20.87
+-43.73
+Carandaí - MG
+-20.95
+-43.80
+Carangola - MG
+-20.73
+-42.02
+Carapebus - RJ
+-22.18
+-41.66
+Carapicuíba - SP
+-23.52
+-46.83
+Caratinga - MG
+-19.78
+-42.13
+Carauari - AM
+-4.88
+-66.89
+Caraúbas - PB
+-7.72
+-36.49
+Caraúbas - RN
+-5.79
+-37.55
+Caraúbas do Piauí - PI
+-3.47
+-41.84
+Caravelas - BA
+-17.73
+-39.26
+Carazinho - RS
+-28.28
+-52.78
+Carbonita - MG
+-17.52
+-43.01
+Cardeal da Silva - BA
+-11.94
+-37.94
+Cardoso - SP
+-20.08
+-49.91
+Cardoso Moreira - RJ
+-21.48
+-41.61
+Careaçu - MG
+-22.04
+-45.69
+Careiro - AM
+-3.76
+-60.36
+Careiro da Várzea - AM
+-3.20
+-59.81
+Cariacica - ES
+-20.26
+-40.42
+Caridade - CE
+-4.23
+-39.19
+Caridade do Piauí - PI
+-7.73
+-40.98
+Carinhanha - BA
+-14.30
+-43.76
+Carira - SE
+-10.36
+-37.70
+Cariré - CE
+-3.95
+-40.47
+Cariri do Tocantins - TO
+-11.89
+-49.16
+Caririaçu - CE
+-7.04
+-39.28
+Cariús - CE
+-6.53
+-39.49
+Carlinda - MT
+-9.95
+-55.83
+Carlópolis - PR
+-23.42
+-49.72
+Carlos Barbosa - RS
+-29.29
+-51.50
+Carlos Chagas - MG
+-17.70
+-40.76
+Carlos Gomes - RS
+-27.71
+-51.91
+Carmésia - MG
+-19.08
+-43.14
+Carmo - RJ
+-21.93
+-42.60
+Carmo da Cachoeira - MG
+-21.46
+-45.22
+Carmo da Mata - MG
+-20.55
+-44.87
+Carmo de Minas - MG
+-22.12
+-45.12
+Carmo do Cajuru - MG
+-20.18
+-44.77
+Carmo do Paranaíba - MG
+-19.00
+-46.31
+Carmo do Rio Claro - MG
+-20.97
+-46.11
+Carmo do Rio Verde - GO
+-15.35
+-49.70
+Carmolândia - TO
+-7.03
+-48.39
+Carmópolis - SE
+-10.64
+-36.98
+Carmópolis de Minas - MG
+-20.54
+-44.63
+Carnaíba - PE
+-7.80
+-37.79
+Carnaúba dos Dantas - RN
+-6.55
+-36.59
+Carnaubais - RN
+-5.34
+-36.83
+Carnaubal - CE
+-4.16
+-40.94
+Carnaubeira da Penha - PE
+-8.31
+-38.74
+Carneirinho - MG
+-19.69
+-50.68
+Carneiros - AL
+-9.48
+-37.37
+Caroebe - RR
+5.50
+-59.69
+Carolina - MA
+-7.33
+-47.46
+Carpina - PE
+-7.85
+-35.25
+Carrancas - MG
+-21.48
+-44.64
+Carrapateira - PB
+-7.03
+-38.34
+Carrasco Bonito - TO
+-5.32
+-48.03
+Caruaru - PE
+-8.28
+-35.97
+Carutapera - MA
+-1.19
+-46.02
+Carvalhópolis - MG
+-21.77
+-45.84
+Carvalhos - MG
+-22.00
+-44.46
+Casa Branca - SP
+-21.77
+-47.08
+Casa Grande - MG
+-20.79
+-43.93
+Casa Nova - BA
+-9.16
+-40.97
+Casca - RS
+-28.56
+-51.97
+Cascalho Rico - MG
+-18.57
+-47.87
+Cascavel - CE
+-4.13
+-38.24
+Cascavel - PR
+-24.95
+-53.45
+Caseara - TO
+-9.27
+-49.95
+Caseiros - RS
+-28.26
+-51.68
+Casimiro de Abreu - RJ
+-22.48
+-42.20
+Casinhas - PE
+-7.74
+-35.72
+Casserengue - PB
+-6.75
+-35.71
+Cássia - MG
+-20.58
+-46.92
+Cássia dos Coqueiros - SP
+-21.28
+-47.16
+Cassilândia - MS
+-19.11
+-51.73
+Castanhal - PA
+-1.29
+-47.92
+Castanheira - MT
+-11.13
+-58.60
+Castanheiras - RO
+-11.41
+-61.93
+Castelândia - GO
+-18.08
+-50.22
+Castelo - ES
+-20.60
+-41.18
+Castelo do Piauí - PI
+-5.32
+-41.55
+Castilho - SP
+-20.87
+-51.48
+Castro - PR
+-24.79
+-50.01
+Castro Alves - BA
+-12.76
+-39.42
+Cataguases - MG
+-21.38
+-42.69
+Catalão - GO
+-18.16
+-47.94
+Catanduva - SP
+-21.13
+-48.97
+Catanduvas - PR
+-25.20
+-53.15
+Catanduvas - SC
+-27.07
+-51.66
+Catarina - CE
+-6.13
+-39.87
+Catas Altas - MG
+-20.07
+-43.40
+Catas Altas da Noruega - MG
+-20.69
+-43.49
+Catende - PE
+-8.66
+-35.71
+Catiguá - SP
+-21.04
+-49.05
+Catingueira - PB
+-7.12
+-37.60
+Catolândia - BA
+-12.31
+-44.86
+Catolé do Rocha - PB
+-6.34
+-37.74
+Catu - BA
+-12.35
+-38.37
+Catuípe - RS
+-28.25
+-54.01
+Catuji - MG
+-17.29
+-41.51
+Catunda - CE
+-4.64
+-40.20
+Caturaí - GO
+-16.44
+-49.49
+Caturama - BA
+-13.32
+-42.29
+Caturité - PB
+-7.42
+-36.02
+Catuti - MG
+-15.35
+-42.96
+Caucaia - CE
+-3.73
+-38.65
+Cavalcante - GO
+-13.79
+-47.45
+Caxambu - MG
+-21.97
+-44.93
+Caxambu do Sul - SC
+-27.16
+-52.87
+Caxias - MA
+-4.85
+-43.35
+Caxias do Sul - RS
+-29.16
+-51.17
+Caxingó - PI
+-3.41
+-41.89
+Ceará-Mirim - RN
+-5.63
+-35.42
+Cedral - MA
+-2.00
+-44.53
+Cedral - SP
+-20.90
+-49.26
+Cedro - CE
+-6.60
+-39.06
+Cedro - PE
+-7.72
+-39.23
+Cedro de São João - SE
+-10.25
+-36.88
+Cedro do Abaeté - MG
+-19.14
+-45.71
+Celso Ramos - SC
+-27.63
+-51.33
+Centenário - RS
+-27.76
+-51.99
+Centenário - TO
+-8.95
+-47.33
+Centenário do Sul - PR
+-22.82
+-51.59
+Central - BA
+-11.13
+-42.11
+Central de Minas - MG
+-18.76
+-41.30
+Central do Maranhão - MA
+-2.19
+-44.82
+Centralina - MG
+-18.58
+-49.19
+Centro do Guilherme - MA
+-2.36
+-46.00
+Centro Novo do Maranhão - MA
+-2.10
+-46.12
+Cerejeiras - RO
+-13.18
+-60.81
+Ceres - GO
+-15.30
+-49.59
+Cerqueira César - SP
+-23.03
+-49.16
+Cerquilho - SP
+-23.16
+-47.74
+Cerrito - RS
+-31.85
+-52.81
+Cerro Azul - PR
+-24.82
+-49.26
+Cerro Branco - RS
+-29.65
+-52.93
+Cerro Corá - RN
+-6.04
+-36.34
+Cerro Grande - RS
+-27.60
+-53.16
+Cerro Grande do Sul - RS
+-30.59
+-51.75
+Cerro Largo - RS
+-28.14
+-54.73
+Cerro Negro - SC
+-27.79
+-50.87
+Cesário Lange - SP
+-23.22
+-47.95
+Céu Azul - PR
+-25.14
+-53.84
+Cezarina - GO
+-16.97
+-49.77
+Chã de Alegria - PE
+-8.00
+-35.21
+Chã Grande - PE
+-8.23
+-35.46
+Chã Preta - AL
+-9.25
+-36.29
+Chácara - MG
+-21.67
+-43.22
+Chalé - MG
+-20.04
+-41.68
+Chapada - RS
+-28.05
+-53.06
+Chapada da Natividade - TO
+-11.61
+-47.75
+Chapada de Areia - TO
+-10.14
+-49.14
+Chapada do Norte - MG
+-17.08
+-42.53
+Chapada dos Guimarães - MT
+-15.46
+-55.74
+Chapada Gaúcha - MG
+-15.30
+-45.61
+Chapadão do Céu - GO
+-18.40
+-52.54
+Chapadão do Lageado - SC
+-27.59
+-49.55
+Chapadão do Sul - MS
+-18.79
+-52.62
+Chapadinha - MA
+-3.74
+-43.36
+Chapecó - SC
+-27.09
+-52.61
+Charqueada - SP
+-22.50
+-47.77
+Charqueadas - RS
+-29.95
+-51.62
+Charrua - RS
+-27.95
+-52.01
+Chaval - CE
+-3.03
+-41.24
+Chavantes - SP
+-23.03
+-49.70
+Chaves - PA
+0.16
+-49.98
+Chiador - MG
+-22.00
+-43.05
+Chiapeta - RS
+-27.92
+-53.94
+Chopinzinho - PR
+-25.85
+-52.52
+Choró - CE
+-4.84
+-39.14
+Chorozinho - CE
+-4.30
+-38.49
+Chorrochó - BA
+-8.97
+-39.09
+Chuí - RS
+-33.69
+-53.45
+Chupinguaia - RO
+-12.55
+-60.89
+Chuvisca - RS
+-30.75
+-51.97
+Cianorte - PR
+-23.66
+-52.60
+Cícero Dantas - BA
+-10.60
+-38.38
+Cidade Gaúcha - PR
+-23.38
+-52.94
+Cidade Ocidental - GO
+-16.07
+-47.92
+Cidelândia - MA
+-5.17
+-47.78
+Cidreira - RS
+-30.18
+-50.20
+Cipó - BA
+-11.09
+-38.51
+Cipotânea - MG
+-20.90
+-43.36
+Ciríaco - RS
+-28.34
+-51.87
+Claraval - MG
+-20.39
+-47.26
+Claro dos Poções - MG
+-17.07
+-44.20
+Cláudia - MT
+-11.51
+-54.89
+Cláudio - MG
+-20.44
+-44.76
+Clementina - SP
+-21.55
+-50.44
+Clevelândia - PR
+-26.39
+-52.47
+Coaraci - BA
+-14.64
+-39.55
+Coari - AM
+-4.08
+-63.14
+Cocal - PI
+-3.47
+-41.55
+Cocal de Telha - PI
+-4.55
+-41.97
+Cocal do Sul - SC
+-28.60
+-49.32
+Cocal dos Alves - PI
+-3.72
+-41.44
+Cocalinho - MT
+-14.39
+-50.99
+Cocalzinho de Goiás - GO
+-15.79
+-48.77
+Cocos - BA
+-14.18
+-44.53
+Codajás - AM
+-3.83
+-62.05
+Codó - MA
+-4.45
+-43.88
+Coelho Neto - MA
+-4.25
+-43.01
+Coimbra - MG
+-20.85
+-42.80
+Coité do Nóia - AL
+-9.63
+-36.57
+Coivaras - PI
+-5.08
+-42.20
+Colares - PA
+0.93
+-48.28
+Colatina - ES
+-19.53
+-40.63
+Colíder - MT
+-10.81
+-55.45
+Colina - SP
+-20.71
+-48.54
+Colinas - MA
+-6.02
+-44.24
+Colinas - RS
+-29.38
+-51.86
+Colinas do Sul - GO
+-14.15
+-48.07
+Colinas do Tocantins - TO
+-8.05
+-48.47
+Colméia - TO
+-8.72
+-48.76
+Colômbia - SP
+-20.17
+-48.68
+Colombo - PR
+-25.29
+-49.22
+Colônia do Gurguéia - PI
+-8.18
+-43.79
+Colônia do Piauí - PI
+-7.23
+-42.17
+Colônia Leopoldina - AL
+-8.90
+-35.72
+Colorado - PR
+-22.83
+-51.97
+Colorado - RS
+-28.52
+-52.99
+Colorado do Oeste - RO
+-13.11
+-60.54
+Coluna - MG
+-18.23
+-42.84
+Combinado - TO
+-12.79
+-46.53
+Comendador Gomes - MG
+-19.69
+-49.08
+Comendador Levy Gasparian - RJ
+-22.02
+-43.20
+Comercinho - MG
+-16.29
+-41.79
+Comodoro - MT
+-13.66
+-59.78
+Conceição - PB
+-7.56
+-38.50
+Conceição da Aparecida - MG
+-21.09
+-46.20
+Conceição da Barra - ES
+-18.59
+-39.73
+Conceição da Barra de Minas - MG
+-21.12
+-44.47
+Conceição da Feira - BA
+-12.50
+-38.99
+Conceição das Alagoas - MG
+-19.91
+-48.38
+Conceição das Pedras - MG
+-22.16
+-45.45
+Conceição de Ipanema - MG
+-19.92
+-41.69
+Conceição de Macabu - RJ
+-22.08
+-41.86
+Conceição do Almeida - BA
+-12.77
+-39.17
+Conceição do Araguaia - PA
+-8.25
+-49.26
+Conceição do Canindé - PI
+-7.87
+-41.59
+Conceição do Castelo - ES
+-20.36
+-41.24
+Conceição do Coité - BA
+-11.56
+-39.28
+Conceição do Jacuípe - BA
+-12.31
+-38.76
+Conceição do Lago-Açu - MA
+-3.83
+-44.89
+Conceição do Mato Dentro - MG
+-19.03
+-43.42
+Conceição do Pará - MG
+-19.75
+-44.89
+Conceição do Rio Verde - MG
+-21.88
+-45.08
+Conceição do Tocantins - TO
+-12.21
+-47.29
+Conceição dos Ouros - MG
+-22.41
+-45.79
+Conchal - SP
+-22.33
+-47.17
+Conchas - SP
+-23.01
+-48.01
+Concórdia - SC
+-27.23
+-52.02
+Concórdia do Pará - PA
+-2.00
+-47.94
+Condado - PB
+-6.90
+-37.60
+Condado - PE
+-7.58
+-35.10
+Conde - BA
+-11.81
+-37.61
+Conde - PB
+-7.25
+-34.90
+Condeúba - BA
+-14.89
+-41.96
+Condor - RS
+-28.20
+-53.48
+Cônego Marinho - MG
+-15.29
+-44.41
+Confins - MG
+-19.63
+-43.98
+Confresa - MT
+-10.64
+-51.56
+Congo - PB
+-7.79
+-36.65
+Congonhal - MG
+-22.15
+-46.03
+Congonhas - MG
+-20.49
+-43.85
+Congonhas do Norte - MG
+-18.80
+-43.68
+Congonhinhas - PR
+-23.55
+-50.55
+Conquista - MG
+-19.93
+-47.54
+Conselheiro Lafaiete - MG
+-20.66
+-43.78
+Conselheiro Mairinck - PR
+-23.62
+-50.16
+Conselheiro Pena - MG
+-19.17
+-41.47
+Consolação - MG
+-22.55
+-45.92
+Constantina - RS
+-27.73
+-52.99
+Contagem - MG
+-19.93
+-44.05
+Contenda - PR
+-25.67
+-49.53
+Contendas do Sincorá - BA
+-13.76
+-41.04
+Coqueiral - MG
+-21.18
+-45.44
+Coqueiro Seco - AL
+-9.63
+-35.80
+Coqueiros do Sul - RS
+-28.11
+-52.78
+Coração de Jesus - MG
+-16.68
+-44.36
+Coração de Maria - BA
+-12.23
+-38.75
+Corbélia - PR
+-24.79
+-53.30
+Cordeiro - RJ
+-22.02
+-42.36
+Cordeirópolis - SP
+-22.48
+-47.45
+Cordeiros - BA
+-15.03
+-41.93
+Cordilheira Alta - SC
+-26.98
+-52.60
+Cordisburgo - MG
+-19.12
+-44.32
+Cordislândia - MG
+-21.79
+-45.70
+Coreaú - CE
+-3.53
+-40.65
+Coremas - PB
+-7.01
+-37.94
+Corguinho - MS
+-19.83
+-54.82
+Coribe - BA
+-13.82
+-44.45
+Corinto - MG
+-18.38
+-44.45
+Cornélio Procópio - PR
+-23.18
+-50.64
+Coroaci - MG
+-18.62
+-42.28
+Coroados - SP
+-21.35
+-50.28
+Coroatá - MA
+-4.13
+-44.12
+Coromandel - MG
+-18.47
+-47.20
+Coronel Barros - RS
+-28.38
+-54.06
+Coronel Bicaco - RS
+-27.71
+-53.70
+Coronel Domingos Soares - PR
+-26.22
+-52.03
+Coronel Ezequiel - RN
+-6.38
+-36.21
+Coronel Fabriciano - MG
+-19.51
+-42.62
+Coronel Freitas - SC
+-26.90
+-52.70
+Coronel João Pessoa - RN
+-6.25
+-38.44
+Coronel João Sá - BA
+-10.28
+-37.92
+Coronel José Dias - PI
+-8.81
+-42.51
+Coronel Macedo - SP
+-23.63
+-49.31
+Coronel Martins - SC
+-26.51
+-52.66
+Coronel Murta - MG
+-16.61
+-42.18
+Coronel Pacheco - MG
+-21.58
+-43.26
+Coronel Sapucaia - MS
+-23.27
+-55.52
+Coronel Vivida - PR
+-25.97
+-52.56
+Coronel Xavier Chaves - MG
+-21.02
+-44.22
+Córrego Danta - MG
+-19.82
+-45.90
+Córrego do Bom Jesus - MG
+-22.63
+-46.02
+Córrego do Ouro - GO
+-16.29
+-50.54
+Córrego Fundo - MG
+-20.44
+-45.55
+Córrego Novo - MG
+-19.83
+-42.39
+Correia Pinto - SC
+-27.58
+-50.36
+Corrente - PI
+-10.44
+-45.16
+Correntes - PE
+-9.12
+-36.33
+Correntina - BA
+-13.34
+-44.63
+Cortês - PE
+-8.47
+-35.54
+Corumbá - MS
+-19.00
+-57.65
+Corumbá de Goiás - GO
+-15.92
+-48.80
+Corumbaíba - GO
+-18.14
+-48.56
+Corumbataí - SP
+-22.22
+-47.62
+Corumbataí do Sul - PR
+-24.10
+-52.11
+Corumbiara - RO
+-12.96
+-60.88
+Corupá - SC
+-26.42
+-49.24
+Coruripe - AL
+-10.12
+-36.17
+Cosmópolis - SP
+-22.64
+-47.19
+Cosmorama - SP
+-20.47
+-49.77
+Costa Marques - RO
+-12.44
+-64.22
+Costa Rica - MS
+-18.54
+-53.12
+Cotegipe - BA
+-12.02
+-44.25
+Cotia - SP
+-23.60
+-46.91
+Cotiporã - RS
+-28.99
+-51.69
+Cotriguaçu - MT
+-9.95
+-58.41
+Couto de Magalhães - TO
+-8.28
+-49.24
+Couto de Magalhães de Minas - MG
+-18.07
+-43.47
+Coxilha - RS
+-28.12
+-52.29
+Coxim - MS
+-18.50
+-54.76
+Coxixola - PB
+-7.62
+-36.60
+Craíbas - AL
+-9.61
+-36.76
+Crateús - CE
+-5.17
+-40.67
+Crato - CE
+-7.23
+-39.40
+Cravinhos - SP
+-21.34
+-47.72
+Cravolândia - BA
+-13.35
+-39.81
+Criciúma - SC
+-28.67
+-49.36
+Crisólita - MG
+-17.23
+-40.91
+Crisópolis - BA
+-11.51
+-38.15
+Crissiumal - RS
+-27.49
+-54.10
+Cristais - MG
+-20.87
+-45.51
+Cristais Paulista - SP
+-20.39
+-47.42
+Cristal - RS
+-30.99
+-52.04
+Cristal do Sul - RS
+-27.45
+-53.24
+Cristalândia - TO
+-10.60
+-49.19
+Cristalândia do Piauí - PI
+-10.65
+-45.18
+Cristália - MG
+-16.80
+-42.86
+Cristalina - GO
+-16.76
+-47.61
+Cristiano Otoni - MG
+-20.83
+-43.80
+Cristianópolis - GO
+-17.19
+-48.70
+Cristina - MG
+-22.21
+-45.26
+Cristinápolis - SE
+-11.47
+-37.75
+Cristino Castro - PI
+-8.81
+-44.22
+Cristópolis - BA
+-12.23
+-44.42
+Crixás - GO
+-14.54
+-49.96
+Crixás do Tocantins - TO
+-11.10
+-48.91
+Croatá - CE
+-4.40
+-40.91
+Cromínia - GO
+-17.28
+-49.38
+Crucilândia - MG
+-20.38
+-44.33
+Cruz - CE
+-2.91
+-40.17
+Cruz Alta - RS
+-28.63
+-53.60
+Cruz das Almas - BA
+-12.67
+-39.10
+Cruz do Espírito Santo - PB
+-7.14
+-35.08
+Cruz Machado - PR
+-26.01
+-51.34
+Cruzália - SP
+-22.73
+-50.79
+Cruzeiro - SP
+-22.57
+-44.96
+Cruzeiro da Fortaleza - MG
+-18.94
+-46.67
+Cruzeiro do Iguaçu - PR
+-25.61
+-53.12
+Cruzeiro do Oeste - PR
+-23.78
+-53.07
+Cruzeiro do Sul - AC
+-7.63
+-72.67
+Cruzeiro do Sul - PR
+-22.96
+-52.16
+Cruzeiro do Sul - RS
+-29.51
+-51.98
+Cruzeta - RN
+-6.41
+-36.78
+Cruzília - MG
+-21.83
+-44.80
+Cruzmaltina - PR
+-24.01
+-51.45
+Cubatão - SP
+-23.89
+-46.42
+Cubati - PB
+-6.86
+-36.37
+Cuiabá - MT
+-15.59
+-56.09
+Cuité - PB
+-6.48
+-36.15
+Cuité de Mamanguape - PB
+-6.91
+-35.25
+Cuitegi - PB
+-6.89
+-35.52
+Cujubim - RO
+-9.36
+-62.58
+Cumari - GO
+-18.26
+-48.15
+Cumaru - PE
+-8.00
+-35.69
+Cumaru do Norte - PA
+-7.82
+-50.77
+Cumbe - SE
+-10.35
+-37.18
+Cunha - SP
+-23.07
+-44.95
+Cunha Porã - SC
+-26.89
+-53.16
+Cunhataí - SC
+-26.96
+-53.09
+Cuparaque - MG
+-18.96
+-41.09
+Cupira - PE
+-8.61
+-35.95
+Curaçá - BA
+-8.99
+-39.90
+Curimatá - PI
+-10.03
+-44.30
+Curionópolis - PA
+-6.10
+-49.59
+Curitiba - PR
+-25.42
+-49.27
+Curitibanos - SC
+-27.28
+-50.58
+Curiúva - PR
+-24.03
+-50.45
+Currais - PI
+-9.00
+-44.41
+Currais Novos - RN
+-6.26
+-36.51
+Curral de Cima - PB
+-6.71
+-35.26
+Curral de Dentro - MG
+-15.93
+-41.84
+Curral Novo do Piauí - PI
+-7.83
+-40.90
+Curral Velho - PB
+-7.58
+-38.19
+Curralinho - PA
+-1.81
+-49.79
+Curralinhos - PI
+-5.58
+-42.77
+Curuá - PA
+-1.88
+-55.11
+Curuçá - PA
+0.72
+-47.84
+Cururupu - MA
+-1.82
+-44.86
+Curvelo - MG
+-18.75
+-44.43
+Custódia - PE
+-8.08
+-37.64
+Cutias - AP
+6.51
+-50.80
+Damianópolis - GO
+-14.56
+-46.17
+Damião - PB
+-6.60
+-35.93
+Damolândia - GO
+-16.25
+-49.37
+Darcinópolis - TO
+-6.71
+-47.75
+Dário Meira - BA
+-14.43
+-39.90
+Datas - MG
+-18.44
+-43.65
+David Canabarro - RS
+-28.38
+-51.84
+Davinópolis - GO
+-18.15
+-47.56
+Davinópolis - MA
+-5.55
+-47.42
+Delfim Moreira - MG
+-22.50
+-45.28
+Delfinópolis - MG
+-20.34
+-46.85
+Delmiro Gouveia - AL
+-9.38
+-37.99
+Delta - MG
+-19.97
+-47.77
+Demerval Lobão - PI
+-5.35
+-42.67
+Denise - MT
+-14.74
+-57.05
+Deodápolis - MS
+-22.27
+-54.16
+Deputado Irapuan Pinheiro - CE
+-5.91
+-39.26
+Derrubadas - RS
+-27.26
+-53.86
+Descalvado - SP
+-21.90
+-47.61
+Descanso - SC
+-26.82
+-53.50
+Descoberto - MG
+-21.45
+-42.96
+Desterro - PB
+-7.29
+-37.09
+Desterro de Entre Rios - MG
+-20.66
+-44.33
+Desterro do Melo - MG
+-21.14
+-43.51
+Dezesseis de Novembro - RS
+-28.22
+-55.04
+Diadema - SP
+-23.68
+-46.62
+Diamante - PB
+-7.42
+-38.26
+Diamante do Norte - PR
+-22.65
+-52.85
+Diamante do Sul - PR
+-25.04
+-52.68
+Diamante d'Oeste - PR
+-24.94
+-54.10
+Diamantina - MG
+-18.24
+-43.60
+Diamantino - MT
+-14.40
+-56.44
+Dianópolis - TO
+-11.62
+-46.82
+Dias d'Ávila - BA
+-12.61
+-38.29
+Dilermano de Aguiar - RS
+-29.70
+-54.20
+Diogo de Vasconcelos - MG
+-20.48
+-43.19
+Dionísio - MG
+-19.84
+-42.77
+Dionísio Cerqueira - SC
+-26.25
+-53.63
+Diorama - GO
+-16.23
+-51.25
+Dirce Reis - SP
+-20.46
+-50.60
+Dirceu Arcoverde - PI
+-9.33
+-42.42
+Divina Pastora - SE
+-10.68
+-37.14
+Divinésia - MG
+-20.99
+-43.00
+Divino - MG
+-20.61
+-42.14
+Divino das Laranjeiras - MG
+-18.77
+-41.47
+Divino de São Lourenço - ES
+-20.62
+-41.68
+Divinolândia - SP
+-21.66
+-46.73
+Divinolândia de Minas - MG
+-18.80
+-42.61
+Divinópolis - MG
+-20.13
+-44.88
+Divinópolis de Goiás - GO
+-13.29
+-46.39
+Divinópolis do Tocantins - TO
+-9.79
+-49.21
+Divisa Alegre - MG
+-15.72
+-41.34
+Divisa Nova - MG
+-21.51
+-46.19
+Divisópolis - MG
+-15.72
+-41.00
+Dobrada - SP
+-21.51
+-48.39
+Dois Córregos - SP
+-22.36
+-48.38
+Dois Irmãos - RS
+-29.58
+-51.08
+Dois Irmãos das Missões - RS
+-27.65
+-53.53
+Dois Irmãos do Buriti - MS
+-20.67
+-55.29
+Dois Irmãos do Tocantins - TO
+-9.25
+-49.06
+Dois Lajeados - RS
+-28.98
+-51.83
+Dois Riachos - AL
+-9.39
+-37.10
+Dois Vizinhos - PR
+-25.73
+-53.05
+Dolcinópolis - SP
+-20.12
+-50.51
+Dom Aquino - MT
+-15.81
+-54.91
+Dom Basílio - BA
+-13.76
+-41.77
+Dom Bosco - MG
+-16.65
+-46.27
+Dom Cavati - MG
+-19.37
+-42.10
+Dom Eliseu - PA
+-4.28
+-47.50
+Dom Expedito Lopes - PI
+-6.95
+-41.64
+Dom Feliciano - RS
+-30.70
+-52.10
+Dom Inocêncio - PI
+-9.00
+-41.97
+Dom Joaquim - MG
+-18.96
+-43.25
+Dom Macedo Costa - BA
+-12.90
+-39.19
+Dom Pedrito - RS
+-30.98
+-54.67
+Dom Pedro - MA
+-5.03
+-44.44
+Dom Pedro de Alcântara - RS
+-29.36
+-49.84
+Dom Silvério - MG
+-20.16
+-42.96
+Dom Viçoso - MG
+-22.25
+-45.16
+Domingos Martins - ES
+-20.36
+-40.65
+Domingos Mourão - PI
+-4.25
+-41.27
+Dona Emma - SC
+-26.98
+-49.72
+Dona Euzébia - MG
+-21.31
+-42.81
+Dona Francisca - RS
+-29.62
+-53.35
+Dona Inês - PB
+-6.60
+-35.29
+Dores de Campos - MG
+-21.10
+-44.02
+Dores de Guanhães - MG
+-19.05
+-42.92
+Dores do Indaiá - MG
+-19.46
+-45.60
+Dores do Rio Preto - ES
+-20.68
+-41.84
+Dores do Turvo - MG
+-20.97
+-43.18
+Doresópolis - MG
+-20.28
+-45.90
+Dormentes - PE
+-8.44
+-40.77
+Douradina - MS
+-22.04
+-54.61
+Douradina - PR
+-23.38
+-53.29
+Dourado - SP
+-22.10
+-48.31
+Douradoquara - MG
+-18.43
+-47.60
+Dourados - MS
+-22.22
+-54.80
+Doutor Camargo - PR
+-23.55
+-52.21
+Doutor Maurício Cardoso - RS
+-27.50
+-54.36
+Doutor Pedrinho - SC
+-26.71
+-49.48
+Doutor Ricardo - RS
+-29.08
+-51.99
+Doutor Severiano - RN
+-6.09
+-38.37
+Doutor Ulysses - PR
+-24.56
+-49.41
+Doverlândia - GO
+-16.72
+-52.31
+Dracena - SP
+-21.48
+-51.53
+Duartina - SP
+-22.41
+-49.40
+Duas Barras - RJ
+-22.05
+-42.52
+Duas Estradas - PB
+-6.68
+-35.41
+Dueré - TO
+-11.34
+-49.27
+Dumont - SP
+-21.23
+-47.97
+Duque Bacelar - MA
+-4.15
+-42.94
+Duque de Caxias - RJ
+-22.78
+-43.31
+Durandé - MG
+-20.20
+-41.79
+Echaporã - SP
+-22.42
+-50.20
+Ecoporanga - ES
+-18.37
+-40.83
+Edealina - GO
+-17.42
+-49.66
+Edéia - GO
+-17.33
+-49.93
+Eirunepé - AM
+-6.66
+-69.87
+Eldorado - MS
+-23.78
+-54.28
+Eldorado - SP
+-24.52
+-48.10
+Eldorado do Sul - RS
+-30.08
+-51.61
+Eldorado dos Carajás - PA
+-6.10
+-49.35
+Elesbão Veloso - PI
+-6.20
+-42.14
+Elias Fausto - SP
+-23.04
+-47.37
+Eliseu Martins - PI
+-8.09
+-43.66
+Elisiário - SP
+-21.16
+-49.11
+Elísio Medrado - BA
+-12.94
+-39.52
+Elói Mendes - MG
+-21.61
+-45.56
+Emas - PB
+-7.10
+-37.71
+Embaúba - SP
+-20.98
+-48.83
+Embu - SP
+-23.64
+-46.85
+Embu-Guaçu - SP
+-23.83
+-46.81
+Emilianópolis - SP
+-21.83
+-51.48
+Encantado - RS
+-29.23
+-51.86
+Encanto - RN
+-6.11
+-38.30
+Encruzilhada - BA
+-15.53
+-40.90
+Encruzilhada do Sul - RS
+-30.54
+-52.52
+Enéas Marques - PR
+-25.94
+-53.16
+Engenheiro Beltrão - PR
+-23.79
+-52.26
+Engenheiro Caldas - MG
+-19.21
+-42.04
+Engenheiro Coelho - SP
+-22.48
+-47.21
+Engenheiro Navarro - MG
+-17.27
+-43.95
+Engenheiro Paulo de Frontin - RJ
+-22.54
+-43.67
+Engenho Velho - RS
+-27.70
+-52.91
+Entre Folhas - MG
+-19.62
+-42.23
+Entre Rios - BA
+-11.94
+-38.08
+Entre Rios - SC
+-26.72
+-52.56
+Entre Rios de Minas - MG
+-20.67
+-44.06
+Entre Rios do Oeste - PR
+-24.70
+-54.23
+Entre Rios do Sul - RS
+-27.52
+-52.73
+Entre-Ijuís - RS
+-28.35
+-54.26
+Envira - AM
+-7.43
+-70.02
+Epitaciolândia - AC
+-11.02
+-68.74
+Equador - RN
+-6.94
+-36.71
+Erebango - RS
+-27.85
+-52.30
+Erechim - RS
+-27.63
+-52.27
+Ererê - CE
+-6.03
+-38.34
+Érico Cardoso - BA
+-13.41
+-42.14
+Ermo - SC
+-28.98
+-49.64
+Ernestina - RS
+-28.49
+-52.57
+Erval Grande - RS
+-27.39
+-52.57
+Erval Seco - RS
+-27.54
+-53.50
+Erval Velho - SC
+-27.27
+-51.44
+Ervália - MG
+-20.84
+-42.65
+Escada - PE
+-8.35
+-35.22
+Esmeralda - RS
+-28.05
+-51.19
+Esmeraldas - MG
+-19.76
+-44.31
+Espera Feliz - MG
+-20.65
+-41.90
+Esperança - PB
+-7.03
+-35.85
+Esperança do Sul - RS
+-27.35
+-53.99
+Esperança Nova - PR
+-23.72
+-53.81
+Esperantina - PI
+-3.90
+-42.23
+Esperantina - TO
+-5.34
+-48.51
+Esperantinópolis - MA
+-4.86
+-44.70
+Espigão Alto do Iguaçu - PR
+-25.42
+-52.83
+Espigão d'Oeste - RO
+-11.52
+-61.01
+Espinosa - MG
+-14.92
+-42.81
+Espírito Santo - RN
+-6.33
+-35.30
+Espírito Santo do Dourado - MG
+-22.04
+-45.95
+Espírito Santo do Pinhal - SP
+-22.11
+-46.68
+Espírito Santo do Turvo - SP
+-22.69
+-49.43
+Esplanada - BA
+-11.79
+-37.94
+Espumoso - RS
+-28.72
+-52.84
+Estação - RS
+-27.91
+-52.26
+Estância - SE
+-11.26
+-37.43
+Estância Velha - RS
+-29.64
+-51.17
+Esteio - RS
+-29.86
+-51.17
+Estiva - MG
+-22.46
+-46.01
+Estiva Gerbi - SP
+-22.27
+-46.94
+Estreito - MA
+-6.56
+-47.45
+Estrela - RS
+-29.50
+-51.96
+Estrela Dalva - MG
+-21.74
+-42.46
+Estrela de Alagoas - AL
+-9.39
+-36.76
+Estrela do Indaiá - MG
+-19.52
+-45.78
+Estrela do Norte - GO
+-13.86
+-49.07
+Estrela do Norte - SP
+-22.48
+-51.66
+Estrela do Sul - MG
+-18.74
+-47.69
+Estrela d'Oeste - SP
+-20.28
+-50.40
+Estrela Velha - RS
+-29.17
+-53.15
+Euclides da Cunha - BA
+-10.50
+-39.01
+Euclides da Cunha Paulista - SP
+-22.56
+-52.59
+Eugênio de Castro - RS
+-28.52
+-54.14
+Eugenópolis - MG
+-21.09
+-42.18
+Eunápolis - BA
+-16.37
+-39.58
+Eusébio - CE
+-3.89
+-38.45
+Ewbank da Câmara - MG
+-21.55
+-43.51
+Extrema - MG
+-22.85
+-46.31
+Extremoz - RN
+-5.70
+-35.30
+Exu - PE
+-7.51
+-39.72
+Fagundes - PB
+-7.35
+-35.77
+Fagundes Varela - RS
+-28.88
+-51.69
+Faina - GO
+-15.44
+-50.36
+Fama - MG
+-21.40
+-45.82
+Faria Lemos - MG
+-20.80
+-42.02
+Farias Brito - CE
+-6.93
+-39.56
+Faro - PA
+-2.17
+-56.74
+Farol - PR
+-24.09
+-52.62
+Farroupilha - RS
+-29.22
+-51.34
+Fartura - SP
+-23.38
+-49.51
+Fartura do Piauí - PI
+-9.01
+-42.68
+Fátima - BA
+-10.60
+-38.21
+Fátima - TO
+-10.75
+-48.90
+Fátima do Sul - MS
+-22.37
+-54.51
+Faxinal - PR
+-24.00
+-51.31
+Faxinal do Soturno - RS
+-29.57
+-53.44
+Faxinal dos Guedes - SC
+-26.85
+-52.26
+Faxinalzinho - RS
+-27.42
+-52.67
+Fazenda Nova - GO
+-16.18
+-50.77
+Fazenda Rio Grande - PR
+-25.65
+-49.30
+Fazenda Vilanova - RS
+-29.58
+-51.82
+Feijó - AC
+-8.16
+-70.35
+Feira da Mata - BA
+-14.21
+-44.28
+Feira de Santana - BA
+-12.26
+-38.96
+Feira Grande - AL
+-9.90
+-36.67
+Feira Nova - PE
+-7.95
+-35.38
+Feira Nova - SE
+-10.26
+-37.31
+Feira Nova do Maranhão - MA
+-6.96
+-46.68
+Felício dos Santos - MG
+-18.07
+-43.24
+Felipe Guerra - RN
+-5.60
+-37.68
+Felisburgo - MG
+-16.63
+-40.76
+Felixlândia - MG
+-18.75
+-44.89
+Feliz - RS
+-29.45
+-51.30
+Feliz Deserto - AL
+-10.29
+-36.30
+Feliz Natal - MT
+-12.38
+-54.91
+Fênix - PR
+-23.91
+-51.97
+Fernandes Pinheiro - PR
+-25.41
+-50.54
+Fernandes Tourinho - MG
+-19.15
+-42.08
+Fernando de Noronha (Distrito Estadual) - PE
+-3.84
+-32.41
+Fernando Falcão - MA
+-6.15
+-44.89
+Fernando Pedroza - RN
+-5.69
+-36.53
+Fernando Prestes - SP
+-21.26
+-48.68
+Fernandópolis - SP
+-20.28
+-50.24
+Fernão - SP
+-22.35
+-49.52
+Ferraz de Vasconcelos - SP
+-23.54
+-46.36
+Ferreira Gomes - AP
+5.21
+-51.18
+Ferreiros - PE
+-7.44
+-35.24
+Ferros - MG
+-19.23
+-43.02
+Fervedouro - MG
+-20.72
+-42.27
+Figueira - PR
+-23.84
+-50.40
+Figueirópolis - TO
+-12.13
+-49.17
+Figueirópolis d'Oeste - MT
+-15.44
+-58.74
+Filadélfia - BA
+-10.74
+-40.13
+Filadélfia - TO
+-7.33
+-47.49
+Firmino Alves - BA
+-14.98
+-39.92
+Firminópolis - GO
+-16.58
+-50.30
+Flexeiras - AL
+-9.19
+-35.78
+Flor da Serra do Sul - PR
+-26.26
+-53.30
+Flor do Sertão - SC
+-26.77
+-53.34
+Flora Rica - SP
+-21.67
+-51.38
+Floraí - PR
+-23.31
+-52.30
+Florânia - RN
+-6.12
+-36.81
+Floreal - SP
+-20.67
+-50.14
+Flores - PE
+-7.86
+-37.97
+Flores da Cunha - RS
+-29.02
+-51.18
+Flores de Goiás - GO
+-14.44
+-47.05
+Flores do Piauí - PI
+-7.79
+-42.92
+Floresta - PE
+-8.60
+-38.56
+Floresta - PR
+-23.59
+-52.08
+Floresta Azul - BA
+-14.86
+-39.65
+Floresta do Araguaia - PA
+-7.55
+-49.71
+Floresta do Piauí - PI
+-7.46
+-41.79
+Florestal - MG
+-19.88
+-44.43
+Florestópolis - PR
+-22.86
+-51.38
+Floriano - PI
+-6.76
+-43.02
+Floriano Peixoto - RS
+-27.86
+-52.08
+Florianópolis - SC
+-27.59
+-48.54
+Flórida - PR
+-23.08
+-51.95
+Flórida Paulista - SP
+-21.61
+-51.17
+Florínia - SP
+-22.90
+-50.73
+Fonte Boa - AM
+-2.51
+-66.09
+Fontoura Xavier - RS
+-28.98
+-52.34
+Formiga - MG
+-20.46
+-45.42
+Formigueiro - RS
+-30.00
+-53.49
+Formosa - GO
+-15.53
+-47.33
+Formosa da Serra Negra - MA
+-6.43
+-46.19
+Formosa do Oeste - PR
+-24.29
+-53.31
+Formosa do Rio Preto - BA
+-11.04
+-45.19
+Formosa do Sul - SC
+-26.64
+-52.79
+Formoso - GO
+-13.65
+-48.88
+Formoso - MG
+-14.94
+-46.23
+Formoso do Araguaia - TO
+-11.79
+-49.52
+Forquilha - CE
+-3.79
+-40.26
+Forquilhinha - SC
+-28.74
+-49.47
+Fortaleza - CE
+-3.71
+-38.54
+Fortaleza de Minas - MG
+-20.84
+-46.71
+Fortaleza do Tabocão - TO
+-9.05
+-48.51
+Fortaleza dos Nogueiras - MA
+-6.96
+-46.17
+Fortaleza dos Valos - RS
+-28.79
+-53.22
+Fortim - CE
+-4.45
+-37.79
+Fortuna - MA
+-5.73
+-44.15
+Fortuna de Minas - MG
+-19.56
+-44.44
+Foz do Iguaçu - PR
+-25.54
+-54.58
+Foz do Jordão - PR
+-25.64
+-52.10
+Fraiburgo - SC
+-27.02
+-50.92
+Franca - SP
+-20.53
+-47.40
+Francinópolis - PI
+-6.39
+-42.26
+Francisco Alves - PR
+-24.06
+-53.84
+Francisco Ayres - PI
+-6.62
+-42.69
+Francisco Badaró - MG
+-16.99
+-42.35
+Francisco Beltrão - PR
+-26.08
+-53.05
+Francisco Dantas - RN
+-6.07
+-38.11
+Francisco Dumont - MG
+-17.31
+-44.23
+Francisco Macedo - PI
+-7.33
+-40.78
+Francisco Morato - SP
+-23.28
+-46.74
+Francisco Sá - MG
+-16.47
+-43.48
+Francisco Santos - PI
+-6.99
+-41.13
+Franciscópolis - MG
+-17.95
+-42.00
+Franco da Rocha - SP
+-23.32
+-46.72
+Frecheirinha - CE
+-3.76
+-40.81
+Frederico Westphalen - RS
+-27.35
+-53.39
+Frei Gaspar - MG
+-18.06
+-41.42
+Frei Inocêncio - MG
+-18.57
+-41.90
+Frei Lagonegro - MG
+-18.16
+-42.76
+Frei Martinho - PB
+-6.40
+-36.45
+Frei Miguelinho - PE
+-7.93
+-35.91
+Frei Paulo - SE
+-10.54
+-37.53
+Frei Rogério - SC
+-27.17
+-50.80
+Fronteira - MG
+-20.26
+-49.19
+Fronteira dos Vales - MG
+-16.89
+-40.92
+Fronteiras - PI
+-7.08
+-40.61
+Fruta de Leite - MG
+-16.13
+-42.53
+Frutal - MG
+-20.02
+-48.94
+Frutuoso Gomes - RN
+-6.15
+-37.83
+Fundão - ES
+-19.93
+-40.40
+Funilândia - MG
+-19.36
+-44.05
+Gabriel Monteiro - SP
+-21.53
+-50.55
+Gado Bravo - PB
+-7.58
+-35.79
+Gália - SP
+-22.29
+-49.55
+Galiléia - MG
+-18.99
+-41.53
+Galinhos - RN
+-5.09
+-36.27
+Galvão - SC
+-26.45
+-52.68
+Gameleira - PE
+-8.58
+-35.38
+Gameleiras - MG
+-15.08
+-43.12
+Gandu - BA
+-13.74
+-39.48
+Garanhuns - PE
+-8.89
+-36.49
+Gararu - SE
+-9.96
+-37.08
+Garça - SP
+-22.21
+-49.65
+Garibaldi - RS
+-29.25
+-51.53
+Garopaba - SC
+-28.02
+-48.61
+Garrafão do Norte - PA
+-1.93
+-47.05
+Garruchos - RS
+-28.18
+-55.63
+Garuva - SC
+-26.02
+-48.85
+Gaspar - SC
+-26.93
+-48.95
+Gastão Vidigal - SP
+-20.79
+-50.18
+Gaúcha do Norte - MT
+-13.24
+-53.07
+Gaurama - RS
+-27.58
+-52.09
+Gavião - BA
+-11.47
+-39.78
+Gavião Peixoto - SP
+-21.83
+-48.49
+Geminiano - PI
+-7.15
+-41.36
+General Câmara - RS
+-29.90
+-51.76
+General Carneiro - MT
+-15.71
+-52.75
+General Carneiro - PR
+-26.42
+-51.31
+General Maynard - SE
+-10.68
+-36.98
+General Salgado - SP
+-20.64
+-50.36
+General Sampaio - CE
+-4.05
+-39.45
+Gentil - RS
+-28.43
+-52.03
+Gentio do Ouro - BA
+-11.42
+-42.50
+Getulina - SP
+-21.79
+-49.92
+Getúlio Vargas - RS
+-27.89
+-52.22
+Gilbués - PI
+-9.83
+-45.34
+Girau do Ponciano - AL
+-9.88
+-36.82
+Giruá - RS
+-28.02
+-54.34
+Glaucilândia - MG
+-16.84
+-43.69
+Glicério - SP
+-21.37
+-50.20
+Glória - BA
+-9.33
+-38.25
+Glória de Dourados - MS
+-22.41
+-54.23
+Glória do Goitá - PE
+-8.00
+-35.29
+Glória d'Oeste - MT
+-15.76
+-58.21
+Glorinha - RS
+-29.88
+-50.78
+Godofredo Viana - MA
+-1.40
+-45.78
+Godoy Moreira - PR
+-24.17
+-51.92
+Goiabeira - MG
+-18.98
+-41.22
+Goianá - MG
+-21.53
+-43.20
+Goiana - PE
+-7.56
+-35.00
+Goianápolis - GO
+-16.51
+-49.02
+Goiandira - GO
+-18.13
+-48.08
+Goianésia - GO
+-15.31
+-49.11
+Goianésia do Pará - PA
+-3.84
+-49.09
+Goiânia - GO
+-16.67
+-49.25
+Goianinha - RN
+-6.26
+-35.21
+Goianira - GO
+-16.49
+-49.42
+Goianorte - TO
+-8.77
+-48.93
+Goiás - GO
+-15.93
+-50.14
+Goiatins - TO
+-7.71
+-47.31
+Goiatuba - GO
+-18.01
+-49.35
+Goioerê - PR
+-24.18
+-53.02
+Goioxim - PR
+-25.19
+-51.99
+Gonçalves - MG
+-22.65
+-45.85
+Gonçalves Dias - MA
+-5.15
+-44.29
+Gongogi - BA
+-14.32
+-39.46
+Gonzaga - MG
+-18.82
+-42.47
+Gouvêa - MG
+-18.45
+-43.74
+Gouvelândia - GO
+-18.64
+-50.06
+Governador Archer - MA
+-5.02
+-44.27
+Governador Celso Ramos - SC
+-27.31
+-48.55
+Governador Dix-Sept Rosado - RN
+-5.45
+-37.52
+Governador Edison Lobão - MA
+-5.74
+-47.36
+Governador Eugênio Barros - MA
+-5.32
+-44.24
+Governador Jorge Teixeira - RO
+-10.52
+-62.64
+Governador Luiz Rocha - MA
+-5.46
+-44.07
+Governador Mangabeira - BA
+-12.60
+-39.04
+Governador Newton Bello - MA
+-3.42
+-45.67
+Governador Nunes Freire - MA
+-2.12
+-45.88
+Governador Valadares - MG
+-18.85
+-41.94
+Graça - CE
+-4.04
+-40.75
+Graça Aranha - MA
+-5.40
+-44.33
+Gracho Cardoso - SE
+-10.22
+-37.19
+Grajaú - MA
+-5.81
+-46.13
+Gramado - RS
+-29.37
+-50.87
+Gramado dos Loureiros - RS
+-27.44
+-52.91
+Gramado Xavier - RS
+-29.26
+-52.57
+Grandes Rios - PR
+-24.14
+-51.50
+Granito - PE
+-7.71
+-39.61
+Granja - CE
+-3.12
+-40.82
+Granjeiro - CE
+-6.88
+-39.21
+Grão Mogol - MG
+-16.55
+-42.88
+Grão Pará - SC
+-28.18
+-49.21
+Gravatá - PE
+-8.20
+-35.56
+Gravataí - RS
+-29.94
+-50.99
+Gravatal - SC
+-28.33
+-49.03
+Groaíras - CE
+-3.91
+-40.38
+Grossos - RN
+-4.97
+-37.15
+Grupiara - MG
+-18.49
+-47.72
+Guabiju - RS
+-28.54
+-51.69
+Guabiruba - SC
+-27.08
+-48.98
+Guaçuí - ES
+-20.77
+-41.67
+Guadalupe - PI
+-6.78
+-43.56
+Guaíba - RS
+-30.11
+-51.32
+Guaiçara - SP
+-21.62
+-49.79
+Guaimbê - SP
+-21.91
+-49.89
+Guaíra - PR
+-24.08
+-54.25
+Guaíra - SP
+-20.31
+-48.31
+Guairaçá - PR
+-22.93
+-52.68
+Guaiúba - CE
+-4.03
+-38.63
+Guajará - AM
+-7.54
+-72.58
+Guajará-Mirim - RO
+-10.78
+-65.33
+Guajeru - BA
+-14.54
+-41.94
+Guamaré - RN
+-5.10
+-36.32
+Guamiranga - PR
+-25.19
+-50.80
+Guanambi - BA
+-14.22
+-42.78
+Guanhães - MG
+-18.77
+-42.93
+Guapé - MG
+-20.76
+-45.91
+Guapiaçu - SP
+-20.79
+-49.22
+Guapiara - SP
+-24.18
+-48.53
+Guapimirim - RJ
+-22.53
+-42.98
+Guapirama - PR
+-23.51
+-50.03
+Guapó - GO
+-16.83
+-49.53
+Guaporé - RS
+-28.84
+-51.89
+Guaporema - PR
+-23.34
+-52.77
+Guará - SP
+-20.42
+-47.82
+Guarabira - PB
+-6.85
+-35.49
+Guaraçaí - SP
+-21.02
+-51.20
+Guaraci - PR
+-22.97
+-51.64
+Guaraci - SP
+-20.49
+-48.94
+Guaraciaba - MG
+-20.57
+-43.00
+Guaraciaba - SC
+-26.59
+-53.51
+Guaraciaba do Norte - CE
+-4.16
+-40.74
+Guaraciama - MG
+-17.01
+-43.67
+Guaraí - TO
+-8.83
+-48.51
+Guaraíta - GO
+-15.61
+-50.02
+Guaramiranga - CE
+-4.26
+-38.93
+Guaramirim - SC
+-26.47
+-49.00
+Guaranésia - MG
+-21.29
+-46.80
+Guarani - MG
+-21.35
+-43.04
+Guarani das Missões - RS
+-28.14
+-54.55
+Guarani de Goiás - GO
+-13.93
+-46.48
+Guarani d'Oeste - SP
+-20.07
+-50.33
+Guaraniaçu - PR
+-25.10
+-52.87
+Guarantã - SP
+-21.89
+-49.58
+Guarantã do Norte - MT
+-9.78
+-54.91
+Guarapari - ES
+-20.66
+-40.49
+Guarapuava - PR
+-25.39
+-51.45
+Guaraqueçaba - PR
+-25.30
+-48.32
+Guarará - MG
+-21.73
+-43.03
+Guararapes - SP
+-21.26
+-50.64
+Guararema - SP
+-23.41
+-46.03
+Guaratinga - BA
+-16.58
+-39.78
+Guaratinguetá - SP
+-22.81
+-45.19
+Guaratuba - PR
+-25.88
+-48.57
+Guarda-Mor - MG
+-17.77
+-47.09
+Guareí - SP
+-23.37
+-48.18
+Guariba - SP
+-21.36
+-48.22
+Guaribas - PI
+-9.39
+-43.68
+Guarinos - GO
+-14.73
+-49.70
+Guarujá - SP
+-23.99
+-46.25
+Guarujá do Sul - SC
+-26.38
+-53.52
+Guarulhos - SP
+-23.46
+-46.53
+Guatambú - SC
+-27.13
+-52.78
+Guatapará - SP
+-21.49
+-48.03
+Guaxupé - MG
+-21.30
+-46.71
+Guia Lopes da Laguna - MS
+-21.45
+-56.11
+Guidoval - MG
+-21.15
+-42.79
+Guimarães - MA
+-2.13
+-44.60
+Guimarânia - MG
+-18.84
+-46.79
+Guiratinga - MT
+-16.34
+-53.75
+Guiricema - MG
+-21.00
+-42.71
+Gurinhatã - MG
+-19.21
+-49.78
+Gurinhém - PB
+-7.12
+-35.42
+Gurjão - PB
+-7.24
+-36.48
+Gurupá - PA
+-1.40
+-51.64
+Gurupi - TO
+-11.72
+-49.06
+Guzolândia - SP
+-20.64
+-50.66
+Harmonia - RS
+-29.54
+-51.42
+Heitoraí - GO
+-15.71
+-49.82
+Heliodora - MG
+-22.06
+-45.54
+Heliópolis - BA
+-10.68
+-38.28
+Herculândia - SP
+-22.00
+-50.38
+Herval - RS
+-32.02
+-53.39
+Herval d'Oeste - SC
+-27.19
+-51.49
+Herveiras - RS
+-29.40
+-52.65
+Hidrolândia - CE
+-4.40
+-40.43
+Hidrolândia - GO
+-16.96
+-49.22
+Hidrolina - GO
+-14.72
+-49.46
+Holambra - SP
+-22.63
+-47.05
+Honório Serpa - PR
+-26.14
+-52.38
+Horizonte - CE
+-4.08
+-38.65
+Horizontina - RS
+-27.62
+-54.30
+Hortolândia - SP
+-22.85
+-47.22
+Hugo Napoleão - PI
+-5.98
+-42.55
+Hulha Negra - RS
+-31.40
+-53.86
+Humaitá - AM
+-7.50
+-63.02
+Humaitá - RS
+-27.56
+-53.97
+Humberto de Campos - MA
+-2.59
+-43.46
+Iacanga - SP
+-21.89
+-49.02
+Iaciara - GO
+-14.09
+-46.63
+Iacri - SP
+-21.85
+-50.68
+Iaçu - BA
+-12.76
+-40.21
+Iapu - MG
+-19.43
+-42.21
+Iaras - SP
+-22.87
+-49.16
+Iati - PE
+-9.04
+-36.84
+Ibaiti - PR
+-23.84
+-50.18
+Ibarama - RS
+-29.41
+-53.13
+Ibaretama - CE
+-4.80
+-38.75
+Ibaté - SP
+-21.95
+-47.99
+Ibateguara - AL
+-8.97
+-35.93
+Ibatiba - ES
+-20.23
+-41.51
+Ibema - PR
+-25.10
+-53.01
+Ibertioga - MG
+-21.43
+-43.96
+Ibiá - MG
+-19.47
+-46.53
+Ibiaçá - RS
+-28.05
+-51.85
+Ibiaí - MG
+-16.86
+-44.91
+Ibiam - SC
+-27.18
+-51.23
+Ibiapina - CE
+-3.92
+-40.88
+Ibiara - PB
+-7.50
+-38.40
+Ibiassucê - BA
+-14.25
+-42.25
+Ibicaraí - BA
+-14.86
+-39.58
+Ibicaré - SC
+-27.09
+-51.36
+Ibicoara - BA
+-13.41
+-41.28
+Ibicuí - BA
+-14.84
+-39.98
+Ibicuitinga - CE
+-4.97
+-38.63
+Ibimirim - PE
+-8.54
+-37.69
+Ibipeba - BA
+-11.64
+-42.01
+Ibipitanga - BA
+-12.88
+-42.48
+Ibiporã - PR
+-23.26
+-51.04
+Ibiquera - BA
+-12.65
+-40.93
+Ibirá - SP
+-21.08
+-49.24
+Ibiracatu - MG
+-15.66
+-44.16
+Ibiraci - MG
+-20.46
+-47.12
+Ibiraçu - ES
+-19.83
+-40.36
+Ibiraiaras - RS
+-28.37
+-51.63
+Ibirajuba - PE
+-8.58
+-36.17
+Ibirama - SC
+-27.05
+-49.51
+Ibirapitanga - BA
+-14.16
+-39.37
+Ibirapuã - BA
+-17.68
+-40.10
+Ibirapuitã - RS
+-28.62
+-52.51
+Ibirarema - SP
+-22.81
+-50.07
+Ibirataia - BA
+-14.06
+-39.64
+Ibirité - MG
+-20.02
+-44.05
+Ibirubá - RS
+-28.62
+-53.08
+Ibitiara - BA
+-12.65
+-42.21
+Ibitinga - SP
+-21.75
+-48.82
+Ibitirama - ES
+-20.54
+-41.66
+Ibititá - BA
+-11.54
+-41.97
+Ibitiúra de Minas - MG
+-22.06
+-46.44
+Ibituruna - MG
+-21.15
+-44.74
+Ibiúna - SP
+-23.65
+-47.22
+Ibotirama - BA
+-12.18
+-43.22
+Icapuí - CE
+-4.71
+-37.35
+Içara - SC
+-28.71
+-49.30
+Icaraí de Minas - MG
+-16.21
+-44.90
+Icaraíma - PR
+-23.39
+-53.61
+Icatu - MA
+-2.77
+-44.06
+Icém - SP
+-20.34
+-49.19
+Ichu - BA
+-11.74
+-39.19
+Icó - CE
+-6.40
+-38.86
+Iconha - ES
+-20.79
+-40.81
+Ielmo Marinho - RN
+-5.82
+-35.55
+Iepê - SP
+-22.66
+-51.07
+Igaci - AL
+-9.53
+-36.63
+Igaporã - BA
+-13.77
+-42.71
+Igaraçu do Tietê - SP
+-22.50
+-48.55
+Igaracy - PB
+-7.18
+-38.14
+Igarapava - SP
+-20.03
+-47.74
+Igarapé - MG
+-20.07
+-44.30
+Igarapé do Meio - MA
+-3.66
+-45.22
+Igarapé Grande - MA
+-4.56
+-44.82
+Igarapé-Açu - PA
+-1.12
+-47.62
+Igarapé-Miri - PA
+-1.97
+-48.95
+Igarassu - PE
+-7.83
+-34.90
+Igaratá - SP
+-23.20
+-46.15
+Igaratinga - MG
+-19.95
+-44.70
+Igrapiúna - BA
+-13.82
+-39.14
+Igreja Nova - AL
+-10.12
+-36.66
+Igrejinha - RS
+-29.57
+-50.79
+Iguaba Grande - RJ
+-22.83
+-42.22
+Iguaí - BA
+-14.75
+-40.08
+Iguape - SP
+-24.70
+-47.55
+Iguaraci - PE
+-7.83
+-37.51
+Iguaraçu - PR
+-23.19
+-51.82
+Iguatama - MG
+-20.17
+-45.71
+Iguatemi - MS
+-23.68
+-54.56
+Iguatu - CE
+-6.35
+-39.29
+Iguatu - PR
+-24.64
+-53.13
+Ijaci - MG
+-21.17
+-44.92
+Ijuí - RS
+-28.38
+-53.91
+Ilha Comprida - SP
+-24.74
+-47.54
+Ilha das Flores - SE
+-10.43
+-36.54
+Ilha Grande - PI
+-2.85
+-41.82
+Ilha Solteira - SP
+-20.43
+-51.34
+Ilhabela - SP
+-23.77
+-45.35
+Ilhéus - BA
+-14.78
+-39.04
+Ilhota - SC
+-26.89
+-48.82
+Ilicínea - MG
+-20.93
+-45.83
+Ilópolis - RS
+-28.92
+-52.12
+Imaculada - PB
+-7.38
+-37.50
+Imaruí - SC
+-28.34
+-48.82
+Imbaú - PR
+-24.44
+-50.76
+Imbé - RS
+-29.97
+-50.12
+Imbé de Minas - MG
+-19.59
+-41.97
+Imbituba - SC
+-28.24
+-48.67
+Imbituva - PR
+-25.23
+-50.60
+Imbuia - SC
+-27.49
+-49.42
+Imigrante - RS
+-29.35
+-51.77
+Imperatriz - MA
+-5.52
+-47.49
+Inácio Martins - PR
+-25.57
+-51.07
+Inaciolândia - GO
+-18.48
+-49.98
+Inajá - PE
+-8.90
+-37.82
+Inajá - PR
+-22.74
+-52.19
+Inconfidentes - MG
+-22.31
+-46.32
+Indaiabira - MG
+-15.49
+-42.19
+Indaial - SC
+-26.89
+-49.23
+Indaiatuba - SP
+-23.09
+-47.21
+Independência - CE
+-5.39
+-40.30
+Independência - RS
+-27.83
+-54.18
+Indiana - SP
+-22.17
+-51.25
+Indianópolis - MG
+-19.03
+-47.91
+Indianópolis - PR
+-23.47
+-52.69
+Indiaporã - SP
+-19.98
+-50.28
+Indiara - GO
+-17.13
+-49.98
+Indiaroba - SE
+-11.51
+-37.51
+Indiavaí - MT
+-15.49
+-58.57
+Ingá - PB
+-7.28
+-35.60
+Ingaí - MG
+-21.40
+-44.91
+Ingazeira - PE
+-7.67
+-37.45
+Inhacorá - RS
+-27.88
+-54.01
+Inhambupe - BA
+-11.78
+-38.35
+Inhangapi - PA
+-1.42
+-47.91
+Inhapi - AL
+-9.22
+-37.74
+Inhapim - MG
+-19.54
+-42.12
+Inhaúma - MG
+-19.49
+-44.38
+Inhuma - PI
+-6.66
+-41.70
+Inhumas - GO
+-16.35
+-49.49
+Inimutaba - MG
+-18.72
+-44.36
+Inocência - MS
+-19.72
+-51.93
+Inúbia Paulista - SP
+-21.76
+-50.96
+Iomerê - SC
+-27.00
+-51.24
+Ipaba - MG
+-19.41
+-42.41
+Ipameri - GO
+-17.72
+-48.15
+Ipanema - MG
+-19.80
+-41.71
+Ipanguaçu - RN
+-5.49
+-36.85
+Ipaporanga - CE
+-4.90
+-40.75
+Ipatinga - MG
+-19.46
+-42.53
+Ipauçu - SP
+-23.05
+-49.62
+Ipaumirim - CE
+-6.78
+-38.71
+Ipê - RS
+-28.82
+-51.27
+Ipecaetá - BA
+-12.30
+-39.30
+Iperó - SP
+-23.35
+-47.68
+Ipeúna - SP
+-22.43
+-47.71
+Ipiaçu - MG
+-18.69
+-49.94
+Ipiaú - BA
+-14.13
+-39.73
+Ipiguá - SP
+-20.65
+-49.38
+Ipirá - BA
+-12.15
+-39.73
+Ipira - SC
+-27.40
+-51.77
+Ipiranga - PR
+-25.02
+-50.58
+Ipiranga do Piauí - PI
+-6.82
+-41.74
+Ipiranga do Sul - RS
+-27.93
+-52.42
+Ipixuna - AM
+-7.05
+-71.69
+Ipixuna do Pará - PA
+-2.55
+-47.49
+Ipojuca - PE
+-8.39
+-35.06
+Iporá - GO
+-16.44
+-51.11
+Iporã - PR
+-24.00
+-53.70
+Iporã do Oeste - SC
+-26.98
+-53.53
+Iporanga - SP
+-24.58
+-48.59
+Ipu - CE
+-4.32
+-40.71
+Ipuã - SP
+-20.43
+-48.01
+Ipuaçu - SC
+-26.63
+-52.45
+Ipubi - PE
+-7.65
+-40.14
+Ipueira - RN
+-6.81
+-37.19
+Ipueiras - CE
+-4.54
+-40.71
+Ipueiras - TO
+-11.23
+-48.46
+Ipuiúna - MG
+-22.09
+-46.18
+Ipumirim - SC
+-27.07
+-52.13
+Ipupiara - BA
+-11.82
+-42.61
+Iracema - CE
+-5.81
+-38.30
+Iracema - RR
+21.08
+-61.04
+Iracema do Oeste - PR
+-24.42
+-53.35
+Iracemápolis - SP
+-22.58
+-47.51
+Iraceminha - SC
+-26.82
+-53.27
+Iraí - RS
+-27.19
+-53.25
+Iraí de Minas - MG
+-18.98
+-47.46
+Irajuba - BA
+-13.25
+-40.08
+Iramaia - BA
+-13.28
+-40.95
+Iranduba - AM
+-3.28
+-60.18
+Irani - SC
+-27.02
+-51.90
+Irapuã - SP
+-21.27
+-49.40
+Irapuru - SP
+-21.57
+-51.34
+Iraquara - BA
+-12.24
+-41.61
+Irará - BA
+-12.05
+-38.76
+Irati - PR
+-25.46
+-50.65
+Irati - SC
+-26.65
+-52.89
+Irauçuba - CE
+-3.74
+-39.78
+Irecê - BA
+-11.30
+-41.85
+Iretama - PR
+-24.42
+-52.10
+Irineópolis - SC
+-26.23
+-50.79
+Irituia - PA
+-1.77
+-47.43
+Irupi - ES
+-20.34
+-41.64
+Isaías Coelho - PI
+-7.73
+-41.67
+Israelândia - GO
+-16.31
+-50.90
+Itá - SC
+-27.29
+-52.32
+Itaara - RS
+-29.60
+-53.76
+Itabaiana - PB
+-7.32
+-35.33
+Itabaiana - SE
+-10.68
+-37.42
+Itabaianinha - SE
+-11.27
+-37.79
+Itabela - BA
+-16.57
+-39.55
+Itaberá - SP
+-23.86
+-49.13
+Itaberaba - BA
+-12.52
+-40.30
+Itaberaí - GO
+-16.02
+-49.81
+Itabi - SE
+-10.12
+-37.10
+Itabira - MG
+-19.61
+-43.22
+Itabirinha de Mantena - MG
+-18.56
+-41.23
+Itabirito - MG
+-20.25
+-43.80
+Itaboraí - RJ
+-22.74
+-42.85
+Itabuna - BA
+-14.78
+-39.28
+Itacajá - TO
+-8.39
+-47.76
+Itacambira - MG
+-17.06
+-43.30
+Itacarambi - MG
+-15.10
+-44.09
+Itacaré - BA
+-14.27
+-38.99
+Itacoatiara - AM
+-3.14
+-58.44
+Itacuruba - PE
+-8.72
+-38.68
+Itacurubi - RS
+-28.79
+-55.23
+Itaeté - BA
+-12.98
+-40.97
+Itagi - BA
+-14.16
+-40.00
+Itagibá - BA
+-14.28
+-39.84
+Itagimirim - BA
+-16.08
+-39.61
+Itaguaçu - ES
+-19.80
+-40.85
+Itaguaçu da Bahia - BA
+-11.01
+-42.39
+Itaguaí - RJ
+-22.85
+-43.77
+Itaguajé - PR
+-22.61
+-51.96
+Itaguara - MG
+-20.39
+-44.48
+Itaguari - GO
+-15.91
+-49.60
+Itaguaru - GO
+-15.75
+-49.63
+Itaguatins - TO
+-5.76
+-47.48
+Itaí - SP
+-23.41
+-49.09
+Itaíba - PE
+-8.94
+-37.42
+Itaiçaba - CE
+-4.67
+-37.82
+Itainópolis - PI
+-7.44
+-41.47
+Itaiópolis - SC
+-26.33
+-49.90
+Itaipava do Grajaú - MA
+-5.14
+-45.79
+Itaipé - MG
+-17.40
+-41.66
+Itaipulândia - PR
+-25.13
+-54.30
+Itaitinga - CE
+-3.96
+-38.52
+Itaituba - PA
+-4.27
+-55.98
+Itajá - GO
+-19.06
+-51.54
+Itajá - RN
+-5.64
+-36.87
+Itajaí - SC
+-26.90
+-48.66
+Itajobi - SP
+-21.31
+-49.05
+Itaju - SP
+-21.98
+-48.80
+Itaju do Colônia - BA
+-15.14
+-39.72
+Itajubá - MG
+-22.42
+-45.45
+Itajuípe - BA
+-14.67
+-39.37
+Italva - RJ
+-21.42
+-41.69
+Itamaracá - PE
+-7.74
+-34.82
+Itamaraju - BA
+-17.03
+-39.53
+Itamarandiba - MG
+-17.85
+-42.85
+Itamarati - AM
+-6.42
+-68.25
+Itamarati de Minas - MG
+-21.41
+-42.81
+Itamari - BA
+-13.77
+-39.68
+Itambacuri - MG
+-18.03
+-41.68
+Itambaracá - PR
+-23.01
+-50.40
+Itambé - BA
+-15.24
+-40.62
+Itambé - PE
+-7.41
+-35.11
+Itambé - PR
+-23.66
+-51.99
+Itambé do Mato Dentro - MG
+-19.41
+-43.32
+Itamogi - MG
+-21.07
+-47.04
+Itamonte - MG
+-22.28
+-44.87
+Itanagra - BA
+-12.26
+-38.04
+Itanhaém - SP
+-24.18
+-46.78
+Itanhandu - MG
+-22.29
+-44.93
+Itanhém - BA
+-17.16
+-40.33
+Itanhomi - MG
+-19.17
+-41.86
+Itaobim - MG
+-16.56
+-41.50
+Itaóca - SP
+-24.64
+-48.84
+Itaocara - RJ
+-21.66
+-42.07
+Itapaci - GO
+-14.95
+-49.54
+Itapagé - CE
+-3.68
+-39.58
+Itapagipe - MG
+-19.90
+-49.38
+Itaparica - BA
+-12.88
+-38.67
+Itapé - BA
+-14.89
+-39.42
+Itapebi - BA
+-15.95
+-39.53
+Itapecerica - MG
+-20.47
+-45.12
+Itapecerica da Serra - SP
+-23.71
+-46.84
+Itapecuru Mirim - MA
+-3.39
+-44.35
+Itapejara d'Oeste - PR
+-25.96
+-52.81
+Itapema - SC
+-27.09
+-48.61
+Itapemirim - ES
+-21.01
+-40.83
+Itaperuçu - PR
+-25.22
+-49.34
+Itaperuna - RJ
+-21.20
+-41.88
+Itapetim - PE
+-7.37
+-37.19
+Itapetinga - BA
+-15.24
+-40.24
+Itapetininga - SP
+-23.59
+-48.05
+Itapeva - MG
+-22.76
+-46.22
+Itapeva - SP
+-23.98
+-48.87
+Itapevi - SP
+-23.54
+-46.93
+Itapicuru - BA
+-11.31
+-38.23
+Itapipoca - CE
+-3.36
+-39.83
+Itapira - SP
+-22.43
+-46.82
+Itapiranga - AM
+-2.74
+-58.02
+Itapiranga - SC
+-27.16
+-53.71
+Itapirapuã - GO
+-15.82
+-50.61
+Itapirapuã Paulista - SP
+-24.57
+-49.16
+Itapiratins - TO
+-8.38
+-48.11
+Itapissuma - PE
+-7.77
+-34.89
+Itapitanga - BA
+-14.42
+-39.56
+Itapiúna - CE
+-4.56
+-38.92
+Itapoá - SC
+-26.11
+-48.61
+Itápolis - SP
+-21.59
+-48.81
+Itaporã - MS
+-22.07
+-54.78
+Itaporã do Tocantins - TO
+-8.57
+-48.68
+Itaporanga - PB
+-7.30
+-38.15
+Itaporanga - SP
+-23.70
+-49.48
+Itaporanga d'Ajuda - SE
+-10.99
+-37.31
+Itapororoca - PB
+-6.82
+-35.24
+Itapuca - RS
+-28.77
+-52.17
+Itapuí - SP
+-22.23
+-48.71
+Itapura - SP
+-20.64
+-51.50
+Itapuranga - GO
+-15.56
+-49.94
+Itaquaquecetuba - SP
+-23.48
+-46.34
+Itaquara - BA
+-13.45
+-39.94
+Itaqui - RS
+-29.12
+-56.55
+Itaquiraí - MS
+-23.47
+-54.18
+Itaquitinga - PE
+-7.66
+-35.10
+Itarana - ES
+-19.87
+-40.87
+Itarantim - BA
+-15.65
+-40.06
+Itararé - SP
+-24.11
+-49.33
+Itarema - CE
+-2.92
+-39.91
+Itariri - SP
+-24.28
+-47.17
+Itarumã - GO
+-18.76
+-51.34
+Itatiaia - RJ
+-22.49
+-44.56
+Itatiaiuçu - MG
+-20.19
+-44.42
+Itatiba - SP
+-23.00
+-46.83
+Itatiba do Sul - RS
+-27.38
+-52.45
+Itatim - BA
+-12.71
+-39.69
+Itatinga - SP
+-23.10
+-48.61
+Itatira - CE
+-4.52
+-39.62
+Itatuba - PB
+-7.37
+-35.62
+Itaú - RN
+-5.83
+-37.99
+Itaú de Minas - MG
+-20.73
+-46.75
+Itaúba - MT
+-11.06
+-55.27
+Itaubal - AP
+4.40
+-50.80
+Itauçu - GO
+-16.20
+-49.60
+Itaueira - PI
+-7.60
+-43.02
+Itaúna - MG
+-20.07
+-44.57
+Itaúna do Sul - PR
+-22.73
+-52.88
+Itaverava - MG
+-20.67
+-43.61
+Itinga - MG
+-16.61
+-41.76
+Itinga do Maranhão - MA
+-4.44
+-47.52
+Itiquira - MT
+-17.20
+-54.15
+Itirapina - SP
+-22.25
+-47.82
+Itirapuã - SP
+-20.64
+-47.21
+Itiruçu - BA
+-13.53
+-40.15
+Itiúba - BA
+-10.69
+-39.85
+Itobi - SP
+-21.73
+-46.97
+Itororó - BA
+-15.11
+-40.07
+Itu - SP
+-23.26
+-47.29
+Ituaçu - BA
+-13.81
+-41.29
+Ituberá - BA
+-13.73
+-39.14
+Itueta - MG
+-19.39
+-41.17
+Ituiutaba - MG
+-18.96
+-49.46
+Itumbiara - GO
+-18.41
+-49.21
+Itumirim - MG
+-21.31
+-44.87
+Itupeva - SP
+-23.15
+-47.05
+Itupiranga - PA
+-5.13
+-49.32
+Ituporanga - SC
+-27.41
+-49.60
+Iturama - MG
+-19.72
+-50.19
+Itutinga - MG
+-21.29
+-44.65
+Ituverava - SP
+-20.33
+-47.78
+Iuiú - BA
+-14.41
+-43.55
+Iúna - ES
+-20.34
+-41.53
+Ivaí - PR
+-25.01
+-50.85
+Ivaiporã - PR
+-24.24
+-51.68
+Ivaté - PR
+-23.40
+-53.36
+Ivatuba - PR
+-23.61
+-52.22
+Ivinhema - MS
+-22.30
+-53.81
+Ivolândia - GO
+-16.60
+-50.79
+Ivorá - RS
+-29.52
+-53.58
+Ivoti - RS
+-29.59
+-51.16
+Jaboatão dos Guararapes - PE
+-8.11
+-35.01
+Jaborá - SC
+-27.17
+-51.73
+Jaborandi - BA
+-13.61
+-44.43
+Jaborandi - SP
+-20.68
+-48.41
+Jaboti - PR
+-23.74
+-50.07
+Jaboticaba - RS
+-27.63
+-53.27
+Jaboticabal - SP
+-21.25
+-48.32
+Jaboticatubas - MG
+-19.51
+-43.74
+Jaçanã - RN
+-6.42
+-36.20
+Jacaraci - BA
+-14.84
+-42.43
+Jacaraú - PB
+-6.61
+-35.29
+Jacaré dos Homens - AL
+-9.63
+-37.20
+Jacareacanga - PA
+-6.22
+-57.75
+Jacareí - SP
+-23.30
+-45.96
+Jacarezinho - PR
+-23.16
+-49.96
+Jaci - SP
+-20.88
+-49.57
+Jaciara - MT
+-15.96
+-54.96
+Jacinto - MG
+-16.14
+-40.29
+Jacinto Machado - SC
+-28.99
+-49.76
+Jacobina - BA
+-11.18
+-40.51
+Jacobina do Piauí - PI
+-7.93
+-41.21
+Jacuí - MG
+-21.01
+-46.74
+Jacuípe - AL
+-8.84
+-35.46
+Jacundá - PA
+-4.45
+-49.11
+Jacupiranga - SP
+-24.69
+-48.00
+Jacutinga - MG
+-22.28
+-46.61
+Jacutinga - RS
+-27.72
+-52.53
+Jaguapitã - PR
+-23.11
+-51.53
+Jaguaquara - BA
+-13.53
+-39.97
+Jaguaraçu - MG
+-19.64
+-42.74
+Jaguarão - RS
+-32.56
+-53.37
+Jaguarari - BA
+-10.26
+-40.19
+Jaguaré - ES
+-18.90
+-40.07
+Jaguaretama - CE
+-5.61
+-38.76
+Jaguari - RS
+-29.49
+-54.69
+Jaguariaíva - PR
+-24.25
+-49.70
+Jaguaribara - CE
+-5.65
+-38.62
+Jaguaribe - CE
+-5.89
+-38.62
+Jaguaripe - BA
+-13.11
+-38.89
+Jaguariúna - SP
+-22.70
+-46.98
+Jaguaruana - CE
+-4.83
+-37.78
+Jaguaruna - SC
+-28.61
+-49.02
+Jaíba - MG
+-15.33
+-43.67
+Jaicós - PI
+-7.35
+-41.13
+Jales - SP
+-20.26
+-50.54
+Jamari - RO
+-9.20
+-63.17
+Jambeiro - SP
+-23.25
+-45.68
+Jampruca - MG
+-18.46
+-41.80
+Janaúba - MG
+-15.80
+-43.30
+Jandaia - GO
+-17.04
+-50.14
+Jandaia do Sul - PR
+-23.60
+-51.64
+Jandaíra - BA
+-11.56
+-37.78
+Jandaíra - RN
+-5.35
+-36.12
+Jandira - SP
+-23.52
+-46.90
+Janduís - RN
+-6.01
+-37.40
+Jangada - MT
+-15.23
+-56.48
+Janiópolis - PR
+-24.14
+-52.78
+Januário Cicco - RN
+-6.15
+-35.60
+Japaraíba - MG
+-20.14
+-45.50
+Japaratinga - AL
+-9.08
+-35.25
+Japaratuba - SE
+-10.59
+-36.94
+Japeri - RJ
+-22.64
+-43.65
+Japi - RN
+-6.46
+-35.94
+Japira - PR
+-23.81
+-50.13
+Japoatã - SE
+-10.34
+-36.80
+Japonvar - MG
+-15.99
+-44.27
+Japorã - MS
+-23.89
+-54.40
+Japurá - AM
+-1.82
+-66.59
+Japurá - PR
+-23.47
+-52.55
+Jaqueira - PE
+-8.72
+-35.79
+Jaquirana - RS
+-28.88
+-50.35
+Jaraguá - GO
+-15.75
+-49.33
+Jaraguá do Sul - SC
+-26.48
+-49.06
+Jaraguari - MS
+-20.14
+-54.39
+Jaramataia - AL
+-9.65
+-37.00
+Jardim - CE
+-7.58
+-39.29
+Jardim - MS
+-21.48
+-56.13
+Jardim Alegre - PR
+-24.17
+-51.69
+Jardim de Angicos - RN
+-5.65
+-35.96
+Jardim de Piranhas - RN
+-6.37
+-37.35
+Jardim do Mulato - PI
+-6.09
+-42.63
+Jardim do Seridó - RN
+-6.58
+-36.77
+Jardim Olinda - PR
+-22.54
+-52.03
+Jardinópolis - SC
+-26.72
+-52.85
+Jardinópolis - SP
+-21.01
+-47.76
+Jari - RS
+-29.29
+-54.22
+Jarinu - SP
+-23.10
+-46.72
+Jaru - RO
+-10.43
+-62.46
+Jataí - GO
+-17.88
+-51.71
+Jataizinho - PR
+-23.25
+-50.98
+Jataúba - PE
+-7.99
+-36.49
+Jateí - MS
+-22.48
+-54.30
+Jati - CE
+-7.68
+-39.01
+Jatobá - MA
+-5.81
+-44.22
+Jatobá - PE
+-9.18
+-38.26
+Jatobá do Piauí - PI
+-4.77
+-41.81
+Jaú - SP
+-22.29
+-48.55
+Jaú do Tocantins - TO
+-12.65
+-48.59
+Jaupaci - GO
+-16.17
+-50.95
+Jauru - MT
+-15.34
+-58.86
+Jeceaba - MG
+-20.53
+-43.98
+Jenipapo de Minas - MG
+-17.08
+-42.25
+Jenipapo dos Vieiras - MA
+-5.37
+-45.63
+Jequeri - MG
+-20.45
+-42.66
+Jequié - BA
+-13.85
+-40.08
+Jequitaí - MG
+-17.23
+-44.44
+Jequitibá - MG
+-19.23
+-44.02
+Jequitinhonha - MG
+-16.43
+-41.00
+Jeremoabo - BA
+-10.07
+-38.48
+Jericó - PB
+-6.55
+-37.80
+Jeriquara - SP
+-20.31
+-47.58
+Jerônimo Monteiro - ES
+-20.78
+-41.39
+Jerumenha - PI
+-7.08
+-43.50
+Jesuânia - MG
+-21.99
+-45.29
+Jesuítas - PR
+-24.38
+-53.38
+Jesúpolis - GO
+-15.95
+-49.37
+Jijoca de Jericoacoara - CE
+-2.89
+-40.44
+Ji-Paraná - RO
+-10.88
+-61.95
+Jiquiriça - BA
+-13.25
+-39.57
+Jitaúna - BA
+-14.01
+-39.88
+Joaçaba - SC
+-27.17
+-51.50
+Joaíma - MG
+-16.65
+-41.03
+Joanésia - MG
+-19.17
+-42.67
+Joanópolis - SP
+-22.93
+-46.27
+João Alfredo - PE
+-7.85
+-35.58
+João Câmara - RN
+-5.53
+-35.81
+João Costa - PI
+-8.51
+-42.41
+João Dias - RN
+-6.27
+-37.79
+João Dourado - BA
+-11.34
+-41.66
+João Lisboa - MA
+-5.44
+-47.40
+João Monlevade - MG
+-19.81
+-43.17
+João Neiva - ES
+-19.75
+-40.38
+João Pessoa - PB
+-7.11
+-34.86
+João Pinheiro - MG
+-17.74
+-46.17
+João Ramalho - SP
+-22.25
+-50.76
+Joaquim Felício - MG
+-17.75
+-44.17
+Joaquim Gomes - AL
+-9.13
+-35.74
+Joaquim Nabuco - PE
+-8.62
+-35.53
+Joaquim Pires - PI
+-3.50
+-42.19
+Joaquim Távora - PR
+-23.49
+-49.90
+Joca Marques - PI
+-3.47
+-42.42
+Jóia - RS
+-28.64
+-54.12
+Joinville - SC
+-26.30
+-48.84
+Jordânia - MG
+-15.90
+-40.17
+Jordão - AC
+-9.43
+-71.88
+José Boiteux - SC
+-26.95
+-49.62
+José Bonifácio - SP
+-21.05
+-49.68
+José da Penha - RN
+-6.31
+-38.28
+José de Freitas - PI
+-4.75
+-42.57
+José Gonçalves de Minas - MG
+-16.90
+-42.60
+José Raydan - MG
+-18.21
+-42.49
+Joselândia - MA
+-4.93
+-44.68
+Josenópolis - MG
+-16.54
+-42.51
+Joviânia - GO
+-17.80
+-49.61
+Juara - MT
+-11.25
+-57.51
+Juarez Távora - PB
+-7.17
+-35.58
+Juarina - TO
+-8.11
+-49.06
+Juatuba - MG
+-19.95
+-44.34
+Juazeirinho - PB
+-7.06
+-36.57
+Juazeiro - BA
+-9.41
+-40.49
+Juazeiro do Norte - CE
+-7.21
+-39.31
+Juazeiro do Piauí - PI
+-5.17
+-41.70
+Jucás - CE
+-6.52
+-39.52
+Jucati - PE
+-8.70
+-36.48
+Jucuruçu - BA
+-16.84
+-40.15
+Jucurutu - RN
+-6.03
+-37.02
+Juína - MT
+-11.37
+-58.74
+Juiz de Fora - MG
+-21.76
+-43.35
+Júlio Borges - PI
+-10.32
+-44.23
+Júlio de Castilhos - RS
+-29.22
+-53.68
+Júlio Mesquita - SP
+-22.00
+-49.78
+Jumirim - SP
+-23.08
+-47.78
+Junco do Maranhão - MA
+-1.84
+-46.09
+Junco do Seridó - PB
+-6.99
+-36.71
+Jundiá - AL
+-8.93
+-35.57
+Jundiaí - SP
+-23.18
+-46.88
+Jundiaí do Sul - PR
+-23.43
+-50.24
+Junqueiro - AL
+-9.92
+-36.47
+Junqueirópolis - SP
+-21.51
+-51.43
+Jupi - PE
+-8.71
+-36.41
+Jupiá - SC
+-26.39
+-52.72
+Juquiá - SP
+-24.32
+-47.63
+Juquitiba - SP
+-23.93
+-47.06
+Juramento - MG
+-16.84
+-43.58
+Juranda - PR
+-24.42
+-52.84
+Jurema - PE
+-8.71
+-36.13
+Jurema - PI
+-9.23
+-43.12
+Juripiranga - PB
+-7.37
+-35.23
+Juru - PB
+-7.53
+-37.81
+Juruá - AM
+-3.48
+-66.06
+Juruaia - MG
+-21.25
+-46.57
+Juruena - MT
+-10.31
+-58.35
+Juruti - PA
+-2.15
+-56.09
+Juscimeira - MT
+-16.05
+-54.88
+Jussara - BA
+-11.04
+-41.96
+Jussara - GO
+-15.86
+-50.86
+Jussara - PR
+-23.62
+-52.46
+Jussari - BA
+-15.19
+-39.49
+Jussiape - BA
+-13.51
+-41.59
+Jutaí - AM
+-2.74
+-66.76
+Juti - MS
+-22.86
+-54.60
+Juvenília - MG
+-14.26
+-44.16
+Kaloré - PR
+-23.81
+-51.66
+Lábrea - AM
+-7.25
+-64.79
+Lacerdópolis - SC
+-27.26
+-51.55
+Ladainha - MG
+-17.63
+-41.73
+Ladário - MS
+-19.00
+-57.60
+Lafaiete Coutinho - BA
+-13.65
+-40.21
+Lagamar - MG
+-18.17
+-46.80
+Lagarto - SE
+-10.91
+-37.65
+Lages - SC
+-27.81
+-50.32
+Lago da Pedra - MA
+-4.55
+-45.11
+Lago do Junco - MA
+-4.40
+-44.91
+Lago Verde - MA
+-4.04
+-44.93
+Lagoa - PB
+-6.57
+-37.91
+Lagoa Alegre - PI
+-4.51
+-42.62
+Lagoa da Canoa - AL
+-9.82
+-36.73
+Lagoa da Confusão - TO
+-10.79
+-49.62
+Lagoa da Prata - MG
+-20.02
+-45.54
+Lagoa d'Anta - RN
+-6.39
+-35.59
+Lagoa de Dentro - PB
+-6.67
+-35.37
+Lagoa de Pedras - RN
+-6.14
+-35.43
+Lagoa de São Francisco - PI
+-4.39
+-41.60
+Lagoa de Velhos - RN
+-6.00
+-35.87
+Lagoa do Barro do Piauí - PI
+-8.47
+-41.52
+Lagoa do Carro - PE
+-7.84
+-35.31
+Lagoa do Itaenga - PE
+-7.93
+-35.29
+Lagoa do Mato - MA
+-6.04
+-43.52
+Lagoa do Ouro - PE
+-9.12
+-36.45
+Lagoa do Piauí - PI
+-5.41
+-42.64
+Lagoa do Sítio - PI
+-6.51
+-41.58
+Lagoa do Tocantins - TO
+-10.37
+-47.55
+Lagoa dos Gatos - PE
+-8.65
+-35.90
+Lagoa dos Patos - MG
+-16.98
+-44.58
+Lagoa dos Rodrigues - MA
+-4.49
+-44.89
+Lagoa dos Três Cantos - RS
+-28.57
+-52.85
+Lagoa Dourada - MG
+-20.91
+-44.07
+Lagoa Formosa - MG
+-18.77
+-46.40
+Lagoa Grande - MG
+-17.83
+-46.51
+Lagoa Grande - PE
+-8.99
+-40.27
+Lagoa Grande do Maranhão - MA
+-4.81
+-45.32
+Lagoa Nova - RN
+-6.12
+-35.47
+Lagoa Real - BA
+-14.03
+-42.14
+Lagoa Salgada - RN
+-6.12
+-35.47
+Lagoa Santa - MG
+-19.62
+-43.88
+Lagoa Seca - PB
+-7.17
+-35.85
+Lagoa Vermelha - RS
+-28.20
+-51.52
+Lagoão - RS
+-29.23
+-52.79
+lagoas - MG
+-15.48
+-44.36
+Lagoinha - SP
+-23.09
+-45.19
+Lagoinha do Piauí - PI
+-5.83
+-42.62
+Laguna - SC
+-28.48
+-48.78
+Laguna Carapã - MS
+-22.54
+-55.14
+Laje - BA
+-13.18
+-39.42
+Laje do Muriaé - RJ
+-21.20
+-42.12
+Lajeado - RS
+-29.46
+-51.96
+Lajeado - TO
+-9.75
+-48.35
+Lajeado do Bugre - RS
+-27.68
+-53.18
+Lajeado Grande - SC
+-26.85
+-52.56
+Lajeado Novo - MA
+-6.18
+-47.03
+Lajedão - BA
+-17.61
+-40.34
+Lajedinho - BA
+-12.35
+-40.90
+Lajedo - PE
+-8.66
+-36.32
+Lajedo do Tabocal - BA
+-13.47
+-40.22
+Lajes - RN
+-5.70
+-36.24
+Lajes Pintadas - RN
+-6.15
+-36.11
+Lajinha - MG
+-20.15
+-41.62
+Lamarão - BA
+-11.78
+-38.90
+Lambari - MG
+-21.97
+-45.35
+Lambari d'Oeste - MT
+-15.32
+-58.00
+Lamim - MG
+-20.79
+-43.47
+Landri Sales - PI
+-7.26
+-43.93
+Lapa - PR
+-25.76
+-49.71
+Lapão - BA
+-11.38
+-41.83
+Laranja da Terra - ES
+-19.89
+-41.05
+Laranjal - MG
+-21.37
+-42.47
+Laranjal - PR
+-24.88
+-52.46
+Laranjal do Jari - AP
+-1.12
+-52.00
+Laranjal Paulista - SP
+-23.04
+-47.83
+Laranjeiras - SE
+-10.80
+-37.17
+Laranjeiras do Sul - PR
+-25.40
+-52.41
+Lassance - MG
+-17.88
+-44.57
+Lastro - PB
+-6.51
+-38.18
+Laurentino - SC
+-27.21
+-49.73
+Lauro de Freitas - BA
+-12.89
+-38.32
+Lauro Muller - SC
+-28.39
+-49.39
+Lavandeira - TO
+-12.78
+-46.50
+Lavínia - SP
+-21.16
+-51.03
+Lavras - MG
+-21.24
+-44.99
+Lavras da Mangabeira - CE
+-6.75
+-38.96
+Lavras do Sul - RS
+-30.81
+-53.89
+Lavrinhas - SP
+-22.57
+-44.90
+Leandro Ferreira - MG
+-19.71
+-45.02
+Lebon Régis - SC
+-26.92
+-50.69
+Leme - SP
+-22.18
+-47.39
+Leme do Prado - MG
+-17.08
+-42.69
+Lençóis - BA
+-12.56
+-41.39
+Lençóis Paulista - SP
+-22.59
+-48.80
+Leoberto Leal - SC
+-27.50
+-49.28
+Leopoldina - MG
+-21.53
+-42.64
+Leopoldo de Bulhões - GO
+-16.61
+-48.74
+Leópolis - PR
+-23.08
+-50.75
+Liberato Salzano - RS
+-27.60
+-53.07
+Liberdade - MG
+-22.02
+-44.31
+Licínio de Almeida - BA
+-14.68
+-42.50
+Lidianópolis - PR
+-24.10
+-51.65
+Lima Campos - MA
+-4.51
+-44.46
+Lima Duarte - MG
+-21.84
+-43.79
+Limeira - SP
+-22.56
+-47.40
+Limeira do Oeste - MG
+-19.55
+-50.58
+Limoeiro - PE
+-7.87
+-35.45
+Limoeiro de Anadia - AL
+-9.74
+-36.50
+Limoeiro do Ajuru - PA
+-1.89
+-49.38
+Limoeiro do Norte - CE
+-5.14
+-38.09
+Lindoeste - PR
+-25.26
+-53.57
+Lindóia - SP
+-22.52
+-46.65
+Lindóia do Sul - SC
+-27.05
+-52.06
+Lindolfo Collor - RS
+-29.59
+-51.20
+Linha Nova - RS
+-29.46
+-51.20
+Linhares - ES
+-19.39
+-40.07
+Lins - SP
+-21.67
+-49.74
+Livramento - PB
+-7.37
+-36.94
+Livramento do Brumado - BA
+-13.64
+-41.84
+Lizarda - TO
+-9.59
+-46.67
+Loanda - PR
+-22.92
+-53.13
+Lobato - PR
+-23.00
+-51.95
+Logradouro - PB
+-6.61
+-35.40
+Londrina - PR
+-23.31
+-51.16
+Lontra - MG
+-15.90
+-44.30
+Lontras - SC
+-27.16
+-49.54
+Lorena - SP
+-22.73
+-45.12
+Loreto - MA
+-7.08
+-45.14
+Lourdes - SP
+-20.96
+-50.22
+Louveira - SP
+-23.08
+-46.95
+Lucas do Rio Verde - MT
+-13.05
+-55.91
+Lucélia - SP
+-21.72
+-51.01
+Lucena - PB
+-6.90
+-34.86
+Lucianópolis - SP
+-22.43
+-49.52
+Luciara - MT
+-11.22
+-50.66
+Lucrécia - RN
+-6.12
+-37.81
+Luís Antônio - SP
+-21.55
+-47.70
+Luís Correia - PI
+-2.87
+-41.66
+Luís Domingues - MA
+-1.26
+-45.87
+Luís Gomes - RN
+-6.41
+-38.38
+Luisburgo - MG
+-20.43
+-42.10
+Luislândia - MG
+-16.11
+-44.58
+Luiz Alves - SC
+-26.72
+-48.93
+Luiziana - PR
+-24.28
+-52.27
+Luiziânia - SP
+-21.67
+-50.32
+Luminárias - MG
+-21.51
+-44.90
+Lunardelli - PR
+-24.07
+-51.73
+Lupércio - SP
+-22.41
+-49.81
+Lupionópolis - PR
+-22.75
+-51.65
+Lutécia - SP
+-22.34
+-50.39
+Luz - MG
+-19.80
+-45.68
+Luzerna - SC
+-27.13
+-51.46
+Luziânia - GO
+-16.25
+-47.95
+Luzilândia - PI
+-3.45
+-42.37
+Luzinópolis - TO
+-6.18
+-47.85
+Macaé - RJ
+-22.37
+-41.78
+Macaíba - RN
+-5.85
+-35.35
+Macajuba - BA
+-12.13
+-40.36
+Maçambara - RS
+-29.14
+-56.06
+Macambira - SE
+-10.66
+-37.54
+Macapá - AP
+0.36
+-51.06
+Macaparana - PE
+-7.55
+-35.45
+Macarani - BA
+-15.56
+-40.42
+Macatuba - SP
+-22.50
+-48.71
+Macau - RN
+-5.11
+-36.63
+Macaubal - SP
+-20.80
+-49.96
+Macaúbas - BA
+-13.01
+-42.69
+Macedônia - SP
+-20.14
+-50.19
+Maceió - AL
+-9.66
+-35.73
+Machacalis - MG
+-17.07
+-40.71
+Machadinho - RS
+-27.56
+-51.66
+Machadinho d'Oeste - RO
+-9.44
+-61.98
+Machado - MG
+-21.67
+-45.91
+Machados - PE
+-7.68
+-35.52
+Macieira - SC
+-26.85
+-51.37
+Macuco - RJ
+-21.98
+-42.25
+Macururé - BA
+-9.16
+-39.05
+Madalena - CE
+-4.85
+-39.57
+Madeiro - PI
+-3.48
+-42.50
+Madre de Deus - BA
+-12.74
+-38.62
+Madre de Deus de Minas - MG
+-21.48
+-44.33
+Mãe d'Água - PB
+-7.25
+-37.42
+Mãe do Rio - PA
+-2.04
+-47.55
+Maetinga - BA
+-14.66
+-41.49
+Mafra - SC
+-26.11
+-49.80
+Magalhães Barata - PA
+0.79
+-47.59
+Magalhães de Almeida - MA
+-3.39
+-42.20
+Magda - SP
+-20.64
+-50.22
+Magé - RJ
+-22.65
+-43.04
+Maiquinique - BA
+-15.62
+-40.26
+Mairi - BA
+-11.71
+-40.14
+Mairinque - SP
+-23.54
+-47.18
+Mairiporã - SP
+-23.31
+-46.58
+Mairipotaba - GO
+-17.29
+-49.49
+Major Gercino - SC
+-27.41
+-48.95
+Major Isidoro - AL
+-9.53
+-36.98
+Major Sales - RN
+-6.40
+-38.32
+Major Vieira - SC
+-26.36
+-50.32
+Malacacheta - MG
+-17.84
+-42.07
+Malhada - BA
+-14.33
+-43.77
+Malhada de Pedras - BA
+-14.38
+-41.87
+Malhada dos Bois - SE
+-10.34
+-36.92
+Malhador - SE
+-10.65
+-37.30
+Mallet - PR
+-25.87
+-50.82
+Malta - PB
+-6.90
+-37.52
+Mamanguape - PB
+-6.83
+-35.12
+Mambaí - GO
+-14.48
+-46.11
+Mamborê - PR
+-24.31
+-52.53
+Mamonas - MG
+-15.05
+-42.94
+Mampituba - RS
+-29.21
+-49.93
+Manacapuru - AM
+-3.29
+-60.62
+Manaíra - PB
+-7.70
+-38.15
+Manaquiri - AM
+-3.42
+-60.45
+Manari - PE
+-8.96
+-37.62
+Manaus - AM
+-3.10
+-60.02
+Mâncio Lima - AC
+-7.61
+-72.89
+Mandaguaçu - PR
+-23.34
+-52.09
+Mandaguari - PR
+-23.54
+-51.67
+Mandirituba - PR
+-25.77
+-49.32
+Manduri - SP
+-23.00
+-49.32
+Manfrinópolis - PR
+-26.14
+-53.31
+Manga - MG
+-14.75
+-43.93
+Mangaratiba - RJ
+-22.95
+-44.04
+Mangueirinha - PR
+-25.94
+-52.17
+Manhuaçu - MG
+-20.25
+-42.03
+Manhumirim - MG
+-20.35
+-41.95
+Manicoré - AM
+-5.80
+-61.30
+Manoel Emídio - PI
+-8.01
+-43.87
+Manoel Ribas - PR
+-24.51
+-51.66
+Manoel Urbano - AC
+-8.83
+-69.25
+Manoel Viana - RS
+-29.58
+-55.48
+Manoel Vitorino - BA
+-14.14
+-40.24
+Mansidão - BA
+-10.71
+-44.03
+Mantena - MG
+-18.78
+-40.98
+Mantenópolis - ES
+-18.86
+-41.12
+Maquiné - RS
+-29.67
+-50.20
+Mar de Espanha - MG
+-21.86
+-43.00
+Mar Vermelho - AL
+-9.44
+-36.38
+Mara Rosa - GO
+-14.01
+-49.17
+Maraã - AM
+-1.85
+-65.58
+Marabá - PA
+-5.36
+-49.11
+Marabá Paulista - SP
+-22.10
+-51.96
+Maracaçumé - MA
+-2.04
+-45.95
+Maracaí - SP
+-22.61
+-50.66
+Maracajá - SC
+-28.84
+-49.45
+Maracaju - MS
+-21.61
+-55.16
+Maracanã - PA
+0.59
+-47.58
+Maracanaú - CE
+-3.87
+-38.62
+Maracás - BA
+-13.44
+-40.43
+Maragogi - AL
+-9.01
+-35.22
+Maragogipe - BA
+-12.77
+-38.91
+Maraial - PE
+-8.78
+-35.80
+Marajá do Sena - MA
+-4.59
+-45.57
+Maranguape - CE
+-3.89
+-38.68
+Maranhãozinho - MA
+-2.30
+-45.84
+Marapanim - PA
+0.71
+-47.69
+Marapoama - SP
+-21.25
+-49.12
+Maratá - RS
+-29.54
+-51.55
+Marataizes - ES
+-21.04
+-40.82
+Maraú - BA
+-14.10
+-39.01
+Marau - RS
+-28.44
+-52.20
+Maravilha - AL
+-9.23
+-37.35
+Maravilha - SC
+-26.76
+-53.17
+Maravilhas - MG
+-19.51
+-44.67
+Marcação - PB
+-6.77
+-35.01
+Marcelândia - MT
+-11.08
+-54.45
+Marcelino Ramos - RS
+-27.46
+-51.90
+Marcelino Vieira - RN
+-6.29
+-38.16
+Marcionílio Souza - BA
+-13.00
+-40.53
+Marco - CE
+-3.12
+-40.14
+Marcolândia - PI
+-7.44
+-40.66
+Marcos Parente - PI
+-7.12
+-43.89
+Marechal Cândido Rondon - PR
+-24.55
+-54.05
+Marechal Deodoro - AL
+-9.71
+-35.89
+Marechal Floriano - ES
+-20.41
+-40.68
+Marechal Thaumaturgo - AC
+-8.94
+-72.79
+Marema - SC
+-26.80
+-52.62
+Mari - PB
+-7.06
+-35.31
+Maria da Fé - MG
+-22.30
+-45.37
+Maria Helena - PR
+-23.61
+-53.20
+Marialva - PR
+-23.48
+-51.79
+Mariana - MG
+-20.37
+-43.41
+Mariana Pimentel - RS
+-30.35
+-51.58
+Mariano Moro - RS
+-27.35
+-52.14
+Marianópolis do Tocantins - TO
+-9.79
+-49.65
+Mariápolis - SP
+-21.79
+-51.18
+Maribondo - AL
+-9.57
+-36.30
+Maricá - RJ
+-22.91
+-42.81
+Marilac - MG
+-18.50
+-42.08
+Marilândia - ES
+-19.41
+-40.54
+Marilândia do Sul - PR
+-23.74
+-51.30
+Marilena - PR
+-22.73
+-53.04
+Marília - SP
+-22.21
+-49.94
+Mariluz - PR
+-24.00
+-53.14
+Maringá - PR
+-23.42
+-51.93
+Marinópolis - SP
+-20.44
+-50.82
+Mário Campos - MG
+-20.05
+-44.18
+Mariópolis - PR
+-26.35
+-52.55
+Maripá - PR
+-24.41
+-53.83
+Maripá de Minas - MG
+-21.69
+-42.95
+Marituba - PA
+-1.35
+-48.34
+Marizópolis - PB
+-6.84
+-38.34
+Marliéria - MG
+-19.71
+-42.73
+Marmeleiro - PR
+-26.14
+-53.02
+Marmelópolis - MG
+-22.44
+-45.16
+Marques de Souza - RS
+-29.32
+-52.09
+Marquinho - PR
+-25.11
+-52.25
+Martinho Campos - MG
+-19.33
+-45.23
+Martinópole - CE
+-3.22
+-40.69
+Martinópolis - SP
+-22.14
+-51.17
+Martins - RN
+-6.08
+-37.91
+Martins Soares - MG
+-20.25
+-41.87
+Maruim - SE
+-10.73
+-37.08
+Marumbi - PR
+-23.70
+-51.63
+Marzagão - GO
+-17.98
+-48.64
+Mascote - BA
+-15.56
+-39.30
+Massapê - CE
+-3.52
+-40.34
+Massapê do Piauí - PI
+-7.46
+-41.12
+Massaranduba - PB
+-7.20
+-35.78
+Massaranduba - SC
+-26.61
+-49.00
+Mata - RS
+-29.56
+-54.46
+Mata de São João - BA
+-12.53
+-38.29
+Mata Grande - AL
+-9.11
+-37.73
+Mata Roma - MA
+-3.62
+-43.11
+Mata Verde - MG
+-15.68
+-40.74
+Matão - SP
+-21.60
+-48.36
+Mataraca - PB
+-6.60
+-35.05
+Mateiros - TO
+-10.54
+-46.42
+Matelândia - PR
+-25.24
+-53.99
+Materlândia - MG
+-18.47
+-43.05
+Mateus Leme - MG
+-19.98
+-44.42
+Mathias Lobato - MG
+-18.56
+-41.91
+Matias Barbosa - MG
+-21.86
+-43.31
+Matias Cardoso - MG
+-14.85
+-43.92
+Matias Olímpio - PI
+-3.71
+-42.55
+Matina - BA
+-13.90
+-42.84
+Matinha - MA
+-3.10
+-45.03
+Matinhas - PB
+-7.12
+-35.76
+Matinhos - PR
+-25.81
+-48.54
+Matipó - MG
+-20.28
+-42.34
+Mato Castelhano - RS
+-28.27
+-52.19
+Mato Grosso - PB
+-6.53
+-37.72
+Mato Leitão - RS
+-29.52
+-52.12
+Mato Rico - PR
+-24.70
+-52.14
+Mato Verde - MG
+-15.39
+-42.86
+Matões - MA
+-5.51
+-43.19
+Matões do Norte - MA
+-3.63
+-44.55
+Matos Costa - SC
+-26.47
+-51.14
+Matozinhos - MG
+-19.55
+-44.08
+Matrinchã - GO
+-15.44
+-50.74
+Matriz de Camaragibe - AL
+-9.15
+-35.53
+Matupá - MT
+-10.05
+-54.93
+Maturéia - PB
+-7.26
+-37.35
+Matutina - MG
+-19.22
+-45.96
+Mauá - SP
+-23.66
+-46.46
+Mauá da Serra - PR
+-23.90
+-51.22
+Maués - AM
+-3.38
+-57.71
+Maurilândia - GO
+-17.97
+-50.33
+Maurilândia do Tocantins - TO
+-5.95
+-47.50
+Mauriti - CE
+-7.38
+-38.77
+Maxaranguape - RN
+-5.51
+-35.25
+Maximiliano de Almeida - RS
+-27.63
+-51.80
+Mazagão - AP
+0.11
+-51.28
+Medeiros - MG
+-19.99
+-46.22
+Medeiros Neto - BA
+-17.37
+-40.22
+Medianeira - PR
+-25.29
+-54.09
+Medicilândia - PA
+-3.44
+-52.88
+Medina - MG
+-16.22
+-41.47
+Meleiro - SC
+-28.82
+-49.63
+Melgaço - PA
+-1.80
+-50.71
+Mendes - RJ
+-22.52
+-43.73
+Mendes Pimentel - MG
+-18.66
+-41.40
+Mendonça - SP
+-21.16
+-49.58
+Mercedes - PR
+-24.45
+-54.16
+Mercês - MG
+-21.19
+-43.34
+Meridiano - SP
+-20.35
+-50.17
+Meruoca - CE
+-3.54
+-40.45
+Mesópolis - SP
+-19.96
+-50.63
+Mesquita - MG
+-19.22
+-42.60
+Messias - AL
+-9.38
+-35.84
+Messias Targino - RN
+-6.07
+-37.51
+Miguel Alves - PI
+-4.16
+-42.89
+Miguel Calmon - BA
+-11.42
+-40.59
+Miguel Leão - PI
+-5.68
+-42.73
+Miguel Pereira - RJ
+-22.45
+-43.46
+Miguelópolis - SP
+-20.17
+-48.03
+Milagres - BA
+-12.87
+-39.85
+Milagres - CE
+-7.31
+-38.94
+Milagres do Maranhão - MA
+-3.58
+-42.60
+Milhã - CE
+-5.67
+-39.19
+Milton Brandão - PI
+-4.68
+-41.42
+Mimoso de Goiás - GO
+-15.05
+-48.16
+Mimoso do Sul - ES
+-21.06
+-41.36
+Minaçu - GO
+-13.53
+-48.22
+Minador do Negrão - AL
+-9.30
+-36.86
+Minas do Leão - RS
+-30.12
+-52.04
+Minas Novas - MG
+-17.21
+-42.59
+Minduri - MG
+-21.68
+-44.60
+Mineiros - GO
+-17.56
+-52.55
+Mineiros do Tietê - SP
+-22.40
+-48.45
+Ministro Andreazza - RO
+-11.07
+-61.51
+Mira Estrela - SP
+-19.97
+-50.13
+Mirabela - MG
+-16.26
+-44.16
+Miracatu - SP
+-24.28
+-47.45
+Miracema - RJ
+-21.41
+-42.19
+Miracema do Tocantins - TO
+-9.56
+-48.39
+Mirador - MA
+-6.37
+-44.36
+Mirador - PR
+-23.25
+-52.77
+Miradouro - MG
+-20.89
+-42.34
+Miraguaí - RS
+-27.49
+-53.68
+Miraí - MG
+-21.19
+-42.61
+Miraíma - CE
+-3.56
+-39.97
+Miranda - MS
+-20.24
+-56.37
+Miranda do Norte - MA
+-3.56
+-44.58
+Mirandiba - PE
+-8.12
+-38.72
+Mirandopólis - SP
+-21.13
+-51.10
+Mirangaba - BA
+-10.95
+-40.57
+Miranorte - TO
+-9.52
+-48.59
+Mirante - BA
+-14.24
+-40.77
+Mirante da Serra - RO
+-11.02
+-62.67
+Mirante do Paranapanema - SP
+-22.29
+-51.90
+Miraselva - PR
+-22.96
+-51.48
+Mirassol - SP
+-20.81
+-49.52
+Mirassol d'Oeste - MT
+-15.67
+-58.09
+Mirassolândia - SP
+-20.61
+-49.46
+Miravânia - MG
+-14.74
+-44.40
+Mirim Doce - SC
+-27.19
+-50.07
+Mirinzal - MA
+-2.06
+-44.78
+Missal - PR
+-25.09
+-54.24
+Missão Velha - CE
+-7.24
+-39.14
+Mocajuba - PA
+-2.58
+-49.50
+Mococa - SP
+-21.46
+-47.00
+Modelo - SC
+-26.77
+-53.05
+Moeda - MG
+-20.33
+-44.05
+Moema - MG
+-19.84
+-45.41
+Mogeiro - PB
+-7.29
+-35.47
+Mogi Guaçu - SP
+-22.37
+-46.94
+Moiporá - GO
+-16.54
+-50.73
+Moita Bonita - SE
+-10.57
+-37.34
+Moji das Cruzes - SP
+-23.52
+-46.18
+Moji-Mirim - SP
+-22.43
+-46.95
+Moju - PA
+-1.88
+-48.76
+Mombaça - CE
+-5.74
+-39.62
+Mombuca - SP
+-22.92
+-47.56
+Monção - MA
+-3.49
+-45.25
+Monções - SP
+-20.85
+-50.09
+Mondaí - SC
+-27.10
+-53.40
+Mongaguá - SP
+-24.09
+-46.62
+Monjolos - MG
+-18.32
+-44.11
+Monsenhor Gil - PI
+-5.56
+-42.60
+Monsenhor Hipólito - PI
+-6.99
+-41.02
+Monsenhor Paulo - MG
+-21.75
+-45.54
+Monsenhor Tabosa - CE
+-4.78
+-40.06
+Montadas - PB
+-7.14
+-35.91
+Montalvânia - MG
+-14.42
+-44.36
+Montanha - ES
+-18.12
+-40.36
+Montanhas - RN
+-6.48
+-35.28
+Montauri - RS
+-28.65
+-52.07
+Monte Alegre - PA
+-2.00
+-54.06
+Monte Alegre - RN
+-6.06
+-35.33
+Monte Alegre de Goiás - GO
+-13.25
+-46.90
+Monte Alegre de Minas - MG
+-18.87
+-48.88
+Monte Alegre de Sergipe - SE
+-10.02
+-37.56
+Monte Alegre do Piauí - PI
+-9.75
+-45.30
+Monte Alegre do Sul - SP
+-22.68
+-46.68
+Monte Alegre dos Campos - RS
+-28.68
+-50.78
+Monte Alto - SP
+-21.26
+-48.49
+Monte Aprazível - SP
+-20.77
+-49.71
+Monte Azul - MG
+-15.15
+-42.87
+Monte Azul Paulista - SP
+-20.90
+-48.64
+Monte Belo - MG
+-21.32
+-46.36
+Monte Belo do Sul - RS
+-29.16
+-51.63
+Monte Carlo - SC
+-27.22
+-50.97
+Monte Carmelo - MG
+-18.72
+-47.49
+Monte Castelo - SC
+-26.46
+-50.23
+Monte Castelo - SP
+-21.29
+-51.56
+Monte das Gameleiras - RN
+-6.44
+-35.78
+Monte do Carmo - TO
+-10.76
+-48.10
+Monte Formoso - MG
+-16.86
+-41.25
+Monte Horebe - PB
+-7.21
+-38.58
+Monte Mor - SP
+-22.94
+-47.31
+Monte Negro - RO
+-10.29
+-63.32
+Monte Santo - BA
+-10.43
+-39.33
+Monte Santo de Minas - MG
+-21.18
+-46.98
+Monte Santo do Tocantins - TO
+-10.00
+-48.99
+Monte Sião - MG
+-22.43
+-46.57
+Monteiro - PB
+-7.88
+-37.12
+Monteiro Lobato - SP
+-22.95
+-45.83
+Monteirópolis - AL
+-9.60
+-37.24
+Montenegro - RS
+-29.68
+-51.46
+Montes Altos - MA
+-5.83
+-47.06
+Montes Claros - MG
+-16.73
+-43.86
+Montes Claros de Goiás - GO
+-16.00
+-51.39
+Montezuma - MG
+-15.17
+-42.49
+Montividiu - GO
+-17.44
+-51.17
+Montividiu do Norte - GO
+-13.11
+-48.60
+Morada Nova - CE
+-5.10
+-38.37
+Morada Nova de Minas - MG
+-18.60
+-45.35
+Moraújo - CE
+-3.46
+-40.68
+Moreilândia - PE
+-7.63
+-39.55
+Moreira Sales - PR
+-24.06
+-53.00
+Moreno - PE
+-8.11
+-35.09
+Mormaço - RS
+-28.69
+-52.69
+Morpará - BA
+-11.55
+-43.28
+Morretes - PR
+-25.47
+-48.83
+Morrinhos - CE
+-3.22
+-40.12
+Morrinhos - GO
+-17.73
+-49.09
+Morrinhos do Sul - RS
+-29.36
+-49.93
+Morro Agudo - SP
+-20.73
+-48.05
+Morro Agudo de Goiás - GO
+-15.32
+-50.05
+Morro Cabeça no Tempo - PI
+-9.72
+-43.90
+Morro da Fumaça - SC
+-28.65
+-49.21
+Morro da Garça - MG
+-18.54
+-44.60
+Morro do Chapéu - BA
+-11.55
+-41.15
+Morro do Chapéu do Piauí - PI
+-3.74
+-42.31
+Morro do Pilar - MG
+-19.21
+-43.37
+Morro Grande - SC
+-28.80
+-49.72
+Morro Redondo - RS
+-31.58
+-52.63
+Morro Reuter - RS
+-29.53
+-51.08
+Morros - MA
+-2.86
+-44.03
+Mortugaba - BA
+-15.02
+-42.36
+Morungaba - SP
+-22.88
+-46.79
+Mosquito - TO
+-6.61
+-47.54
+Mossâmedes - GO
+-16.12
+-50.21
+Mossoró - RN
+-5.18
+-37.34
+Mostardas - RS
+-31.10
+-50.92
+Motuca - SP
+-21.50
+-48.15
+Mozarlândia - GO
+-14.74
+-50.57
+Muaná - PA
+-1.52
+-49.21
+Mucajaí - RR
+22.90
+-60.90
+Mucambo - CE
+-3.90
+-40.74
+Mucugê - BA
+-13.00
+-41.37
+Muçum - RS
+-29.16
+-51.86
+Mucuri - BA
+-18.08
+-39.55
+Mucurici - ES
+-18.09
+-40.51
+Muitos Capões - RS
+-28.31
+-51.18
+Muliterno - RS
+-28.32
+-51.76
+Mulungu - CE
+-4.30
+-38.99
+Mulungu - PB
+-7.02
+-35.46
+Mulungu do Morro - BA
+-11.96
+-41.63
+Mundo Novo - BA
+-11.85
+-40.47
+Mundo Novo - GO
+-13.77
+-50.28
+Mundo Novo - MS
+-23.93
+-54.27
+Munhoz - MG
+-22.61
+-46.36
+Munhoz de Melo - PR
+-23.14
+-51.77
+Muniz Ferreira - BA
+-13.00
+-39.11
+Muniz Freire - ES
+-20.46
+-41.41
+Muquém de São Francisco - BA
+-12.19
+-43.83
+Muqui - ES
+-20.95
+-41.34
+Muriaé - MG
+-21.13
+-42.36
+Muribeca - SE
+-10.42
+-36.95
+Murici - AL
+-9.30
+-35.94
+Murici dos Portelas - PI
+-3.31
+-42.09
+Muricilândia - TO
+-7.14
+-48.61
+Muritiba - BA
+-12.62
+-38.99
+Murutinga do Sul - SP
+-20.99
+-51.27
+Mutuípe - BA
+-13.22
+-39.50
+Mutum - MG
+-19.80
+-41.43
+Mutunópolis - GO
+-13.73
+-49.27
+Muzambinho - MG
+-21.37
+-46.52
+Nacip Raydan - MG
+-18.45
+-42.24
+Nantes - SP
+-22.62
+-51.23
+Nanuque - MG
+-17.83
+-40.35
+Não-Me-Toque - RS
+-28.45
+-52.82
+Naque - MG
+-19.23
+-42.32
+Narandiba - SP
+-22.40
+-51.52
+Natal - RN
+-5.79
+-35.20
+Natalândia - MG
+-16.50
+-46.49
+Natércia - MG
+-22.12
+-45.51
+Natividade - RJ
+-21.04
+-41.97
+Natividade - TO
+-11.70
+-47.72
+Natividade da Serra - SP
+-23.37
+-45.44
+Natuba - PB
+-7.64
+-35.55
+Navegantes - SC
+-26.89
+-48.65
+Naviraí - MS
+-23.06
+-54.19
+Nazaré - BA
+-13.03
+-39.01
+Nazaré - TO
+-6.37
+-47.58
+Nazaré da Mata - PE
+-7.74
+-35.22
+Nazaré do Piauí - PI
+-6.97
+-42.67
+Nazaré Paulista - SP
+-23.18
+-46.39
+Nazareno - MG
+-21.21
+-44.61
+Nazarezinho - PB
+-6.91
+-38.32
+Nazário - GO
+-16.58
+-49.88
+Neópolis - SE
+-10.32
+-36.57
+Nepomuceno - MG
+-21.23
+-45.23
+Nerópolis - GO
+-16.40
+-49.21
+Neves Paulista - SP
+-20.84
+-49.62
+Nhamundá - AM
+-2.18
+-56.71
+Nhandeara - SP
+-20.69
+-50.03
+Nicolau Vergueiro - RS
+-28.53
+-52.46
+Nilo Peçanha - BA
+-13.59
+-39.10
+Nilópolis - RJ
+-22.80
+-43.41
+Nina Rodrigues - MA
+-3.46
+-43.90
+Ninheira - MG
+-15.32
+-41.75
+Nioaque - MS
+-21.13
+-55.83
+Nipoã - SP
+-20.91
+-49.77
+Niquelândia - GO
+-14.47
+-48.45
+Nísia Floresta - RN
+-6.09
+-35.20
+Niterói - RJ
+-22.88
+-43.10
+Nobres - MT
+-14.72
+-56.32
+Nonoai - RS
+-27.36
+-52.77
+Nordestina - BA
+-10.82
+-39.42
+Normandia - RR
+35.41
+-59.62
+Nortelândia - MT
+-14.45
+-56.80
+Nossa Senhora Aparecida - SE
+-10.44
+-37.48
+Nossa Senhora da Glória - SE
+-10.21
+-37.42
+Nossa Senhora das Dores - SE
+-10.49
+-37.19
+Nossa Senhora das Graças - PR
+-22.91
+-51.79
+Nossa Senhora de Lourdes - SE
+-10.07
+-37.05
+Nossa Senhora de Nazaré - PI
+-4.63
+-42.17
+Nossa Senhora do Livramento - MT
+-15.77
+-56.34
+Nossa Senhora do Socorro - SE
+-10.85
+-37.12
+Nossa Senhora dos Remédios - PI
+-3.97
+-42.62
+Nova Aliança - SP
+-21.01
+-49.49
+Nova Aliança do Ivaí - PR
+-23.17
+-52.60
+Nova Alvorada - RS
+-28.67
+-52.16
+Nova Alvorada do Sul - MS
+-21.46
+-54.38
+Nova América - GO
+-15.02
+-49.89
+Nova América da Colina - PR
+-23.33
+-50.71
+Nova Andradina - MS
+-22.23
+-53.34
+Nova Araçá - RS
+-28.65
+-51.74
+Nova Aurora - GO
+-18.05
+-48.25
+Nova Aurora - PR
+-24.52
+-53.25
+Nova Bandeirantes - MT
+-9.84
+-57.81
+Nova Bassano - RS
+-28.72
+-51.70
+Nova Belém - MG
+-18.47
+-41.01
+Nova Boa Vista - RS
+-27.99
+-52.97
+Nova Brasilândia - MT
+-14.95
+-54.96
+Nova Brasilândia d'Oeste - RO
+-11.71
+-62.31
+Nova Bréscia - RS
+-29.21
+-52.02
+Nova Campina - SP
+-24.12
+-48.90
+Nova Canaã - BA
+-14.79
+-40.14
+Nova Canaã do Norte - MT
+-10.55
+-55.95
+Nova Canaã Paulista - SP
+-20.38
+-50.94
+Nova Candelária - RS
+-27.60
+-54.10
+Nova Cantu - PR
+-24.67
+-52.56
+Nova Castilho - SP
+-20.76
+-50.34
+Nova Colinas - MA
+-7.11
+-46.25
+Nova Crixás - GO
+-14.09
+-50.32
+Nova Cruz - RN
+-6.47
+-35.43
+Nova Era - MG
+-19.75
+-43.03
+Nova Erechim - SC
+-26.90
+-52.90
+Nova Esperança - PR
+-23.18
+-52.20
+Nova Esperança do Piriá - PA
+-2.26
+-46.96
+Nova Esperança do Sudoeste - PR
+-25.90
+-53.26
+Nova Esperança do Sul - RS
+-29.40
+-54.82
+Nova Europa - SP
+-21.77
+-48.56
+Nova Fátima - BA
+-11.60
+-39.63
+Nova Fátima - PR
+-23.43
+-50.56
+Nova Floresta - PB
+-6.45
+-36.20
+Nova Friburgo - RJ
+-22.28
+-42.53
+Nova Glória - GO
+-15.14
+-49.57
+Nova Granada - SP
+-20.53
+-49.31
+Nova Guarita - MT
+-10.31
+-55.40
+Nova Guataporanga - SP
+-21.33
+-51.64
+Nova Hartz - RS
+-29.58
+-50.90
+Nova Ibiá - BA
+-13.81
+-39.62
+Nova Iguaçu - RJ
+-22.75
+-43.45
+Nova Iguaçu de Goiás - GO
+-14.28
+-49.38
+Nova Independência - SP
+-21.10
+-51.49
+Nova Iorque - MA
+-6.73
+-44.04
+Nova Ipixuna - PA
+-4.92
+-49.07
+Nova Itaberaba - SC
+-26.93
+-52.81
+Nova Itarana - BA
+-13.02
+-40.06
+Nova Lacerda - MT
+-14.47
+-59.60
+Nova Laranjeiras - PR
+-25.30
+-52.54
+Nova Lima - MG
+-19.98
+-43.84
+Nova Londrina - PR
+-22.76
+-52.98
+Nova Luzitânia - SP
+-20.85
+-50.26
+Nova Mamoré - RO
+-10.40
+-65.32
+Nova Marilândia - MT
+-14.36
+-56.96
+Nova Maringá - MT
+-13.02
+-57.07
+Nova Módica - MG
+-18.43
+-41.50
+Nova Monte Verde - MT
+-9.98
+-57.53
+Nova Mutum - MT
+-13.82
+-56.08
+Nova Odessa - SP
+-22.77
+-47.29
+Nova Olímpia - MT
+-14.79
+-57.28
+Nova Olímpia - PR
+-23.47
+-53.08
+Nova Olinda - CE
+-7.09
+-39.68
+Nova Olinda - PB
+-7.47
+-38.04
+Nova Olinda - TO
+-7.63
+-48.42
+Nova Olinda do Maranhão - MA
+-2.84
+-45.69
+Nova Olinda do Norte - AM
+-3.88
+-59.09
+Nova Pádua - RS
+-29.02
+-51.30
+Nova Palma - RS
+-29.47
+-53.46
+Nova Palmeira - PB
+-6.67
+-36.42
+Nova Petrópolis - RS
+-29.37
+-51.11
+Nova Ponte - MG
+-19.15
+-47.67
+Nova Porteirinha - MG
+-15.80
+-43.30
+Nova Prata - RS
+-28.78
+-51.61
+Nova Prata do Iguaçu - PR
+-25.63
+-53.34
+Nova Ramada - RS
+-28.06
+-53.69
+Nova Redenção - BA
+-12.81
+-41.07
+Nova Resende - MG
+-21.12
+-46.42
+Nova Roma - GO
+-13.74
+-46.88
+Nova Roma do Sul - RS
+-28.99
+-51.40
+Nova Rosalândia - TO
+-10.56
+-48.91
+Nova Russas - CE
+-4.70
+-40.56
+Nova Santa Bárbara - PR
+-23.58
+-50.58
+Nova Santa Rita - PI
+-8.08
+-42.05
+Nova Santa Rita - RS
+-29.85
+-51.27
+Nova Santa Rosa - PR
+-24.46
+-53.95
+Nova Serrana - MG
+-19.87
+-44.98
+Nova Soure - BA
+-11.23
+-38.48
+Nova Tebas - PR
+-24.43
+-51.94
+Nova Timboteua - PA
+-1.20
+-47.39
+Nova Trento - SC
+-27.28
+-48.92
+Nova Ubiratã - MT
+-12.99
+-55.25
+Nova União - MG
+-19.69
+-43.57
+Nova União - RO
+-10.90
+-62.56
+Nova Venécia - ES
+-18.71
+-40.40
+Nova Veneza - GO
+-16.37
+-49.32
+Nova Veneza - SC
+-28.63
+-49.49
+Nova Viçosa - BA
+-17.89
+-39.37
+Nova Xavantina - MT
+-14.67
+-52.35
+Novais - SP
+-20.99
+-48.91
+Novo Acordo - TO
+-9.96
+-47.67
+Novo Airão - AM
+-2.62
+-60.94
+Novo Alegre - TO
+-12.93
+-46.57
+Novo Aripuanã - AM
+-5.12
+-60.37
+Novo Barreiro - RS
+-27.90
+-53.10
+Novo Brasil - GO
+-16.03
+-50.71
+Novo Cabrais - RS
+-29.73
+-52.94
+Novo Cruzeiro - MG
+-17.46
+-41.87
+Novo Gama - GO
+-16.05
+-48.03
+Novo Hamburgo - RS
+-29.67
+-51.13
+Novo Horizonte - BA
+-12.80
+-42.16
+Novo Horizonte - SC
+-26.44
+-52.83
+Novo Horizonte - SP
+-21.46
+-49.22
+Novo Horizonte do Norte - MT
+-11.41
+-57.35
+Novo Horizonte do Oeste - RO
+-11.69
+-61.99
+Novo Horizonte do Sul - MS
+-22.67
+-53.86
+Novo Itacolomi - PR
+-23.76
+-51.50
+Novo Jardim - TO
+-11.82
+-46.62
+Novo Lino - AL
+-8.91
+-35.64
+Novo Machado - RS
+-27.57
+-54.50
+Novo Mundo - MT
+-9.95
+-55.19
+Novo Oriente - CE
+-5.53
+-40.77
+Novo Oriente de Minas - MG
+-17.41
+-41.21
+Novo Oriente do Piauí - PI
+-6.44
+-41.93
+Novo Planalto - GO
+-13.24
+-49.50
+Novo Progresso - PA
+-7.14
+-55.38
+Novo Repartimento - PA
+-4.33
+-49.79
+Novo Santo Antônio - PI
+-5.28
+-41.93
+Novo São Joaquim - MT
+-14.90
+-53.01
+Novo Tiradentes - RS
+-27.56
+-53.18
+Novo Triunfo - BA
+-10.32
+-38.40
+Novorizonte - MG
+-16.01
+-42.40
+Nuporanga - SP
+-20.73
+-47.73
+Óbidos - PA
+-1.91
+-55.51
+Ocara - CE
+-4.49
+-38.59
+Ocauçu - SP
+-22.43
+-49.92
+Oeiras - PI
+-7.02
+-42.13
+Oeiras do Pará - PA
+-2.00
+-49.85
+Oiapoque - AP
+35.05
+-51.83
+Olaria - MG
+-21.86
+-43.93
+Óleo - SP
+-22.94
+-49.34
+Olho d'Água - PB
+-7.22
+-37.75
+Olho d'Água das Cunhãs - MA
+-4.11
+-45.13
+Olho d'Água das Flores - AL
+-9.53
+-37.29
+Olho d'Água do Casado - AL
+-9.50
+-37.83
+Olho d'Água do Piauí - PI
+-5.84
+-42.57
+Olho d'Água Grande - AL
+-10.05
+-36.81
+Olho-d'Água do Borges - RN
+-5.95
+-37.70
+Olhos-d'Água - MG
+-17.39
+-43.57
+Olímpia - SP
+-20.73
+-48.91
+Olímpio Noronha - MG
+-22.06
+-45.26
+Olinda - PE
+-8.00
+-34.85
+Olinda Nova do Maranhão - MA
+-2.99
+-44.99
+Olindina - BA
+-11.36
+-38.33
+Olivedos - PB
+-6.99
+-36.24
+Oliveira - MG
+-20.69
+-44.82
+Oliveira de Fátima - TO
+-10.70
+-48.90
+Oliveira dos Brejinhos - BA
+-12.31
+-42.89
+Oliveira Fortes - MG
+-21.33
+-43.45
+Olivença - AL
+-9.51
+-37.19
+Onça de Pitangui - MG
+-19.73
+-44.80
+Onda Verde - SP
+-20.60
+-49.29
+Oratórios - MG
+-20.43
+-42.80
+Oriente - SP
+-22.15
+-50.09
+Orindiúva - SP
+-20.18
+-49.35
+Oriximiná - PA
+-1.76
+-55.86
+Orizânia - MG
+-20.50
+-42.21
+Orizona - GO
+-17.03
+-48.29
+Orlândia - SP
+-20.72
+-47.88
+Orleans - SC
+-28.35
+-49.29
+Orobó - PE
+-7.74
+-35.60
+Orocó - PE
+-8.55
+-39.46
+Orós - CE
+-6.24
+-38.91
+Ortigueira - PR
+-24.20
+-50.94
+Osasco - SP
+-23.53
+-46.79
+Oscar Bressane - SP
+-22.31
+-50.28
+Osório - RS
+-29.88
+-50.26
+Osvaldo Cruz - SP
+-21.79
+-50.87
+Otacílio Costa - SC
+-27.48
+-50.12
+Ourém - PA
+-1.55
+-47.11
+Ouriçangas - BA
+-12.01
+-38.61
+Ouricuri - PE
+-7.88
+-40.08
+Ourilândia do Norte - PA
+-6.75
+-51.08
+Ourinhos - SP
+-22.97
+-49.87
+Ourizona - PR
+-23.40
+-52.19
+Ouro - SC
+-27.34
+-51.61
+Ouro Branco - AL
+-9.16
+-37.35
+Ouro Branco - MG
+-20.52
+-43.69
+Ouro Branco - RN
+-6.70
+-36.94
+Ouro Fino - MG
+-22.28
+-46.36
+Ouro Preto - MG
+-20.28
+-43.50
+Ouro Preto do Oeste - RO
+-10.74
+-62.21
+Ouro Velho - PB
+-7.62
+-37.14
+Ouro Verde - SC
+-26.69
+-52.31
+Ouro Verde - SP
+-21.48
+-51.70
+Ouro Verde de Goiás - GO
+-16.22
+-49.19
+Ouro Verde de Minas - MG
+-18.07
+-41.26
+Ouro Verde do Oeste - PR
+-24.77
+-53.90
+Ouroeste - SP
+-20.00
+-50.37
+Ourolândia - BA
+-10.97
+-41.08
+Ouvidor - GO
+-18.23
+-47.83
+Pacaembu - SP
+-21.56
+-51.26
+Pacajá - PA
+-3.83
+-50.63
+Pacajus - CE
+-4.17
+-38.46
+Pacaraima - RR
+42.91
+-61.14
+Pacatuba - CE
+-3.98
+-38.62
+Pacatuba - SE
+-10.45
+-36.65
+Paço do Lumiar - MA
+-2.53
+-44.10
+Pacoti - CE
+-4.22
+-38.92
+Pacujá - CE
+-3.98
+-40.69
+Padre Bernardo - GO
+-15.16
+-48.28
+Padre Carvalho - MG
+-16.36
+-42.51
+Padre Marcos - PI
+-7.35
+-40.90
+Padre Paraíso - MG
+-17.07
+-41.48
+Paes Landim - PI
+-7.77
+-42.25
+Pai Pedro - MG
+-15.51
+-43.06
+Paial - SC
+-27.25
+-52.49
+Paiçandu - PR
+-23.45
+-52.04
+Paim Filho - RS
+-27.71
+-51.76
+Paineiras - MG
+-18.90
+-45.53
+Painel - SC
+-27.92
+-50.10
+Pains - MG
+-20.37
+-45.66
+Paiva - MG
+-21.28
+-43.41
+Pajeú do Piauí - PI
+-7.85
+-42.82
+Palestina - AL
+-9.67
+-37.32
+Palestina - SP
+-20.39
+-49.43
+Palestina de Goiás - GO
+-16.73
+-51.53
+Palestina do Pará - PA
+-5.74
+-48.31
+Palhano - CE
+-4.74
+-37.95
+Palhoça - SC
+-27.64
+-48.66
+Palma - MG
+-21.37
+-42.31
+Palma Sola - SC
+-26.34
+-53.27
+Palmácia - CE
+-4.15
+-38.84
+Palmares - PE
+-8.68
+-35.59
+Palmares do Sul - RS
+-30.25
+-50.50
+Palmares Paulista - SP
+-21.08
+-48.80
+Palmas - PR
+-26.48
+-51.99
+Palmas - TO
+-10.21
+-48.36
+Palmas de Monte Alto - BA
+-14.26
+-43.16
+Palmeira - PR
+-25.42
+-50.00
+Palmeira - SC
+-27.58
+-50.15
+Palmeira das Missões - RS
+-27.89
+-53.31
+Palmeira do Piauí - PI
+-8.72
+-44.23
+Palmeira d'Oeste - SP
+-20.41
+-50.76
+Palmeira dos µndios - AL
+-9.40
+-36.62
+Palmeirais - PI
+-5.97
+-43.06
+Palmeirândia - MA
+-2.64
+-44.89
+Palmeirante - TO
+-7.86
+-47.92
+Palmeiras - BA
+-12.52
+-41.55
+Palmeiras de Goiás - GO
+-16.80
+-49.92
+Palmeirina - PE
+-9.00
+-36.32
+Palmeirópolis - TO
+-13.04
+-48.40
+Palmelo - GO
+-17.32
+-48.42
+Palminópolis - GO
+-16.79
+-50.16
+Palmital - PR
+-24.89
+-52.20
+Palmital - SP
+-22.78
+-50.21
+Palmitinho - RS
+-27.35
+-53.55
+Palmitos - SC
+-27.06
+-53.16
+Palmópolis - MG
+-16.73
+-40.42
+Palotina - PR
+-24.28
+-53.84
+Panamá - GO
+-18.17
+-49.35
+Panambi - RS
+-28.29
+-53.50
+Pancas - ES
+-19.22
+-40.85
+Panelas - PE
+-8.66
+-36.00
+Panorama - SP
+-21.35
+-51.85
+Pantano Grande - RS
+-30.19
+-52.37
+Pão de Açúcar - AL
+-9.74
+-37.43
+Papagaios - MG
+-19.44
+-44.74
+Papanduva - SC
+-26.37
+-50.14
+Paquetá - PI
+-7.10
+-41.70
+Pará de Minas - MG
+-19.86
+-44.60
+Paracambi - RJ
+-22.61
+-43.70
+Paracatu - MG
+-17.22
+-46.87
+Paracuru - CE
+-3.41
+-39.03
+Paragominas - PA
+-2.99
+-47.35
+Paraguaçu - MG
+-21.54
+-45.73
+Paraguaçu Paulista - SP
+-22.41
+-50.57
+Paraí - RS
+-28.59
+-51.78
+Paraíba do Sul - RJ
+-22.16
+-43.29
+Paraibano - MA
+-6.43
+-43.98
+Paraibuna - SP
+-23.38
+-45.66
+Paraipaba - CE
+-3.43
+-39.14
+Paraíso - SC
+-26.61
+-53.67
+Paraíso - SP
+-21.01
+-48.77
+Paraíso do Norte - PR
+-23.28
+-52.60
+Paraíso do Sul - RS
+-29.66
+-53.14
+Paraíso do Tocantins - TO
+-10.17
+-48.86
+Paraisópolis - MG
+-22.55
+-45.78
+Parambu - CE
+-6.21
+-40.69
+Paramirim - BA
+-13.44
+-42.23
+Paramoti - CE
+-4.09
+-39.23
+Paraná - RN
+-6.48
+-38.31
+Paranã - TO
+-12.61
+-47.88
+Paranacity - PR
+-22.93
+-52.15
+Paranaguá - PR
+-25.52
+-48.50
+Paranaíba - MS
+-19.67
+-51.19
+Paranaiguara - GO
+-18.91
+-50.65
+Paranaíta - MT
+-9.66
+-56.47
+Paranapanema - SP
+-23.38
+-48.72
+Paranapoema - PR
+-22.63
+-52.09
+Paranapuã - SP
+-21.76
+-50.77
+Paranatama - PE
+-8.92
+-36.65
+Paranatinga - MT
+-14.43
+-54.05
+Paranavaí - PR
+-23.07
+-52.46
+Paranhos - MS
+-23.89
+-55.43
+Paraopeba - MG
+-19.27
+-44.40
+Parapuã - SP
+-21.76
+-50.77
+Parari - PB
+-7.32
+-36.65
+Parati - RJ
+-23.21
+-44.71
+Paratinga - BA
+-12.69
+-43.18
+Paraú - RN
+-5.77
+-37.10
+Parauapebas - PA
+-6.06
+-49.90
+Paraúna - GO
+-16.94
+-50.44
+Parazinho - RN
+-5.22
+-35.83
+Pardinho - SP
+-23.08
+-48.37
+Pareci Novo - RS
+-29.63
+-51.39
+Parecis - RO
+-12.19
+-61.60
+Parelhas - RN
+-6.68
+-36.65
+Pariconha - AL
+-9.25
+-38.00
+Parintins - AM
+-2.62
+-56.73
+Paripiranga - BA
+-10.68
+-37.86
+Paripueira - AL
+-9.46
+-35.55
+Pariquera-Açu - SP
+-24.71
+-47.88
+Parisi - SP
+-20.30
+-50.01
+Parnaguá - PI
+-10.22
+-44.63
+Parnaíba - PI
+-2.90
+-41.77
+Parnamirim - PE
+-8.09
+-39.57
+Parnamirim - RN
+-5.91
+-35.26
+Parnarama - MA
+-5.68
+-43.09
+Parobé - RS
+-29.62
+-50.83
+Passa e Fica - RN
+-6.43
+-35.64
+Passa Quatro - MG
+-22.39
+-44.96
+Passa Sete - RS
+-29.45
+-52.96
+Passa Tempo - MG
+-20.65
+-44.49
+Passa Vinte - MG
+-22.20
+-44.23
+Passabém - MG
+-19.35
+-43.13
+Passagem - PB
+-7.13
+-37.04
+Passagem - RN
+-6.27
+-35.37
+Passagem Franca - MA
+-6.17
+-43.78
+Passagem Franca do Piauí - PI
+-5.85
+-42.43
+Passira - PE
+-7.99
+-35.58
+Passo de Camaragibe - AL
+-9.23
+-35.49
+Passo de Torres - SC
+-29.33
+-49.72
+Passo do Sobrado - RS
+-29.74
+-52.27
+Passo Fundo - RS
+-28.26
+-52.40
+Passos - MG
+-20.71
+-46.60
+Passos Maia - SC
+-26.78
+-52.05
+Pastos Bons - MA
+-6.60
+-44.07
+Patis - MG
+-16.07
+-44.08
+Pato Bragado - PR
+-24.62
+-54.22
+Pato Branco - PR
+-26.22
+-52.67
+Patos - PB
+-7.02
+-37.28
+Patos de Minas - MG
+-18.57
+-46.51
+Patos do Piauí - PI
+-7.66
+-41.24
+Patrocínio - MG
+-18.94
+-46.99
+Patrocínio do Muriaé - MG
+-21.15
+-42.21
+Patrocínio Paulista - SP
+-20.63
+-47.28
+Patu - RN
+-6.11
+-37.63
+Paty do Alferes - RJ
+-22.42
+-43.41
+Pau Brasil - BA
+-15.46
+-39.65
+Pau d'Arco - PA
+-7.83
+-50.04
+Pau d'Arco - TO
+-7.53
+-49.37
+Pau dos Ferros - RN
+-6.10
+-38.20
+Paudalho - PE
+-7.89
+-35.17
+Pauini - AM
+-7.71
+-66.97
+Paula Cândido - MG
+-20.87
+-42.98
+Paula Freitas - PR
+-26.20
+-50.93
+Paulicéia - SP
+-21.31
+-51.83
+Paulínia - SP
+-22.76
+-47.15
+Paulino Neves - MA
+-2.71
+-42.53
+Paulista - PB
+-6.59
+-37.62
+Paulista - PE
+-7.94
+-34.87
+Paulistana - PI
+-8.14
+-41.14
+Paulistânia - SP
+-22.57
+-49.40
+Paulistas - MG
+-18.42
+-42.86
+Paulo Afonso - BA
+-9.40
+-38.21
+Paulo de Faria - SP
+-20.03
+-49.38
+Paulo Frontin - PR
+-26.03
+-50.83
+Paulo Jacinto - AL
+-9.36
+-36.36
+Paulo Lopes - SC
+-27.96
+-48.68
+Paulo Ramos - MA
+-4.44
+-45.24
+Pavão - MG
+-17.42
+-40.99
+Paverama - RS
+-29.55
+-51.73
+Pavussu - PI
+-7.96
+-43.22
+Pé de Serra - BA
+-11.83
+-39.61
+Peabiru - PR
+-23.91
+-52.34
+Peçanha - MG
+-18.54
+-42.55
+Pederneiras - SP
+-22.35
+-48.77
+Pedra - PE
+-8.49
+-36.94
+Pedra Azul - MG
+-16.00
+-41.29
+Pedra Bela - SP
+-22.79
+-46.44
+Pedra Bonita - MG
+-20.52
+-42.33
+Pedra Branca - CE
+-5.45
+-39.71
+Pedra Branca - PB
+-7.42
+-38.06
+Pedra Branca do Amapari - AP
+5.06
+-51.94
+Pedra do Anta - MG
+-20.59
+-42.71
+Pedra do Indaiá - MG
+-20.25
+-45.20
+Pedra Dourada - MG
+-20.83
+-42.15
+Pedra Grande - RN
+-5.15
+-35.87
+Pedra Lavrada - PB
+-6.75
+-36.47
+Pedra Mole - SE
+-10.61
+-37.68
+Pedra Preta - MT
+-16.62
+-54.47
+Pedra Preta - RN
+-5.58
+-36.10
+Pedralva - MG
+-22.24
+-45.46
+Pedranópolis - SP
+-20.24
+-50.11
+Pedrão - BA
+-12.15
+-38.65
+Pedras de Fogo - PB
+-7.40
+-35.11
+Pedras de Maria da Cruz - MG
+-15.60
+-44.39
+Pedras Grandes - SC
+-28.43
+-49.18
+Pedregulho - SP
+-20.25
+-47.47
+Pedreira - SP
+-22.74
+-46.90
+Pedreiras - MA
+-4.56
+-44.59
+Pedrinhas - SE
+-11.19
+-37.67
+Pedrinhas Paulista - SP
+-22.81
+-50.79
+Pedrinópolis - MG
+-19.22
+-47.46
+Pedro Afonso - TO
+-8.96
+-48.17
+Pedro Alexandre - BA
+-10.01
+-37.89
+Pedro Avelino - RN
+-5.52
+-36.38
+Pedro Canário - ES
+-18.03
+-40.15
+Pedro de Toledo - SP
+-24.27
+-47.23
+Pedro do Rosário - MA
+-2.97
+-45.34
+Pedro Gomes - MS
+-18.10
+-54.55
+Pedro II - PI
+-4.42
+-41.45
+Pedro Laurentino - PI
+-8.06
+-42.28
+Pedro Leopoldo - MG
+-19.61
+-44.04
+Pedro Osório - RS
+-31.86
+-52.82
+Pedro Régio - PB
+-6.63
+-35.29
+Pedro Teixeira - MG
+-21.70
+-43.74
+Pedro Velho - RN
+-6.43
+-35.22
+Peixe - TO
+-12.02
+-48.53
+Peixe-Boi - PA
+-1.19
+-47.31
+Peixoto de Azevedo - MT
+-10.22
+-54.97
+Pejuçara - RS
+-28.42
+-53.65
+Pelotas - RS
+-31.77
+-52.34
+Penaforte - CE
+-7.82
+-39.07
+Penalva - MA
+-3.29
+-45.17
+Penápolis - SP
+-21.41
+-50.07
+Pendências - RN
+-5.26
+-36.72
+Penedo - AL
+-10.29
+-36.58
+Penha - SC
+-26.76
+-48.64
+Pentecoste - CE
+-3.79
+-39.27
+Pequeri - MG
+-21.83
+-43.12
+Pequi - MG
+-19.63
+-44.65
+Pequizeiro - TO
+-8.59
+-48.93
+Perdigão - MG
+-19.95
+-45.08
+Perdizes - MG
+-19.35
+-47.29
+Perdões - MG
+-21.09
+-45.09
+Pereira Barreto - SP
+-20.63
+-51.10
+Pereiras - SP
+-23.07
+-47.97
+Pereiro - CE
+-6.04
+-38.45
+Peri Mirim - MA
+-2.57
+-44.85
+Periquito - MG
+-19.15
+-42.23
+Peritiba - SC
+-27.37
+-51.90
+Peritoró - MA
+-4.38
+-44.33
+Perobal - PR
+-23.89
+-53.40
+Pérola - PR
+-23.80
+-53.68
+Pérola d'Oeste - PR
+-25.82
+-53.74
+Perolândia - GO
+-17.52
+-52.06
+Peruíbe - SP
+-24.32
+-46.99
+Pescador - MG
+-18.35
+-41.59
+Pesqueira - PE
+-8.35
+-36.69
+Petrolândia - PE
+-8.97
+-38.21
+Petrolândia - SC
+-27.53
+-49.69
+Petrolina - PE
+-9.39
+-40.50
+Petrolina de Goiás - GO
+-16.09
+-49.33
+Petrópolis - RJ
+-22.50
+-43.17
+Piaçabuçu - AL
+-10.40
+-36.43
+Piacatu - SP
+-21.59
+-50.59
+Piancó - PB
+-7.19
+-37.92
+Piatã - BA
+-13.15
+-41.77
+Piau - MG
+-21.50
+-43.32
+Picada Café - RS
+-29.44
+-51.13
+Piçarra - PA
+-6.43
+-48.87
+Piçarras - SC
+-26.76
+-48.67
+Picos - PI
+-7.07
+-41.46
+Picuí - PB
+-6.51
+-36.34
+Piedade - SP
+-23.71
+-47.42
+Piedade de Caratinga - MG
+-19.75
+-42.07
+Piedade de Ponte Nova - MG
+-20.24
+-42.73
+Piedade do Rio Grande - MG
+-21.46
+-44.19
+Piedade dos Gerais - MG
+-20.47
+-44.22
+Piên - PR
+-26.09
+-49.42
+Pilão Arcado - BA
+-10.00
+-42.50
+Pilar - AL
+-9.59
+-35.95
+Pilar - PB
+-7.26
+-35.26
+Pilar de Goiás - GO
+-14.76
+-49.57
+Pilar do Sul - SP
+-23.81
+-47.71
+Pilões - PB
+-6.70
+-35.61
+Pilões - RN
+-6.26
+-38.04
+Pilõezinhos - PB
+-6.85
+-35.52
+Pimenta - MG
+-20.48
+-45.79
+Pimenta Bueno - RO
+-11.67
+-61.19
+Pimenteiras - PI
+-6.24
+-41.41
+Pimenteiras do Oeste - RO
+-13.48
+-61.04
+Pindaí - BA
+-14.49
+-42.68
+Pindamonhangaba - SP
+-22.92
+-45.46
+Pindaré Mirim - MA
+-3.60
+-45.34
+Pindoba - AL
+-9.47
+-36.29
+Pindobaçu - BA
+-10.74
+-40.36
+Pindorama - SP
+-21.18
+-48.90
+Pindorama do Tocantins - TO
+-11.13
+-47.57
+Pindoretama - CE
+-4.02
+-38.30
+Pingo d'Água - MG
+-19.72
+-42.40
+Pinhais - PR
+-25.44
+-49.19
+Pinhal - RS
+-27.51
+-53.21
+Pinhal de São Bento - PR
+-26.03
+-53.48
+Pinhal Grande - RS
+-29.34
+-53.30
+Pinhalão - PR
+-23.79
+-50.05
+Pinhalzinho - SC
+-26.84
+-52.99
+Pinhalzinho - SP
+-22.77
+-46.59
+Pinhão - PR
+-25.69
+-51.65
+Pinhão - SE
+-10.56
+-37.72
+Pinheiral - RJ
+-22.51
+-44.00
+Pinheirinho do Vale - RS
+-27.20
+-53.61
+Pinheiro - MA
+-2.52
+-45.08
+Pinheiro Machado - RS
+-31.57
+-53.38
+Pinheiro Preto - SC
+-27.05
+-51.23
+Pinheiros - ES
+-18.37
+-40.21
+Pintadas - BA
+-11.81
+-39.90
+Pintópolis - MG
+-16.05
+-45.15
+Pio IX - PI
+-6.83
+-40.57
+Pio XII - MA
+-3.83
+-45.15
+Piquerobi - SP
+-21.86
+-51.72
+Piquet Carneiro - CE
+-5.80
+-39.41
+Piquete - SP
+-22.61
+-45.17
+Piracaia - SP
+-23.05
+-46.35
+Piracanjuba - GO
+-17.30
+-49.01
+Piracema - MG
+-20.50
+-44.48
+Piracicaba - SP
+-22.72
+-47.64
+Piracuruca - PI
+-3.92
+-41.70
+Piraí - RJ
+-22.62
+-43.89
+Piraí do Norte - BA
+-13.76
+-39.37
+Piraí do Sul - PR
+-24.52
+-49.94
+Piraju - SP
+-23.19
+-49.38
+Pirajuba - MG
+-19.90
+-48.70
+Pirajuí - SP
+-21.99
+-49.45
+Pirambu - SE
+-10.73
+-36.85
+Piranga - MG
+-20.68
+-43.30
+Pirangi - SP
+-21.09
+-48.65
+Piranguçu - MG
+-22.52
+-45.49
+Piranguinho - MG
+-22.40
+-45.53
+Piranhas - AL
+-9.62
+-37.75
+Piranhas - GO
+-16.42
+-51.82
+Pirapemas - MA
+-3.72
+-44.22
+Pirapetinga - MG
+-21.65
+-42.34
+Pirapó - RS
+-28.04
+-55.19
+Pirapora - MG
+-17.34
+-44.94
+Pirapora do Bom Jesus - SP
+-23.39
+-47.00
+Pirapozinho - SP
+-22.27
+-51.50
+Piraquara - PR
+-25.44
+-49.06
+Piraquê - TO
+-6.77
+-48.29
+Pirassununga - SP
+-21.99
+-47.42
+Piratini - RS
+-31.44
+-53.10
+Piratininga - SP
+-22.41
+-49.13
+Piratuba - SC
+-27.41
+-51.77
+Piraúba - MG
+-21.27
+-43.02
+Pirenópolis - GO
+-15.85
+-48.95
+Pires do Rio - GO
+-17.29
+-48.27
+Pires Ferreira - CE
+-4.24
+-40.64
+Piripá - BA
+-14.94
+-41.72
+Piripiri - PI
+-4.27
+-41.77
+Piritiba - BA
+-11.73
+-40.55
+Pirpirituba - PB
+-6.78
+-35.49
+Pitanga - PR
+-24.75
+-51.76
+Pitangueiras - PR
+-23.23
+-51.58
+Pitangueiras - SP
+-21.00
+-48.22
+Pitangui - MG
+-19.68
+-44.89
+Pitimbu - PB
+-7.47
+-34.80
+Piuí - MG
+-20.46
+-45.95
+Pium - TO
+-10.44
+-49.18
+Piúma - ES
+-20.83
+-40.72
+Placas - PA
+-3.86
+-54.22
+Plácido de Castro - AC
+-10.33
+-67.18
+Planaltina - GO
+-15.45
+-47.61
+Planaltina do Paraná - PR
+-23.00
+-52.91
+Planaltino - BA
+-13.25
+-40.36
+Planalto - BA
+-14.66
+-40.47
+Planalto - PR
+-25.71
+-53.76
+Planalto - RS
+-27.32
+-53.05
+Planalto - SP
+-21.03
+-49.92
+Planalto Alegre - SC
+-27.07
+-52.86
+Planalto da Serra - MT
+-10.43
+-55.27
+Planura - MG
+-20.13
+-48.70
+Platina - SP
+-22.63
+-50.20
+Poá - SP
+-23.52
+-46.34
+Poção - PE
+-8.18
+-36.70
+Poção de Pedras - MA
+-4.66
+-44.85
+Pocinhos - PB
+-7.07
+-36.06
+Poço Branco - RN
+-5.62
+-35.66
+Poço Dantas - PB
+-6.40
+-38.46
+Poço das Antas - RS
+-29.44
+-51.67
+Poço das Trincheiras - AL
+-9.31
+-37.28
+Poço de José de Moura - PB
+-6.57
+-38.51
+Poço Fundo - MG
+-21.78
+-45.96
+Poço Redondo - SE
+-9.80
+-37.68
+Poço Verde - SE
+-10.70
+-38.18
+Poções - BA
+-14.52
+-40.36
+Poconé - MT
+-16.25
+-56.62
+Poços de Caldas - MG
+-21.78
+-46.56
+Pocrane - MG
+-19.61
+-41.63
+Pojuca - BA
+-12.43
+-38.32
+Poloni - SP
+-20.78
+-49.82
+Pombal - PB
+-6.77
+-37.80
+Pombos - PE
+-8.14
+-35.39
+Pomerode - SC
+-26.74
+-49.17
+Pompéia - SP
+-22.10
+-50.17
+Pompéu - MG
+-19.22
+-44.93
+Pongaí - SP
+-21.73
+-49.36
+Ponta de Pedras - PA
+-1.39
+-48.87
+Ponta Grossa - PR
+-25.09
+-50.16
+Ponta Porã - MS
+-22.53
+-55.72
+Pontal - SP
+-21.02
+-48.03
+Pontal do Araguaia - MT
+-15.84
+-52.00
+Pontal do Paraná - PR
+-25.67
+-48.51
+Pontalina - GO
+-17.52
+-49.44
+Pontalinda - SP
+-20.44
+-50.52
+Pontão - RS
+-28.05
+-52.67
+Ponte Alta - SC
+-27.48
+-50.38
+Ponte Alta do Bom Jesus - TO
+-12.09
+-46.47
+Ponte Alta do Norte - SC
+-27.15
+-50.46
+Ponte Alta do Tocantins - TO
+-10.74
+-47.53
+Ponte Branca - MT
+-16.76
+-52.83
+Ponte Nova - MG
+-20.41
+-42.90
+Ponte Preta - RS
+-27.65
+-52.48
+Ponte Serrada - SC
+-26.87
+-52.01
+Pontes e Lacerda - MT
+-15.22
+-59.33
+Pontes Gestal - SP
+-20.16
+-49.70
+Ponto Belo - ES
+-18.12
+-40.54
+Ponto Chique - MG
+-16.63
+-45.06
+Ponto dos Volantes - MG
+-16.75
+-41.50
+Ponto Novo - BA
+-10.86
+-40.13
+Populina - SP
+-19.93
+-50.53
+Poranga - CE
+-4.74
+-40.92
+Porangaba - SP
+-23.17
+-48.12
+Porangatu - GO
+-13.44
+-49.14
+Porciúncula - RJ
+-20.96
+-42.04
+Porecatu - PR
+-22.75
+-51.37
+Portalegre - RN
+-6.02
+-37.98
+Portão - RS
+-29.70
+-51.24
+Porteirão - GO
+-17.81
+-50.16
+Porteiras - CE
+-7.53
+-39.11
+Porteirinha - MG
+-15.74
+-43.02
+Portel - PA
+-1.93
+-50.82
+Portelândia - GO
+-17.35
+-52.67
+Porto - PI
+-3.89
+-42.71
+Porto Acre - AC
+-9.58
+-67.53
+Porto Alegre - RS
+-30.03
+-51.23
+Porto Alegre do Norte - MT
+-10.87
+-51.63
+Porto Alegre do Piauí - PI
+-6.96
+-44.18
+Porto Alegre do Tocantins - TO
+-11.60
+-47.04
+Porto Amazonas - PR
+-25.54
+-49.89
+Porto Barreiro - PR
+-25.54
+-52.40
+Porto Belo - SC
+-27.15
+-48.55
+Porto Calvo - AL
+-9.04
+-35.39
+Porto da Folha - SE
+-9.91
+-37.27
+Porto de Moz - PA
+-1.74
+-52.23
+Porto de Pedras - AL
+-9.15
+-35.29
+Porto do Mangue - RN
+-5.06
+-36.78
+Porto dos Gaúchos - MT
+-11.53
+-57.41
+Porto Esperidião - MT
+-15.85
+-58.46
+Porto Estrela - MT
+-15.32
+-57.22
+Porto Feliz - SP
+-23.21
+-47.52
+Porto Ferreira - SP
+-21.85
+-47.47
+Porto Firme - MG
+-20.67
+-43.08
+Porto Franco - MA
+-6.33
+-47.39
+Porto Grande - AP
+4.40
+-51.41
+Porto Lucena - RS
+-27.85
+-55.01
+Porto Mauá - RS
+-27.57
+-54.66
+Porto Murtinho - MS
+-21.69
+-57.88
+Porto Nacional - TO
+-10.70
+-48.41
+Porto Real - RJ
+-22.41
+-44.29
+Porto Real do Colégio - AL
+-10.18
+-36.84
+Porto Rico - PR
+-22.77
+-53.26
+Porto Rico do Maranhão - MA
+-1.89
+-44.60
+Porto Seguro - BA
+-16.44
+-39.06
+Porto União - SC
+-26.23
+-51.07
+Porto Velho - RO
+-8.76
+-63.90
+Porto Vera Cruz - RS
+-27.73
+-54.90
+Porto Vitória - PR
+-26.16
+-51.23
+Porto Walter - AC
+-8.26
+-72.74
+Porto Xavier - RS
+-27.90
+-55.13
+Posse - GO
+-14.09
+-46.36
+Poté - MG
+-17.80
+-41.78
+Potengi - CE
+-7.09
+-40.02
+Potim - SP
+-22.84
+-45.25
+Potiraguá - BA
+-15.59
+-39.87
+Potirendaba - SP
+-21.04
+-49.37
+Potiretama - CE
+-5.72
+-38.15
+Pouso Alegre - MG
+-22.23
+-45.93
+Pouso Alto - MG
+-22.19
+-44.97
+Pouso Novo - RS
+-29.17
+-52.20
+Pouso Redondo - SC
+-27.25
+-49.93
+Poxoréo - MT
+-15.83
+-54.38
+Pracinha - SP
+-21.85
+-51.08
+Pracuúba - AP
+14.71
+-50.79
+Prado - BA
+-17.34
+-39.22
+Prado Ferreira - PR
+-23.03
+-51.44
+Pradópolis - SP
+-21.35
+-48.06
+Prados - MG
+-21.05
+-44.07
+Praia Grande - SC
+-29.19
+-49.95
+Praia Grande - SP
+-24.00
+-46.40
+Praia Norte - TO
+-5.39
+-47.81
+Prainha - PA
+-1.80
+-53.48
+Pranchita - PR
+-26.01
+-53.74
+Prata - MG
+-19.30
+-48.92
+Prata - PB
+-7.69
+-37.08
+Prata do Piauí - PI
+-5.66
+-42.20
+Pratânia - SP
+-22.80
+-48.66
+Pratápolis - MG
+-20.74
+-46.86
+Pratinha - MG
+-19.75
+-46.37
+Presidente Alves - SP
+-22.10
+-49.43
+Presidente Bernardes - MG
+-20.76
+-43.18
+Presidente Bernardes - SP
+-22.00
+-51.55
+Presidente Castelo Branco - PR
+-23.27
+-52.15
+Presidente Castelo Branco - SC
+-27.22
+-51.80
+Presidente Dutra - BA
+-11.29
+-41.98
+Presidente Dutra - MA
+-5.29
+-44.49
+Presidente Epitácio - SP
+-21.76
+-52.11
+Presidente Figueiredo - AM
+-2.03
+-60.02
+Presidente Getúlio - SC
+-27.05
+-49.62
+Presidente Jânio Quadros - BA
+-14.68
+-41.67
+Presidente Juscelino - MA
+-2.92
+-44.06
+Presidente Juscelino - MG
+-18.63
+-44.05
+Presidente Juscelino - RN
+-6.10
+-35.71
+Presidente Kennedy - ES
+-21.09
+-41.04
+Presidente Kennedy - TO
+-8.53
+-48.50
+Presidente Kubitschek - MG
+-18.61
+-43.56
+Presidente Lucena - RS
+-29.51
+-51.17
+Presidente Médici - MA
+-2.38
+-45.81
+Presidente Médici - RO
+-11.17
+-61.90
+Presidente Nereu - SC
+-27.27
+-49.39
+Presidente Olegário - MG
+-18.41
+-46.41
+Presidente Prudente - SP
+-22.12
+-51.38
+Presidente Sarney - MA
+-2.59
+-45.36
+Presidente Tancredo Neves - BA
+-13.44
+-39.42
+Presidente Vargas - MA
+-3.40
+-44.02
+Presidente Venceslau - SP
+-21.87
+-51.84
+Primavera - PA
+0.94
+-47.11
+Primavera - PE
+-8.33
+-35.35
+Primavera de Rondônia - RO
+-11.81
+-61.32
+Primavera do Leste - MT
+-15.55
+-54.29
+Primeira Cruz - MA
+-2.51
+-43.43
+Primeiro de Maio - PR
+-22.85
+-51.02
+Princesa - SC
+-26.44
+-53.59
+Princesa Isabel - PB
+-7.73
+-37.99
+Professor Jamil - GO
+-17.24
+-49.24
+Progresso - RS
+-29.24
+-52.31
+Promissão - SP
+-21.53
+-49.85
+Propriá - SE
+-10.21
+-36.84
+Protásio Alves - RS
+-28.75
+-51.47
+Prudente de Morais - MG
+-19.48
+-44.15
+Prudentópolis - PR
+-25.21
+-50.97
+Pugmil - TO
+-10.42
+-48.89
+Pureza - RN
+-5.46
+-35.55
+Putinga - RS
+-29.00
+-52.15
+Puxinanã - PB
+-7.16
+-35.96
+Quadra - SP
+-23.29
+-48.05
+Quaraí - RS
+-30.38
+-56.45
+Quartel Geral - MG
+-19.27
+-45.55
+Quarto Centenário - PR
+-24.27
+-53.07
+Quatá - SP
+-22.24
+-50.69
+Quatiguá - PR
+-23.56
+-49.91
+Quatipuru - PA
+0.89
+-47.00
+Quatis - RJ
+-22.40
+-44.25
+Quatro Barras - PR
+-25.36
+-49.07
+Quatro Pontes - PR
+-24.57
+-53.97
+Quebrangulo - AL
+-9.31
+-36.47
+Quedas do Iguaçu - PR
+-25.44
+-52.90
+Queimada Nova - PI
+-8.57
+-41.41
+Queimadas - BA
+-10.97
+-39.62
+Queimadas - PB
+-7.35
+-35.89
+Queimados - RJ
+-22.71
+-43.55
+Queiroz - SP
+-21.79
+-50.24
+Queluz - SP
+-22.53
+-44.77
+Queluzita - MG
+-20.74
+-43.88
+Querência - MT
+-12.59
+-52.19
+Querência do Norte - PR
+-23.08
+-53.48
+Quevedos - RS
+-29.35
+-54.07
+Quijingue - BA
+-10.75
+-39.20
+Quilombo - SC
+-26.72
+-52.72
+Quinta do Sol - PR
+-23.85
+-52.12
+Quintana - SP
+-22.07
+-50.30
+Quinze de Novembro - RS
+-28.74
+-53.09
+Quipapá - PE
+-8.82
+-36.01
+Quirinópolis - GO
+-18.44
+-50.45
+Quissamã - RJ
+-22.10
+-41.47
+Quitandinha - PR
+-25.87
+-49.49
+Quiterianópolis - CE
+-5.84
+-40.70
+Quixaba - PB
+-7.03
+-37.14
+Quixabá - PE
+-7.72
+-37.84
+Quixabeira - BA
+-11.41
+-40.12
+Quixadá - CE
+-4.97
+-39.01
+Quixelã - CE
+-6.25
+-39.20
+Quixeramobim - CE
+-5.19
+-39.29
+Quixeré - CE
+-5.07
+-37.98
+Rafael Fernandes - RN
+-6.19
+-38.22
+Rafael Godeiro - RN
+-6.07
+-37.71
+Rafael Jambeiro - BA
+-12.40
+-39.50
+Rafard - SP
+-23.01
+-47.52
+Ramilândia - PR
+-25.12
+-54.02
+Rancharia - SP
+-22.22
+-50.89
+Rancho Alegre - PR
+-23.07
+-50.91
+Rancho Alegre d'Oeste - PR
+-24.30
+-52.95
+Rancho Queimado - SC
+-27.67
+-49.02
+Raposa - MA
+-2.42
+-44.10
+Raposos - MG
+-19.96
+-43.80
+Raul Soares - MG
+-20.10
+-42.45
+Realeza - PR
+-25.76
+-53.53
+Rebouças - PR
+-25.62
+-50.69
+Recife - PE
+-8.05
+-34.88
+Recreio - MG
+-21.52
+-42.46
+Recursolândia - TO
+-8.72
+-47.24
+Redenção - CE
+-4.22
+-38.73
+Redenção - PA
+-8.02
+-50.03
+Redenção da Serra - SP
+-23.26
+-45.53
+Redenção do Gurguéia - PI
+-9.48
+-44.58
+Redentora - RS
+-27.66
+-53.63
+Reduto - MG
+-20.21
+-41.98
+Regeneração - PI
+-6.23
+-42.68
+Regente Feijó - SP
+-22.22
+-51.30
+Reginópolis - SP
+-21.88
+-49.22
+Registro - SP
+-24.48
+-47.84
+Relvado - RS
+-29.11
+-52.07
+Remanso - BA
+-9.62
+-42.08
+Remígio - PB
+-7.82
+-38.15
+Renascença - PR
+-26.15
+-52.96
+Reriutaba - CE
+-4.14
+-40.58
+Resende - RJ
+-22.46
+-44.44
+Resende Costa - MG
+-20.92
+-44.23
+Reserva - PR
+-24.65
+-50.85
+Reserva do Cabaçal - MT
+-15.07
+-58.46
+Reserva do Iguaçu - PR
+-25.83
+-52.02
+Resplendor - MG
+-19.32
+-41.25
+Ressaquinha - MG
+-21.06
+-43.76
+Restinga - SP
+-20.60
+-47.48
+Restinga Seca - RS
+-29.81
+-53.37
+Retirolândia - BA
+-11.49
+-39.42
+Riachão - MA
+-7.36
+-46.61
+Riachão - PB
+-6.54
+-35.62
+Riachão das Neves - BA
+-11.74
+-44.91
+Riachão do Bacamarte - PB
+-7.24
+-35.66
+Riachão do Dantas - SE
+-11.06
+-37.72
+Riachão do Jacuípe - BA
+-11.80
+-39.38
+Riachão do Poço - PB
+-7.15
+-35.26
+Riachinho - MG
+-16.23
+-45.99
+Riachinho - TO
+-6.43
+-48.13
+Riacho da Cruz - RN
+-5.93
+-37.94
+Riacho das Almas - PE
+-8.13
+-35.85
+Riacho de Santana - BA
+-13.60
+-42.93
+Riacho de Santana - RN
+-6.26
+-38.31
+Riacho de Santo Antônio - PB
+-7.69
+-36.15
+Riacho dos Cavalos - PB
+-6.43
+-37.65
+Riacho dos Machados - MG
+-16.00
+-43.04
+Riacho Frio - PI
+-10.12
+-44.95
+Riachuelo - RN
+-5.81
+-35.82
+Riachuelo - SE
+-10.72
+-37.18
+Rialma - GO
+-15.31
+-49.58
+Rianápolis - GO
+-15.44
+-49.51
+Ribamar Fiquene - MA
+-5.93
+-47.38
+Ribas do Rio Pardo - MS
+-20.44
+-53.75
+Ribeira - SP
+-24.65
+-49.00
+Ribeira do Amparo - BA
+-11.04
+-38.43
+Ribeira do Piauí - PI
+-7.69
+-42.71
+Ribeira do Pombal - BA
+-10.83
+-38.53
+Ribeirão - PE
+-8.51
+-35.37
+Ribeirão Bonito - SP
+-22.06
+-48.17
+Ribeirão Branco - SP
+-24.22
+-48.76
+Ribeirão Cascalheira - MT
+-12.94
+-51.82
+Ribeirão Claro - PR
+-23.19
+-49.75
+Ribeirão Corrente - SP
+-20.45
+-47.59
+Ribeirão das Neves - MG
+-19.76
+-44.08
+Ribeirão do Largo - BA
+-15.45
+-40.74
+Ribeirão do Pinhal - PR
+-23.40
+-50.35
+Ribeirão do Sul - SP
+-22.78
+-49.93
+Ribeirão dos Índios - SP
+-21.97
+-51.65
+Ribeirão Grande - SP
+-24.09
+-48.36
+Ribeirão Pires - SP
+-23.71
+-46.41
+Ribeirão Preto - SP
+-21.17
+-47.81
+Ribeirão Vermelho - MG
+-21.19
+-45.06
+Ribeirãozinho - MT
+-16.48
+-52.69
+Ribeiro Gonçalves - PI
+-7.55
+-45.24
+Ribeirópolis - SE
+-10.53
+-37.41
+Rifaina - SP
+-20.08
+-47.42
+Rincão - SP
+-21.58
+-48.07
+Rinópolis - SP
+-21.72
+-50.72
+Rio Acima - MG
+-20.08
+-43.78
+Rio Azul - PR
+-25.73
+-50.79
+Rio Bananal - ES
+-19.26
+-40.33
+Rio Bom - PR
+-23.76
+-51.41
+Rio Bonito - RJ
+-22.70
+-42.60
+Rio Bonito do Iguaçu - PR
+-25.49
+-52.52
+Rio Branco - AC
+-9.97
+-67.81
+Rio Branco - MT
+-15.24
+-58.11
+Rio Branco do Ivaí - PR
+-24.32
+-51.31
+Rio Branco do Sul - PR
+-25.19
+-49.31
+Rio Brilhante - MS
+-21.80
+-54.54
+Rio Casca - MG
+-20.22
+-42.65
+Rio Claro - RJ
+-22.72
+-44.13
+Rio Claro - SP
+-22.41
+-47.56
+Rio Crespo - RO
+-9.70
+-62.89
+Rio da Conceição - TO
+-11.40
+-46.88
+Rio das Antas - SC
+-26.89
+-51.07
+Rio das Flores - RJ
+-22.16
+-43.58
+Rio das Ostras - RJ
+-22.52
+-41.94
+Rio das Pedras - SP
+-22.84
+-47.60
+Rio de Contas - BA
+-13.57
+-41.81
+Rio de Janeiro - RJ
+-22.90
+-43.20
+Rio do Antônio - BA
+-14.41
+-42.07
+Rio do Campo - SC
+-26.94
+-50.14
+Rio do Fogo - RN
+-5.27
+-35.38
+Rio do Pires - BA
+-13.12
+-42.29
+Rio do Prado - MG
+-16.60
+-40.56
+Rio do Sul - SC
+-27.21
+-49.64
+Rio Doce - MG
+-20.24
+-42.89
+Rio d'Oeste - SC
+-27.19
+-49.79
+Rio dos µndios - RS
+-27.30
+-52.84
+Rio dos Bois - TO
+-9.34
+-48.53
+Rio dos Cedros - SC
+-26.73
+-49.27
+Rio Espera - MG
+-20.85
+-43.47
+Rio Formoso - PE
+-8.66
+-35.15
+Rio Fortuna - SC
+-28.13
+-49.10
+Rio Grande - RS
+-32.03
+-52.09
+Rio Grande da Serra - SP
+-23.74
+-46.39
+Rio Grande do Piauí - PI
+-7.77
+-43.14
+Rio Largo - AL
+-9.47
+-35.85
+Rio Manso - MG
+-20.26
+-44.30
+Rio Maria - PA
+-7.31
+-50.04
+Rio Negrinho - SC
+-26.25
+-49.51
+Rio Negro - MS
+-19.44
+-54.98
+Rio Negro - PR
+-26.10
+-49.79
+Rio Novo - MG
+-21.45
+-43.12
+Rio Novo do Sul - ES
+-20.86
+-40.93
+Rio Paranaíba - MG
+-19.19
+-46.24
+Rio Pardo - RS
+-29.98
+-52.37
+Rio Pardo de Minas - MG
+-15.60
+-42.53
+Rio Piracicaba - MG
+-19.92
+-43.17
+Rio Pomba - MG
+-21.27
+-43.17
+Rio Preto - MG
+-22.08
+-43.82
+Rio Preto da Eva - AM
+-2.69
+-59.69
+Rio Quente - GO
+-17.77
+-48.77
+Rio Real - BA
+-11.48
+-37.93
+Rio Rufino - SC
+-27.86
+-49.77
+Rio Sono - TO
+-9.34
+-47.90
+Rio Tinto - PB
+-6.80
+-35.08
+Rio Verde - GO
+-17.79
+-50.92
+Rio Verde de Mato Grosso - MS
+-18.91
+-54.84
+Rio Vermelho - MG
+-18.29
+-43.00
+Riolândia - SP
+-19.98
+-49.68
+Riozinho - RS
+-29.64
+-50.45
+Riqueza - SC
+-27.06
+-53.32
+Ritápolis - MG
+-21.02
+-44.31
+Riversul - SP
+-23.82
+-49.42
+Roca Sales - RS
+-29.28
+-51.86
+Rochedo - MS
+-19.95
+-54.89
+Rochedo de Minas - MG
+-21.62
+-43.01
+Rodeio - SC
+-26.92
+-49.36
+Rodeio Bonito - RS
+-27.47
+-53.16
+Rodeiro - MG
+-21.20
+-42.86
+Rodelas - BA
+-8.84
+-38.76
+Rodolfo Fernandes - RN
+-5.78
+-38.06
+Rodrigues Alves - AC
+-7.74
+-72.63
+Rolândia - PR
+-23.30
+-51.36
+Rolante - RS
+-29.65
+-50.57
+Rolim de Moura - RO
+-11.80
+-61.80
+Romaria - MG
+-18.88
+-47.58
+Romelândia - SC
+-26.67
+-53.31
+Roncador - PR
+-24.60
+-52.27
+Ronda Alta - RS
+-27.76
+-52.80
+Rondinha - RS
+-27.82
+-52.90
+Rondon - PR
+-23.41
+-52.76
+Rondon do Pará - PA
+-4.77
+-48.06
+Rondonópolis - MT
+-16.47
+-54.63
+Roque Gonzales - RS
+-28.13
+-55.02
+Rorainópolis - RR
+6.06
+-60.41
+Rosana - SP
+-22.57
+-53.05
+Rosário - MA
+-2.93
+-44.23
+Rosário da Limeira - MG
+-20.97
+-42.51
+Rosário do Catete - SE
+-10.69
+-37.03
+Rosário do Ivaí - PR
+-24.27
+-51.27
+Rosário do Sul - RS
+-30.25
+-54.91
+Rosário Oeste - MT
+-14.83
+-56.42
+Roseira - SP
+-22.89
+-45.30
+Roteiro - AL
+-9.83
+-35.97
+Rubelita - MG
+-16.40
+-42.26
+Rubiácea - SP
+-21.30
+-50.72
+Rubiataba - GO
+-15.16
+-49.80
+Rubim - MG
+-16.37
+-40.53
+Rubinéia - SP
+-20.17
+-51.00
+Rurópolis - PA
+-4.09
+-54.91
+Russas - CE
+-4.94
+-37.97
+Ruy Barbosa - BA
+-12.28
+-40.49
+Ruy Barbosa - RN
+-5.88
+-35.93
+Sabará - MG
+-19.88
+-43.80
+Sabáudia - PR
+-23.31
+-51.55
+Sabino - SP
+-21.45
+-49.57
+Sabinópolis - MG
+-18.66
+-43.08
+Saboeiro - CE
+-6.54
+-39.90
+Sacramento - MG
+-19.86
+-47.44
+Sagrada Família - RS
+-27.70
+-53.13
+Sagres - SP
+-21.88
+-50.95
+Sairé - PE
+-8.32
+-35.70
+Saldanha Marinho - RS
+-28.39
+-53.09
+Sales - SP
+-21.34
+-49.48
+Sales Oliveira - SP
+-20.77
+-47.83
+Salesópolis - SP
+-23.53
+-45.84
+Salete - SC
+-26.98
+-49.99
+Salgadinho - PB
+-7.10
+-36.84
+Salgadinho - PE
+-7.93
+-35.63
+Salgado - SE
+-11.03
+-37.47
+Salgado de São Félix - PB
+-7.35
+-35.44
+Salgado Filho - PR
+-26.17
+-53.36
+Salgueiro - PE
+-8.07
+-39.11
+Salinas - MG
+-16.17
+-42.29
+Salinas da Margarida - BA
+-12.87
+-38.76
+Salinópolis - PA
+0.61
+-47.35
+Salitre - CE
+-7.28
+-40.45
+Salmourão - SP
+-21.62
+-50.86
+Saloá - PE
+-8.97
+-36.68
+Saltinho - SC
+-26.60
+-53.05
+Saltinho - SP
+-22.84
+-47.67
+Salto - SP
+-23.20
+-47.28
+Salto da Divisa - MG
+-16.00
+-39.94
+Salto de Pirapora - SP
+-23.64
+-47.57
+Salto do Céu - MT
+-15.12
+-58.12
+Salto do Itararé - PR
+-23.60
+-49.62
+Salto do Jacuí - RS
+-29.08
+-53.21
+Salto do Lontra - PR
+-25.78
+-53.30
+Salto Grande - SP
+-22.89
+-49.98
+Salto Veloso - SC
+-26.90
+-51.40
+Salvador - BA
+-12.97
+-38.51
+Salvador das Missões - RS
+-28.12
+-54.83
+Salvador do Sul - RS
+-29.43
+-51.51
+Salvaterra - PA
+0.75
+-48.51
+Sambaíba - MA
+-7.14
+-45.34
+Sampaio - TO
+-5.34
+-47.87
+Sananduva - RS
+-27.94
+-51.80
+Sanclerlândia - GO
+-16.19
+-50.31
+Sandolândia - TO
+-12.53
+-49.92
+Sandovalina - SP
+-22.45
+-51.76
+Sangão - SC
+-28.63
+-49.12
+Sanharó - PE
+-8.36
+-36.56
+Santa Adélia - SP
+-21.24
+-48.80
+Santa Albertina - SP
+-20.03
+-50.72
+Santa Amélia - PR
+-23.26
+-50.42
+Santa Bárbara - BA
+-11.95
+-38.97
+Santa Bárbara - MG
+-19.95
+-43.41
+Santa Bárbara de Goiás - GO
+-16.57
+-49.69
+Santa Bárbara do Leste - MG
+-19.97
+-42.13
+Santa Bárbara do Monte Verde - MG
+-21.95
+-43.70
+Santa Bárbara do Pará - PA
+-1.22
+-48.29
+Santa Bárbara do Sul - RS
+-28.35
+-53.24
+Santa Bárbara do Tugúrio - MG
+-21.24
+-43.55
+Santa Bárbara d'Oeste - SP
+-22.75
+-47.41
+Santa Branca - SP
+-23.39
+-45.88
+Santa Brígida - BA
+-9.73
+-38.12
+Santa Carmem - MT
+-11.91
+-55.22
+Santa Cecília - PB
+-7.73
+-35.87
+Santa Cecília - SC
+-26.96
+-50.42
+Santa Cecília do Pavão - PR
+-23.51
+-50.78
+Santa Clara do Sul - RS
+-29.46
+-52.08
+Santa Clara d'Oeste - SP
+-20.09
+-50.92
+Santa Cruz - PB
+-6.53
+-38.06
+Santa Cruz - PE
+-8.24
+-40.33
+Santa Cruz - RN
+-6.22
+-36.02
+Santa Cruz Cabrália - BA
+-16.27
+-39.02
+Santa Cruz da Baixa Verde - PE
+-7.82
+-38.15
+Santa Cruz da Conceição - SP
+-22.14
+-47.45
+Santa Cruz da Esperança - SP
+-21.29
+-47.42
+Santa Cruz da Vitória - BA
+-14.96
+-39.81
+Santa Cruz das Palmeiras - SP
+-21.82
+-47.24
+Santa Cruz de Goiás - GO
+-17.31
+-48.48
+Santa Cruz de Minas - MG
+-21.11
+-44.22
+Santa Cruz de Monte Castelo - PR
+-22.95
+-53.29
+Santa Cruz de Salinas - MG
+-16.09
+-41.74
+Santa Cruz do Arari - PA
+0.66
+-49.17
+Santa Cruz do Capibaribe - PE
+-7.95
+-36.20
+Santa Cruz do Escalvado - MG
+-20.23
+-42.81
+Santa Cruz do Piauí - PI
+-7.18
+-41.76
+Santa Cruz do Rio Pardo - SP
+-22.89
+-49.63
+Santa Cruz do Sul - RS
+-29.71
+-52.42
+Santa Cruz dos Milagres - PI
+-5.80
+-41.95
+Santa Efigênia de Minas - MG
+-18.82
+-42.44
+Santa Ernestina - SP
+-21.46
+-48.39
+Santa Fé - PR
+-23.03
+-51.80
+Santa Fé de Goiás - GO
+-15.76
+-51.10
+Santa Fé de Minas - MG
+-16.69
+-45.41
+Santa Fé do Araguaia - TO
+-7.15
+-48.70
+Santa Fé do Sul - SP
+-20.21
+-50.92
+Santa Filomena - PE
+-8.16
+-40.61
+Santa Filomena - PI
+-9.11
+-45.92
+Santa Filomena do Maranhão - MA
+-5.50
+-44.56
+Santa Gertrudes - SP
+-22.45
+-47.53
+Santa Helena - MA
+-2.23
+-45.30
+Santa Helena - PB
+-6.72
+-38.63
+Santa Helena - PR
+-24.86
+-54.33
+Santa Helena - SC
+-26.93
+-53.61
+Santa Helena de Goiás - GO
+-17.81
+-50.59
+Santa Helena de Minas - MG
+-16.98
+-40.68
+Santa Inês - BA
+-13.29
+-39.81
+Santa Inês - MA
+-3.66
+-45.38
+Santa Inês - PB
+-7.62
+-38.55
+Santa Inês - PR
+-22.63
+-51.90
+Santa Isabel - GO
+-15.29
+-49.42
+Santa Isabel - SP
+-23.31
+-46.22
+Santa Isabel do Ivaí - PR
+-23.00
+-53.19
+Santa Isabel do Pará - PA
+-1.29
+-48.16
+Santa Isabel do Rio Negro - AM
+0.41
+-65.01
+Santa Izabel do Oeste - PR
+-25.82
+-53.48
+Santa Juliana - MG
+-19.30
+-47.52
+Santa Leopoldina - ES
+-20.10
+-40.52
+Santa Lúcia - PR
+-25.40
+-53.56
+Santa Lúcia - SP
+-21.68
+-48.08
+Santa Luz - PI
+-8.95
+-44.12
+Santa Luzia - BA
+-15.42
+-39.33
+Santa Luzia - MA
+-3.96
+-45.65
+Santa Luzia - MG
+-19.76
+-43.85
+Santa Luzia - PB
+-6.87
+-36.91
+Santa Luzia do Itanhy - SE
+-11.35
+-37.44
+Santa Luzia do Norte - AL
+-9.60
+-35.82
+Santa Luzia do Pará - PA
+-1.52
+-46.89
+Santa Luzia do Paruá - MA
+-2.50
+-45.77
+Santa Luzia d'Oeste - RO
+-11.90
+-61.77
+Santa Margarida - MG
+-20.38
+-42.25
+Santa Maria - RN
+-5.83
+-35.69
+Santa Maria - RS
+-29.68
+-53.80
+Santa Maria da Boa Vista - PE
+-8.80
+-39.82
+Santa Maria da Serra - SP
+-22.56
+-48.16
+Santa Maria da Vitória - BA
+-13.39
+-44.18
+Santa Maria das Barreiras - PA
+-8.87
+-49.71
+Santa Maria de Itabira - MG
+-19.44
+-43.11
+Santa Maria de Jetibá - ES
+-20.04
+-40.74
+Santa Maria do Cambucá - PE
+-7.82
+-35.88
+Santa Maria do Herval - RS
+-29.49
+-50.99
+Santa Maria do Oeste - PR
+-24.93
+-51.86
+Santa Maria do Pará - PA
+-1.35
+-47.57
+Santa Maria do Salto - MG
+-16.24
+-40.14
+Santa Maria do Suaçuí - MG
+-18.19
+-42.41
+Santa Maria do Tocantins - TO
+-8.79
+-47.79
+Santa Maria Madalena - RJ
+-21.95
+-42.00
+Santa Mariana - PR
+-23.15
+-50.51
+Santa Mercedes - SP
+-21.35
+-51.75
+Santa Mônica - PR
+-23.10
+-53.10
+Santa Quitéria - CE
+-4.33
+-40.15
+Santa Quitéria do Maranhão - MA
+-3.51
+-42.54
+Santa Rita - MA
+-3.14
+-44.32
+Santa Rita - PB
+-7.11
+-34.97
+Santa Rita de Caldas - MG
+-22.02
+-46.33
+Santa Rita de Cássia - BA
+-11.00
+-44.51
+Santa Rita de Ibitipoca - MG
+-21.56
+-43.91
+Santa Rita de Jacutinga - MG
+-22.14
+-44.09
+Santa Rita de Minas - MG
+-19.87
+-42.13
+Santa Rita do Araguaia - GO
+-17.32
+-53.20
+Santa Rita do Itueto - MG
+-19.35
+-41.38
+Santa Rita do Novo Destino - GO
+-15.13
+-49.12
+Santa Rita do Pardo - MS
+-21.30
+-52.83
+Santa Rita do Passa Quatro - SP
+-21.71
+-47.47
+Santa Rita do Sapucaí - MG
+-22.25
+-45.70
+Santa Rita do Tocantins - TO
+-10.86
+-48.91
+Santa Rita d'Oeste - SP
+-20.14
+-50.83
+Santa Rosa - RS
+-27.87
+-54.48
+Santa Rosa da Serra - MG
+-19.52
+-45.96
+Santa Rosa de Goiás - GO
+-16.08
+-49.49
+Santa Rosa de Lima - SC
+-28.03
+-49.12
+Santa Rosa de Lima - SE
+-10.64
+-37.19
+Santa Rosa de Viterbo - SP
+-21.47
+-47.36
+Santa Rosa do Piauí - PI
+-6.79
+-42.28
+Santa Rosa do Purus - AC
+-9.43
+-70.49
+Santa Rosa do Sul - SC
+-29.13
+-49.70
+Santa Rosa do Tocantins - TO
+-11.44
+-48.12
+Santa Salete - SP
+-20.24
+-50.68
+Santa Teresa - ES
+-19.93
+-40.60
+Santa Teresinha - BA
+-12.77
+-39.52
+Santa Teresinha - PB
+-7.03
+-37.44
+Santa Tereza - RS
+-29.16
+-51.73
+Santa Tereza de Goiás - GO
+-13.71
+-49.01
+Santa Tereza do Oeste - PR
+-25.05
+-53.63
+Santa Tereza do Tocantins - TO
+-10.28
+-47.80
+Santa Terezinha - MT
+-10.46
+-50.50
+Santa Terezinha - PE
+-7.37
+-37.48
+Santa Terezinha - SC
+-26.77
+-50.00
+Santa Terezinha de Goiás - GO
+-14.43
+-49.70
+Santa Terezinha de Itaipu - PR
+-25.36
+-54.48
+Santa Terezinha do Progresso - SC
+-26.61
+-53.20
+Santa Terezinha do Tocantins - TO
+-6.43
+-47.67
+Santa Vitória - MG
+-18.83
+-50.12
+Santa Vitória do Palmar - RS
+-33.51
+-53.36
+Santaluz - BA
+-11.25
+-39.37
+Santana - AP
+0.05
+-51.18
+Santana - BA
+-12.98
+-44.05
+Santana da Boa Vista - RS
+-30.87
+-53.11
+Santana da Ponte Pensa - SP
+-20.25
+-50.79
+Santana da Vargem - MG
+-21.24
+-45.50
+Santana de Cataguases - MG
+-21.28
+-42.55
+Santana de Mangueira - PB
+-7.55
+-38.33
+Santana de Parnaíba - SP
+-23.44
+-46.91
+Santana de Pirapama - MG
+-19.00
+-44.04
+Santana do Acaraú - CE
+-3.46
+-40.21
+Santana do Araguaia - PA
+-9.29
+-50.10
+Santana do Cariri - CE
+-7.18
+-39.73
+Santana do Deserto - MG
+-21.95
+-43.16
+Santana do Garambéu - MG
+-21.60
+-44.10
+Santana do Ipanema - AL
+-9.37
+-37.24
+Santana do Itararé - PR
+-23.75
+-49.62
+Santana do Jacaré - MG
+-20.89
+-45.13
+Santana do Livramento - RS
+-30.89
+-55.53
+Santana do Manhuaçu - MG
+-20.10
+-41.92
+Santana do Maranhão - MA
+-3.11
+-42.41
+Santana do Matos - RN
+-5.95
+-36.65
+Santana do Mundaú - AL
+-9.16
+-36.22
+Santana do Paraíso - MG
+-19.36
+-42.56
+Santana do Piauí - PI
+-6.94
+-41.51
+Santana do Riacho - MG
+-19.16
+-43.71
+Santana do São Francisco - SE
+-10.29
+-36.60
+Santana do Seridó - RN
+-6.77
+-36.73
+Santana dos Garrotes - PB
+-7.38
+-37.98
+Santana dos Montes - MG
+-20.78
+-43.69
+Santanópolis - BA
+-12.01
+-38.86
+Santarém - PA
+-2.44
+-54.70
+Santarém - PB
+-6.48
+-38.47
+Santarém Novo - PA
+0.92
+-47.39
+Santiago - RS
+-29.19
+-54.86
+Santiago do Sul - SC
+-26.63
+-52.68
+Santo Afonso - MT
+-14.49
+-57.00
+Santo Amaro - BA
+-12.54
+-38.71
+Santo Amaro da Imperatriz - SC
+-27.68
+-48.77
+Santo Amaro das Brotas - SE
+-10.78
+-37.05
+Santo Amaro do Maranhão - MA
+-2.50
+-43.25
+Santo Anastácio - SP
+-21.83
+-51.61
+Santo André - PB
+-7.21
+-36.63
+Santo André - SP
+-23.66
+-46.53
+Santo Ângelo - RS
+-28.29
+-54.26
+Santo Antônio - RN
+-6.31
+-35.47
+Santo Antônio da Alegria - SP
+-21.08
+-47.15
+Santo Antônio da Barra - GO
+-17.56
+-50.63
+Santo Antônio da Patrulha - RS
+-29.81
+-50.51
+Santo Antônio da Platina - PR
+-23.29
+-50.07
+Santo Antônio das Missões - RS
+-28.51
+-55.22
+Santo Antônio de Goiás - GO
+-16.48
+-49.31
+Santo Antônio de Jesus - BA
+-12.96
+-39.26
+Santo Antônio de Lisboa - PI
+-6.98
+-41.23
+Santo Antônio de Pádua - RJ
+-21.53
+-42.18
+Santo Antônio de Posse - SP
+-22.60
+-46.91
+Santo Antônio do Amparo - MG
+-20.94
+-44.91
+Santo Antônio do Aracanguá - SP
+-20.93
+-50.49
+Santo Antônio do Aventureiro - MG
+-21.75
+-42.81
+Santo Antônio do Caiuá - PR
+-22.73
+-52.34
+Santo Antônio do Descoberto - GO
+-15.93
+-48.25
+Santo Antônio do Grama - MG
+-20.31
+-42.60
+Santo Antônio do Içá - AM
+-3.10
+-67.93
+Santo Antônio do Itambé - MG
+-18.46
+-43.30
+Santo Antônio do Jacinto - MG
+-16.53
+-40.17
+Santo Antônio do Jardim - SP
+-22.19
+-46.74
+Santo Antônio do Leverger - MT
+-15.86
+-56.07
+Santo Antônio do Monte - MG
+-20.08
+-45.29
+Santo Antônio do Palma - RS
+-28.49
+-52.02
+Santo Antônio do Paraíso - PR
+-23.49
+-50.64
+Santo Antônio do Pinhal - SP
+-22.82
+-45.66
+Santo Antônio do Planalto - RS
+-28.39
+-52.69
+Santo Antônio do Retiro - MG
+-15.33
+-42.62
+Santo Antônio do Rio Abaixo - MG
+-19.22
+-43.25
+Santo Antônio do Sudoeste - PR
+-26.07
+-53.72
+Santo Antônio do Tauá - PA
+-1.15
+-48.12
+Santo Antônio dos Lopes - MA
+-4.86
+-44.36
+Santo Antônio dos Milagres - PI
+-6.04
+-42.70
+Santo Augusto - RS
+-27.85
+-53.77
+Santo Cristo - RS
+-27.82
+-54.66
+Santo Estêvão - BA
+-12.43
+-39.25
+Santo Expedito - SP
+-21.85
+-51.39
+Santo Expedito do Sul - RS
+-27.90
+-51.64
+Santo Hipólito - MG
+-18.29
+-44.22
+Santo Inácio - PR
+-22.69
+-51.79
+Santo Inácio do Piauí - PI
+-7.42
+-41.91
+Santópolis do Aguapeí - SP
+-21.63
+-50.50
+Santos - SP
+-23.96
+-46.33
+Santos Dumont - MG
+-21.45
+-43.55
+São Benedito - CE
+-4.04
+-40.86
+São Benedito do Rio Preto - MA
+-3.33
+-43.52
+São Benedito do Sul - PE
+-8.80
+-35.95
+São Bento - MA
+-2.69
+-44.82
+São Bento - PB
+-6.48
+-37.45
+São Bento Abade - MG
+-21.58
+-45.07
+São Bento de Pombal - PB
+-6.90
+-37.72
+São Bento do Norte - RN
+-5.06
+-36.03
+São Bento do Sapucaí - SP
+-22.68
+-45.73
+São Bento do Sul - SC
+-26.25
+-49.37
+São Bento do Tocantins - TO
+-6.02
+-47.90
+São Bento do Trairi - RN
+-6.34
+-36.08
+São Bento do Una - PE
+-8.52
+-36.44
+São Bernardino - SC
+-26.47
+-52.96
+São Bernardo - MA
+-3.36
+-42.41
+São Bernardo do Campo - SP
+-23.69
+-46.56
+São Bonifácio - SC
+-27.90
+-48.92
+São Borja - RS
+-28.66
+-56.00
+São Brás - AL
+-10.12
+-36.90
+São Brás do Suaçuí - MG
+-20.62
+-43.94
+São Braz do Piauí - PI
+-9.22
+-43.01
+São Caetano de Odivelas - PA
+0.75
+-48.02
+São Caetano do Sul - SP
+-23.62
+-46.55
+São Caitano - PE
+-8.32
+-36.14
+São Carlos - SC
+-27.07
+-53.00
+São Carlos - SP
+-22.01
+-47.89
+São Carlos do Ivaí - PR
+-23.31
+-52.47
+São Cristóvão - SE
+-11.01
+-37.20
+São Cristovão do Sul - SC
+-27.26
+-50.44
+São Desidério - BA
+-12.36
+-44.97
+São Domingos - BA
+-11.46
+-39.52
+São Domingos - GO
+-13.39
+-46.31
+São Domingos - SC
+-26.55
+-52.53
+São Domingos - SE
+-10.79
+-37.56
+São Domingos das Dores - MG
+-19.52
+-42.01
+São Domingos de Pombal - PB
+-6.81
+-37.94
+São Domingos do Araguaia - PA
+-5.53
+-48.73
+São Domingos do Azeitão - MA
+-6.81
+-44.64
+São Domingos do Capim - PA
+-1.67
+-47.77
+São Domingos do Cariri - PB
+-7.63
+-36.43
+São Domingos do Maranhão - MA
+-5.57
+-44.38
+São Domingos do Norte - ES
+-19.14
+-40.62
+São Domingos do Prata - MG
+-19.86
+-42.96
+São Domingos do Sul - RS
+-28.53
+-51.88
+São Felipe - BA
+-12.84
+-39.08
+São Felipe d'Oeste - RO
+-11.90
+-61.50
+São Félix - BA
+-12.60
+-38.97
+São Félix de Balsas - MA
+-7.08
+-44.81
+São Félix de Minas - MG
+-18.59
+-41.48
+São Félix do Araguaia - MT
+-11.61
+-50.66
+São Félix do Coribe - BA
+-13.40
+-44.19
+São Félix do Piauí - PI
+-5.93
+-42.11
+São Félix do Tocantins - TO
+-10.16
+-46.65
+São Félix do Xingu - PA
+-6.64
+-51.99
+São Fernando - RN
+-6.37
+-37.18
+São Fidélis - RJ
+-21.64
+-41.74
+São Francisco - MG
+-15.94
+-44.86
+São Francisco - PB
+-6.61
+-38.09
+São Francisco - SE
+-10.33
+-36.88
+São Francisco - SP
+-20.35
+-50.69
+São Francisco de Assis - RS
+-29.55
+-55.13
+São Francisco de Assis do Piauí - PI
+-8.23
+-41.68
+São Francisco de Goiás - GO
+-15.93
+-49.26
+São Francisco de Itabapoana - RJ
+-21.30
+-40.96
+São Francisco de Paula - MG
+-20.71
+-44.98
+São Francisco de Paula - RS
+-29.44
+-50.58
+São Francisco de Sales - MG
+-19.86
+-49.77
+São Francisco do Brejão - MA
+-5.12
+-47.38
+São Francisco do Conde - BA
+-12.62
+-38.68
+São Francisco do Glória - MG
+-20.78
+-42.26
+São Francisco do Guaporé - RO
+-12.05
+-63.56
+São Francisco do Maranhão - MA
+-6.25
+-42.85
+São Francisco do Oeste - RN
+-5.97
+-38.15
+São Francisco do Pará - PA
+-1.16
+-47.79
+São Francisco do Piauí - PI
+-7.25
+-42.54
+São Francisco do Sul - SC
+-26.24
+-48.63
+São Gabriel - BA
+-11.22
+-41.91
+São Gabriel - RS
+-30.33
+-54.32
+São Gabriel da Cachoeira - AM
+0.13
+-67.08
+São Gabriel da Palha - ES
+-19.01
+-40.53
+São Gabriel do Oeste - MS
+-19.39
+-54.56
+São Geraldo - MG
+-20.92
+-42.83
+São Geraldo da Piedade - MG
+-18.83
+-42.28
+São Geraldo do Araguaia - PA
+-6.40
+-48.55
+São Geraldo do Baixio - MG
+-18.90
+-41.36
+São Gonçalo - RJ
+-22.82
+-43.05
+São Gonçalo do Abaeté - MG
+-18.33
+-45.83
+São Gonçalo do Amarante - CE
+-3.60
+-38.96
+São Gonçalo do Amarante - RN
+-5.79
+-35.32
+São Gonçalo do Gurguéia - PI
+-10.03
+-45.30
+São Gonçalo do Pará - MG
+-19.98
+-44.85
+São Gonçalo do Piauí - PI
+-5.99
+-42.70
+São Gonçalo do Rio Abaixo - MG
+-19.82
+-43.36
+São Gonçalo do Rio Preto - MG
+-18.00
+-43.39
+São Gonçalo do Sapucaí - MG
+-21.89
+-45.59
+São Gonçalo dos Campos - BA
+-12.43
+-38.96
+São Gotardo - MG
+-19.31
+-46.04
+São Jerônimo - RS
+-29.95
+-51.72
+São Jerônimo da Serra - PR
+-23.72
+-50.74
+São João - PE
+-8.87
+-36.36
+São João - PR
+-25.82
+-52.72
+São João Batista - MA
+-2.95
+-44.80
+São João Batista - SC
+-27.27
+-48.84
+São João Batista do Glória - MG
+-20.64
+-46.50
+São João da Baliza - RR
+6.16
+-59.91
+São João da Barra - RJ
+-21.64
+-41.05
+São João da Boa Vista - SP
+-21.96
+-46.79
+São João da Canabrava - PI
+-6.81
+-41.34
+São João da Fronteira - PI
+-3.95
+-41.25
+São João da Lagoa - MG
+-16.85
+-44.35
+São João da Mata - MG
+-21.93
+-45.92
+São João da Paraúna - GO
+-16.81
+-50.41
+São João da Ponta - PA
+0.84
+-47.92
+São João da Ponte - MG
+-15.92
+-44.00
+São João da Serra - PI
+-5.51
+-41.89
+São João da Urtiga - RS
+-27.82
+-51.82
+São João da Varjota - PI
+-6.41
+-41.86
+São João d'Aliança - GO
+-14.70
+-47.52
+São João das Duas Pontes - SP
+-20.38
+-50.37
+São João das Missões - MG
+-14.88
+-44.09
+São João de Iracema - SP
+-20.51
+-50.35
+São João de Meriti - RJ
+-22.80
+-43.37
+São João de Pirabas - PA
+0.77
+-47.17
+São João del Rei - MG
+-21.13
+-44.26
+São João do Araguaia - PA
+-5.35
+-48.79
+São João do Arraial - PI
+-3.81
+-42.44
+São João do Caiuá - PR
+-22.85
+-52.33
+São João do Cariri - PB
+-7.39
+-36.53
+São João do Carú - MA
+-3.55
+-46.25
+São João do Itaperiú - SC
+-26.61
+-48.76
+São João do Ivaí - PR
+-23.98
+-51.81
+São João do Jaguaribe - CE
+-5.27
+-38.27
+São João do Manhuaçu - MG
+-20.39
+-42.15
+São João do Manteninha - MG
+-18.72
+-41.16
+São João do Oeste - SC
+-27.09
+-53.59
+São João do Oriente - MG
+-19.33
+-42.15
+São João do Pacuí - MG
+-16.54
+-44.51
+São João do Paraíso - MA
+-6.46
+-47.05
+São João do Paraíso - MG
+-15.31
+-42.01
+São João do Pau d'Alho - SP
+-21.26
+-51.66
+São João do Piauí - PI
+-8.35
+-42.24
+São João do Polêsine - RS
+-29.61
+-53.44
+São João do Rio do Peixe - PB
+-6.72
+-38.44
+São João do Sabugi - RN
+-6.71
+-37.20
+São João do Soter - MA
+-5.11
+-43.81
+São João do Sul - SC
+-29.22
+-49.81
+São João do Tigre - PB
+-8.07
+-36.84
+São João do Triunfo - PR
+-25.68
+-50.29
+São João dos Patos - MA
+-6.49
+-43.70
+São João Evangelista - MG
+-18.54
+-42.76
+São João Nepomuceno - MG
+-21.54
+-43.01
+São Joaquim - SC
+-28.29
+-49.93
+São Joaquim da Barra - SP
+-20.58
+-47.85
+São Joaquim de Bicas - MG
+-20.04
+-44.27
+São Joaquim do Monte - PE
+-8.43
+-35.80
+São Jorge - RS
+-28.50
+-51.70
+São Jorge do Ivaí - PR
+-23.43
+-52.29
+São Jorge do Patrocínio - PR
+-23.76
+-53.87
+São Jorge d'Oeste - PR
+-25.70
+-52.91
+São José - SC
+-27.61
+-48.62
+São José da Barra - MG
+-20.71
+-46.31
+São José da Bela Vista - SP
+-20.59
+-47.64
+São José da Boa Vista - PR
+-23.91
+-49.65
+São José da Coroa Grande - PE
+-8.89
+-35.14
+São José da Lagoa Tapada - PB
+-6.94
+-38.16
+São José da Laje - AL
+-9.00
+-36.05
+São José da Lapa - MG
+-19.70
+-43.61
+São José da Safira - MG
+-18.32
+-42.14
+São José da Tapera - AL
+-9.55
+-37.38
+São José da Varginha - MG
+-19.70
+-44.55
+São José da Vitória - BA
+-15.08
+-39.33
+São José das Missões - RS
+-27.78
+-53.12
+São José das Palmeiras - PR
+-24.83
+-54.06
+São José de Caiana - PB
+-7.24
+-38.30
+São José de Espinharas - PB
+-6.84
+-37.32
+São José de Mipibu - RN
+-6.07
+-35.23
+São José de Piranhas - PB
+-7.12
+-38.50
+São José de Princesa - PB
+-7.73
+-38.09
+São José de Ribamar - MA
+-2.56
+-44.05
+São José de Ubá - RJ
+-21.35
+-41.94
+São José do Alegre - MG
+-22.32
+-45.52
+São José do Barreiro - SP
+-22.64
+-44.57
+São José do Belmonte - PE
+-7.86
+-38.75
+São José do Bonfim - PB
+-7.16
+-37.30
+São José do Brejo do Cruz - PB
+-6.21
+-37.35
+São José do Calçado - ES
+-21.02
+-41.65
+São José do Campestre - RN
+-6.31
+-35.71
+São José do Cedro - SC
+-26.45
+-53.49
+São José do Cerrito - SC
+-27.66
+-50.58
+São José do Divino - MG
+-18.47
+-41.38
+São José do Divino - PI
+-3.81
+-41.83
+São José do Egito - PE
+-7.47
+-37.27
+São José do Goiabal - MG
+-19.92
+-42.70
+São José do Herval - RS
+-29.04
+-52.29
+São José do Hortêncio - RS
+-29.53
+-51.24
+São José do Inhacorá - RS
+-27.72
+-54.12
+São José do Jacuípe - BA
+-11.50
+-40.02
+São José do Jacuri - MG
+-18.27
+-42.67
+São José do Mantimento - MG
+-20.00
+-41.74
+São José do Norte - RS
+-32.01
+-52.04
+São José do Ouro - RS
+-27.76
+-51.59
+São José do Peixe - PI
+-7.49
+-42.56
+São José do Piauí - PI
+-6.87
+-41.47
+São José do Povo - MT
+-16.46
+-54.25
+São José do Rio Claro - MT
+-13.44
+-56.72
+São José do Rio Pardo - SP
+-21.59
+-46.88
+São José do Rio Preto - SP
+-20.81
+-49.37
+São José do Sabugi - PB
+-6.77
+-36.79
+São José do Seridó - RN
+-6.44
+-36.87
+São José do Vale do Rio Preto - RJ
+-22.15
+-42.92
+São José do Xingu - MT
+-10.80
+-52.74
+São José dos Ausentes - RS
+-28.74
+-50.06
+São José dos Basílios - MA
+-5.05
+-44.58
+São José dos Campos - SP
+-23.17
+-45.88
+São José dos Cordeiros - PB
+-7.39
+-36.80
+São José dos Pinhais - PR
+-25.53
+-49.20
+São José dos Quatro Marcos - MT
+-15.62
+-58.17
+São José dos Ramos - PB
+-7.25
+-35.38
+São Julião - PI
+-7.08
+-40.82
+São Leopoldo - RS
+-29.76
+-51.14
+São Lourenço - MG
+-22.11
+-45.05
+São Lourenço da Mata - PE
+-8.00
+-35.01
+São Lourenço da Serra - SP
+-23.85
+-46.94
+São Lourenço do Piauí - PI
+-9.16
+-42.54
+São Lourenço do Sul - RS
+-31.36
+-51.97
+São Lourenço d'Oeste - SC
+-26.35
+-52.85
+São Ludgero - SC
+-28.32
+-49.17
+São Luís - MA
+-2.52
+-44.30
+São Luís de Montes Belos - GO
+-16.52
+-50.37
+São Luís do Curu - CE
+-3.67
+-39.24
+São Luís do Paraitinga - SP
+-23.22
+-45.31
+São Luis do Piauí - PI
+-6.82
+-41.32
+São Luís do Quitunde - AL
+-9.31
+-35.56
+São Luís Gonzaga do Maranhão - MA
+-4.39
+-44.65
+São Luiz - RR
+10.03
+-60.01
+São Luiz do Norte - GO
+-14.86
+-49.32
+São Luiz Gonzaga - RS
+-28.40
+-54.96
+São Mamede - PB
+-6.92
+-37.09
+São Manoel do Paraná - PR
+-23.40
+-52.64
+São Manuel - SP
+-22.73
+-48.57
+São Marcos - RS
+-28.97
+-51.06
+São Martinho - RS
+-27.70
+-53.96
+São Martinho - SC
+-28.16
+-48.97
+São Martinho da Serra - RS
+-29.53
+-53.85
+São Mateus - ES
+-18.71
+-39.85
+São Mateus do Maranhão - MA
+-4.04
+-44.47
+São Mateus do Sul - PR
+-25.87
+-50.38
+São Miguel - RN
+-6.21
+-38.49
+São Miguel Arcanjo - SP
+-23.87
+-47.99
+São Miguel da Baixa Grande - PI
+-5.86
+-42.18
+São Miguel da Boa Vista - SC
+-26.69
+-53.25
+São Miguel das Matas - BA
+-13.04
+-39.45
+São Miguel das Missões - RS
+-28.56
+-54.55
+São Miguel de Taipu - PB
+-7.24
+-35.20
+São Miguel de Touros - RN
+-5.12
+-35.63
+São Miguel do Aleixo - SE
+-10.38
+-37.38
+São Miguel do Anta - MG
+-20.70
+-42.71
+São Miguel do Araguaia - GO
+-13.27
+-50.16
+São Miguel do Fidalgo - PI
+-7.58
+-42.37
+São Miguel do Guamá - PA
+-1.62
+-47.48
+São Miguel do Guaporé - RO
+-11.69
+-62.71
+São Miguel do Iguaçu - PR
+-25.34
+-54.23
+São Miguel do Passa Quatro - GO
+-17.05
+-48.66
+São Miguel do Tapuio - PI
+-5.50
+-41.32
+São Miguel do Tocantins - TO
+-5.55
+-47.57
+São Miguel d'Oeste - SC
+-26.72
+-53.51
+São Miguel dos Campos - AL
+-9.78
+-36.09
+São Miguel dos Milagres - AL
+-9.26
+-35.37
+São Nicolau - RS
+-28.18
+-55.26
+São Patrício - GO
+-15.35
+-49.81
+São Paulo - SP
+-23.54
+-46.63
+São Paulo das Missões - RS
+-28.02
+-54.93
+São Paulo de Olivença - AM
+-3.37
+-68.87
+São Paulo do Potengi - RN
+-5.89
+-35.76
+São Pedro - RN
+-5.89
+-35.63
+São Pedro - SP
+-22.54
+-47.91
+São Pedro da Água Branca - MA
+-5.08
+-48.42
+São Pedro da Aldeia - RJ
+-22.83
+-42.10
+São Pedro da Cipa - MT
+-16.00
+-54.92
+São Pedro da Serra - RS
+-29.42
+-51.51
+São Pedro da União - MG
+-21.12
+-46.61
+São Pedro de Alcântara - SC
+-27.56
+-48.80
+São Pedro do Butiá - RS
+-28.12
+-54.88
+São Pedro do Iguaçu - PR
+-24.93
+-53.85
+São Pedro do Ivaí - PR
+-23.86
+-51.85
+São Pedro do Paraná - PR
+-22.82
+-53.22
+São Pedro do Piauí - PI
+-5.92
+-42.71
+São Pedro do Suaçuí - MG
+-18.36
+-42.60
+São Pedro do Sul - RS
+-29.62
+-54.17
+São Pedro do Turvo - SP
+-22.74
+-49.73
+São Pedro dos Crentes - MA
+-6.82
+-46.53
+São Pedro dos Ferros - MG
+-20.17
+-42.52
+São Rafael - RN
+-5.79
+-36.92
+São Raimundo das Mangabeiras - MA
+-7.02
+-45.48
+São Raimundo do Doca Bezerra - MA
+-5.10
+-45.07
+São Raimundo Nonato - PI
+-9.01
+-42.69
+São Roberto - MA
+-5.02
+-44.99
+São Romão - MG
+-16.36
+-45.06
+São Roque - SP
+-23.52
+-47.13
+São Roque de Minas - MG
+-20.24
+-46.36
+São Roque do Canaã - ES
+-19.73
+-40.65
+São Salvador do Tocantins - TO
+-12.74
+-48.23
+São Sebastião - AL
+-9.93
+-36.55
+São Sebastião - SP
+-23.76
+-45.40
+São Sebastião da Amoreira - PR
+-23.46
+-50.76
+São Sebastião da Bela Vista - MG
+-22.15
+-45.75
+São Sebastião da Boa Vista - PA
+-1.71
+-49.54
+São Sebastião da Grama - SP
+-21.71
+-46.82
+São Sebastião da Vargem Alegre - MG
+-21.07
+-42.63
+São Sebastião de Lagoa de Roça - PB
+-7.11
+-35.86
+São Sebastião do Alto - RJ
+-21.95
+-42.13
+São Sebastião do Anta - MG
+-19.49
+-41.98
+São Sebastião do Caí - RS
+-29.58
+-51.37
+São Sebastião do Maranhão - MG
+-18.08
+-42.57
+São Sebastião do Oeste - MG
+-20.27
+-45.00
+São Sebastião do Paraíso - MG
+-20.91
+-46.99
+São Sebastião do Passé - BA
+-12.51
+-38.49
+São Sebastião do Rio Preto - MG
+-19.29
+-43.17
+São Sebastião do Rio Verde - MG
+-22.21
+-44.97
+São Sebastião do Tocantins - TO
+-5.25
+-48.20
+São Sebastião do Uatumã - AM
+-2.57
+-57.87
+São Sebastião do Umbuzeiro - PB
+-8.15
+-37.01
+São Sepé - RS
+-30.16
+-53.56
+São Simão - GO
+-18.99
+-50.54
+São Simão - SP
+-21.47
+-47.55
+São Thomé das Letras - MG
+-21.72
+-44.98
+São Tiago - MG
+-20.91
+-44.50
+São Tomás de Aquino - MG
+-20.78
+-47.09
+São Tomé - PR
+-23.53
+-52.59
+São Tomé - RN
+-5.97
+-36.07
+São Valentim - RS
+-27.55
+-52.52
+São Valentim do Sul - RS
+-29.04
+-51.76
+São Valério da Natividade - TO
+-11.97
+-48.23
+São Valério do Sul - RS
+-27.78
+-53.93
+São Vendelino - RS
+-29.36
+-51.37
+São Vicente - RN
+-6.21
+-36.68
+São Vicente - SP
+-23.96
+-46.39
+São Vicente de Minas - MG
+-21.71
+-44.44
+São Vicente do Sul - RS
+-29.69
+-54.67
+São Vicente Ferrer - MA
+-2.89
+-44.88
+São Vicente Ferrer - PE
+-7.59
+-35.49
+Sapé - PB
+-7.09
+-35.23
+Sapeaçu - BA
+-12.72
+-39.18
+Sapezal - MT
+-12.98
+-58.76
+Sapiranga - RS
+-29.63
+-51.00
+Sapopema - PR
+-23.91
+-50.58
+Sapucaia - PA
+-6.94
+-49.68
+Sapucaia - RJ
+-21.99
+-42.91
+Sapucaia do Sul - RS
+-29.82
+-51.14
+Sapucaí-Mirim - MG
+-22.74
+-45.74
+Saquarema - RJ
+-22.92
+-42.51
+Sarandi - PR
+-23.44
+-51.87
+Sarandi - RS
+-27.94
+-52.92
+Sarapuí - SP
+-23.64
+-47.82
+Sardoá - MG
+-18.78
+-42.36
+Sarutaiá - SP
+-23.27
+-49.48
+Sarzedo - MG
+-20.03
+-44.14
+Sátiro Dias - BA
+-11.60
+-38.60
+Satuba - AL
+-9.56
+-35.82
+Satubinha - MA
+-3.84
+-45.27
+Saubara - BA
+-12.73
+-38.76
+Saudade do Iguaçu - PR
+-25.69
+-52.61
+Saudades - SC
+-26.92
+-53.00
+Saúde - BA
+-10.94
+-40.41
+Schroeder - SC
+-26.41
+-49.07
+Seabra - BA
+-12.41
+-41.77
+Seara - SC
+-27.14
+-52.31
+Sebastianópolis do Sul - SP
+-20.65
+-49.92
+Sebastião Barros - PI
+-10.81
+-44.83
+Sebastião Laranjeiras - BA
+-14.57
+-42.94
+Sebastião Leal - PI
+-7.56
+-44.06
+Seberi - RS
+-27.47
+-53.40
+Sede Nova - RS
+-27.63
+-53.94
+Segredo - RS
+-29.34
+-52.97
+Selbach - RS
+-28.62
+-52.95
+Selvíria - MS
+-20.36
+-51.41
+Sem-Peixe - MG
+-20.10
+-42.83
+Sena Madureira - AC
+-9.06
+-68.65
+Senador Alexandre Costa - MA
+-5.25
+-44.05
+Senador Amaral - MG
+-22.58
+-46.17
+Senador Canedo - GO
+-16.70
+-49.09
+Senador Cortes - MG
+-21.80
+-42.94
+Senador Elói de Souza - RN
+-6.03
+-35.69
+Senador Firmino - MG
+-20.91
+-43.09
+Senador Georgino Avelino - RN
+-6.16
+-35.12
+Senador Guiomard - AC
+-10.15
+-67.73
+Senador José Bento - MG
+-22.16
+-46.17
+Senador José Porfírio - PA
+-2.59
+-51.95
+Senador La Rocque - MA
+-5.44
+-47.29
+Senador Modestino Gonçalves - MG
+-17.94
+-43.22
+Senador Pompeu - CE
+-5.58
+-39.37
+Senador Rui Palmeira - AL
+-9.46
+-37.45
+Senador Sá - CE
+-3.35
+-40.46
+Senador Salgado Filho - RS
+-28.03
+-54.54
+Sengés - PR
+-24.11
+-49.46
+Senhor do Bonfim - BA
+-10.46
+-40.18
+Senhora de Oliveira - MG
+-20.79
+-43.34
+Senhora do Porto - MG
+-18.89
+-43.08
+Senhora dos Remédios - MG
+-21.02
+-43.58
+Sentinela do Sul - RS
+-30.61
+-51.57
+Sento Sé - BA
+-9.74
+-41.88
+Serafina Corrêa - RS
+-28.71
+-51.93
+Sericita - MG
+-20.47
+-42.48
+Seridó - PB
+-6.93
+-36.40
+Seringueiras - RO
+-11.79
+-63.03
+Sério - RS
+-29.38
+-52.26
+Seritinga - MG
+-21.90
+-44.51
+Seropédica - RJ
+-22.74
+-43.70
+Serra - ES
+-20.12
+-40.30
+Serra Alta - SC
+-26.72
+-53.04
+Serra Azul - SP
+-21.31
+-47.56
+Serra Azul de Minas - MG
+-18.36
+-43.17
+Serra Branca - PB
+-7.48
+-36.66
+Serra da Raiz - PB
+-6.68
+-35.44
+Serra da Saudade - MG
+-19.43
+-45.79
+Serra de São Bento - RN
+-6.41
+-35.70
+Serra do Mel - RN
+-5.17
+-37.02
+Serra do Navio - AP
+5.56
+-52.00
+Serra do Ramalho - BA
+-13.56
+-43.59
+Serra do Salitre - MG
+-19.11
+-46.68
+Serra dos Aimorés - MG
+-17.78
+-40.24
+Serra Dourada - BA
+-12.76
+-43.94
+Serra Grande - PB
+-7.21
+-38.36
+Serra Negra - SP
+-22.61
+-46.70
+Serra Negra do Norte - RN
+-6.66
+-37.39
+Serra Preta - BA
+-12.16
+-39.33
+Serra Redonda - PB
+-7.17
+-35.67
+Serra Talhada - PE
+-7.99
+-38.29
+Serrana - SP
+-21.21
+-47.59
+Serrania - MG
+-21.54
+-46.03
+Serrano do Maranhão - MA
+-1.85
+-45.12
+Serranópolis - GO
+-18.30
+-51.96
+Serranópolis de Minas - MG
+-15.82
+-42.87
+Serranópolis do Iguaçu - PR
+-25.38
+-54.05
+Serranos - MG
+-21.89
+-44.51
+Serraria - PB
+-6.83
+-35.62
+Serrinha - BA
+-11.66
+-39.00
+Serrinha - RN
+-6.27
+-35.49
+Serrinha dos Pintos - RN
+-6.11
+-37.95
+Serrita - PE
+-7.93
+-39.29
+Serro - MG
+-18.60
+-43.37
+Serrolândia - BA
+-11.41
+-40.30
+Sertaneja - PR
+-23.03
+-50.83
+Sertânia - PE
+-8.07
+-37.26
+Sertanópolis - PR
+-23.05
+-51.03
+Sertão - RS
+-27.97
+-52.25
+Sertão Santana - RS
+-30.46
+-51.60
+Sertãozinho - PB
+-6.75
+-35.44
+Sertãozinho - SP
+-21.13
+-47.99
+Sete Barras - SP
+-24.38
+-47.92
+Sete de Setembro - RS
+-28.13
+-54.46
+Sete Lagoas - MG
+-19.46
+-44.24
+Sete Quedas - MS
+-23.97
+-55.03
+Setubinha - MG
+-17.72
+-42.27
+Severiano de Almeida - RS
+-27.43
+-52.11
+Severiano Melo - RN
+-5.77
+-37.95
+Severínia - SP
+-20.80
+-48.80
+Siderópolis - SC
+-28.59
+-49.42
+Sidrolândia - MS
+-20.93
+-54.96
+Sigefredo Pacheco - PI
+-4.91
+-41.73
+Silva Jardim - RJ
+-22.65
+-42.39
+Silvânia - GO
+-16.65
+-48.60
+Silvanópolis - TO
+-11.14
+-48.16
+Silveira Martins - RS
+-29.64
+-53.58
+Silveirânia - MG
+-21.15
+-43.21
+Silveiras - SP
+-22.66
+-44.85
+Silves - AM
+-2.83
+-58.20
+Silvianópolis - MG
+-22.02
+-45.83
+Simão Dias - SE
+-10.73
+-37.81
+Simão Pereira - MG
+-21.96
+-43.31
+Simões - PI
+-7.59
+-40.81
+Simões Filho - BA
+-12.78
+-38.40
+Simolândia - GO
+-14.47
+-46.48
+Simonésia - MG
+-20.12
+-42.00
+Simplício Mendes - PI
+-7.85
+-41.91
+Sinimbu - RS
+-29.53
+-52.52
+Sinop - MT
+-11.86
+-55.50
+Siqueira Campos - PR
+-23.68
+-49.83
+Sirinhaém - PE
+-8.59
+-35.11
+Siriri - SE
+-10.60
+-37.11
+Sítio d'Abadia - GO
+-14.80
+-46.25
+Sítio do Mato - BA
+-13.08
+-43.46
+Sítio do Quinto - BA
+-10.35
+-38.21
+Sítio Novo - MA
+-5.87
+-46.69
+Sítio Novo - RN
+-6.10
+-35.91
+Sítio Novo do Tocantins - TO
+-5.60
+-47.64
+Sobradinho - BA
+-9.45
+-40.82
+Sobradinho - RS
+-29.42
+-53.02
+Sobrado - PB
+-7.14
+-35.23
+Sobral - CE
+-3.68
+-40.34
+Sobrália - MG
+-19.23
+-42.09
+Socorro - SP
+-22.59
+-46.52
+Socorro do Piauí - PI
+-7.86
+-42.49
+Solânea - PB
+-6.75
+-35.54
+Soledade - PB
+-7.05
+-36.36
+Soledade - RS
+-28.81
+-52.51
+Soledade de Minas - MG
+-22.06
+-45.04
+Solidão - PE
+-7.60
+-37.65
+Solonópole - CE
+-5.73
+-39.00
+Sombrio - SC
+-29.11
+-49.61
+Sonora - MS
+-17.57
+-54.75
+Sooretama - ES
+-19.19
+-40.09
+Sorocaba - SP
+-23.50
+-47.45
+Sorriso - MT
+-12.54
+-55.71
+Sossêgo - PB
+-6.76
+-36.25
+Soure - PA
+0.71
+-48.52
+Sousa - PB
+-6.75
+-38.22
+Souto Soares - BA
+-12.08
+-41.63
+Sucupira - TO
+-11.99
+-48.97
+Sucupira do Norte - MA
+-6.47
+-44.19
+Sucupira do Riachão - MA
+-6.41
+-43.54
+Sud Mennucci - SP
+-20.69
+-50.92
+Sul Brasil - SC
+-26.73
+-52.96
+Sulina - PR
+-25.70
+-52.72
+Sumaré - SP
+-22.82
+-47.26
+Sumé - PB
+-7.67
+-36.88
+Sumidouro - RJ
+-22.04
+-42.67
+Surubim - PE
+-7.83
+-35.75
+Sussuapara - PI
+-7.04
+-41.38
+Suzanápolis - SP
+-20.50
+-51.02
+Suzano - SP
+-23.54
+-46.31
+Tabaí - RS
+-29.64
+-51.68
+Tabaporã - MT
+-11.22
+-56.81
+Tabapuã - SP
+-20.96
+-49.03
+Tabatinga - AM
+-4.25
+-69.93
+Tabatinga - SP
+-21.71
+-48.68
+Tabira - PE
+-7.59
+-37.53
+Taboão da Serra - SP
+-23.62
+-46.79
+Tabocas do Brejo Velho - BA
+-12.70
+-44.00
+Taboleiro Grande - RN
+-5.93
+-38.04
+Tabuleiro - MG
+-21.35
+-43.24
+Tabuleiro do Norte - CE
+-5.24
+-38.13
+Tacaimbó - PE
+-8.31
+-36.29
+Tacaratu - PE
+-9.10
+-38.14
+Taciba - SP
+-22.38
+-51.28
+Tacima - PB
+-6.48
+-35.63
+Tacuru - MS
+-23.63
+-55.01
+Taguaí - SP
+-23.45
+-49.40
+Taguatinga - TO
+-12.40
+-46.43
+Taiaçu - SP
+-21.14
+-48.51
+Tailândia - PA
+-2.94
+-48.95
+Taió - SC
+-27.11
+-49.99
+Taiobeiras - MG
+-15.80
+-42.23
+Taipas do Tocantins - TO
+-12.18
+-46.98
+Taipu - RN
+-5.62
+-35.59
+Taiúva - SP
+-21.12
+-48.45
+Talismã - TO
+-12.79
+-49.09
+Tamandaré - PE
+-8.75
+-35.10
+Tamarana - PR
+-23.72
+-51.09
+Tambaú - SP
+-21.70
+-47.27
+Tamboara - PR
+-23.20
+-52.46
+Tamboril - CE
+-4.83
+-40.32
+Tamboril do Piauí - PI
+-8.40
+-42.91
+Tanabi - SP
+-20.62
+-49.64
+Tangará - RN
+-6.19
+-35.80
+Tangará - SC
+-27.10
+-51.24
+Tangará da Serra - MT
+-14.61
+-57.48
+Tanguá - RJ
+-22.73
+-42.71
+Tanhaçu - BA
+-14.02
+-41.24
+Tanque d'Arca - AL
+-9.53
+-36.43
+Tanque do Piauí - PI
+-6.60
+-42.28
+Tanque Novo - BA
+-13.54
+-42.49
+Tanquinho - BA
+-11.97
+-39.10
+Taparuba - MG
+-19.75
+-41.61
+Tapauá - AM
+-5.62
+-63.18
+Tapejara - PR
+-23.73
+-52.87
+Tapejara - RS
+-28.06
+-52.01
+Tapera - RS
+-28.62
+-52.87
+Taperoá - BA
+-13.53
+-39.09
+Taperoá - PB
+-7.20
+-36.82
+Tapes - RS
+-30.67
+-51.39
+Tapira - MG
+-19.92
+-46.82
+Tapira - PR
+-23.32
+-53.06
+Tapiraí - MG
+-19.88
+-46.02
+Tapiraí - SP
+-23.96
+-47.50
+Tapiramutá - BA
+-11.84
+-40.79
+Tapiratiba - SP
+-21.46
+-46.74
+Tapurah - MT
+-12.78
+-56.54
+Taquara - RS
+-29.65
+-50.78
+Taquaraçu de Minas - MG
+-19.66
+-43.68
+Taquaral - SP
+-21.07
+-48.41
+Taquaral de Goiás - GO
+-16.05
+-49.60
+Taquarana - AL
+-9.64
+-36.49
+Taquari - RS
+-29.79
+-51.86
+Taquaritinga - SP
+-21.40
+-48.50
+Taquaritinga do Norte - PE
+-7.90
+-36.04
+Taquarituba - SP
+-23.53
+-49.24
+Taquarivaí - SP
+-23.92
+-48.69
+Taquaruçu do Sul - RS
+-27.40
+-53.46
+Taquarussu - MS
+-22.48
+-53.35
+Tarabai - SP
+-22.30
+-51.55
+Tarauacá - AC
+-8.16
+-70.76
+Tarrafas - CE
+-6.68
+-39.76
+Tartarugalzinho - AP
+13.03
+-50.91
+Tarumã - SP
+-22.74
+-50.57
+Tarumirim - MG
+-19.28
+-42.00
+Tasso Fragoso - MA
+-8.47
+-45.74
+Tatuí - SP
+-23.35
+-47.85
+Tauá - CE
+-6.00
+-40.29
+Taubaté - SP
+-23.02
+-45.55
+Tavares - PB
+-7.63
+-37.87
+Tavares - RS
+-31.28
+-51.09
+Tefé - AM
+-3.35
+-64.71
+Teixeira - PB
+-7.22
+-37.25
+Teixeira de Freitas - BA
+-17.53
+-39.74
+Teixeira Soares - PR
+-25.36
+-50.46
+Teixeiras - MG
+-20.65
+-42.85
+Teixeirópolis - RO
+-10.91
+-62.24
+Tejuçuoca - CE
+-3.98
+-39.58
+Tejupá - SP
+-23.34
+-49.37
+Telêmaco Borba - PR
+-24.32
+-50.61
+Telha - SE
+-10.20
+-36.88
+Tenente Ananias - RN
+-6.46
+-38.17
+Tenente Laurentino Cruz - RN
+-6.14
+-36.71
+Tenente Portela - RS
+-27.37
+-53.75
+Tenório - PB
+-6.94
+-36.62
+Teodoro Sampaio - BA
+-12.29
+-38.62
+Teodoro Sampaio - SP
+-22.53
+-52.16
+Teofilândia - BA
+-11.48
+-38.99
+Teófilo Otoni - MG
+-17.85
+-41.50
+Teolândia - BA
+-13.60
+-39.49
+Teotônio Vilela - AL
+-9.90
+-36.35
+Terenos - MS
+-20.44
+-54.86
+Teresina - PI
+-5.08
+-42.80
+Teresina de Goiás - GO
+-13.77
+-47.26
+Teresópolis - RJ
+-22.41
+-42.96
+Terezinha - PE
+-9.05
+-36.62
+Terezópolis de Goiás - GO
+-16.39
+-49.07
+Terra Alta - PA
+-1.04
+-47.90
+Terra Boa - PR
+-23.76
+-52.44
+Terra de Areia - RS
+-29.58
+-50.07
+Terra Nova - BA
+-12.39
+-38.62
+Terra Nova - PE
+-8.22
+-39.37
+Terra Nova do Norte - MT
+-10.51
+-55.23
+Terra Rica - PR
+-22.70
+-52.61
+Terra Roxa - PR
+-24.15
+-54.09
+Terra Roxa - SP
+-20.78
+-48.32
+Terra Santa - PA
+-2.10
+-56.48
+Tesouro - MT
+-16.07
+-53.55
+Teutônia - RS
+-29.44
+-51.80
+Theobroma - RO
+-10.23
+-62.35
+Tianguá - CE
+-3.73
+-40.99
+Tibagi - PR
+-24.50
+-50.41
+Tibau - RN
+-4.83
+-37.25
+Tibau do Sul - RN
+-6.18
+-35.09
+Tietê - SP
+-23.10
+-47.71
+Tigrinhos - SC
+-26.68
+-53.15
+Tijucas - SC
+-27.24
+-48.63
+Tijucas do Sul - PR
+-25.92
+-49.19
+Timbaúba - PE
+-7.50
+-35.31
+Timbaúba dos Batistas - RN
+-6.46
+-37.27
+Timbé do Sul - SC
+-28.83
+-49.84
+Timbiras - MA
+-4.25
+-43.94
+Timbó - SC
+-26.82
+-49.27
+Timbó Grande - SC
+-26.61
+-50.67
+Timburi - SP
+-23.20
+-49.60
+Timon - MA
+-5.09
+-42.83
+Timóteo - MG
+-19.58
+-42.64
+Tiradentes - MG
+-21.11
+-44.17
+Tiradentes do Sul - RS
+-27.39
+-54.08
+Tiros - MG
+-19.00
+-45.96
+Tobias Barreto - SE
+-11.18
+-37.99
+Tocantínia - TO
+-9.56
+-48.37
+Tocantinópolis - TO
+-6.32
+-47.41
+Tocantins - MG
+-21.17
+-43.01
+Tocos do Moji - MG
+-22.37
+-46.09
+Toledo - MG
+-22.74
+-46.37
+Toledo - PR
+-24.71
+-53.74
+Tomar do Geru - SE
+-11.37
+-37.84
+Tomazina - PR
+-23.77
+-49.94
+Tombos - MG
+-20.90
+-42.02
+Tomé-Açu - PA
+-2.41
+-48.15
+Tonantins - AM
+-2.87
+-67.80
+Toritama - PE
+-8.00
+-36.05
+Torixoreu - MT
+-16.19
+-52.55
+Toropi - RS
+-29.47
+-54.22
+Torre de Pedra - SP
+-23.24
+-48.19
+Torres - RS
+-29.33
+-49.72
+Torrinha - SP
+-22.42
+-48.16
+Touros - RN
+-5.19
+-35.46
+Trabiju - SP
+-22.04
+-48.33
+Tracuateua - PA
+-1.07
+-46.90
+Tracunhaém - PE
+-7.80
+-35.24
+Traipu - AL
+-9.97
+-37.00
+Trairão - PA
+-4.57
+-55.94
+Trairi - CE
+-3.27
+-39.26
+Trajano de Morais - RJ
+-22.06
+-42.06
+Tramandaí - RS
+-29.98
+-50.13
+Travesseiro - RS
+-29.29
+-52.05
+Tremedal - BA
+-14.97
+-41.41
+Tremembé - SP
+-22.95
+-45.54
+Três Arroios - RS
+-27.49
+-52.14
+Três Barras - SC
+-26.10
+-50.32
+Três Barras do Paraná - PR
+-25.41
+-53.18
+Três Cachoeiras - RS
+-29.45
+-49.92
+Três Corações - MG
+-21.69
+-45.25
+Três Coroas - RS
+-29.51
+-50.77
+Três de Maio - RS
+-27.77
+-54.24
+Três Forquilhas - RS
+-29.53
+-50.06
+Três Fronteiras - SP
+-20.23
+-50.89
+Três Lagoas - MS
+-20.75
+-51.67
+Três Marias - MG
+-18.20
+-45.24
+Três Palmeiras - RS
+-27.61
+-52.84
+Três Passos - RS
+-27.45
+-53.93
+Três Pontas - MG
+-21.36
+-45.51
+Três Ranchos - GO
+-18.35
+-47.78
+Três Rios - RJ
+-22.11
+-43.20
+Treviso - SC
+-28.51
+-49.45
+Treze de Maio - SC
+-28.55
+-49.14
+Treze Tílias - SC
+-27.00
+-51.40
+Trindade - GO
+-16.64
+-49.48
+Trindade - PE
+-7.76
+-40.26
+Trindade do Sul - RS
+-27.52
+-52.88
+Triunfo - PB
+-6.57
+-38.59
+Triunfo - PE
+-7.83
+-38.10
+Triunfo - RS
+-29.94
+-51.71
+Triunfo Potiguar - RN
+-5.86
+-37.18
+Trizidela do Vale - MA
+-4.57
+-44.62
+Trombas - GO
+-13.50
+-48.74
+Trombudo Central - SC
+-27.29
+-49.79
+Tubarão - SC
+-28.46
+-49.00
+Tucano - BA
+-10.96
+-38.78
+Tucumã - PA
+-6.74
+-51.16
+Tucunduva - RS
+-27.65
+-54.44
+Tucuruí - PA
+-3.76
+-49.67
+Tufilândia - MA
+-3.72
+-45.55
+Tuiuti - SP
+-22.81
+-46.69
+Tumiritinga - MG
+-18.97
+-41.64
+Tunápolis - SC
+-26.96
+-53.63
+Tunas - RS
+-29.10
+-52.95
+Tunas do Paraná - PR
+-24.97
+-49.08
+Tuneiras do Oeste - PR
+-23.87
+-52.87
+Tuntum - MA
+-5.25
+-44.64
+Tupã - SP
+-21.93
+-50.51
+Tupaciguara - MG
+-18.59
+-48.70
+Tupanatinga - PE
+-8.75
+-37.33
+Tupanci do Sul - RS
+-27.92
+-51.53
+Tupanciretã - RS
+-29.08
+-53.83
+Tupandi - RS
+-29.47
+-51.42
+Tuparendi - RS
+-27.75
+-54.48
+Tuparetama - PE
+-7.60
+-37.31
+Tupãssi - PR
+-24.58
+-53.51
+Tupi Paulista - SP
+-21.38
+-51.57
+Tupirama - TO
+-8.97
+-48.18
+Tupiratins - TO
+-8.39
+-48.11
+Turiaçu - MA
+-1.66
+-45.37
+Turilândia - MA
+-2.20
+-45.34
+Turiúba - SP
+-20.93
+-50.10
+Turmalina - MG
+-17.28
+-42.73
+Turmalina - SP
+-20.05
+-50.47
+Turuçu - RS
+-31.42
+-52.17
+Tururu - CE
+-3.58
+-39.43
+Turvânia - GO
+-16.61
+-50.13
+Turvelândia - GO
+-17.85
+-50.30
+Turvo - PR
+-25.04
+-51.52
+Turvo - SC
+-28.92
+-49.67
+Turvolândia - MG
+-21.87
+-45.78
+Tutóia - MA
+-2.76
+-42.27
+Uarini - AM
+-2.99
+-65.10
+Uauá - BA
+-9.84
+-39.48
+Ubá - MG
+-21.12
+-42.94
+Ubaí - MG
+-16.28
+-44.77
+Ubaíra - BA
+-13.26
+-39.66
+Ubaitaba - BA
+-14.31
+-39.32
+Ubajara - CE
+-3.85
+-40.92
+Ubaporanga - MG
+-19.63
+-42.10
+Ubarana - SP
+-21.16
+-49.71
+Ubatã - BA
+-14.21
+-39.52
+Ubatuba - SP
+-23.43
+-45.07
+Uberaba - MG
+-19.74
+-47.93
+Uberlândia - MG
+-18.91
+-48.27
+Ubirajara - SP
+-22.52
+-49.66
+Ubiratã - PR
+-24.54
+-52.98
+Ubiretama - RS
+-28.04
+-54.68
+Uchoa - SP
+-20.95
+-49.17
+Uibaí - BA
+-11.33
+-42.13
+Uiramutã - RR
+43.90
+-60.16
+Uirapuru - GO
+-14.28
+-49.92
+Uiraúna - PB
+-6.51
+-38.41
+Ulianópolis - PA
+-3.74
+-47.49
+Umari - CE
+-6.64
+-38.70
+Umarizal - RN
+-5.99
+-37.81
+Umbaúba - SE
+-11.38
+-37.65
+Umburanas - BA
+-10.73
+-41.32
+Umburatiba - MG
+-17.25
+-40.57
+Umbuzeiro - PB
+-7.69
+-35.66
+Umirim - CE
+-3.67
+-39.35
+Umuarama - PR
+-23.76
+-53.32
+Una - BA
+-15.29
+-39.07
+Unaí - MG
+-16.35
+-46.90
+União - PI
+-4.58
+-42.86
+União da Serra - RS
+-28.79
+-52.03
+União da Vitória - PR
+-26.23
+-51.08
+União de Minas - MG
+-19.53
+-50.33
+União do Oeste - SC
+-26.76
+-52.85
+União do Sul - MT
+-11.53
+-54.35
+União dos Palmares - AL
+-9.16
+-36.03
+União Paulista - SP
+-20.88
+-49.89
+Uniflor - PR
+-23.08
+-52.15
+Unistalda - RS
+-29.04
+-55.15
+Upanema - RN
+-5.64
+-37.25
+Uraí - PR
+-23.19
+-50.79
+Urandi - BA
+-14.77
+-42.65
+Urânia - SP
+-20.24
+-50.64
+Urbano Santos - MA
+-3.20
+-43.40
+Uru - SP
+-21.78
+-49.28
+Uruaçu - GO
+-14.52
+-49.14
+Uruana - GO
+-15.49
+-49.68
+Uruana de Minas - MG
+-16.06
+-46.25
+Uruará - PA
+-3.71
+-53.73
+Urubici - SC
+-28.01
+-49.59
+Uruburetama - CE
+-3.62
+-39.50
+Urucânia - MG
+-20.35
+-42.73
+Urucará - AM
+-2.53
+-57.76
+Uruçuca - BA
+-14.59
+-39.28
+Uruçuí - PI
+-7.22
+-44.55
+Urucuia - MG
+-16.13
+-45.74
+Urucurituba - AM
+-3.13
+-58.15
+Uruguaiana - RS
+-29.75
+-57.08
+Uruoca - CE
+-3.31
+-40.55
+Urupá - RO
+-11.14
+-62.36
+Urupema - SC
+-27.95
+-49.87
+Urupês - SP
+-21.20
+-49.29
+Urussanga - SC
+-28.51
+-49.32
+Urutaí - GO
+-17.46
+-48.20
+Utinga - BA
+-12.08
+-41.09
+Vacaria - RS
+-28.51
+-50.93
+Vale do Anari - RO
+-9.86
+-62.18
+Vale do Paraíso - RO
+-10.44
+-62.13
+Vale do Sol - RS
+-29.60
+-52.68
+Vale Real - RS
+-29.39
+-51.25
+Vale Verde - RS
+-29.78
+-52.18
+Valença - BA
+-13.37
+-39.07
+Valença - RJ
+-22.24
+-43.70
+Valença do Piauí - PI
+-6.40
+-41.74
+Valente - BA
+-11.41
+-39.46
+Valentim Gentil - SP
+-20.42
+-50.08
+Valinhos - SP
+-22.97
+-46.99
+Valparaíso - SP
+-21.22
+-50.86
+Valparaíso de Goiás - GO
+-16.06
+-47.97
+Vanini - RS
+-28.47
+-51.84
+Vargeão - SC
+-26.86
+-52.15
+Vargem - SC
+-27.48
+-50.97
+Vargem - SP
+-22.88
+-46.41
+Vargem Alegre - MG
+-19.60
+-42.29
+Vargem Alta - ES
+-20.67
+-41.00
+Vargem Bonita - MG
+-20.32
+-46.36
+Vargem Bonita - SC
+-27.00
+-51.74
+Vargem Grande - MA
+-3.54
+-43.91
+Vargem Grande do Rio Pardo - MG
+-15.40
+-42.30
+Vargem Grande do Sul - SP
+-21.83
+-46.89
+Vargem Grande Paulista - SP
+-23.60
+-47.02
+Varginha - MG
+-21.55
+-45.43
+Varjão - GO
+-17.04
+-49.63
+Varjão de MInas - MG
+-18.37
+-46.03
+Varjota - CE
+-4.19
+-40.47
+Varre-Sai - RJ
+-20.93
+-41.86
+Várzea - PB
+-6.77
+-36.99
+Várzea - RN
+-6.34
+-35.37
+Várzea Alegre - CE
+-6.78
+-39.29
+Várzea Branca - PI
+-9.23
+-42.96
+Várzea da Palma - MG
+-17.59
+-44.73
+Várzea da Roça - BA
+-11.60
+-40.13
+Várzea do Poço - BA
+-11.52
+-40.32
+Várzea Grande - MT
+-15.64
+-56.13
+Várzea Grande - PI
+-6.54
+-42.24
+Várzea Nova - BA
+-11.25
+-40.94
+Várzea Paulista - SP
+-23.21
+-46.82
+Varzedo - BA
+-12.97
+-39.39
+Varzelândia - MG
+-15.70
+-44.02
+Vassouras - RJ
+-22.40
+-43.66
+Vazante - MG
+-17.98
+-46.90
+Venâncio Aires - RS
+-29.60
+-52.19
+Venda Nova do Imigrante - ES
+-20.33
+-41.13
+Venha-Ver - RN
+-6.32
+-38.48
+Ventania - PR
+-24.24
+-50.24
+Venturosa - PE
+-8.57
+-36.87
+Vera - MT
+-12.30
+-55.31
+Vera Cruz - BA
+-12.96
+-38.60
+Vera Cruz - RN
+-6.04
+-35.42
+Vera Cruz - RS
+-29.71
+-52.50
+Vera Cruz - SP
+-22.21
+-49.81
+Vera Cruz do Oeste - PR
+-25.05
+-53.87
+Vera Mendes - PI
+-7.60
+-41.48
+Veranópolis - RS
+-28.93
+-51.54
+Verdejante - PE
+-7.92
+-38.97
+Verdelândia - MG
+-15.58
+-43.60
+Verê - PR
+-25.88
+-52.90
+Vereda - BA
+-17.22
+-40.08
+Veredinha - MG
+-17.39
+-42.73
+Veríssimo - MG
+-19.66
+-48.30
+Vermelho Novo - MG
+-20.03
+-42.26
+Vertente do Lério - PE
+-7.77
+-35.85
+Vertentes - PE
+-7.90
+-35.98
+Vespasiano - MG
+-19.69
+-43.92
+Vespasiano Correa - RS
+-29.06
+-51.85
+Viadutos - RS
+-27.56
+-52.02
+Viamão - RS
+-30.08
+-51.02
+Viana - ES
+-20.39
+-40.49
+Viana - MA
+-3.22
+-45.00
+Vianópolis - GO
+-16.74
+-48.51
+Vicência - PE
+-7.65
+-35.32
+Vicente Dutra - RS
+-27.16
+-53.40
+Vicentina - MS
+-22.40
+-54.43
+Vicentinópolis - GO
+-17.73
+-49.80
+Viçosa - AL
+-9.37
+-36.24
+Viçosa - MG
+-20.75
+-42.88
+Viçosa - RN
+-5.99
+-37.94
+Viçosa do Ceará - CE
+-3.56
+-41.09
+Victor Graeff - RS
+-28.56
+-52.74
+Vidal Ramos - SC
+-27.39
+-49.35
+Videira - SC
+-27.00
+-51.15
+Vieiras - MG
+-20.86
+-42.24
+Vieirópolis - PB
+-6.54
+-38.27
+Vigia - PA
+0.85
+-48.14
+Vila Alta - PR
+-23.50
+-53.72
+Vila Bela da Santíssima Trindade - MT
+-15.00
+-59.95
+Vila Boa - GO
+-15.03
+-47.05
+Vila Flor - RN
+-6.31
+-35.07
+Vila Flores - RS
+-28.86
+-51.53
+Vila Lângaro - RS
+-28.10
+-52.14
+Vila Maria - RS
+-28.53
+-52.15
+Vila Nova do Piauí - PI
+-7.13
+-40.94
+Vila Nova do Sul - RS
+-30.34
+-53.88
+Vila Nova dos Martírios - MA
+-4.98
+-47.99
+Vila Pavão - ES
+-18.61
+-40.61
+Vila Propício - GO
+-15.45
+-48.88
+Vila Rica - MT
+-10.01
+-51.11
+Vila Valério - ES
+-18.99
+-40.38
+Vila Velha - ES
+-20.32
+-40.29
+Vilhena - RO
+-12.74
+-60.14
+Vinhedo - SP
+-23.02
+-46.97
+Viradouro - SP
+-20.87
+-48.29
+Virgem da Lapa - MG
+-16.80
+-42.34
+Virgínia - MG
+-22.33
+-45.09
+Virginópolis - MG
+-18.82
+-42.70
+Virgolândia - MG
+-18.47
+-42.30
+Virmond - PR
+-25.38
+-52.19
+Visconde do Rio Branco - MG
+-21.01
+-42.84
+Viseu - PA
+-1.19
+-46.14
+Vista Alegre - RS
+-27.36
+-53.49
+Vista Alegre do Alto - SP
+-21.17
+-48.62
+Vista Alegre do Prata - RS
+-28.80
+-51.79
+Vista Gaúcha - RS
+-27.47
+-53.52
+Vista Serrana - PB
+-6.73
+-37.56
+Vitor Meireles - SC
+-26.88
+-49.83
+Vitória - ES
+-20.31
+-40.33
+Vitória Brasil - SP
+-20.19
+-50.48
+Vitória da Conquista - BA
+-14.86
+-40.83
+Vitória das Missões - RS
+-28.35
+-54.49
+Vitória de Santo Antão - PE
+-8.11
+-35.29
+Vitória do Jari - AP
+0.91
+-52.40
+Vitória do Mearim - MA
+-3.46
+-44.87
+Vitória do Xingu - PA
+-2.88
+-52.01
+Vitorino - PR
+-26.27
+-52.78
+Vitorino Freire - MA
+-4.28
+-45.25
+Volta Grande - MG
+-21.77
+-42.53
+Volta Redonda - RJ
+-22.52
+-44.10
+Votorantim - SP
+-23.54
+-47.43
+Votuporanga - SP
+-20.42
+-49.97
+Wagner - BA
+-12.28
+-41.16
+Wall Ferraz - PI
+-7.23
+-41.91
+Wanderlândia - TO
+-6.84
+-47.96
+Wanderley - BA
+-12.12
+-43.88
+Wenceslau Braz - MG
+-22.53
+-45.36
+Wenceslau Braz - PR
+-23.87
+-49.80
+Wenceslau Guimarães - BA
+-13.68
+-39.47
+Witmarsum - SC
+-26.92
+-49.79
+Xambioá - TO
+-6.41
+-48.53
+Xambrê - PR
+-23.73
+-53.49
+Xangri-lá - RS
+-29.80
+-50.04
+Xanxerê - SC
+-26.87
+-52.40
+Xapuri - AC
+-10.65
+-68.50
+Xavantina - SC
+-27.06
+-52.34
+Xaxim - SC
+-26.96
+-52.53
+Xexéu - PE
+-8.80
+-35.62
+Xinguara - PA
+-7.09
+-49.94
+Xique-Xique - BA
+-10.82
+-42.73
+Zabelê - PB
+-8.07
+-37.09
+Zacarias - SP
+-21.05
+-50.05
+Zé Doca - MA
+-3.27
+-45.65
+Zortéa - SC
+-27.45
+-51.55

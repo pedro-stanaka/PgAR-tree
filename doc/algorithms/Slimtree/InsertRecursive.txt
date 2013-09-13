@@ -1,0 +1,142 @@
+Algorithm: InsertRecursive()
+$Author: fabio $
+
+/*
+*
+* Returns: true for split or false otherwise.
+*/
+function InsertRecursive(
+      TPageID currPageID,     // Current node/page id
+      TObject newObj,         // The object to be inserted
+      TObject representative, // Representative object
+      var TObject newRep,         // New representative object
+      var double newRadius,       // New radius in case of split.
+      var TObject promoted,       // Promoted object
+      var double promoRadius,     // Promoted radius.
+      var TPageID promoPageID,    // Promoted page ID
+      var bool inflate            // Inflate flag.
+      ): bool
+   TSlimNode currNode;     // Current node
+   int insertIdx;          // Insertion index
+   TObject repObj;         // Current working object
+   double nRadius;         // New radius.
+   TPageID nextPageID;     // The page/node id of the subtree
+   double dist;            // Distance of the object from its representative.
+   TSlimNode newNode;      // New node in promotions
+   TObject * nRep, promo;  // 
+   TPageID pPageID;		
+
+   // Load node
+   currNode = GetNode(currPageID);;
+
+   // Is it a leaf or an index
+   if currNode is an IndexNode then
+      // It is an index, so...
+
+      // Locate insertion index
+      insertIdx = ChooseSubTree(currNode, newObj);
+
+      // Get object to compare it.
+      repObj = currNode.GetObject(insertIndex);
+      nRadius = currNode.GetEntry(insertIndex).Radius;
+      nextPageID = currNode.GetObjectEntry(insertIndex).PageID;
+
+      if (InsertRecursive(nextPageID, newObj, repObj, nRep, nRadius, promo, pRadius, pPageID, inflate)) then
+
+      else
+         // No Split!
+         if (nRep != NULL) then 
+            // A new representative was choosen!
+            if (nRep != repObj) then
+               // New representative
+
+
+            else
+               // No changes! Delete it
+               delete nRep;
+               newRep = NULL;
+            end if
+            
+            // Will inflate.
+            if (inflate) then
+               nRadius = currNode.GetEntry(insertIndex).Radius = nRadius;
+               nRadius = nRadius + currNode.GetEntry(insertIndex).Distance; 
+               if nRadius > newRadius then
+                  // Propagate new radius
+                  newRadius = nRadius;
+                  inflate = true;
+               else
+                  // Cut propagation
+                  inflate = false;
+               end if
+            end if
+
+         else
+            // No changes in representative.
+            if (inflate) then
+               nRadius = currNode.GetEntry(insertIndex).Radius = nRadius;
+               nRadius = nRadius + currNode.GetEntry(insertIndex).Distance; 
+               if nRadius > newRadius then
+                  // Propagate new radius
+                  newRadius = nRadius;
+                  inflate = true;
+               else
+                  // Cut propagation
+                  inflate = false;
+               end if
+            end if
+         end if
+      end if
+   else
+      // It is a leaf node so we will insert here
+
+      // Try to insert...
+      insertIdx = currNode.AddEntry(newObj.Serialize(), newObj.GetSErializedSize());
+
+      if insertIdx >= 0 then
+         // No split, just add it.
+
+         if this page is not the root
+            dist = MetricEvaluator(representative, newObj);
+         else
+            dist = 0;
+         end if
+
+         // Setup object
+         currNode.GetObjectEntry(insertIndex).Distance = dist;
+
+         // Update node
+         WriteNode(currNode);
+
+         // Update radius
+         if dist > newRadius then
+            newRadius = dist;
+            inflate = true;
+         else
+            inflate = false;
+         end if
+
+         // Setup returning value
+         newRep = NULL;
+         promoted = NULL;
+         promoPageID = 0;
+         promoRadius = 0.0;
+         return 0;
+      else
+         // Oops! I must split it!
+         newNode = CreateNewNode();         
+
+         // How do I split it ?
+         GenericPromote(currNode, newRep, newRadius, newNode, promoted, promoRadius, newObj);
+         
+         WriteNode(currNode);
+         WriteNode(newNode);
+
+         // Returning values!
+         promoPageID = newNode.GetPageID();
+         inflate = true;
+
+         return 1;
+      end if
+   end if
+end function

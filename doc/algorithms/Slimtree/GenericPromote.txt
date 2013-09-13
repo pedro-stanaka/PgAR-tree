@@ -1,0 +1,266 @@
+Algorithm: GenericPromote()
+$Author: marcos $
+
+/*
+* splits an index node in 2.
+* 
+*/
+procedure GenericPromote(
+      tSlimIndexNode * lNode,	// Current node (Left node ?)
+      var tObject * lRep,	// New curr node representative 
+      var tDistance lRadius,	// New curr node Radius
+      tSlimIndexNode * rNode,	// New empty node (Right Node ?)
+      var tObject * rRep,	// New empty node representative
+      var tDistance rRadius,	// New empty node radius
+      tObject * newObj)		// New Object to be added
+
+   int promoI, promoJ;      // indexes of objects that will be promoted
+   tDistributionRecord * distribution;  // distribution Record for the objects
+   stSlimNode * newSlimNode;   // New node in promotions
+   stPage * newPage;           // New page in promotions
+
+   // choose the type of the Split Method
+   switch (this->myHeader->currentSplitMethod) begin
+      case stSlimTree::smRANDOM:
+	 begin
+            // newObj is not considered in RandomPromote, ie,
+            // if the newObj to be inserted does not fit
+            // it will never be promoted by RandomPromote
+            this->RandomPromote(lNode, &promoI, &promoJ);
+            distribution = this->NewDistribution(lNode, promoI, promoJ, newObj);
+
+            // will create and instanciate new page and new node
+            newPage = this->myPageManager->GetNewPage();
+            rNode = new stSlimIndexNode(newPage, true);
+
+	    // redistribute in lNode and rNode the items in distribution
+            this->DistributeItems(lNode, rNode, distribution);
+            // copy the representatives in lNode and rNode
+            lRep = (ObjectType *) distribution->iObj->Clone();
+            rRep = (ObjectType *) distribution->jObj->Clone();
+
+	    // clean the distribution
+            delete distribution;
+         end case smRANDOM
+      case stSlimTree::smMINIMUM:
+         begin
+            this->MinPromote(lNode, &promoI, &promoJ, newObj);
+            distribution = this->NewDistribution(lNode, promoI, promoJ, newObj);
+
+            // will create and instanciate new page and new node
+            newPage = this->myPageManager->GetNewPage();
+            rNode = new stSlimIndexNode(newPage, true);
+
+	    // redistribute in lNode and rNode the items in distribution
+            this->DistributeItems(lNode, rNode, distribution);
+            // copy the representatives in lNode and rNode
+            lRep = (ObjectType *) distribution->iObj->Clone();
+            rRep = (ObjectType *) distribution->jObj->Clone();
+
+	    // clean the distribution
+            delete distribution;
+         end case smMINIMUM
+      case stSlimTree::smDELTA:
+         begin
+            int power, epsilon;
+            this->MinimumPromote(lNode, &promoI, &promoJ, power, epsilon, newObj);
+            distribution = this->NewDistribution(lNode, promoI, promoJ, newObj);
+
+            // will create and instanciate new page and new node
+            newPage = this->myPageManager->GetNewPage();
+            rNode = new stSlimIndexNode(newPage, true);
+
+	    // redistribute in lNode and rNode the items in distribution
+            this->DistributeItems(lNode, rNode, distribution);
+            // copy the representatives in lNode and rNode
+            lRep = (ObjectType *) distribution->iObj->Clone();
+            rRep = (ObjectType *) distribution->jObj->Clone();
+
+	    // clean the distribution
+            delete distribution;
+         end case smDELTA
+      case stSlimTree::smMINMAX:
+         begin
+            this->MinMaxPromote (lNode, &promoI, &promoJ, newObj);
+            distribution = this->NewDistribution(lNode, promoI, promoJ, newObj);
+
+            // will create and instanciate new page and new node
+            newPage = this->myPageManager->GetNewPage();
+            rNode = new stSlimIndexNode(newPage, true);
+
+	    // redistribute in lNode and rNode the items in distribution
+            this->DistributeItems(lNode, rNode, distribution);
+            // copy the representatives in lNode and rNode
+            lRep = (ObjectType *) distribution->iObj->Clone();
+            rRep = (ObjectType *) distribution->jObj->Clone();
+
+	    // clean the distribution
+            delete distribution;
+         end case smMINMAX
+      case stSlimTree::smSPANNINGTREE:
+         begin
+            // this method will be change later
+            newSlimNode = this->MST_Split(lNode, indexPage, pe, newPe, newObj);
+         end case smSPANNINGTREE
+      case stSlimTree::smFATFACTOR:
+         begin
+            this->FatFactorPromote(lNode, &promoI, &promoJ, power, epsilon, newObj);
+            distribution = this->NewDistribution(lNode, promoI, promoJ, newObj);
+  
+            // will create and instanciate new page and new node
+            newPage = this->myPageManager->GetNewPage();
+            rNode = new stSlimIndexNode(newPage, true);
+
+	    // redistribute in lNode and rNode the items in distribution
+            this->DistributeItems(lNode, rNode, distribution);
+            // copy the representatives in lNode and rNode
+            lRep = (ObjectType *) distribution->iObj->Clone();
+            rRep = (ObjectType *) distribution->jObj->Clone();
+
+	    // clean the distribution
+            delete distribution;
+         end case smFATFACTOR
+      default:
+         begin
+            // Unknow splitting algorithm
+            quit;
+         end case default
+   }
+
+   /* Set up the new radius of the lRep and rRep */
+   lRadius = this->MinimumRadius(lNode);
+   rRadius = this->MinimumRadius(rNode);
+  
+end function
+
+/*
+* splits a Leaf node in 2.
+* 
+*/
+procedure GenericPromote(
+      tSlimLeafNode * lNode,	// Current node (Left node ?)
+      var tObject * lRep,	// New curr node representative 
+      var tDistance lRadius,	// New curr node Radius
+      tSlimLeafNode * rNode,	// New empty node (Right Node ?)
+      var tObject * rRep,	// New empty node representative
+      var tDistance rRadius,	// New empty node radius
+      tObject * newObj)		// New Object to be added
+
+   int promoI, promoJ;      // indexes of objects that will be promoted
+   tDistributionRecord * distribution;  // distribution Record for the objects
+   stSlimNode * newSlimNode;   // New node in promotions
+   stPage * newPage;           // New page in promotions
+
+   // choose the type of the Split Method
+   switch (this->myHeader->currentSplitMethod) begin
+      case stSlimTree::smRANDOM:
+	 begin
+            // newObj is not considered in RandomPromote, ie,
+            // if the newObj to be inserted does not fit
+            // it will never be promoted by RandomPromote
+            this->RandomPromote(lNode, &promoI, &promoJ);
+            distribution = this->NewDistribution(lNode, promoI, promoJ, newObj);
+
+            // will create and instanciate new page and new node
+            newPage = this->myPageManager->GetNewPage();
+            rNode = new stSlimLeafNode(newPage, true);
+
+	    // redistribute in lNode and rNode the items in distribution
+            this->DistributeItems(lNode, rNode, distribution);
+            // copy the representatives in lNode and rNode
+            lRep = (ObjectType *) distribution->iObj->Clone();
+            rRep = (ObjectType *) distribution->jObj->Clone();
+
+	    // clean the distribution
+            delete distribution;
+         end case smRANDOM
+      case stSlimTree::smMINIMUM:
+         begin
+            this->MinPromote(lNode, &promoI, &promoJ, newObj);
+            distribution = this->NewDistribution(lNode, promoI, promoJ, newObj);
+
+            // will create and instanciate new page and new node
+            newPage = this->myPageManager->GetNewPage();
+            rNode = new stSlimLeafNode(newPage, true);
+
+	    // redistribute in lNode and rNode the items in distribution
+            this->DistributeItems(lNode, rNode, distribution);
+            // copy the representatives in lNode and rNode
+            lRep = (ObjectType *) distribution->iObj->Clone();
+            rRep = (ObjectType *) distribution->jObj->Clone();
+
+	    // clean the distribution
+            delete distribution;
+         end case smMINIMUM
+      case stSlimTree::smDELTA:
+         begin
+            int power, epsilon;
+            this->MinimumPromote(lNode, &promoI, &promoJ, power, epsilon, newObj);
+            distribution = this->NewDistribution(lNode, promoI, promoJ, newObj);
+
+            // will create and instanciate new page and new node
+            newPage = this->myPageManager->GetNewPage();
+            rNode = new stSlimLeafNode(newPage, true);
+
+	    // redistribute in lNode and rNode the items in distribution
+            this->DistributeItems(lNode, rNode, distribution);
+            // copy the representatives in lNode and rNode
+            lRep = (ObjectType *) distribution->iObj->Clone();
+            rRep = (ObjectType *) distribution->jObj->Clone();
+
+	    // clean the distribution
+            delete distribution;
+         end case smDELTA
+      case stSlimTree::smMINMAX:
+         begin
+            this->MinMaxPromote (lNode, &promoI, &promoJ, newObj);
+            distribution = this->NewDistribution(lNode, promoI, promoJ, newObj);
+
+            // will create and instanciate new page and new node
+            newPage = this->myPageManager->GetNewPage();
+            rNode = new stSlimLeafNode(newPage, true);
+
+	    // redistribute in lNode and rNode the items in distribution
+            this->DistributeItems(lNode, rNode, distribution);
+            // copy the representatives in lNode and rNode
+            lRep = (ObjectType *) distribution->iObj->Clone();
+            rRep = (ObjectType *) distribution->jObj->Clone();
+
+	    // clean the distribution
+            delete distribution;
+         end case smMINMAX
+      case stSlimTree::smSPANNINGTREE:
+         begin
+            // this method will be change later
+            newSlimNode = this->MST_Split(lNode, indexPage, pe, newPe, newObj);
+         end case smSPANNINGTREE
+      case stSlimTree::smFATFACTOR:
+         begin
+            this->FatFactorPromote(lNode, &promoI, &promoJ, power, epsilon, newObj);
+            distribution = this->NewDistribution(lNode, promoI, promoJ, newObj);
+  
+            // will create and instanciate new page and new node
+            newPage = this->myPageManager->GetNewPage();
+            rNode = new stSlimLeafNode(newPage, true);
+
+	    // redistribute in lNode and rNode the items in distribution
+            this->DistributeItems(lNode, rNode, distribution);
+            // copy the representatives in lNode and rNode
+            lRep = (ObjectType *) distribution->iObj->Clone();
+            rRep = (ObjectType *) distribution->jObj->Clone();
+
+	    // clean the distribution
+            delete distribution;
+         end case smFATFACTOR
+      default:
+         begin
+            // Unknow splitting algorithm
+            quit;
+         end case default
+   }
+
+   /* Set up the new radius of the lRep and rRep */
+   lRadius = this->MinimumRadius(lNode);
+   rRadius = this->MinimumRadius(rNode);
+
+end function

@@ -1,0 +1,191 @@
+\contentsline {chapter}{\numberline {1}Introduction to GBDI Arboretum}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}What is GBDI Arboretum}{5}{section.1.1}
+\contentsline {section}{\numberline {1.2}Motivation and Objectives}{5}{section.1.2}
+\contentsline {section}{\numberline {1.3}A Brief Introduction to Metric Access Methods}{5}{section.1.3}
+\contentsline {section}{\numberline {1.4}Document Organization}{6}{section.1.4}
+\contentsline {chapter}{\numberline {2}Architecture of GBDI Arboretum}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Overview}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}System Requirements}{7}{section.2.2}
+\contentsline {section}{\numberline {2.3}Design Philosophy}{7}{section.2.3}
+\contentsline {section}{\numberline {2.4}The three layers}{8}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}User Layer}{8}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Structure Layer}{8}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Storage Layer}{9}{subsection.2.4.3}
+\contentsline {section}{\numberline {2.5}Advantages and Limitations of this architecture}{9}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Advantages}{9}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Known Limitations}{9}{subsection.2.5.2}
+\contentsline {section}{\numberline {2.6}conclusion}{10}{section.2.6}
+\contentsline {chapter}{\numberline {3}The User Layer}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}Overview}{11}{section.3.1}
+\contentsline {section}{\numberline {3.2}Functionality Description}{11}{section.3.2}
+\contentsline {section}{\numberline {3.3}Layer abstraction roles}{11}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}The Object}{11}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}The Metric Distance Function}{11}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}The Metric Evaluator}{11}{subsection.3.3.3}
+\contentsline {section}{\numberline {3.4}User Layer interfaces}{11}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}The stObject interface}{11}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}The stMetricEvaluator interface}{11}{subsection.3.4.2}
+\contentsline {section}{\numberline {3.5}Serialization and unserialization principles}{11}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Serializing an Object}{11}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Unserializing an Object}{11}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}Implementation Hints and Tips}{11}{subsection.3.5.3}
+\contentsline {section}{\numberline {3.6}Integration with user applications}{11}{section.3.6}
+\contentsline {section}{\numberline {3.7}Conclusion}{11}{section.3.7}
+\contentsline {chapter}{\numberline {4}The Structure Layer}{12}{chapter.4}
+\contentsline {section}{\numberline {4.1}Overview}{12}{section.4.1}
+\contentsline {section}{\numberline {4.2}Functionality Description}{12}{section.4.2}
+\contentsline {section}{\numberline {4.3}Layer abstraction roles}{12}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}The Result}{12}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}The Metric Tree}{12}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}The MAMView Extractor}{12}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}The MAMView module}{12}{section.4.4}
+\contentsline {section}{\numberline {4.5}Struct Layer Classes}{12}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}The stResult class template}{12}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}The stResultPair class template}{12}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}The stMetricTree class template}{12}{subsection.4.5.3}
+\contentsline {section}{\numberline {4.6}MAMView classes}{12}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}The stMAMViewExtractor class template}{12}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}The stMAMViewObjectSample class template}{12}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}The stFastMapImage class template}{12}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}The stFastMapper class template}{12}{subsection.4.6.4}
+\contentsline {section}{\numberline {4.7}Metric Tree usage}{12}{section.4.7}
+\contentsline {section}{\numberline {4.8}MAMView instalation}{12}{section.4.8}
+\contentsline {section}{\numberline {4.9}Conclusion}{12}{section.4.9}
+\contentsline {chapter}{\numberline {5}The Storage Layer}{13}{chapter.5}
+\contentsline {section}{\numberline {5.1}Overview}{13}{section.5.1}
+\contentsline {section}{\numberline {5.2}Functionality Description}{13}{section.5.2}
+\contentsline {section}{\numberline {5.3}Layer abstraction roles}{13}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}The Page}{13}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}The Page Manager}{13}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}The Page Server and the Page Client}{14}{subsection.5.3.3}
+\contentsline {section}{\numberline {5.4}Storage Layer Classes}{14}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}The stPage class}{14}{subsection.5.4.1}
+\contentsline {subsubsection}{void Clear()}{14}{section*.2}
+\contentsline {subsubsection}{void Copy(stPage * page)}{14}{section*.3}
+\contentsline {subsubsection}{stSize GetPageSize()}{14}{section*.4}
+\contentsline {subsubsection}{stByte * GetData()}{14}{section*.5}
+\contentsline {subsubsection}{stPageID GetPageID()}{15}{section*.6}
+\contentsline {subsubsection}{void SetPageID(stpageID pageID)}{15}{section*.7}
+\contentsline {subsubsection}{void Write(stByte * buff, stSize size, stSize offset)}{15}{section*.8}
+\contentsline {subsection}{\numberline {5.4.2}The stLockablePage class}{15}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}The stPageManager class}{15}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.4}The stDiskPageManager class}{15}{subsection.5.4.4}
+\contentsline {subsection}{\numberline {5.4.5}The stMemoryPageManager class}{15}{subsection.5.4.5}
+\contentsline {subsection}{\numberline {5.4.6}The stClientPageManager}{15}{subsection.5.4.6}
+\contentsline {subsubsection}{int Connect(stPageServer * server, int segmentID)}{15}{section*.9}
+\contentsline {subsubsection}{void Disconnect()}{15}{section*.10}
+\contentsline {subsection}{\numberline {5.4.7}The stPageServer class}{15}{subsection.5.4.7}
+\contentsline {subsubsection}{int CreateNewSegment()}{15}{section*.11}
+\contentsline {subsubsection}{bool DisposeSegment(int segmentID)}{16}{section*.12}
+\contentsline {subsubsection}{bool DisposePage (int segmentID, stPage *page)}{16}{section*.13}
+\contentsline {subsubsection}{stPageID GetHeaderPageID (int segmentID)}{16}{section*.14}
+\contentsline {subsubsection}{stPage * GetNewPage (int segmentID)}{16}{section*.15}
+\contentsline {subsubsection}{stPage * GetPage (int segmentID, stPageID pageid)}{16}{section*.16}
+\contentsline {subsubsection}{stSize GetPageCount (int segmentID)}{16}{section*.17}
+\contentsline {subsubsection}{void ReleasePage (int segmentID, stPage *page)}{16}{section*.18}
+\contentsline {subsubsection}{void WritePage (int segmentID, stPage *page)}{16}{section*.19}
+\contentsline {subsection}{\numberline {5.4.8}The extensions of stPageServer class}{16}{subsection.5.4.8}
+\contentsline {section}{\numberline {5.5}Integrating the Storage Layer to existing DBMSs}{16}{section.5.5}
+\contentsline {section}{\numberline {5.6}Conclusion}{16}{section.5.6}
+\contentsline {chapter}{\numberline {6}GBDI Arboretum{ }and user applications}{17}{chapter.6}
+\contentsline {section}{\numberline {6.1}Overview}{17}{section.6.1}
+\contentsline {section}{\numberline {6.2}Basic Requirements}{17}{section.6.2}
+\contentsline {section}{\numberline {6.3}Creating the User Layer}{17}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Creating a new Object and Metric Evaluator}{17}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Adapting an existing object and metric distance function}{17}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Serialization and Unserialization}{17}{subsection.6.3.3}
+\contentsline {section}{\numberline {6.4}Defining the Structure Layer class types}{17}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Structure Layer template declarations}{17}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}The MAM template declaration}{17}{subsection.6.4.2}
+\contentsline {section}{\numberline {6.5}Choosing the appropriate Page Manager}{17}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Memory and disk}{17}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}Page Servers}{17}{subsection.6.5.2}
+\contentsline {section}{\numberline {6.6}Setting up the MAM options}{17}{section.6.6}
+\contentsline {section}{\numberline {6.7}Adding objects}{17}{section.6.7}
+\contentsline {section}{\numberline {6.8}Performing queries}{17}{section.6.8}
+\contentsline {section}{\numberline {6.9}Restoring a Tree}{17}{section.6.9}
+\contentsline {section}{\numberline {6.10}Using the visualization module}{17}{section.6.10}
+\contentsline {section}{\numberline {6.11}Statistics}{17}{section.6.11}
+\contentsline {section}{\numberline {6.12}Conclusion}{17}{section.6.12}
+\contentsline {chapter}{\numberline {7}Adding a new Metric Access Method}{18}{chapter.7}
+\contentsline {section}{\numberline {7.1}Basic requirements}{18}{section.7.1}
+\contentsline {section}{\numberline {7.2}Defining the class names and files}{18}{section.7.2}
+\contentsline {section}{\numberline {7.3}Implementation of the tree nodes}{18}{section.7.3}
+\contentsline {section}{\numberline {7.4}Extending the stMetricTree}{18}{section.7.4}
+\contentsline {section}{\numberline {7.5}Answering a Query}{18}{section.7.5}
+\contentsline {section}{\numberline {7.6}A complete sample: the stDummyTree}{18}{section.7.6}
+\contentsline {section}{\numberline {7.7}Conclusion}{18}{section.7.7}
+\contentsline {chapter}{\numberline {8}Writing GBDI Arboretum{ }source code}{19}{chapter.8}
+\contentsline {section}{\numberline {8.1}Overview}{19}{section.8.1}
+\contentsline {section}{\numberline {8.2}Naming convention}{19}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}File names}{19}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Class and data type names}{19}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}Method, function and parameter names}{20}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.4}Variable, fields and constant names}{20}{subsection.8.2.4}
+\contentsline {subsection}{\numberline {8.2.5}Template names}{20}{subsection.8.2.5}
+\contentsline {subsection}{\numberline {8.2.6}General recommendations}{20}{subsection.8.2.6}
+\contentsline {section}{\numberline {8.3}Coding style}{21}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Indentation}{21}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Blocks}{21}{subsection.8.3.2}
+\contentsline {subsection}{\numberline {8.3.3}Comments}{21}{subsection.8.3.3}
+\contentsline {subsubsection}{Internal comments}{21}{section*.20}
+\contentsline {subsubsection}{Class, data type, methods and function descriptions}{21}{section*.21}
+\contentsline {subsubsection}{Copyright and licence notices}{21}{section*.22}
+\contentsline {subsubsection}{End block comment}{22}{section*.23}
+\contentsline {subsubsection}{Method and function implementation separators}{22}{section*.24}
+\contentsline {section}{\numberline {8.4}C/C++ Libraries and Portability Issues}{22}{section.8.4}
+\contentsline {subsection}{\numberline {8.4.1}Headers}{22}{subsection.8.4.1}
+\contentsline {subsection}{\numberline {8.4.2}Data types}{22}{subsection.8.4.2}
+\contentsline {subsection}{\numberline {8.4.3}System specific implementations}{23}{subsection.8.4.3}
+\contentsline {section}{\numberline {8.5}Optional features and Conditional Compiling}{23}{section.8.5}
+\contentsline {section}{\numberline {8.6}Source Directory Tree}{24}{section.8.6}
+\contentsline {subsubsection}{docs}{24}{section*.25}
+\contentsline {subsubsection}{include}{24}{section*.26}
+\contentsline {subsubsection}{lib}{24}{section*.27}
+\contentsline {subsubsection}{sample}{24}{section*.28}
+\contentsline {subsubsection}{src}{24}{section*.29}
+\contentsline {subsubsection}{test}{24}{section*.30}
+\contentsline {section}{\numberline {8.7}Development support tools}{24}{section.8.7}
+\contentsline {subsection}{\numberline {8.7.1}Compilers}{24}{subsection.8.7.1}
+\contentsline {subsection}{\numberline {8.7.2}Concurrent Versions System - CVS}{25}{subsection.8.7.2}
+\contentsline {subsection}{\numberline {8.7.3}Automated Documentation}{25}{subsection.8.7.3}
+\contentsline {subsubsection}{Doxygen comment block}{25}{section*.31}
+\contentsline {subsubsection}{Mandatory Doxygen tags}{25}{section*.32}
+\contentsline {subsubsection}{Organizing the documentation in modules}{25}{section*.33}
+\contentsline {subsubsection}{The doxygen.dxg file}{25}{section*.34}
+\contentsline {section}{\numberline {8.8}File and class member scopes}{26}{section.8.8}
+\contentsline {subsection}{\numberline {8.8.1}Global functions}{26}{subsection.8.8.1}
+\contentsline {subsection}{\numberline {8.8.2}Global Constants}{26}{subsection.8.8.2}
+\contentsline {subsection}{\numberline {8.8.3}Global data types}{26}{subsection.8.8.3}
+\contentsline {subsubsection}{Class member visibility}{26}{section*.35}
+\contentsline {subsection}{\numberline {8.8.4}Class creation recommendations}{26}{subsection.8.8.4}
+\contentsline {subsubsection}{Interfaces}{27}{section*.36}
+\contentsline {section}{\numberline {8.9}Templates}{27}{section.8.9}
+\contentsline {section}{\numberline {8.10}Frequently Asked Questions}{27}{section.8.10}
+\contentsline {subsubsection}{Q1: How do I change the memory alignment of a structure without change it for the rest of the code ?}{27}{section*.37}
+\contentsline {subsubsection}{Q2: What is the memory alignment and why it is good to set it to 1 in some parts of the code ?}{27}{section*.38}
+\contentsline {subsubsection}{Q3: stDistance is a double. Why I should not use double instead of stDistance ?}{27}{section*.39}
+\contentsline {subsubsection}{Q4: Why almost all GBDI Arboretumnames begin with ``st'' ?}{28}{section*.40}
+\contentsline {subsubsection}{Q5: stObject and stMetricEvaluator are supposed to be interfaces. Why there are classes with that name ? Should users use them ?}{28}{section*.41}
+\contentsline {subsubsection}{Q6: Who implements the user layer at all ?}{28}{section*.42}
+\contentsline {subsubsection}{Q7: What should a developer expect from the unknown user layer classes ?}{28}{section*.43}
+\contentsline {subsubsection}{Q8: Why some parts of the library are implemented as templates while others are not ?}{28}{section*.44}
+\contentsline {subsubsection}{Q9: I found a function called random() which exists only in Windows compilers. Why is it allowed ?}{28}{section*.45}
+\contentsline {section}{\numberline {8.11}Conclusion}{28}{section.8.11}
+\contentsline {chapter}{\numberline {9}Conclusion}{29}{chapter.9}
+\contentsline {chapter}{\numberline {A}Utilities}{31}{appendix.A}
+\contentsline {section}{\numberline {A.1}Classes}{31}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}stGenericMatrix class template}{31}{subsection.A.1.1}
+\contentsline {subsection}{\numberline {A.1.2}stRPriorityQueue class template}{31}{subsection.A.1.2}
+\contentsline {section}{\numberline {A.2}Functions and Macros}{31}{section.A.2}
+\contentsline {chapter}{\numberline {B}Portability issues}{32}{appendix.B}
+\contentsline {section}{\numberline {B.1}Minimum compiler requirements}{32}{section.B.1}
+\contentsline {section}{\numberline {B.2}Runtime Libraries}{32}{section.B.2}
+\contentsline {subsection}{\numberline {B.2.1}Standard C Library}{32}{subsection.B.2.1}
+\contentsline {subsection}{\numberline {B.2.2}Standard C++ Library}{32}{subsection.B.2.2}
+\contentsline {subsection}{\numberline {B.2.3}Other standard functions}{32}{subsection.B.2.3}
+\contentsline {chapter}{\numberline {C}GNU Free Documentation License}{33}{appendix.C}
+\contentsline {chapter}{\numberline {D}Credits}{38}{appendix.D}
+\contentsline {section}{\numberline {D.1}GBDI Arboretum{ }Project Staff}{38}{section.D.1}
+\contentsline {section}{\numberline {D.2}Documentation}{38}{section.D.2}
+\contentsline {section}{\numberline {D.3}Special Thanks}{38}{section.D.3}

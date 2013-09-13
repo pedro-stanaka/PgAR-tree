@@ -1,0 +1,4 @@
+INCLUDEPATH += D:/Doutorado/implementacoes/c++/gbdiLibs/include \
+    D:/Doutorado/implementacoes/c++/gbdiLibs/src
+HEADERS += 
+SOURCES += testeslim.cpp

@@ -1,0 +1,35 @@
+\chapter{Introduction to \libname}
+
+\section{What is \libname}
+
+\section{Motivation and Objectives}
+
+\section{A Brief Introduction to Metric Access Methods}
+
+	The main practice used to accelerate the data retrieval in database management systems is indexing the data through an access method tailored to the domain of the data. The data domains stored in traditional databases - such as numbers and small character strings - have the total ordering property. This property leaded to the development of the current Database Management Systems (DBMS). However, when the data do not have this property, the traditional access methods cannot be used. Data embedded in metric space domains are examples of information that cannot be directly sorted. Metric Access Methods (MAM) have been developed for such data domains, e.g., the M-tree and Slim-tree.
+
+	In metric domains the only information available is the objects and the distances between them. The distance function is usually provided by a domain expert, who gathers the particularities of the target domain in order to compare objects.
+
+	Formally, given three objects, $o_1$, $o_2$ and $o_3$ pertaining to the domain of objects \textbf{$\mathfrak{D}$}, a distance function $d( )$ is said to be metric if it satisfies the following three properties:
+
+\begin{enumerate}
+	\item \textbf{symmetry}: $d(o_1, o_2) = d(o_2, o_1)$
+	\item \textbf{non-negativity}: $0 < d(o_1, o_2) < \infty$ if $o_1 \neq o_2$ and $d(o_1,o_1) = 0$
+	\item \textbf{triangle inequality}: $d(o_1, o_2) \leq d(o_1, o_3) + d(o_3, o_2)$
+\end{enumerate}
+
+	A metric distance function is the foundation to build MAMs, which were developed since the pioneering work of Burkhard and Keller \cite{Burkhard1973}. They are now achieving an efficiency level good enough to be used in practical situations, as is the case of the M-tree \cite{Ciaccia1997}, the Slim-tree \cite{Traina2000} and the Omni-family members \cite{Santos2001b}.
+
+	Data in metric domains are retrieved using similarity queries. The two most frequently used similarity queries are defined following:
+		
+\begin{itemize}
+	\item \textbf{$k$-Nearest Neighbor Query ($k-NNQ$)}: $kNNQ(k, o_q)$, which asks for the $k$ objects that are the closest to a given query object center $o_q$, with $o_q \in$ \textbf{$\mathfrak{D}$} (the object domain). For example, in an image database domain, a typical query could be: ''find the 5 nearest images to image1''.
+
+	\item \textbf{Range Query ($RQ$)}: $RQ(o_q, r_q)$, which searches for all the objects whose distance to the query object center $o_q$ is less or equal to the query radius $r_q$ . Using the example previously given, a query could be: ''find all the images that are within 10 units of distance from image1''.
+\end{itemize}
+
+	Calculating distances between complex objects are usually expensive operations. Hence, minimizing these calculations is one of the most important aspects to obtain an efficient answer for the queries. MAMs minimize the number of distance calculations taking advantage of the triangular inequality property of metric distance functions, which allows to prune parts of the tree during the answering process. Metric access methods built on the image features have been successfully used to index images and are suited to answer similarity queries.
+
+\section{Document Organization}
+
+	The remaining of this document is structured as follows. In the next chapter, we first give a brief overview of the archtecture of \libname. The user, structure and storage layers are introduce in Chapter \ref{cha:userlayer}, \ref{cha:structlayer} and \ref{cha:storagelayer}, respectively. Chapter \ref{cha:coding} explain how to write and to became familiar with the source code of the \libname. Chapter \ref{cha:newstruct} shows how to add a new Metric Access Method in the \libname. Chapter \ref{cha:conclusion} presents the conclusion of this document, and Chapters \ref{cha:utilities} and \ref{cha:license} presents the Utilities and the License of \libname.

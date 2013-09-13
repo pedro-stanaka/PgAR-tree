@@ -1,0 +1,57 @@
+\documentclass{report}
+
+% Packages
+\usepackage{hyperref}
+\usepackage{textfit}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+
+% Page size
+\geometry{a4paper,left=3cm,right=2cm,top=2.0cm,bottom=2.0cm}
+
+% Library name.
+\newcommand{\libname}[0]{GBDI Arboretum}
+\newcommand{\libtitle}[0]{arboretum}
+
+\newenvironment{code}[0]{
+	\begin{minipage}[c]{15cm}
+	\vspace{0.5cm}
+	\rule{15cm}{0.2mm}
+}{
+	\rule{15cm}{0.2mm}
+	\end{minipage}
+}
+
+\begin{document}
+
+	\title{\libname Developer's Guide\thanks{This work has been supported by FAPESP (Sao Paulo
+State Foundation for Research Support)}}
+	\author{Fabio Jun Takada Chino\\Marcos Rodrigues Vieira\\GBDI-ICMC-USP}
+	\maketitle
+
+	\include{abstract}
+
+  \tableofcontents
+		
+	\include{intro}
+	\include{arch}
+	\include{user}
+	\include{struct}
+	\include{storage}
+	\include{usage}
+	\include{newstruct}
+	\include{coding}
+	\include{conclusion}
+
+	\bibliographystyle{apalike}
+	\bibliography{slimdev}
+	
+	% Appendix
+	\appendix
+	\include{util}
+	\include{functions}
+	\include{license}
+	\include{credits}
+\end{document}
