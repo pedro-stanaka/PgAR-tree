@@ -46,9 +46,6 @@ typedef stResult < myBasicArrayObjectRTree > myResultRTree;
 typedef stRTree < float, int > myRTree; // the same types as myBasicArrayObjectRTree
 
 
-
-
-
 QSqlDatabase openConnection(){
     QSqlDatabase db = QSqlDatabase::addDatabase("QPSQL");
     QString host = "localhost";
@@ -101,13 +98,10 @@ double _createRtree(){
     qsq.prepare(query);
 
     if (qsq.exec()) {
-
         logger.message("Adding nodes to the rtree");
-
-
         // Rtree Instatiation
         myBasicMetricEvaluator *me = new myBasicMetricEvaluator();
-        stDiskPageManager *pmR = new stDiskPageManager("/var/lib/postgresql/artree.dat", 1024);
+        stDiskPageManager *pmR = new stDiskPageManager(INDEX_FILE, 1024);
         myRTree *rtree = new myRTree(pmR);
         rtree->SetQueryMetricEvaluator(me);
         rtree->SetSplitMethod(myRTree::smQUADRATIC); // smLINEAR, smQUADRATIC, smEXPONENTIAL
@@ -115,28 +109,15 @@ double _createRtree(){
         myBasicArrayObjectRTree *aux = new myBasicArrayObjectRTree(2);
 
         while (qsq.next() && qsq.isValid()) {
-            //Getting the values from the record
             QString oid = qsq.value(0).toString();
-            //                QString ctid = qsq.value(1).toString();
             QString point = qsq.value(1).toString();
-            //                QString sumSales = qsq.value(3).toString();
-
-
-//            float *latlon = new float[2];
             point.replace(QString("POINT("), QString(""));
             point.replace(QString(")"), QString(""));
             QStringList listLatLon = point.split(" ");
-//            latlon[0] = listLatLon.at(0).toFloat();
-//            latlon[1] = listLatLon.at(1).toFloat();
             aux->Set(0, listLatLon.at(0).toFloat());
             aux->Set(1, listLatLon.at(1).toFloat());
             aux->SetOID(oid.toInt());
             rtree->Add(aux);
-
-//            rows[counter] = new myBasicArrayObjectRTree(2, latlon);
-//            rows[counter]->SetOID(oid.toInt());
-//            rtree->Add(rows[counter++]);
-
         }
         logger.message("DONE! Adding nodes to the rtree");
 
@@ -147,7 +128,7 @@ double _createRtree(){
         delete pmR;
         delete me;
         delete aux;
-//        delete[] rows;
+        //        delete[] rows;
     }else{
         logger.error(db.lastError().text().toStdString().c_str());
     }
@@ -156,74 +137,87 @@ double _createRtree(){
 }
 
 
-void _getClientsFromStore(const char* storeGeom, double radius, int storeId){
-
-
-//    QString query = "SELECT s.id, ST_AsText(s.geom)  ";
-//    query += "FROM stores s WHERE id = :sid;";
-
-
-//    QSqlDatabase db = openConnection();
-
-//    QSqlQuery qsq;
-//    qsq.prepare(query);
-//    qsq.bindValue(":sid", storeId);
-
-//    QString msg = "Store ID: " + QString::number(storeId);
-//    logger.message(msg.toStdString());
-
-
+void _getClientsFromStore(const char* storeGeom, double radius, int storeId = NULL){
 
     logger.message("METHOD getClientsFromStore");
-//    if (qsq.exec()) {
 
-//        logger.message("Will peform query.");
-//        if (qsq.next() && qsq.isValid()) {
-            QString oid = QString::number(storeId);
-//            QString point = qsq.value(1).toString();
-            QString point = QString(storeGeom);
-            float *latlon = new float[2];
-            point.replace(QString("POINT("), QString(""));
-            point.replace(QString(")"), QString(""));
-            QStringList listLatLon = point->split(" ");
-            latlon[0] = listLatLon.at(0).toFloat();
-            latlon[1] = listLatLon.at(1).toFloat();
+    QString oid = QString::number(storeId);
+    QString point = QString(storeGeom);
+    float *latlon = new float[2];
+    point.replace(QString("POINT("), QString(""));
+    point.replace(QString(")"), QString(""));
+    QStringList listLatLon = point.split(" ");
+    latlon[0] = listLatLon.at(0).toFloat();
+    latlon[1] = listLatLon.at(1).toFloat();
 
-            logger.message("Assembled query subject object");
-            myBasicMetricEvaluator *me = new myBasicMetricEvaluator();
-            stDiskPageManager *pmR = new stDiskPageManager("/var/lib/postgresql/artree.dat");
-            myRTree *rtree = new myRTree(pmR);
-            rtree->SetQueryMetricEvaluator(me);
-            rtree->GetQueryMetricEvaluator()->ResetStatistics();
-            rtree->GetPageManager()->ResetStatistics();
+    logger.message("Assembled query subject object");
+    myBasicMetricEvaluator *me = new myBasicMetricEvaluator();
+    stDiskPageManager *pmR = new stDiskPageManager(INDEX_FILE);
+    myRTree *rtree = new myRTree(pmR);
+    rtree->SetQueryMetricEvaluator(me);
+    rtree->GetQueryMetricEvaluator()->ResetStatistics();
+    rtree->GetPageManager()->ResetStatistics();
 
-            myBasicArrayObjectRTree *storeObj = new myBasicArrayObjectRTree(2, latlon);
-            storeObj->SetOID(oid.toInt());
+    myBasicArrayObjectRTree *storeObj = new myBasicArrayObjectRTree(2, latlon);
+    storeObj->SetOID(oid.toInt());
 
-            logger.message("Started range query");
+    logger.message("Started range query");
 
-            myResultRTree * resultRTree = rtree->RangeQuery(storeObj, radius);
+    myResultRTree * resultRTree = rtree->RangeQuery(storeObj, radius);
 
-            logger.message("Finished range query");
+    logger.message("Finished range query");
 
 
 
-            QString retRows = QString::number(resultRTree->GetNumOfEntries());
+    QString retRows = QString::number(resultRTree->GetNumOfEntries());
 
-            logger.message("Num of rows " + retRows.toStdString());
+    logger.message("Num of rows " + retRows.toStdString());
 
-            delete resultRTree;
-            delete rtree;
-            delete pmR;
-            delete me;
-            logger.message("Before close");
-            closeConnection(db);
-            logger.message("After close");
-//            return retRows.toStdString().c_str();
-//        }
+    delete resultRTree;
+    delete rtree;
+    delete pmR;
+    delete me;
+}
 
-//    }else{
-//        logger.message(qsq.lastError().databaseText().toStdString());
-//        logger.message(qsq.lastError().text().toStdString());
-//    }
+compositeArray* _getCliFromStore(const char *storeGeom, double radius){
+    logger.message("METHOD getClientsFromStore");
+
+    QString oid = QString::number(storeId);
+    QString point = QString(storeGeom);
+    float *latlon = new float[2];
+    point.replace(QString("POINT("), QString(""));
+    point.replace(QString(")"), QString(""));
+    QStringList listLatLon = point.split(" ");
+    latlon[0] = listLatLon.at(0).toFloat();
+    latlon[1] = listLatLon.at(1).toFloat();
+
+    logger.message("Assembled query subject object");
+    myBasicMetricEvaluator *me = new myBasicMetricEvaluator();
+    stDiskPageManager *pmR = new stDiskPageManager(INDEX_FILE);
+    myRTree *rtree = new myRTree(pmR);
+    rtree->SetQueryMetricEvaluator(me);
+    rtree->GetQueryMetricEvaluator()->ResetStatistics();
+    rtree->GetPageManager()->ResetStatistics();
+
+    myBasicArrayObjectRTree *storeObj = new myBasicArrayObjectRTree(2, latlon);
+    storeObj->SetOID(oid.toInt());
+
+    logger.message("Started range query");
+
+    myResultRTree * resultRTree = rtree->RangeQuery(storeObj, radius);
+
+    logger.message("Finished range query");
+
+
+
+    QString retRows = QString::number(resultRTree->GetNumOfEntries());
+
+    logger.message("Num of rows " + retRows.toStdString());
+
+    delete resultRTree;
+    delete rtree;
+    delete pmR;
+    delete me;
+
+    logger.message("END # METHOD _getCliFromStore");
 }

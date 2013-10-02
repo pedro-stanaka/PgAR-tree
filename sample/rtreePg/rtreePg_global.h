@@ -9,4 +9,12 @@
 #  define RTREEPGSHARED_EXPORT Q_DECL_IMPORT
 #endif
 
+#define INDEX_FILE "/var/lib/postgresql/artree.dat"
+#define PAGE_SIZE  1024
+
+typedef struct {
+  char ** data;
+  int size;
+} compositeArray;
+
 #endif // RTREEPG_GLOBAL_H
