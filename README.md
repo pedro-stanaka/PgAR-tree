@@ -8,5 +8,5 @@ In order to access PostgreSQL data types the libraries from the source of the DB
 
 This project is the result of a Conclusion Course work presented to the State University of Londrina. The link to the article that describes the work done will be available here upon completion of it.
 
-![alt text](http://www.uel.br/cce/dc/site2/wp-content/uploads/header_dc_uel3.jpg "State University of Londrina & Computer Departament")
+![alt text](http://dl.dropboxusercontent.com/u/67445902/back-uel.jpg "State University of Londrina & Computer Departament")
 
