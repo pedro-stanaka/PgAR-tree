@@ -17,4 +17,9 @@ typedef struct {
   int size;
 } compositeArray;
 
+typedef struct {
+    int block;
+    int position;
+} tuplePtr;
+
 #endif // RTREEPG_GLOBAL_H

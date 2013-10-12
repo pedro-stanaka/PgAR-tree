@@ -1020,7 +1020,7 @@ void stRTree<DataType,OIDType>::AddNewRoot(basicArrayObject *mbrA, stPageID node
 }
 //------------------------------------------------------------------------------
 template <class DataType, class OIDType>
-stResult< stBasicArrayObject<DataType,OIDType> > * stRTree<DataType,OIDType>::NearestQuery(basicArrayObject * sample, stCount k, bool tie) {
+stResult< ByteOIDArrayObject<DataType> > * stRTree<DataType,OIDType>::NearestQuery(basicArrayObject * sample, stCount k, bool tie) {
     // Create the result
     tResult * result = new tResult();  // Create result
     result->SetQueryInfo(sample->Clone(), KNEARESTQUERY, k, MAXDOUBLE, tie);
@@ -1133,7 +1133,7 @@ void stRTree<DataType,OIDType>::NearestQuery(tResult * result, basicArrayObject 
 }
 //------------------------------------------------------------------------------
 template <class DataType, class OIDType>
-stResult< stBasicArrayObject<DataType,OIDType> > * stRTree<DataType,OIDType>::RangeQuery(basicArrayObject * sample, stDistance range) {
+stResult< ByteOIDArrayObject <DataType> > * stRTree<DataType,OIDType>::RangeQuery(basicArrayObject * sample, stDistance range) {
     // Create the result
     tResult * result = new tResult();
     result->SetQueryInfo(sample->Clone(), RANGEQUERY, -1, range, false);

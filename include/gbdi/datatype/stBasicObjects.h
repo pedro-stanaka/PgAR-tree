@@ -228,7 +228,7 @@ class stBasicArrayObject : public stObject{
                Size = n;
                OID = (OIDType *)TrueData;
                Data = (DataType *) (TrueData + sizeof(OIDType));
-               *OID = 0; // Set OID to 0.
+//               *OID = 0; // Set OID to 0.
             }//end else
          }//end if
       }//end SetSize

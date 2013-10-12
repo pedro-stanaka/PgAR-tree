@@ -10,6 +10,7 @@
 
 #include <gbdi/util/stUtil.h>
 #include <gbdi/datatype/stTypes.h>
+#include <gbdi/datatype/byteOIDArrayObject.h>
 #include <gbdi/arboretum/storage/stPageManager.h>
 #include <gbdi/util/stGenericPriorityQueue.h>
 #include <gbdi/arboretum/stResult.h>
@@ -93,7 +94,7 @@ class stRTree {
       /**
       * Defines the object to be indexed
       */
-      typedef stBasicArrayObject <DataType, OIDType> basicArrayObject;
+      typedef ByteOIDArrayObject <DataType> basicArrayObject;
 
       /**
       * This is the class that abstracs an result set for simple queries.
