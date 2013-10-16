@@ -142,14 +142,6 @@ extern "C"{
 
             // Assemble tuple descriptor, use TupleDesc or AttInMetadata
             if (get_call_result_type(fcinfo, NULL, &tpdesc) != TYPEFUNC_COMPOSITE) {
-                //char * msg = (char *) palloc(sizeof(char) * 40);
-                //sprintf(msg, "TP G: %d    TP E: %d",get_call_result_type(fcinfo, NULL, &tpdesc) ,TYPEFUNC_COMPOSITE);
-                //loginfo(msg);
-                //if(tpdesc != NULL && tpdesc->natts != NULL){
-                //    sprintf(msg, "NumAttrs: %d    OID: %d", tpdesc->natts);
-                //    loginfo(msg);
-                //}
-                //pfree((void*)msg);
                 ereport(ERROR,
                         (errcode(ERRCODE_FEATURE_NOT_SUPPORTED),
                          errmsg("Function returning record called in context that cannot accept type record")));
@@ -160,24 +152,6 @@ extern "C"{
                 stGeom =(char *) VARDATA(storeGeom);
                 allClients = _getCliFromStore(stGeom , (double) radius);
 
-//                int aux;
-//                                loginfo("  ##DEBUG1##   ");
-//                                for(aux = 0; aux < 10; aux++){
-//                                    loginfo(allClients->data[aux]);
-//                                }
-//                                loginfo("  ##END-DEBUG1##   ");
-                //char * msg = (char *) palloc(sizeof(char) * 40);
-                //sprintf(msg, "C-Size of array after call: %d", allClients->size);
-                //loginfo(msg);
-                //sprintf(msg, "Address->data   %p", allClients->data);
-                //loginfo(msg);
-                //sprintf(msg, "Address[0]   %p", &allClients->data[0]);
-                //loginfo(msg);
-                //pfree(msg);
-//                int id = 0;
-//                for (;id < 10; id++){
-//                    loginfo(allClients->data[id]);
-//                }
                 funcctx->user_fctx = (void *) allClients;
                 //TODO: Pesquisar se o allclients não vai ser liberado para re-uso de memória por outro processo
             }else{
@@ -204,34 +178,10 @@ extern "C"{
         // Each call setup
         funcctx = SRF_PERCALL_SETUP();
         allClients = (compositeArray*) funcctx->user_fctx;
-        //char * msga1 = (char *) palloc(sizeof(char) * 40);
-        //sprintf(msga1, "Address->data   %p", &allClients);
-        //loginfo(msga1);
-        //sprintf(msga1, "Address[0]   %p", (void *)(&allClients->data[funcctx->call_cntr]));
-        //loginfo(msga1);
-        //pfree(msga1);
-//        int aux;
-//                loginfo("  ##DEBUG##   ");
-//                for(aux = 0; aux < 10; aux++){
-//                    loginfo(allClients->data[aux]);
-//                }
-//                loginfo("  ##END-DEBUG##   ");
-
         attinmeta = funcctx->attinmeta;
 
-//        char * msg2 = (char*) palloc(sizeof(char) * 50);
-//        sprintf(msg2, "C-Size of array: %d of %d",funcctx->call_cntr,allClients->size);
-//        loginfo(msg2);
-//        sprintf(msg2, "srtlen: %d ", strlen(allClients->data[0]));
-//        loginfo(msg2);
-//        sprintf(msg2, "Cur TID: %s", allClients->data[0]);
-//        loginfo(msg2);
-//        pfree(msg2);
-        //        char val[1][sizeof(allClients->data[funcctx->call_cntr])];
         char** val;
 
-
-//        if( allClients->data[funcctx->call_cntr] != NULL && strlen(allClients->data[funcctx->call_cntr]) > 3 ){
             /* this is just one way we might test whether we are done: */
             if (funcctx->call_cntr <  allClients->size){ //allClients->size-1
 
@@ -239,28 +189,10 @@ extern "C"{
                 // Put here the code to return each position of the array
                 HeapTuple tuple;
 
-                //            loginfo(allClients->data[funcctx->call_cntr]);
-//                val = (char **) palloc (sizeof(char*));
-//                //            memcpy(val[0], allClients->data[funcctx->call_cntr], sizeof(allClients->data[funcctx->call_cntr]));
-//                val[0] = (char *) palloc(sizeof(char) * sizeof(allClients->data[funcctx->call_cntr]));
-//                val[0] = allClients->data[funcctx->call_cntr];
-                //            memcpy(val[0], allClients->data[funcctx->call_cntr], sizeof(allClients->data[funcctx->call_cntr])+1);
-
                 val = (char **) palloc(sizeof(char *));
                 val[0] = (char *) palloc(strlen(allClients->data[funcctx->call_cntr]) * sizeof(char) + 1);
-//                val[0] = (char *) palloc(strlen(allClients->data[0]) * sizeof(char) + 1);
 
                 memcpy(val[0], allClients->data[funcctx->call_cntr], strlen(allClients->data[funcctx->call_cntr])+1);
-//                memcpy(val[0], allClients->data[0], strlen(allClients->data[0])+1);
-//                val = (char *) palloc(strlen(allClients->data[funcctx->call_cntr]));
-//                val[0] = allClients->data[funcctx->call_cntr];
-
-                /* build a tuple */
-                //            tuple = heap_form_tuple(tpdesc, (Datum*)*val, nulls);
-
-                /* make the tuple into a datum */
-//                tuple = BuildTupleFromCStrings(attinmeta, val);
-
                 tuple = BuildTupleFromCStrings(attinmeta, val);
 
                 pfree(val[0]);
@@ -273,18 +205,12 @@ extern "C"{
             else
             {
                 /* Here we are done returning items and just need to clean up: */
-
-                //pfree(allClients->data); // TODO: discover if this will suffice to clean up the array.
-                //pfree(allClients);
-
                 loginfo("Cleaning variables");
                 freeCompositeArray(allClients);
                 loginfo("END PG_METHOD GETCLI");
                 loginfo("          ");
                 SRF_RETURN_DONE(funcctx);
             }
-//        }
-
 
     }// End -- getCliFromStore
 

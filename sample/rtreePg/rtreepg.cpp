@@ -44,8 +44,6 @@
 // R-tree declarations
 typedef ByteOIDArrayObject< float > myOIDArrayObjectRTree;
 typedef stEuclideanMetricEvaluator < float > myBasicMetricEvaluator;
-//typedef stBasicArrayObject <float, string> myBasicArrayObjectRTree;
-//typedef stResult < myBasicArrayObjectRTree > myResultRTree;
 typedef stResult < myOIDArrayObjectRTree > myResultRTree;
 typedef stRTree < float > myRTree; // the same types as myBasicArrayObjectRTree
 
@@ -86,10 +84,6 @@ bool closeConnection( QSqlDatabase db ){
 }
 
 double _createRtree(){
-    //    QString query = "SELECT c.id, c.ctid, ST_AsText(c.geoloc), sum(sa.sale_total)  ";
-    //    query += "FROM clients c JOIN sales sa ON c.id = sa.client_id, ibge_sectors i  ";
-    //    query += "WHERE ST_Contains(i.area_polyg, c.geoloc)  ";
-    //    query += "GROUP BY c.id LIMIT 100000;";
 
     QString query = "SELECT c.ctid, ST_AsText(c.geoloc)  ";
     query += "FROM clients c  ";
@@ -109,7 +103,7 @@ double _createRtree(){
     qsq.prepare(query);
 
     if (qsq.exec()) {
-        logger.message("Adding nodes to the rtree");
+
         // Rtree Instatiation
         myBasicMetricEvaluator *me = new myBasicMetricEvaluator();
         stDiskPageManager *pmR = new stDiskPageManager(INDEX_FILE, PAGE_SIZE);
@@ -117,9 +111,8 @@ double _createRtree(){
         rtree->SetQueryMetricEvaluator(me);
         rtree->SetSplitMethod(myRTree::smQUADRATIC); // smLINEAR, smQUADRATIC, smEXPONENTIAL
 
-//        myBasicArrayObjectRTree *aux = new myBasicArrayObjectRTree(2);
         myOIDArrayObjectRTree * aux;
-        logger.message("Adding nodes to the rtree 2");
+        logger.message("Adding nodes to the rtree");
         while (qsq.next() && qsq.isValid()) {
 
             QString oid = qsq.value(0).toString();
@@ -127,11 +120,6 @@ double _createRtree(){
             point.replace(QString("POINT("), QString(""));
             point.replace(QString(")"), QString(""));
             QStringList listLatLon = point.split(" ");
-//            aux->SetSize(2);
-//            aux->Set(0, listLatLon.at(0).toFloat());
-//            aux->Set(1, listLatLon.at(1).toFloat());
-//            aux->SetStrOID(oid.length()+1, (stByte*) oid.toStdString().c_str());
-//            logger.message("#TID: " + oid.toStdString());
             latlon[0] = listLatLon.at(0).toFloat();
             latlon[1] = listLatLon.at(1).toFloat();
             aux = new myOIDArrayObjectRTree(2, latlon, oid.length()+1, (stByte *) oid.toStdString().c_str());
@@ -208,7 +196,6 @@ compositeArray* _getCliFromStore(const char *storeGeom, double radius){
     latlon[0] = listLatLon.at(0).toFloat();
     latlon[1] = listLatLon.at(1).toFloat();
 
-//    logger.message("Assembled query subject object");
     myBasicMetricEvaluator *me = new myBasicMetricEvaluator();
     stDiskPageManager *pmR = new stDiskPageManager(INDEX_FILE);
     myRTree *rtree = new myRTree(pmR);
@@ -216,36 +203,12 @@ compositeArray* _getCliFromStore(const char *storeGeom, double radius){
     rtree->GetQueryMetricEvaluator()->ResetStatistics();
     rtree->GetPageManager()->ResetStatistics();
 
-//    myBasicArrayObjectRTree *storeObj = new myBasicArrayObjectRTree(2, latlon);
     myOIDArrayObjectRTree *storeObj = new myOIDArrayObjectRTree(2, latlon, 5, (stByte *) "store");
-//    storeObj->SetOID(string("(2,1)"));
 
     logger.message("Started range query");
 
     myResultRTree * resultRTree = rtree->RangeQuery(storeObj, radius);
 
-
-//    compositeArray* resultArray = (compositeArray*)  malloc(sizeof(compositeArray));
-//    resultArray->data = (char **) malloc(sizeof(char*) * resultRTree->GetNumOfEntries());
-//    QString resulSz = QString::number(resultRTree->GetNumOfEntries());
-//    logger.message("Number of entries in result: " + resulSz.toStdString());
-
-//    myOIDArrayObjectRTree *tmpobj;
-//    resultArray->size = 0;
-//    int i = 0;
-//    for (myResultRTree::tItePairs it = resultRTree->beginPairs(); it != resultRTree->endPairs(); ++it){
-//        tmpobj = (myOIDArrayObjectRTree *) (*it)->GetObject();
-//        if(tmpobj != NULL && tmpobj->GetStrOID() != NULL) {
-//            size_t len = strlen((const char *)tmpobj->GetStrOID());
-//            if(len > 3){ // At least empty tid '(,)'
-//                resultArray->data[i] = (char *) malloc(sizeof(char) * len);
-//                resultArray->data[i] = (char *) tmpobj->GetStrOID();
-//                logger.message(QString(resultArray->data[i]).toStdString() + "   #" + QString::number(i).toStdString());
-//                resultArray->size++;
-//                i++;
-//            }
-//        }
-//    }
     int resultBytesSize = 0;
     myOIDArrayObjectRTree *tmpobj;
     for (myResultRTree::tItePairs it = resultRTree->beginPairs(); it != resultRTree->endPairs(); ++it){
@@ -265,22 +228,10 @@ compositeArray* _getCliFromStore(const char *storeGeom, double radius){
         tmpobj = (myOIDArrayObjectRTree *) (*it)->GetObject();
         resultArray->data[i] = new char[tmpobj->GetStrOIDSize()];
         memcpy(resultArray->data[i], tmpobj->GetStrOID(), tmpobj->GetStrOIDSize());
-        //logger.message(QString(resultArray->data[i]).toStdString() + "   #" + QString::number(i).toStdString());
         i++;
     }
 
     logger.message("Finished range query");
-
-//    QString retRows = QString::number( resultRTree->GetNumOfEntries() );
-//    logger.message( "Num of rows " + retRows.toStdString() + "  " + QString::number(resultArray->size).toStdString());
-
-//    delete tmpobj;
-
-    //buffer << "Address->data   " << &resultArray;
-    //logger.message(buffer.str());
-    //buffer.str("");
-    //buffer << "Address->data[0]  " << (void *)(&resultArray->data[0]);
-    //logger.message(buffer.str());
 
 
     delete resultRTree;
