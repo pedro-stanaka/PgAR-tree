@@ -265,7 +265,7 @@ compositeArray* _getCliFromStore(const char *storeGeom, double radius){
         tmpobj = (myOIDArrayObjectRTree *) (*it)->GetObject();
         resultArray->data[i] = new char[tmpobj->GetStrOIDSize()];
         memcpy(resultArray->data[i], tmpobj->GetStrOID(), tmpobj->GetStrOIDSize());
-        logger.message(QString(resultArray->data[i]).toStdString() + "   #" + QString::number(i).toStdString());
+        //logger.message(QString(resultArray->data[i]).toStdString() + "   #" + QString::number(i).toStdString());
         i++;
     }
 
@@ -276,11 +276,11 @@ compositeArray* _getCliFromStore(const char *storeGeom, double radius){
 
 //    delete tmpobj;
 
-    buffer << "Address->data   " << &resultArray;
-    logger.message(buffer.str());
-    buffer.str("");
-    buffer << "Address->data[0]  " << (void *)(&resultArray->data[0]);
-    logger.message(buffer.str());
+    //buffer << "Address->data   " << &resultArray;
+    //logger.message(buffer.str());
+    //buffer.str("");
+    //buffer << "Address->data[0]  " << (void *)(&resultArray->data[0]);
+    //logger.message(buffer.str());
 
 
     delete resultRTree;

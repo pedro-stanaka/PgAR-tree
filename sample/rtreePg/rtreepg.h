@@ -17,6 +17,7 @@ extern "C"{
     #include "executor/executor.h"  /* for GetAttributeByName() */
     #include "utils/builtins.h"
     #include "storage/itemptr.h"
+    #include "utils.h"
     #include <stdlib.h>
     #include <stdio.h>
 
@@ -39,50 +40,18 @@ extern "C"{
     // Logger C bridge
     void loginfo(const char *);
 
-
-
     /**
-            *CREATE FUNCTION c_overpaid(emp, integer) RETURNS boolean
-            *   AS 'DIRECTORY/funcs', 'c_overpaid'
-            *   LANGUAGE C STRICT;
-            *
-            * Example got from PG docs:
-            *   http://www.postgresql.org/docs/9.1/static/sql-createfunction.html
-            */
-
-    PG_FUNCTION_INFO_V1(c_overpaid);
-    Datum
-    c_overpaid(PG_FUNCTION_ARGS)
-    {
-        HeapTupleHeader  t = PG_GETARG_HEAPTUPLEHEADER(0);
-        int32            limit = PG_GETARG_INT32(1);
-        bool isnull;
-        Datum salary;
-
-        salary = GetAttributeByName(t, "salary", &isnull);
-        if (isnull) {
-            PG_RETURN_BOOL(false);
-        }
-        /**
-                 * Alternatively, we might prefer to do PG_RETURN_NULL() for null salary.
-                 **/
-
-        PG_RETURN_BOOL(DatumGetInt32(salary) > limit);
-    }
-
-
-    /**
-                CREATE OR REPLACE FUNCTION createRtree()
-                    RETURNS INT AS
-                    '/usr/lib/librtreePg.so', 'createRtree'
-                    LANGUAGE C STRICT;
+      -- CREATE STATEMENT
+    CREATE OR REPLACE FUNCTION createRtree()
+        RETURNS VOID AS
+        '/usr/lib/librtreePg.so', 'createRtree'
+        LANGUAGE C STRICT;
               */
     PG_FUNCTION_INFO_V1(createRtree);
 
     Datum createRtree(PG_FUNCTION_ARGS){
         elog(NOTICE, "Creating rtree... \n");
-        int8 tmp = 0;
-        tmp =(int8) _createRtree();
+        _createRtree();
         elog(NOTICE, "DONE! Creating rtree... \n");
     }
 
@@ -173,14 +142,14 @@ extern "C"{
 
             // Assemble tuple descriptor, use TupleDesc or AttInMetadata
             if (get_call_result_type(fcinfo, NULL, &tpdesc) != TYPEFUNC_COMPOSITE) {
-                char * msg = (char *) palloc(sizeof(char) * 40);
-                sprintf(msg, "TP G: %d    TP E: %d",get_call_result_type(fcinfo, NULL, &tpdesc) ,TYPEFUNC_COMPOSITE);
-                loginfo(msg);
-                if(tpdesc != NULL && tpdesc->natts != NULL){
-                    sprintf(msg, "NumAttrs: %d    OID: %d", tpdesc->natts);
-                    loginfo(msg);
-                }
-                pfree((void*)msg);
+                //char * msg = (char *) palloc(sizeof(char) * 40);
+                //sprintf(msg, "TP G: %d    TP E: %d",get_call_result_type(fcinfo, NULL, &tpdesc) ,TYPEFUNC_COMPOSITE);
+                //loginfo(msg);
+                //if(tpdesc != NULL && tpdesc->natts != NULL){
+                //    sprintf(msg, "NumAttrs: %d    OID: %d", tpdesc->natts);
+                //    loginfo(msg);
+                //}
+                //pfree((void*)msg);
                 ereport(ERROR,
                         (errcode(ERRCODE_FEATURE_NOT_SUPPORTED),
                          errmsg("Function returning record called in context that cannot accept type record")));
@@ -197,14 +166,14 @@ extern "C"{
 //                                    loginfo(allClients->data[aux]);
 //                                }
 //                                loginfo("  ##END-DEBUG1##   ");
-                char * msg = (char *) palloc(sizeof(char) * 40);
-                sprintf(msg, "C-Size of array after call: %d", allClients->size);
-                loginfo(msg);
-                sprintf(msg, "Address->data   %p", allClients->data);
-                loginfo(msg);
-                sprintf(msg, "Address[0]   %p", &allClients->data[0]);
-                loginfo(msg);
-                pfree(msg);
+                //char * msg = (char *) palloc(sizeof(char) * 40);
+                //sprintf(msg, "C-Size of array after call: %d", allClients->size);
+                //loginfo(msg);
+                //sprintf(msg, "Address->data   %p", allClients->data);
+                //loginfo(msg);
+                //sprintf(msg, "Address[0]   %p", &allClients->data[0]);
+                //loginfo(msg);
+                //pfree(msg);
 //                int id = 0;
 //                for (;id < 10; id++){
 //                    loginfo(allClients->data[id]);
@@ -235,12 +204,12 @@ extern "C"{
         // Each call setup
         funcctx = SRF_PERCALL_SETUP();
         allClients = (compositeArray*) funcctx->user_fctx;
-        char * msga1 = (char *) palloc(sizeof(char) * 40);
-        sprintf(msga1, "Address->data   %p", &allClients);
-        loginfo(msga1);
-        sprintf(msga1, "Address[0]   %p", (void *)(&allClients->data[funcctx->call_cntr]));
-        loginfo(msga1);
-        pfree(msga1);
+        //char * msga1 = (char *) palloc(sizeof(char) * 40);
+        //sprintf(msga1, "Address->data   %p", &allClients);
+        //loginfo(msga1);
+        //sprintf(msga1, "Address[0]   %p", (void *)(&allClients->data[funcctx->call_cntr]));
+        //loginfo(msga1);
+        //pfree(msga1);
 //        int aux;
 //                loginfo("  ##DEBUG##   ");
 //                for(aux = 0; aux < 10; aux++){
@@ -304,8 +273,12 @@ extern "C"{
             else
             {
                 /* Here we are done returning items and just need to clean up: */
-                // Limpar o allClients
 
+                //pfree(allClients->data); // TODO: discover if this will suffice to clean up the array.
+                //pfree(allClients);
+
+                loginfo("Cleaning variables");
+                freeCompositeArray(allClients);
                 loginfo("END PG_METHOD GETCLI");
                 loginfo("          ");
                 SRF_RETURN_DONE(funcctx);
