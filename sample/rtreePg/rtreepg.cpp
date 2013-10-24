@@ -44,6 +44,7 @@
 // R-tree declarations
 typedef ByteOIDArrayObject< float > myOIDArrayObjectRTree;
 typedef stEuclideanMetricEvaluator < float > myBasicMetricEvaluator;
+typedef stManhatanMetricEvaluator< float > myBasicMetricEvaluator2;
 typedef stResult < myOIDArrayObjectRTree > myResultRTree;
 typedef stRTree < float > myRTree; // the same types as myBasicArrayObjectRTree
 
@@ -83,11 +84,16 @@ bool closeConnection( QSqlDatabase db ){
     db.close();
 }
 
+
+/**
+  * This function is a C++ wrapper to access R*-Tree from Arboretum Libraries.
+  * For more info:
+  * @see createRtree
+  */
 double _createRtree(){
 
     QString query = "SELECT c.ctid, ST_AsText(c.geoloc)  ";
-    query += "FROM clients c  ";
-    query += "WHERE geoloc IS NOT NULL;";
+    query += "FROM clients c;";
     float *latlon = new float[2];
 
 
@@ -111,8 +117,10 @@ double _createRtree(){
         rtree->SetQueryMetricEvaluator(me);
         rtree->SetSplitMethod(myRTree::smQUADRATIC); // smLINEAR, smQUADRATIC, smEXPONENTIAL
 
+        logger.message("Number of entries: " + QString::number(qsq.numRowsAffected()).toStdString());
         myOIDArrayObjectRTree * aux;
         logger.message("Adding nodes to the rtree");
+        int i = 0;
         while (qsq.next() && qsq.isValid()) {
 
             QString oid = qsq.value(0).toString();
@@ -124,6 +132,10 @@ double _createRtree(){
             latlon[1] = listLatLon.at(1).toFloat();
             aux = new myOIDArrayObjectRTree(2, latlon, oid.length()+1, (stByte *) oid.toStdString().c_str());
             rtree->Add(aux);
+
+            if( ++i % (qsq.numRowsAffected()/10) == 0){
+                logger.message("Processed " + QString::number(i).toStdString() + " entries.");
+            }
         }
         logger.message("DONE! Adding nodes to the rtree");
 
@@ -164,7 +176,6 @@ void _getClientsFromStore(const char* storeGeom, double radius, int storeId = NU
     rtree->GetQueryMetricEvaluator()->ResetStatistics();
     rtree->GetPageManager()->ResetStatistics();
 
-//    myBasicArrayObjectRTree *storeObj = new myBasicArrayObjectRTree(2, latlon);
     myOIDArrayObjectRTree *storeObj = new myOIDArrayObjectRTree(2, latlon); //, 5, (stByte *) "store"
 
     logger.message("Started range query");
@@ -207,7 +218,11 @@ compositeArray* _getCliFromStore(const char *storeGeom, double radius){
 
     logger.message("Started range query");
 
+
     myResultRTree * resultRTree = rtree->RangeQuery(storeObj, radius);
+
+
+    logger.message("Number of entries retrieved: " + QString::number(resultRTree->GetNumOfEntries()).toStdString());
 
     int resultBytesSize = 0;
     myOIDArrayObjectRTree *tmpobj;
@@ -219,8 +234,6 @@ compositeArray* _getCliFromStore(const char *storeGeom, double radius){
     compositeArray *resultArray = new compositeArray();
     resultArray->size = resultRTree->GetNumOfEntries();
     resultArray->data = new char*[resultArray->size];
-    stringstream buffer;
-
 
 
     int i = 0;
@@ -228,6 +241,7 @@ compositeArray* _getCliFromStore(const char *storeGeom, double radius){
         tmpobj = (myOIDArrayObjectRTree *) (*it)->GetObject();
         resultArray->data[i] = new char[tmpobj->GetStrOIDSize()];
         memcpy(resultArray->data[i], tmpobj->GetStrOID(), tmpobj->GetStrOIDSize());
+        logger.message("Distance #" + QString::number(i).toStdString()+ ":  " + QString::number((*it)->GetKey(), 'g', 15).toStdString());
         i++;
     }
 
@@ -242,4 +256,4 @@ compositeArray* _getCliFromStore(const char *storeGeom, double radius){
     logger.message("END # METHOD _getCliFromStore");
 
     return resultArray;
-}
+} // End -- _getCliFromStore

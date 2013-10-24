@@ -25,7 +25,8 @@ INCLUDEPATH += /usr/include/qt4 /home/pedro/NetBeansProjects/rtreePgIndex/src /h
 INCLUDEPATH += /home/pedro/NetBeansProjects/rtreePgIndex/include/gbdi
 INCLUDEPATH += /usr/include/postgresql/9.1/server/
 
-QMAKE_CXXFLAGS_RELEASE +=-fpic -shared
+#QMAKE_CXXFLAGS_RELEASE +=-fpic -shared -fno-exceptions
+#QMAKE_CXXFLAGS_DEBUG +=-fpic -shared -fno-exceptions
 
 symbian {
     MMP_RULES += EXPORTUNFROZEN

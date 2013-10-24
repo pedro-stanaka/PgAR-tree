@@ -67,7 +67,6 @@ extern "C"{
              *
              */
     PG_FUNCTION_INFO_V1(getClientsFromStore);
-
     void getClientsFromStore(PG_FUNCTION_ARGS){
 
         // Get Text field
@@ -89,22 +88,26 @@ extern "C"{
 
 
     /**
-          *
-          Return ctid's from this function
 
-            ### PG Statement creation
-            CREATE OR REPLACE FUNCTION getCliFromStore (TEXT, DOUBLE PRECISION)
-            RETURNS TABLE(ctid tid) AS
-            '/usr/lib/librtreePg', 'getCliFromStore'
-            LANGUAGE C STRICT;
+      Return ctid's from this function
+
+        CREATE TYPE __myTid AS (mytid tid);
+
+        -- ### PG Statement creation
+        CREATE OR REPLACE FUNCTION getCliFromStore (TEXT, DOUBLE PRECISION)
+        RETURNS SETOF __myTid AS
+        '/usr/lib/librtreePg', 'getCliFromStore'
+        LANGUAGE C STRICT;
 
 
-            Get result from function:
+
+        -- Get result from function:
+        SELECT *
+        FROM clients
+        WHERE ctid IN (
             SELECT *
-            FROM clients
-            WHERE ctid IN (
-                SELECT *
-                FROM getCliFromStore((SELECT ST_AsText(geom) FROM stores WHERE id = 472), 1.2));
+            FROM getCliFromStore((SELECT ST_AsText(geom) FROM stores WHERE id = 472), 1.2)
+        );
           */
 
     PG_FUNCTION_INFO_V1(getCliFromStore);
@@ -212,7 +215,7 @@ extern "C"{
                 SRF_RETURN_DONE(funcctx);
             }
 
-    }// End -- getCliFromStore
+    } // End -- getCliFromStore
 
 }// EXTERN "C"
 
